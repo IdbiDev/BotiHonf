@@ -1,0 +1,158 @@
+{
+    "theme": "Közlekedés, járművek",
+    "questions": [
+        {
+            "question": "Milyen autómárka a Ferrari?",
+            "answers": [
+                "olasz",
+                "német",
+                "angol"
+            ],
+            "correct_answer": "olasz"
+        },
+        {
+            "question": "Milyen jármű a csámesz?",
+            "answers": [
+                "vízi",
+                "légi",
+                "vasúti"
+            ],
+            "correct_answer": "vízi"
+        },
+        {
+            "question": "Melyik főzelékbe kell babérlevelet rakni?",
+            "answers": [
+                "krumpli",
+                "tök",
+                "zöldbab"
+            ],
+            "correct_answer": "krumpli"
+        },
+        {
+            "question": "A Budapesti Fogaskerekű Vasút hányas jelzésű villamos formálisan?",
+            "answers": [
+                "60-as",
+                "13-as",
+                "75-ös"
+            ],
+            "correct_answer": "60-as"
+        },
+        {
+            "question": "Hány km hosszú a Kisföldalatti Vasút?",
+            "answers": [
+                "4,4 km",
+                "10,4 km",
+                "5,6 km"
+            ],
+            "correct_answer": "4,4 km"
+        },
+        {
+            "question": "Mi volt a beceneve a Ford T-modell-nek?",
+            "answers": [
+                "Bádog Böske",
+                "Bádog Marcsa",
+                "Ford Fanni"
+            ],
+            "correct_answer": "Bádog Böske"
+        },
+        {
+            "question": "Hány vonallal üzemel a sanghaji metró?",
+            "answers": [
+                "14",
+                "8",
+                "12"
+            ],
+            "correct_answer": "14"
+        },
+        {
+            "question": "Milyen hosszú a Budapesti Fogaskerekű Vasút útvonala?",
+            "answers": [
+                "3,7 km",
+                "4,5 km",
+                "4,8 km"
+            ],
+            "correct_answer": "3,7 km"
+        },
+        {
+            "question": "Hány állomása van a M4-es metróvonalnak?",
+            "answers": [
+                "10",
+                "15",
+                "12"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Mikor indult meg Budapesten a menetrend szerinti autóbuszközlekedés?",
+            "answers": [
+                "1915.március 1-én",
+                "1936.március 1-én",
+                "1923.március 1-én"
+            ],
+            "correct_answer": "1915.március 1-én"
+        },
+        {
+            "question": "Hova nem közlekedik HÉV?",
+            "answers": [
+                "Esztergomba",
+                "Szentendrére",
+                "Csepelre"
+            ],
+            "correct_answer": "Esztergomba"
+        },
+        {
+            "question": "Mi volt az Orient expressz?",
+            "answers": [
+                "luxusvonat",
+                "luxushajó",
+                "űrszonda"
+            ],
+            "correct_answer": "luxusvonat"
+        },
+        {
+            "question": "Milyen hajó egy budapesti koncert és étteremhajó neve?",
+            "answers": [
+                "A38-as",
+                "B29-es",
+                "G45-ös"
+            ],
+            "correct_answer": "A38-as"
+        },
+        {
+            "question": "Melyik két szín alkotja a KRESZ-ben a \"Megállni tilos\" táblát?",
+            "answers": [
+                "kék és piros",
+                "sárga és fekete",
+                "kék és fehér"
+            ],
+            "correct_answer": "kék és piros"
+        },
+        {
+            "question": "Milyen verseny a regatta?",
+            "answers": [
+                "evezős-és vitorlásverseny",
+                "vitorlázó repülőgép",
+                "autóverseny"
+            ],
+            "correct_answer": "evezős-és vitorlásverseny"
+        },
+        {
+            "question": "Milyen színű a főútvonal KRESZ tábla?",
+            "answers": [
+                "sárga",
+                "zöld",
+                "piros"
+            ],
+            "correct_answer": "sárga"
+        },
+        {
+            "question": "Kinek a nevét viseli a budapesti nemzetközi repülőtér?",
+            "answers": [
+                "Liszt Ferenc",
+                "Széchenyi István",
+                "Petőfi Sándor"
+            ],
+            "correct_answer": "Liszt Ferenc"
+        }
+    ]
+}

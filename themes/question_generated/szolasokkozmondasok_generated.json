@@ -1,0 +1,284 @@
+{
+    "theme": "Szólások - közmondások",
+    "questions": [
+        {
+            "question": "Mi a befejezése a közmondásnak? Ha rövid a kardod,...",
+            "answers": [
+                "told meg egy lépéssel",
+                "cseréld hosszúra",
+                "told meg egy másikkal"
+            ],
+            "correct_answer": "told meg egy lépéssel"
+        },
+        {
+            "question": "Hogyan fejeződik be a közmondás? Késő bánat...",
+            "answers": [
+                "ebgondolat",
+                "a kutyafádat",
+                "holnapra elmúlik"
+            ],
+            "correct_answer": "ebgondolat"
+        },
+        {
+            "question": "Mi rossz tanácsadó a közmondás szerint?",
+            "answers": [
+                "harang",
+                "harag",
+                "szomszéd"
+            ],
+            "correct_answer": "harag"
+        },
+        {
+            "question": "Mibe nem üt a mennykő a közmondás szerint?",
+            "answers": [
+                "csalánba",
+                "bokorba",
+                "nyírfába"
+            ],
+            "correct_answer": "csalánba"
+        },
+        {
+            "question": "Mi van annak a fején aki bűnös, a közmondás szerint?",
+            "answers": [
+                "vaj",
+                "tej",
+                "sapka"
+            ],
+            "correct_answer": "vaj"
+        },
+        {
+            "question": "Ki korán kel, mit lel a közmondás szerint?",
+            "answers": [
+                "gyémántot",
+                "aranyat",
+                "barátot"
+            ],
+            "correct_answer": "aranyat"
+        },
+        {
+            "question": "Hogyan folytatódik a közmondás? Több nap, mint.......",
+            "answers": [
+                "kolbász",
+                "szalonna",
+                "éjszaka"
+            ],
+            "correct_answer": "kolbász"
+        },
+        {
+            "question": "Milyét ne nézd az ajándék lónak a közmondás szerint?",
+            "answers": [
+                "a patáját",
+                "a fogát",
+                "a sörényét"
+            ],
+            "correct_answer": "a fogát"
+        },
+        {
+            "question": "Mit jelent magyarul a Dies diem docet-latin közmondás?",
+            "answers": [
+                "Nap napot tanít.",
+                "Pap papot tanít.",
+                "Amíg élek, remélek."
+            ],
+            "correct_answer": "Nap napot tanít."
+        },
+        {
+            "question": "Folytasd a közmondást: Éhes disznó.......",
+            "answers": [
+                "makkal álmodik.",
+                "mindent felfal.",
+                "nem vén disznó."
+            ],
+            "correct_answer": "makkal álmodik."
+        },
+        {
+            "question": "Mit jelent a Carpe diem! latin közmondás?",
+            "answers": [
+                "Élj a mának!",
+                "Amíg élek, remélek.",
+                "Ne ítélj, hogy ne ítéltess!"
+            ],
+            "correct_answer": "Élj a mának!"
+        },
+        {
+            "question": "Mit jelent a \"Do ut des!\" latin közmondás?",
+            "answers": [
+                "Adok, hogy adj!",
+                "Amíg élek, remélek!",
+                "Borban az igazság."
+            ],
+            "correct_answer": "Adok, hogy adj!"
+        },
+        {
+            "question": "Mit jelent az Ab ovo, latin közmondás?",
+            "answers": [
+                "Elejétől a végéig.",
+                "Tűzből tüzet.",
+                "Tetőtől talpig."
+            ],
+            "correct_answer": "Elejétől a végéig."
+        },
+        {
+            "question": "Mit jelent a latin közmondás: Acta est fabula?",
+            "answers": [
+                "A játéknak vége.",
+                "Az arany középút.",
+                "A sas nem vadászik legyekre."
+            ],
+            "correct_answer": "A játéknak vége."
+        },
+        {
+            "question": "Mit jelent a latin közmondás: In vino veritas?",
+            "answers": [
+                "Borban az igazság.",
+                "Fiatalság bolondság.",
+                "Fából vaskarika."
+            ],
+            "correct_answer": "Borban az igazság."
+        },
+        {
+            "question": "Mit terem a türelem a közmondás szerint?",
+            "answers": [
+                "rózsát",
+                "almát",
+                "nyulat"
+            ],
+            "correct_answer": "rózsát"
+        },
+        {
+            "question": "Mit jelent a latin közmondás: Alea iacta est?",
+            "answers": [
+                "A kocka el van vetve.",
+                "Az arany középút.",
+                "Gondolkodom, tehát vagyok."
+            ],
+            "correct_answer": "A kocka el van vetve."
+        },
+        {
+            "question": "Folytasd a mondást: \"Sándor, József, Benedek,...",
+            "answers": [
+                "zsákban hozzák a meleget\".",
+                "kiűzik a hideget\".",
+                "sose lesznek betegek\"."
+            ],
+            "correct_answer": "zsákban hozzák a meleget\"."
+        },
+        {
+            "question": "Hogy folytatódik a közmondás? \"Mindenki a maga szerencséjének a...\"",
+            "answers": [
+                "kovácsa",
+                "pogácsa",
+                "elrontója"
+            ],
+            "correct_answer": "kovácsa"
+        },
+        {
+            "question": "Hogy folytatódik a közmondás?\" Ki mint vet,... \"",
+            "answers": [
+                "úgy arat.",
+                "úgymarad.",
+                "úgy halad."
+            ],
+            "correct_answer": "úgy arat."
+        },
+        {
+            "question": "Hogyan folytatódik a közmondás? \"Éhes disznó.......\"",
+            "answers": [
+                "makkal álmodik.",
+                "mindent felfal.",
+                "nem vén disznó."
+            ],
+            "correct_answer": "makkal álmodik."
+        },
+        {
+            "question": "Hogy folytatódik a közmondás?\" Aki másnak vermet ás......\"",
+            "answers": [
+                "maga esik bele.",
+                "sose esik bele.",
+                "az magának is kitudja ásni."
+            ],
+            "correct_answer": "maga esik bele."
+        },
+        {
+            "question": "Mit jelent a Carpe diem! latin közmondás?",
+            "answers": [
+                "Élj a mának!",
+                "Amíg élek, remélek.",
+                "Ne ítélj, hogy ne ítéltess!"
+            ],
+            "correct_answer": "Élj a mának!"
+        },
+        {
+            "question": "Hogy folytatódik a közmondás? \"A tiltott gyümölcs....\"",
+            "answers": [
+                "a legédesebb",
+                "a legrosszabb",
+                "nem ehető"
+            ],
+            "correct_answer": "a legédesebb"
+        },
+        {
+            "question": "Milyét ne nézd az ajándék lónak a közmondás szerint?",
+            "answers": [
+                "a fogát",
+                "a patáját",
+                "a sörényét"
+            ],
+            "correct_answer": "a fogát"
+        },
+        {
+            "question": "Hogy folytatódik a latin közmondás \"Amíg élek....\"?",
+            "answers": [
+                "remélek",
+                "beszélek",
+                "zenélek"
+            ],
+            "correct_answer": "remélek"
+        },
+        {
+            "question": "Ki mondta:\" Gondolkodom, tehát vagyok.\"?",
+            "answers": [
+                "Descartes",
+                "Voltaire",
+                "Goethe"
+            ],
+            "correct_answer": "Descartes"
+        },
+        {
+            "question": "Mit jelent a latin közmondás: In vino veritas?",
+            "answers": [
+                "Borban az igazság",
+                "Fiatalság bolondság",
+                "Fából vaskarika"
+            ],
+            "correct_answer": "Borban az igazság"
+        },
+        {
+            "question": "Hogy folytatódik a latin közmondás \"Aki időt nyer...\"?",
+            "answers": [
+                "életet nyer",
+                "éveket nyer",
+                "életet mer"
+            ],
+            "correct_answer": "életet nyer"
+        },
+        {
+            "question": "Folytasd a nyelvtörőt: \" Sárga bögre.....\"?",
+            "answers": [
+                "görbe bögre",
+                "görbe törpe",
+                "spárga sörbe"
+            ],
+            "correct_answer": "görbe bögre"
+        },
+        {
+            "question": "Hogy folytatódik a közmondás: \"Kutyából nem lesz......\"?",
+            "answers": [
+                "szalonna",
+                "pizsama",
+                "csatorna"
+            ],
+            "correct_answer": "szalonna"
+        }
+    ]
+}

@@ -1,0 +1,1472 @@
+{
+    "theme": "Tv sorozatok",
+    "questions": [
+        {
+            "question": "Mikor lett vége a Szomszédok c. teleregénynek?",
+            "answers": [
+                "1999",
+                "1998",
+                "1997"
+            ],
+            "correct_answer": "1999"
+        },
+        {
+            "question": "Hogy hívják Aladár kutyáját a Mézga családban?",
+            "answers": [
+                "Blöki",
+                "Marcipán",
+                "Pimpa"
+            ],
+            "correct_answer": "Blöki"
+        },
+        {
+            "question": "Hol játszódik a Thomas a gőzmozdony c. rajzfilmsorozat?",
+            "answers": [
+                "Sodor szigetén",
+                "a Futrinka utcában",
+                "Kakukkiában"
+            ],
+            "correct_answer": "Sodor szigetén"
+        },
+        {
+            "question": "Ki nyerte a 2016-os Nagy Duettet?",
+            "answers": [
+                "Péter-Szabó Szilvia és Pachmann Péter",
+                "Fésűs Nelly és Berki Krisztián",
+                "Kulcsár Edina és Hevesi Tamás"
+            ],
+            "correct_answer": "Péter-Szabó Szilvia és Pachmann Péter"
+        },
+        {
+            "question": "Ki nyerte a Kismenők c. gyerek-tehetségkutató műsort?",
+            "answers": [
+                "Szabó Bence",
+                "Szlavkovszki Zsolti",
+                "Luppinger Attila"
+            ],
+            "correct_answer": "Szabó Bence"
+        },
+        {
+            "question": "Ki volt a főszereplője a Homok titkai c. brazil sorozatnak?",
+            "answers": [
+                "Gloria Pirez",
+                "Gabriela Spanic",
+                "Helena Rojo"
+            ],
+            "correct_answer": "Gloria Pirez"
+        },
+        {
+            "question": "Ki játssza Berényi Attila szerepét a Barátok köztben?",
+            "answers": [
+                "Domokos László",
+                "Seprenyi László",
+                "Józan László"
+            ],
+            "correct_answer": "Domokos László"
+        },
+        {
+            "question": "Ki játszotta Etus szerepét a Szomszédok c. teleregényben?",
+            "answers": [
+                "Csűrös Karola",
+                "Komlós Juci",
+                "Pásztor Erzsi"
+            ],
+            "correct_answer": "Csűrös Karola"
+        },
+        {
+            "question": "Mikor vetítették Magyarországon a Dallas c. sorozatot?",
+            "answers": [
+                "1990-1997",
+                "1992-1999",
+                "1991-2000"
+            ],
+            "correct_answer": "1990-1997"
+        },
+        {
+            "question": "Ki játssza Vili bácsi szerepét a Barátok köztben?",
+            "answers": [
+                "Szőke Zoltán",
+                "Várkonyi András",
+                "R. Kárpáti Péter"
+            ],
+            "correct_answer": "Várkonyi András"
+        },
+        {
+            "question": "Milyen fajta kutya volt Frakk, a rajzfilmben?",
+            "answers": [
+                "német juhász",
+                "mopsz",
+                "magyar vizsla"
+            ],
+            "correct_answer": "magyar vizsla"
+        },
+        {
+            "question": "Ki nyerte a Sztárban sztár második évadát?",
+            "answers": [
+                "Pál Dénes",
+                "Bereczki Zoltán",
+                "Gáspár Laci"
+            ],
+            "correct_answer": "Pál Dénes"
+        },
+        {
+            "question": "Mi volt az X-akták szállóigéje?",
+            "answers": [
+                "Az igazság odaát van.",
+                "A segítség odaát van.",
+                "A szabadság odaát van."
+            ],
+            "correct_answer": "Az igazság odaát van."
+        },
+        {
+            "question": "Ki nyerte a Csillag születik 3. évadát?",
+            "answers": [
+                "László Attila",
+                "Tabáni István",
+                "Brasch Bence"
+            ],
+            "correct_answer": "László Attila"
+        },
+        {
+            "question": "A Kisváros c. magyar filmsorozatban ki játszotta Hunyadi hadnagy szerepét?",
+            "answers": [
+                "Hollósi Frigyes",
+                "Lux Ádám",
+                "Usztics Mátyás"
+            ],
+            "correct_answer": "Usztics Mátyás"
+        },
+        {
+            "question": "Hányadik részéhez ért ma a Barátok közt c. sorozat?",
+            "answers": [
+                "8000",
+                "5000",
+                "6000"
+            ],
+            "correct_answer": "8000"
+        },
+        {
+            "question": "Melyik sorozatban játszik Peter Dinklage?",
+            "answers": [
+                "Vámpírnaplók",
+                "Trónok harca",
+                "A mentalista"
+            ],
+            "correct_answer": "Trónok harca"
+        },
+        {
+            "question": "Melyik laktanya életét mutatta be az Angyalbőrben c. sorozat?",
+            "answers": [
+                "csobánkai",
+                "vasbogdányi",
+                "szigligeti"
+            ],
+            "correct_answer": "vasbogdányi"
+        },
+        {
+            "question": "Ki volt a Sztárban Sztár első évadának műsorvezetője?",
+            "answers": [
+                "Majka",
+                "Till Attila",
+                "Friderikusz Sándor"
+            ],
+            "correct_answer": "Friderikusz Sándor"
+        },
+        {
+            "question": "Mikor volt az első Táncdalfesztivál?",
+            "answers": [
+                "1972-ben",
+                "1966-ban",
+                "1960-ban"
+            ],
+            "correct_answer": "1966-ban"
+        },
+        {
+            "question": "A Megasztár hanyadik szériájának győztese volt Rúzsa Magdi?",
+            "answers": [
+                "harmadik",
+                "második",
+                "negyedik"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Melyik nem csehszlovák sorozat volt?",
+            "answers": [
+                "Kórház a város szélén",
+                "Klinika",
+                "Mentők"
+            ],
+            "correct_answer": "Klinika"
+        },
+        {
+            "question": "Hány évada volt a Jóbarátok c. amerikai sorozatnak?",
+            "answers": [
+                "10",
+                "8",
+                "6"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Melyik amerikai város helyszínelőiről szól a CSI: A helyszínelők c. sorozat?",
+            "answers": [
+                "Los Angeles",
+                "Las Vegas",
+                "Boston"
+            ],
+            "correct_answer": "Las Vegas"
+        },
+        {
+            "question": "Hány évada van a Gyilkos sorok c. sorozatnak?",
+            "answers": [
+                "12",
+                "8",
+                "16"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Mióta látható a Castle c. sorozat Magyarországon?",
+            "answers": [
+                "2010",
+                "2011",
+                "2012"
+            ],
+            "correct_answer": "2010"
+        },
+        {
+            "question": "Mi írányítja az életét Sheldon Coopernek, az Agymenők c. sorozatban?",
+            "answers": [
+                "a sport",
+                "a szerelem",
+                "a logika"
+            ],
+            "correct_answer": "a logika"
+        },
+        {
+            "question": "Melyik sorozatban szerepelt Gyurta Dániel?",
+            "answers": [
+                "Barátok közt",
+                "Szomszédok",
+                "Éjjel-Nappal Budapest"
+            ],
+            "correct_answer": "Barátok közt"
+        },
+        {
+            "question": "Melyik család életét mutatja be a Dallas c. amerikai sorozat?",
+            "answers": [
+                "Ewing",
+                "Cooper",
+                "O Brien"
+            ],
+            "correct_answer": "Ewing"
+        },
+        {
+            "question": "Mi Carrie foglalkozása a Szex és New York c. sorozatban?",
+            "answers": [
+                "ügyvéd",
+                "újságírónő",
+                "PR menedzser"
+            ],
+            "correct_answer": "újságírónő"
+        },
+        {
+            "question": "Mi volt Magenheim Ádám foglalkozása a Szomszédok c. sorozatban?",
+            "answers": [
+                "rendőr",
+                "tűzoltó",
+                "mentőorvos"
+            ],
+            "correct_answer": "mentőorvos"
+        },
+        {
+            "question": "Melyik az a Barátok köztben szereplő színésznő, aki korábban a Kisváros c. sorozatban is játszott?",
+            "answers": [
+                "Borbáth Otília",
+                "Sztárek Andrea",
+                "Szilágyi Zsuzsa"
+            ],
+            "correct_answer": "Sztárek Andrea"
+        },
+        {
+            "question": "Hogy hívták a Klinika c. sorozat főorvosát?",
+            "answers": [
+                "Horst Römer",
+                "Udo Brinkmann",
+                "Klaus Brinkmann professzor"
+            ],
+            "correct_answer": "Klaus Brinkmann professzor"
+        },
+        {
+            "question": "Hány évada volt eddig a Rising Starnak?",
+            "answers": [
+                "egy",
+                "kettő",
+                "három"
+            ],
+            "correct_answer": "egy"
+        },
+        {
+            "question": "Melyik évben volt Kovács Kati zsűritag a Dal c. műsorban?",
+            "answers": [
+                "2014-ben",
+                "2013-ban",
+                "2010-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Mi a neve a családfőnek A Simpson család c. rajzfilmsorozatban?",
+            "answers": [
+                "Homer Simpson",
+                "Bart Simpson",
+                "Abraham Simpson"
+            ],
+            "correct_answer": "Homer Simpson"
+        },
+        {
+            "question": "Hány ujjuk van a Simpson karaktereknek?",
+            "answers": [
+                "4",
+                "6",
+                "3"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Melyik amerikai államban játszódik A mentalista c. krimisorozat?",
+            "answers": [
+                "Kaliforniában",
+                "Floridában",
+                "Alaszkában"
+            ],
+            "correct_answer": "Kaliforniában"
+        },
+        {
+            "question": "Mi a Született feleségek c. sorozat fő helyszíne?",
+            "answers": [
+                "Lila Akác köz",
+                "Kék Hárs negyed",
+                "Lila Hárs köz"
+            ],
+            "correct_answer": "Lila Akác köz"
+        },
+        {
+            "question": "Melyik színésznő nem a Bűbájos boszorkák főszereplője?",
+            "answers": [
+                "Sarah Jessica Parker",
+                "Alyssa Milano",
+                "Shannen Doherty"
+            ],
+            "correct_answer": "Sarah Jessica Parker"
+        },
+        {
+            "question": "Mikor fejeződött be a Buffy, a vámpírok réme c. filmsorozat?",
+            "answers": [
+                "2003-ban",
+                "2005-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2003-ban"
+        },
+        {
+            "question": "Melyik sorozatban nem játszott Kyle MacLachlan amerikai színész?",
+            "answers": [
+                "Bűbájos boszorkák",
+                "Szex és New York",
+                "Twin Peaks"
+            ],
+            "correct_answer": "Bűbájos boszorkák"
+        },
+        {
+            "question": "Hány barátnő életét mutatja be a Szex és New York c. sorozat?",
+            "answers": [
+                "négy",
+                "három",
+                "öt"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Ki nyert 2015-ben a Hungary’s Got Talent tehetségkutatóban?",
+            "answers": [
+                "Dirty Led Light Crew",
+                "Badár Tamás",
+                "Molnár Nikolett"
+            ],
+            "correct_answer": "Dirty Led Light Crew"
+        },
+        {
+            "question": "Ki nem volt műsorvezetője a Legyen Ön is milliomos! c. vetélkedőnek?",
+            "answers": [
+                "Till Attila",
+                "Friderikusz Sándor",
+                "Vágó István"
+            ],
+            "correct_answer": "Till Attila"
+        },
+        {
+            "question": "Ki nem volt a brit X faktor zsűritagja?",
+            "answers": [
+                "Alicia Keys",
+                "Kelly Rowland",
+                "Cheryl Cole"
+            ],
+            "correct_answer": "Alicia Keys"
+        },
+        {
+            "question": "Melyik évben nyerte meg a brit X-faktort Alexandra Burke?",
+            "answers": [
+                "2008-ban",
+                "2010-ben",
+                "2006-ban"
+            ],
+            "correct_answer": "2008-ban"
+        },
+        {
+            "question": "Mi a neve Michael Knight autójának a Knight Rider c. sorozatban?",
+            "answers": [
+                "Kitt",
+                "Fitt",
+                "Bitt"
+            ],
+            "correct_answer": "Kitt"
+        },
+        {
+            "question": "Ki a Kaliforniába jöttem c. sorozat főszereplője?",
+            "answers": [
+                "Will Smith",
+                "Adam Sandler",
+                "Martin Lawrence"
+            ],
+            "correct_answer": "Will Smith"
+        },
+        {
+            "question": "Melyik sorozat szlogenje: „Az igazság odaát van” ?",
+            "answers": [
+                "X-akták",
+                "Csillagkapu",
+                "Gyilkos sorok"
+            ],
+            "correct_answer": "X-akták"
+        },
+        {
+            "question": "Mit szeret Gombóc Artúr, Pom Pom meséiben?",
+            "answers": [
+                "csokoládét",
+                "hamburgert",
+                "paradicsomot"
+            ],
+            "correct_answer": "csokoládét"
+        },
+        {
+            "question": "Mit tudott a kockásfülű nyúl a rajzfilmben?",
+            "answers": [
+                "repülni",
+                "biciklizni",
+                "úszni"
+            ],
+            "correct_answer": "repülni"
+        },
+        {
+            "question": "Ki volt Süsü hangja a Süsü, a sárkány c. bábfilmsorozatban?",
+            "answers": [
+                "Bodrogi Gyula",
+                "Sztankay István",
+                "Usztics Mátyás"
+            ],
+            "correct_answer": "Bodrogi Gyula"
+        },
+        {
+            "question": "Milyen filmsorozat volt a Sebaj Tóbiás a 80-as években?",
+            "answers": [
+                "gyurmafilm",
+                "bábfilm",
+                "animációs film"
+            ],
+            "correct_answer": "gyurmafilm"
+        },
+        {
+            "question": "Melyik állat nem szerepelt a Kukori és Kotkoda c. rajzfilmben?",
+            "answers": [
+                "Radírpók",
+                "Hápogi",
+                "Kopasznyakú"
+            ],
+            "correct_answer": "Radírpók"
+        },
+        {
+            "question": "Hogy hívták a fagylaltost a Keménykalap és krumpliorr c. filmsorozatban?",
+            "answers": [
+                "Bagaméri",
+                "Lópici Gáspár",
+                "Oriza Triznyák"
+            ],
+            "correct_answer": "Bagaméri"
+        },
+        {
+            "question": "Melyik tehetségkutatónak volt zsűritagja 2008-ban Fenyő Miklós?",
+            "answers": [
+                "Megasztár",
+                "X-faktor",
+                "Csillag születik"
+            ],
+            "correct_answer": "Megasztár"
+        },
+        {
+            "question": "Kit játszott a Szomszédok c. teleregényben Koltai János?",
+            "answers": [
+                "Gábor Gábort",
+                "Vágási Ferit",
+                "Szelényi Jánost"
+            ],
+            "correct_answer": "Gábor Gábort"
+        },
+        {
+            "question": "Melyik együttesben nem énekelt Görbe Nóra?",
+            "answers": [
+                "Dolly Roll",
+                "R-go",
+                "Első Emelet"
+            ],
+            "correct_answer": "Dolly Roll"
+        },
+        {
+            "question": "Melyik TV sorozatban nem játszott Jennifer Lopez?",
+            "answers": [
+                "Agymenők",
+                "Így jártam anyátokkal",
+                "Will és Grace"
+            ],
+            "correct_answer": "Agymenők"
+        },
+        {
+            "question": "Ki nyerte a Nagy Duett második évadát?",
+            "answers": [
+                "Kökény Attila és Cseke Katinka",
+                "Hien és Cooky",
+                "Lakatos Márk és Bangó Margit"
+            ],
+            "correct_answer": "Kökény Attila és Cseke Katinka"
+        },
+        {
+            "question": "Hány szériája volt eddig a Csillag születik tehetségkutató műsornak?",
+            "answers": [
+                "négy",
+                "három",
+                "öt"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Mi volt Dr. Bubó rajzfilmsorozat eredeti címe?",
+            "answers": [
+                "Kérem a következőt!",
+                "Jöjjön a következő!",
+                "Nyissa kis a száját!"
+            ],
+            "correct_answer": "Kérem a következőt!"
+        },
+        {
+            "question": "Milyen állat volt Ursula nővér a Dr. Bubóban?",
+            "answers": [
+                "barna medve",
+                "macska",
+                "kacsa"
+            ],
+            "correct_answer": "barna medve"
+        },
+        {
+            "question": "Milyen utcában lakott Buksi és Cicamica az 1979-ben készült bábfilmben?",
+            "answers": [
+                "Futrinka utcában",
+                "Szezám utcában",
+                "Mese utcában"
+            ],
+            "correct_answer": "Futrinka utcában"
+        },
+        {
+            "question": "A Megasztár hanyadik szériájában tűnt fel Puskás Peti?",
+            "answers": [
+                "harmadik",
+                "második",
+                "ötödik"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Mi Richard foglalkozása a Castle c. amerikai sorozatban?",
+            "answers": [
+                "regényíró",
+                "énekes",
+                "orvos"
+            ],
+            "correct_answer": "regényíró"
+        },
+        {
+            "question": "Melyik színész játssza a mentalistát, az amerikai krimisorozatban?",
+            "answers": [
+                "Simon Baker",
+                "Tim Kang",
+                "Bradley Whitford"
+            ],
+            "correct_answer": "Simon Baker"
+        },
+        {
+            "question": "Melyik amerikai városban forgatták a Döglött akták c. sorozatot?",
+            "answers": [
+                "Philadelphia",
+                "Chicago",
+                "Los Angeles"
+            ],
+            "correct_answer": "Philadelphia"
+        },
+        {
+            "question": "Ki volt a Twin Peaks c. sorozat főszereplője?",
+            "answers": [
+                "Dale Cooper",
+                "Benjamin Horne",
+                "Big Ed Hurley"
+            ],
+            "correct_answer": "Dale Cooper"
+        },
+        {
+            "question": "Ki a címszereplője a Derrick c. sorozatnak?",
+            "answers": [
+                "Horst Tappert",
+                "Fritz Wepper",
+                "Herbert Stass"
+            ],
+            "correct_answer": "Horst Tappert"
+        },
+        {
+            "question": "Ki volt Columbo magyar hangja a filmsorozatban?",
+            "answers": [
+                "Szabó Gyula",
+                "Kálid Artúr",
+                "Székhelyi József"
+            ],
+            "correct_answer": "Szabó Gyula"
+        },
+        {
+            "question": "Melyik Tv műsort vezette Kudlik Júlia 1965-1996-ig?",
+            "answers": [
+                "Delta",
+                "Ablak",
+                "Parabola"
+            ],
+            "correct_answer": "Delta"
+        },
+        {
+            "question": "Mi volt Taki bácsi foglalkozása a Szomszédok c. sorozatban?",
+            "answers": [
+                "taxisofőr",
+                "orvos",
+                "erdőmérnök"
+            ],
+            "correct_answer": "taxisofőr"
+        },
+        {
+            "question": "Mi volt az X-akták szállóigéje?",
+            "answers": [
+                "Az igazság odaát van.",
+                "A segítség odaát van.",
+                "A szabadság odaát van."
+            ],
+            "correct_answer": "Az igazság odaát van."
+        },
+        {
+            "question": "Melyik évben lett a brit X-faktor győztese James Arthur?",
+            "answers": [
+                "2012-ben",
+                "2013-ban",
+                "2014-ben"
+            ],
+            "correct_answer": "2012-ben"
+        },
+        {
+            "question": "Melyik Tv-filmsorozat szereplője volt Zolnay Miklós?",
+            "answers": [
+                "Kisváros",
+                "Szomszédok",
+                "Família Kft."
+            ],
+            "correct_answer": "Kisváros"
+        },
+        {
+            "question": "Mi a foglalkozása Petrocellinek a tévéfilmsorozatban?",
+            "answers": [
+                "ügyvéd",
+                "bíró",
+                "nyomozó"
+            ],
+            "correct_answer": "ügyvéd"
+        },
+        {
+            "question": "Hanyas szám alatt laktak a Szomszédok c. teleregény szereplői?",
+            "answers": [
+                "8-as",
+                "12-es",
+                "16-os"
+            ],
+            "correct_answer": "8-as"
+        },
+        {
+            "question": "Hány évada volt a Lost-Eltűntek c. sorozatnak?",
+            "answers": [
+                "6",
+                "10",
+                "8"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Ki nyerte a Sztárban sztár első évadát?",
+            "answers": [
+                "Bereczki Zoltán",
+                "Pál Dénes",
+                "Caramel"
+            ],
+            "correct_answer": "Bereczki Zoltán"
+        },
+        {
+            "question": "Mi a Dr. Csont cimű amerikai sorozat eredeti címe?",
+            "answers": [
+                "Bones",
+                "Crime",
+                "Angel"
+            ],
+            "correct_answer": "Bones"
+        },
+        {
+            "question": "Hány évada volt eddig a Sztárban sztárnak?",
+            "answers": [
+                "négy",
+                "hat",
+                "nyolc"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Hány epizódból állt a Szomszédok teleregény?",
+            "answers": [
+                "331",
+                "428",
+                "367"
+            ],
+            "correct_answer": "331"
+        },
+        {
+            "question": "Hány évig ment \"A Szabó család\" a Magyar Rádióban?",
+            "answers": [
+                "48 évig",
+                "42 évig",
+                "39 évig"
+            ],
+            "correct_answer": "48 évig"
+        },
+        {
+            "question": "Ki volt 2015-2016-ban Az év magyar vízilabdázója?",
+            "answers": [
+                "Hárai Balázs",
+                "Kiss Gergely",
+                "Kásás Tamás"
+            ],
+            "correct_answer": "Hárai Balázs"
+        },
+        {
+            "question": "Hány évada volt a Columbo c. amerikai filmsorozatnak?",
+            "answers": [
+                "7",
+                "9",
+                "12"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Hány epizódja volt a Lost-Eltűntek c. sorozatnak?",
+            "answers": [
+                "121",
+                "156",
+                "95"
+            ],
+            "correct_answer": "121"
+        },
+        {
+            "question": "Hány részes a\"Csengetett, Mylord?\"c.vígjátéksorozat?",
+            "answers": [
+                "26",
+                "42",
+                "57"
+            ],
+            "correct_answer": "26"
+        },
+        {
+            "question": "Melyik színésznő játssza Dr. Balogh Nóra szerepét a Barátok köztben?",
+            "answers": [
+                "Varga Izabella",
+                "Mérai Katalin",
+                "Gyebnár Csekka"
+            ],
+            "correct_answer": "Varga Izabella"
+        },
+        {
+            "question": "A Nagy Duett hanyadik szériája kezdődött el 2017. áprils 2-án?",
+            "answers": [
+                "5.",
+                "6.",
+                "8."
+            ],
+            "correct_answer": "5."
+        },
+        {
+            "question": "Mi a neve a kislánynak a Pom-Pom meséiben?",
+            "answers": [
+                "Picur",
+                "Pintyőke",
+                "Pirinyó"
+            ],
+            "correct_answer": "Picur"
+        },
+        {
+            "question": "Milyen képességgel rendelkezett a kockásfülű nyúl?",
+            "answers": [
+                "tudott repülni",
+                "tudott vízen járni",
+                "korcsolyázott"
+            ],
+            "correct_answer": "tudott repülni"
+        },
+        {
+            "question": "Hol játszódik a Lost-Eltűntek c. sorozat?",
+            "answers": [
+                "trópusi szigeten",
+                "laktanyában",
+                "nevelőintézetben"
+            ],
+            "correct_answer": "trópusi szigeten"
+        },
+        {
+            "question": "Kudlik Júlia melyik műsort vezette a 1965-1996-ig?",
+            "answers": [
+                "Delta",
+                "Ablak",
+                "Parabola"
+            ],
+            "correct_answer": "Delta"
+        },
+        {
+            "question": "Mi történik a Maradj talpon! c. vetélkedő rosszul válaszoló játékosaival?",
+            "answers": [
+                "lezuhannak",
+                "levágják a hajukat",
+                "felrepülnek"
+            ],
+            "correct_answer": "lezuhannak"
+        },
+        {
+            "question": "Melyik rajzfilmsorozat szereplője Tintás Tunyacsáp?",
+            "answers": [
+                "SpongyaBob Kockanadrág",
+                "Scooby-Doo",
+                "Garfield és barátai"
+            ],
+            "correct_answer": "SpongyaBob Kockanadrág"
+        },
+        {
+            "question": "Mi a neve a Született feleségek c. sorozat helyszínének?",
+            "answers": [
+                "Lila Akác köz",
+                "Gazdagrét",
+                "Kék Orgona sor"
+            ],
+            "correct_answer": "Lila Akác köz"
+        },
+        {
+            "question": "Hogy hívják Gizi és Laci fogadott lányát a Barátok köztben?",
+            "answers": [
+                "Stella",
+                "Gigi",
+                "Timike"
+            ],
+            "correct_answer": "Stella"
+        },
+        {
+            "question": "Milyen állat Babóca a \"Bogyó és Babóca\" c. rajzfilmben?",
+            "answers": [
+                "katica",
+                "méhecske",
+                "lepke"
+            ],
+            "correct_answer": "katica"
+        },
+        {
+            "question": "Hány évada volt a Szex és New York c. filmsorozatnak?",
+            "answers": [
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Ki nem játszott a Válótársak c. sorozatban?",
+            "answers": [
+                "Kern András",
+                "Földes Eszter",
+                "Lengyel Tamás"
+            ],
+            "correct_answer": "Kern András"
+        },
+        {
+            "question": "Melyik műsort nem vezette soha Till Attila?",
+            "answers": [
+                "50 milliós játszma",
+                "Sztárban sztár",
+                "Megasztár"
+            ],
+            "correct_answer": "50 milliós játszma"
+        },
+        {
+            "question": "Kit alakított Usztics Mátyás az Angyalbőrben c. filmsorozatban?",
+            "answers": [
+                "Karádi János őrmestert",
+                "Hunyadi János főtörzsőrmestert",
+                "Tabajdi Gábor ezredest"
+            ],
+            "correct_answer": "Karádi János őrmestert"
+        },
+        {
+            "question": "Mi volt a foglalkozása Etusnak a Szomszédok c. teleregényben?",
+            "answers": [
+                "keramikus",
+                "fogorvos",
+                "kozmetikus"
+            ],
+            "correct_answer": "keramikus"
+        },
+        {
+            "question": "Melyik páros esett ki legutóbb, április 30-án \"A Nagy Duett\"-ből?",
+            "answers": [
+                "Stohl Luca és Peller Károly",
+                "Vincze Lilla és Apáti Bence",
+                "Jolly és Hódi Pamela"
+            ],
+            "correct_answer": "Stohl Luca és Peller Károly"
+        },
+        {
+            "question": "Melyik mese főszereplői voltak Tüskéshátú és Brekkencs?",
+            "answers": [
+                "A legkisebb ugrifüles",
+                "Kérem a következőt!",
+                "Pom Pom meséi"
+            ],
+            "correct_answer": "A legkisebb ugrifüles"
+        },
+        {
+            "question": "Mi az eredeti címe a Dr. Bubónak?",
+            "answers": [
+                "Kérem a következőt!",
+                "Jöjjön a következő!",
+                "Ki a következő?"
+            ],
+            "correct_answer": "Kérem a következőt!"
+        },
+        {
+            "question": "Ki kérte meg barátnője kezét \"A Nagy Duett\" c. műsorban?",
+            "answers": [
+                "Kasza Tibi",
+                "Cooky",
+                "Vastag Csaba"
+            ],
+            "correct_answer": "Kasza Tibi"
+        },
+        {
+            "question": "Melyik tehetségkutatónak volt zsűritagja 2008-ban Fenyő Miklós?",
+            "answers": [
+                "Megasztár",
+                "X-faktor",
+                "Csillag születik"
+            ],
+            "correct_answer": "Megasztár"
+        },
+        {
+            "question": "Hány évada volt eddig a Trónok harca c. sorozatnak?",
+            "answers": [
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Melyik énekesnő dalát énekelte Ábel Anita és Emilió a május 7-i Nagy Duettben?",
+            "answers": [
+                "Madonna",
+                "Beyonce",
+                "Shakira"
+            ],
+            "correct_answer": "Madonna"
+        },
+        {
+            "question": "Hogy hívták a Família Kft. c. sorozatban az ikreket?",
+            "answers": [
+                "Misi és Ricsi",
+                "Peti és Zoli",
+                "Dávid és Ádám"
+            ],
+            "correct_answer": "Misi és Ricsi"
+        },
+        {
+            "question": "Ki szerezte az Angyalbőrben c. sorozat zenéjét?",
+            "answers": [
+                "Szikora Róbert",
+                "Geszti Péter",
+                "Fenyő Miklós"
+            ],
+            "correct_answer": "Szikora Róbert"
+        },
+        {
+            "question": "Mikor lett vége a Szomszédok c. teleregénynek?",
+            "answers": [
+                "1999-ben",
+                "1998-ban",
+                "1997-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Ki alakítja Tyrion Lannistert a Trónok harca c. sorozatban?",
+            "answers": [
+                "Peter Dinklage",
+                "Ian Glen",
+                "Kit Harington"
+            ],
+            "correct_answer": "Peter Dinklage"
+        },
+        {
+            "question": "Hol él Luna a Soy Luna c. argentín sorozatban?",
+            "answers": [
+                "Mexikóban",
+                "USA-ban",
+                "Brazíliában"
+            ],
+            "correct_answer": "Mexikóban"
+        },
+        {
+            "question": "Milyen filmsorozat volt a Sebaj Tóbiás?",
+            "answers": [
+                "gyurmafilm",
+                "bábfilm",
+                "animációs film"
+            ],
+            "correct_answer": "gyurmafilm"
+        },
+        {
+            "question": "Kik estek ki legutóbb, május 14-én a Nagy Duettből?",
+            "answers": [
+                "Ábrahám Edit és Vastag Csaba",
+                "Erdei Zsolt és Judy",
+                "Sági Szilárd és Völgyesi Gabi"
+            ],
+            "correct_answer": "Ábrahám Edit és Vastag Csaba"
+        },
+        {
+            "question": "Mikor vetítették Magyarországon a Dallas c. sorozatot?",
+            "answers": [
+                "1990-1997 között",
+                "1992-1999 között",
+                "1991-2000 között"
+            ],
+            "correct_answer": "1990-1997 között"
+        },
+        {
+            "question": "Ki nyerte a Sztárban sztár első évadát?",
+            "answers": [
+                "Bereczki Zoltán",
+                "Pál Dénes",
+                "Caramel"
+            ],
+            "correct_answer": "Bereczki Zoltán"
+        },
+        {
+            "question": "Hány éves Süsü, a sárkány?",
+            "answers": [
+                "41",
+                "38",
+                "56"
+            ],
+            "correct_answer": "41"
+        },
+        {
+            "question": "Ki volt a főszereplője a \"Homok titkai\" c. brazil sorozatnak?",
+            "answers": [
+                "Gloria Pirez",
+                "Gabriela Spanic",
+                "Helena Rojo"
+            ],
+            "correct_answer": "Gloria Pirez"
+        },
+        {
+            "question": "Hány ujjuk van a Simpson karaktereknek?",
+            "answers": [
+                "4",
+                "6",
+                "2"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Mi volt Miki egér eredeti neve?",
+            "answers": [
+                "Mortimer",
+                "Minki",
+                "Mikrobi"
+            ],
+            "correct_answer": "Mortimer"
+        },
+        {
+            "question": "Ki alakította Columbo hadnagyot?",
+            "answers": [
+                "Peter Falk",
+                "Horst Tappert",
+                "Telly Savalas"
+            ],
+            "correct_answer": "Peter Falk"
+        },
+        {
+            "question": "Ki nyerte meg a \"Sztárban sztárt\" 2017-ben?",
+            "answers": [
+                "Horváth Tamás",
+                "Király Viktor",
+                "Pál Dénes"
+            ],
+            "correct_answer": "Horváth Tamás"
+        },
+        {
+            "question": "Ki nem szerepelt Pom Pom meséiben?",
+            "answers": [
+                "Oriza-Triznyák",
+                "Festéktüsszentő Hapci Benő",
+                "Radírpók"
+            ],
+            "correct_answer": "Oriza-Triznyák"
+        },
+        {
+            "question": "Mi volt Stohl András neve a \"Tűzvonalban\" c. sorozatban?",
+            "answers": [
+                "Bordás",
+                "Bokros",
+                "Bundás"
+            ],
+            "correct_answer": "Bordás"
+        },
+        {
+            "question": "Ki volt a műsorvezetője a Heti Hetes c. műsornak?",
+            "answers": [
+                "Jáksó László",
+                "Vágó István",
+                "Friderikusz Sándor"
+            ],
+            "correct_answer": "Jáksó László"
+        },
+        {
+            "question": "Ki vezette a \"Zsebtévé\" c. gyereksorozatot?",
+            "answers": [
+                "Levente Péter",
+                "Gryllus Vilmos",
+                "Benkő Dániel"
+            ],
+            "correct_answer": "Levente Péter"
+        },
+        {
+            "question": "Ki nem szerepel a \"Válótársak\" c. sorozatban?",
+            "answers": [
+                "Schell Judit",
+                "Gubás Gabi",
+                "Scherer Péter"
+            ],
+            "correct_answer": "Schell Judit"
+        },
+        {
+            "question": "Ki a főszereplője a \"Terápia\" c. sorozatnak?",
+            "answers": [
+                "Mácsai Pál",
+                "Stohl András",
+                "Scherer Péter"
+            ],
+            "correct_answer": "Mácsai Pál"
+        },
+        {
+            "question": "Melyik gimiben játszódik a \"Holnap Tali!\" c. ifjúsági sorozat?",
+            "answers": [
+                "Petőfi Gimiben",
+                "Széchenyi Gimiben",
+                "Deák Gimiben"
+            ],
+            "correct_answer": "Petőfi Gimiben"
+        },
+        {
+            "question": "Mi a vezetéknevük az \"Oltári csajok\"-nak?",
+            "answers": [
+                "Erdész",
+                "Szabó",
+                "Vadász"
+            ],
+            "correct_answer": "Erdész"
+        },
+        {
+            "question": "Hanyadik Megasztár győztese volt Radics Gigi?",
+            "answers": [
+                "6.",
+                "4.",
+                "3."
+            ],
+            "correct_answer": "6."
+        },
+        {
+            "question": "Ki volt Ábel Anita párja \"A nagy duett\"-ben?",
+            "answers": [
+                "Emilio",
+                "Csipa",
+                "Caramel"
+            ],
+            "correct_answer": "Emilio"
+        },
+        {
+            "question": "Milyen autója volt Jockey Ewing-nak a Dallas c. filmsorozatban?",
+            "answers": [
+                "Mercedes",
+                "Chevrolet",
+                "Porsche"
+            ],
+            "correct_answer": "Mercedes"
+        },
+        {
+            "question": "Mi a foglalkozása Al Bundynak az \"Egy rém rendes család \"c. tévésorozatban?",
+            "answers": [
+                "nőicipő-bolti eladó",
+                "autószerelő",
+                "étteremvezető"
+            ],
+            "correct_answer": "nőicipő-bolti eladó"
+        },
+        {
+            "question": "Ki alakítja Gizit a Barátok közt c. sorozatban?",
+            "answers": [
+                "Gyebnár Csekka",
+                "Gubik Ági",
+                "Mérai Katalin"
+            ],
+            "correct_answer": "Gyebnár Csekka"
+        },
+        {
+            "question": "Melyik Oscar-díjas színész játszott a \"Vészhelyzet\" c. sorozatban?",
+            "answers": [
+                "George Clooney",
+                "Dustin Hoffman",
+                "Tom Hanks"
+            ],
+            "correct_answer": "George Clooney"
+        },
+        {
+            "question": "Mi Miss Marple keresztneve?",
+            "answers": [
+                "Jane",
+                "Mary",
+                "Rose"
+            ],
+            "correct_answer": "Jane"
+        },
+        {
+            "question": "Mikor lett vége a Szomszédok c. teleregénynek?",
+            "answers": [
+                "1999-ben",
+                "1998-ban",
+                "2000-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Mi volt a neve \"A klinika\" c. filmsorozat főnővérének?",
+            "answers": [
+                "Hildegard",
+                "Carola",
+                "Christa"
+            ],
+            "correct_answer": "Hildegard"
+        },
+        {
+            "question": "Ki nem vezette soha a \"Szerencsekerék\" c. vetélkedőt?",
+            "answers": [
+                "Palik László",
+                "Gajdos Tamás",
+                "Klausmann Viktor"
+            ],
+            "correct_answer": "Palik László"
+        },
+        {
+            "question": "Ki rendezte a Pom Pom meséit?",
+            "answers": [
+                "Dargay Attila",
+                "Csukás István",
+                "Sajdik Ferenc"
+            ],
+            "correct_answer": "Dargay Attila"
+        },
+        {
+            "question": "Hol játszódik a \"Született feleségek\" c. sorozat?",
+            "answers": [
+                "Los Angelesben",
+                "New Yorkban",
+                "Dallasban"
+            ],
+            "correct_answer": "Los Angelesben"
+        },
+        {
+            "question": "Ki énekli a \"Válótársak\" c. sorozat főcímét?",
+            "answers": [
+                "Oláh Gergő",
+                "Caramel",
+                "Király Viktor"
+            ],
+            "correct_answer": "Oláh Gergő"
+        },
+        {
+            "question": "Milyen állat Spongyabob?",
+            "answers": [
+                "tengeri szivacs",
+                "polip",
+                "tengeri csillag"
+            ],
+            "correct_answer": "tengeri szivacs"
+        },
+        {
+            "question": "Melyik rajzfilm szereplője Csillag Patrik?",
+            "answers": [
+                "SpongyaBob Kockanadrág",
+                "Fecsegő tipegők",
+                "Scooby-Doo"
+            ],
+            "correct_answer": "SpongyaBob Kockanadrág"
+        },
+        {
+            "question": "Melyik évben kezdődött a Dallas c. filmsorozat cselekménye?",
+            "answers": [
+                "1978-ban",
+                "1987-ben",
+                "1983-ban"
+            ],
+            "correct_answer": "1978-ban"
+        },
+        {
+            "question": "Mi volt a foglalkozása Etusnak a Szomszédok c. teleregényben?",
+            "answers": [
+                "keramikus",
+                "fogorvos",
+                "kozmetikus"
+            ],
+            "correct_answer": "keramikus"
+        },
+        {
+            "question": "Ki a női főszereplője a \"Korhatáros szerelem\" c. sorozatnak?",
+            "answers": [
+                "Kovács Patrícia",
+                "Kováts Adél",
+                "Tompos Kátya"
+            ],
+            "correct_answer": "Kovács Patrícia"
+        },
+        {
+            "question": "Ki nem szokott szerepelni a \"Beugró\" c. szituációs műsorban?",
+            "answers": [
+                "Esztergályos Cecília",
+                "Pokorny Lia",
+                "Szabó Győző"
+            ],
+            "correct_answer": "Esztergályos Cecília"
+        },
+        {
+            "question": "Melyik egy magyar népmese címe?",
+            "answers": [
+                "Az égig érő paszuly",
+                "Az égig érő rózsa",
+                "Az égig érő eperfa"
+            ],
+            "correct_answer": "Az égig érő paszuly"
+        },
+        {
+            "question": "Mi volt a neve a Kudlik Júlia által vezetett ismeretterjesztő műsornak?",
+            "answers": [
+                "Delta",
+                "Béta",
+                "Gamma"
+            ],
+            "correct_answer": "Delta"
+        },
+        {
+            "question": "Milyen édességet rendeltek Demetertől, a cukrászmestertől, a Kossuth-kifli c. filmsorozatban?",
+            "answers": [
+                "bejglit",
+                "medvecukrot",
+                "csokis kekszet"
+            ],
+            "correct_answer": "bejglit"
+        },
+        {
+            "question": "Melyik műsort vezette Déri János a 80-as években?",
+            "answers": [
+                "Ablak",
+                "Delta",
+                "Híradó"
+            ],
+            "correct_answer": "Ablak"
+        },
+        {
+            "question": "Ki játssza Erdész Piros szerepét az \"Oltári csajok\" c. sorozatban?",
+            "answers": [
+                "Michl Júlia",
+                "Hartai Petra",
+                "Danics Dóra"
+            ],
+            "correct_answer": "Michl Júlia"
+        },
+        {
+            "question": "Ki játszott gyerekkorában a \"Szomszédok\" c. teleregényben?",
+            "answers": [
+                "Ábel Anita",
+                "Harsányi Levente",
+                "Sebestyén Balázs"
+            ],
+            "correct_answer": "Ábel Anita"
+        },
+        {
+            "question": "Jelenleg melyik showműsor zsűritagja Király Viktor?",
+            "answers": [
+                "Sztárban sztár +1 kicsi",
+                "Sztárban sztár",
+                "Star Academy"
+            ],
+            "correct_answer": "Sztárban sztár +1 kicsi"
+        },
+        {
+            "question": "Ki vezeti a \"Pénzt vagy éveket\" c. szórakoztató műsort?",
+            "answers": [
+                "Kasza Tibor",
+                "Till Attila",
+                "Ördög Nóra"
+            ],
+            "correct_answer": "Kasza Tibor"
+        },
+        {
+            "question": "Ki a főszereplője az \"Így jártam anyátokkal\" c. sorozatnak?",
+            "answers": [
+                "Ted Mosby",
+                "Jay Pritchett",
+                "Phil Dunphy"
+            ],
+            "correct_answer": "Ted Mosby"
+        }
+    ]
+}

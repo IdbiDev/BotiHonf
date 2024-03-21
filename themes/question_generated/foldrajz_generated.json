@@ -1,0 +1,5684 @@
+{
+    "theme": "Földrajz",
+    "questions": [
+        {
+            "question": "Melyik ország fővárosa Helsinki?",
+            "answers": [
+                "Finnország",
+                "Svédország",
+                "Portugália"
+            ],
+            "correct_answer": "Finnország"
+        },
+        {
+            "question": "Milyen hosszú a Balaton?",
+            "answers": [
+                "77 km",
+                "88 km",
+                "120 km"
+            ],
+            "correct_answer": "77 km"
+        },
+        {
+            "question": "Mi Magyarország második legnagyobb tava?",
+            "answers": [
+                "Velencei-tó",
+                "Fertő-tó",
+                "Tisza-tó"
+            ],
+            "correct_answer": "Tisza-tó"
+        },
+        {
+            "question": "Mi Nógrád megye székhelye?",
+            "answers": [
+                "Salgótarján",
+                "Balassagyarmat",
+                "Tatabánya"
+            ],
+            "correct_answer": "Salgótarján"
+        },
+        {
+            "question": "Hozzávetőlegesen mennyi a Föld népessége?",
+            "answers": [
+                "7 milliárd fő",
+                "5 milliárd fő",
+                "10 milliárd fő"
+            ],
+            "correct_answer": "7 milliárd fő"
+        },
+        {
+            "question": "Melyik ország fővárosa Dublin?",
+            "answers": [
+                "Írország",
+                "Izland",
+                "India"
+            ],
+            "correct_answer": "Írország"
+        },
+        {
+            "question": "Hány km a távolság Szolnok és Budapest között?",
+            "answers": [
+                "97 km",
+                "88 km",
+                "78 km"
+            ],
+            "correct_answer": "97 km"
+        },
+        {
+            "question": "Melyik államban van Dallas?",
+            "answers": [
+                "Texas",
+                "California",
+                "Kansas"
+            ],
+            "correct_answer": "Texas"
+        },
+        {
+            "question": "Hol található Budapesten a Halászbástya?",
+            "answers": [
+                "a budai várban",
+                "a Gellért-hegyen",
+                "a Hősök terén"
+            ],
+            "correct_answer": "a budai várban"
+        },
+        {
+            "question": "Melyik város nevezetessége a Big Ben?",
+            "answers": [
+                "London",
+                "Párizs",
+                "Milánó"
+            ],
+            "correct_answer": "London"
+        },
+        {
+            "question": "Melyik Magyarországi megyében van Sásd?",
+            "answers": [
+                "Baranya",
+                "Békés",
+                "Bács-Kiskun"
+            ],
+            "correct_answer": "Baranya"
+        },
+        {
+            "question": "Honnan ered a Duna?",
+            "answers": [
+                "a Fekete erdőből",
+                "Ukrajnából",
+                "Szlovákiából"
+            ],
+            "correct_answer": "a Fekete erdőből"
+        },
+        {
+            "question": "Mi Litvánia fővárosa?",
+            "answers": [
+                "Vilnius",
+                "Riga",
+                "Tallin"
+            ],
+            "correct_answer": "Vilnius"
+        },
+        {
+            "question": "Honnan indul a Balaton átúszás?",
+            "answers": [
+                "Révfülöpről",
+                "Balatonboglárról",
+                "Tihanyból"
+            ],
+            "correct_answer": "Révfülöpről"
+        },
+        {
+            "question": "Mi Kalifornia állam székhelye?",
+            "answers": [
+                "Sacramento",
+                "Atlanta",
+                "Boston"
+            ],
+            "correct_answer": "Sacramento"
+        },
+        {
+            "question": "Melyik a Föld leghosszabb folyója?",
+            "answers": [
+                "Amazonas",
+                "Nílus",
+                "Mississippi"
+            ],
+            "correct_answer": "Amazonas"
+        },
+        {
+            "question": "Melyik nem tartozik a világ hét csodája közé?",
+            "answers": [
+                "Noé bárkája",
+                "Szemiramisz függőkertje",
+                "rodoszi kolosszus"
+            ],
+            "correct_answer": "Noé bárkája"
+        },
+        {
+            "question": "Mikor volt a Morvamezei-csata?",
+            "answers": [
+                "1278-ban",
+                "1345-ben",
+                "1256-ban"
+            ],
+            "correct_answer": "1278-ban"
+        },
+        {
+            "question": "Hány km-re van egymástól Tatabánya és Nyíregyháza?",
+            "answers": [
+                "301 km",
+                "234 km",
+                "401 km"
+            ],
+            "correct_answer": "301 km"
+        },
+        {
+            "question": "Melyik magyar város nevezetessége a Dzsámi?",
+            "answers": [
+                "Pécs",
+                "Kecskemét",
+                "Szeged"
+            ],
+            "correct_answer": "Pécs"
+        },
+        {
+            "question": "Mi Norvégia fővárosa?",
+            "answers": [
+                "Oslo",
+                "Lisszabon",
+                "Bern"
+            ],
+            "correct_answer": "Oslo"
+        },
+        {
+            "question": "Mi volt az Aranybulla?",
+            "answers": [
+                "királyi okirat",
+                "aranylánc",
+                "királyi palást"
+            ],
+            "correct_answer": "királyi okirat"
+        },
+        {
+            "question": "Melyik megyében van Csanádapáca?",
+            "answers": [
+                "Békés",
+                "Csongrád",
+                "Heves"
+            ],
+            "correct_answer": "Békés"
+        },
+        {
+            "question": "Hány m magas a Kékes?",
+            "answers": [
+                "1014 m",
+                "976 m",
+                "1006 m"
+            ],
+            "correct_answer": "1014 m"
+        },
+        {
+            "question": "Mikor volt a Nyugatrómai Birodalom bukása?",
+            "answers": [
+                "476",
+                "466",
+                "436"
+            ],
+            "correct_answer": "476"
+        },
+        {
+            "question": "Mi Bulgária fővárosa?",
+            "answers": [
+                "Burgasz",
+                "Szófia",
+                "Várna"
+            ],
+            "correct_answer": "Szófia"
+        },
+        {
+            "question": "Melyik magyar város jelképe a Tűztorony?",
+            "answers": [
+                "Sopron",
+                "Győr",
+                "Eger"
+            ],
+            "correct_answer": "Sopron"
+        },
+        {
+            "question": "Melyik nem szikes tó?",
+            "answers": [
+                "Balaton",
+                "Fertő-tó",
+                "Velencei-tó"
+            ],
+            "correct_answer": "Balaton"
+        },
+        {
+            "question": "Hol van Bora Bora szigete?",
+            "answers": [
+                "az Égei-tengeren",
+                "Francia Polinéziában",
+                "a Karib-tengeren"
+            ],
+            "correct_answer": "Francia Polinéziában"
+        },
+        {
+            "question": "Milyen az éghajlata Caracasnak?",
+            "answers": [
+                "trópusi szavanna",
+                "óceáni",
+                "száraz sivatagi"
+            ],
+            "correct_answer": "trópusi szavanna"
+        },
+        {
+            "question": "Melyik óceánban vannak a Seychelle-szigetek?",
+            "answers": [
+                "Indiai",
+                "Atlanti",
+                "Csendes"
+            ],
+            "correct_answer": "Indiai"
+        },
+        {
+            "question": "Hány szövetségi államból áll az USA?",
+            "answers": [
+                "50",
+                "40",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Melyik ország fővárosa Maputo?",
+            "answers": [
+                "Nicaragua",
+                "Mozambik",
+                "Zambia"
+            ],
+            "correct_answer": "Mozambik"
+        },
+        {
+            "question": "Mi Kanada államformája?",
+            "answers": [
+                "szövetségi köztársaság",
+                "alkotmányos monarchia",
+                "parlamentális monarchia"
+            ],
+            "correct_answer": "alkotmányos monarchia"
+        },
+        {
+            "question": "Hol torkollik a Tiszába a Maros?",
+            "answers": [
+                "Szegednél",
+                "Makónál",
+                "Aradnál"
+            ],
+            "correct_answer": "Szegednél"
+        },
+        {
+            "question": "Hány megyéből áll Magyarország?",
+            "answers": [
+                "19",
+                "20",
+                "21"
+            ],
+            "correct_answer": "19"
+        },
+        {
+            "question": "A Föld felszínének hány %-át foglalja el az Atlanti-óceán?",
+            "answers": [
+                "20",
+                "30",
+                "10"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Melyik ország fővárosa Hanoi?",
+            "answers": [
+                "Vietnam",
+                "Japán",
+                "Pakisztán"
+            ],
+            "correct_answer": "Vietnam"
+        },
+        {
+            "question": "Mekkora a Balaton legnagyobb mélysége?",
+            "answers": [
+                "22,6 m",
+                "15 m",
+                "12,5 m"
+            ],
+            "correct_answer": "12,5 m"
+        },
+        {
+            "question": "Milyen hosszú a Velencei-tó?",
+            "answers": [
+                "10,8 km",
+                "15 km",
+                "6,7 km"
+            ],
+            "correct_answer": "10,8 km"
+        },
+        {
+            "question": "Hol van a Golden Gate híd?",
+            "answers": [
+                "Las Vegasban",
+                "New Orleansban",
+                "San Franciscoban"
+            ],
+            "correct_answer": "San Franciscoban"
+        },
+        {
+            "question": "Mennyi Zalaegerszeg és Budapest távolsága?",
+            "answers": [
+                "224 km",
+                "260 km",
+                "345 km"
+            ],
+            "correct_answer": "224 km"
+        },
+        {
+            "question": "Lillafüred melyik város része?",
+            "answers": [
+                "Eger",
+                "Miskolc",
+                "Nyíregyháza"
+            ],
+            "correct_answer": "Miskolc"
+        },
+        {
+            "question": "Denver, melyik amerikai állam székhelye?",
+            "answers": [
+                "Arizona",
+                "Florida",
+                "Colorado"
+            ],
+            "correct_answer": "Colorado"
+        },
+        {
+            "question": "Melyik téren van Budapesten a Mátyás templom?",
+            "answers": [
+                "Mátyás téren",
+                "Szabadság téren",
+                "Szentháromság téren"
+            ],
+            "correct_answer": "Szentháromság téren"
+        },
+        {
+            "question": "Melyik a világ legnagyobb kávétermelő országa?",
+            "answers": [
+                "Kolumbia",
+                "Vietnam",
+                "Brazília"
+            ],
+            "correct_answer": "Brazília"
+        },
+        {
+            "question": "Hol van Tasmania szigete?",
+            "answers": [
+                "Amerikában",
+                "Afrikában",
+                "Ausztráliában"
+            ],
+            "correct_answer": "Ausztráliában"
+        },
+        {
+            "question": "Melyik fővárosban látható a Petronas-ikertorony?",
+            "answers": [
+                "Katmanduban",
+                "Kuala Lumpurban",
+                "Damaszkuszban"
+            ],
+            "correct_answer": "Kuala Lumpurban"
+        },
+        {
+            "question": "Mi a neve a keszthelyi kastélynak?",
+            "answers": [
+                "Festetics-kastély",
+                "Esterházy-kastély",
+                "Grassalkovich-kastély"
+            ],
+            "correct_answer": "Festetics-kastély"
+        },
+        {
+            "question": "Mi a Csomolungma hegy másik elnevezése?",
+            "answers": [
+                "K2",
+                "Mount Everest",
+                "Kilimandzsáró"
+            ],
+            "correct_answer": "Mount Everest"
+        },
+        {
+            "question": "Hány méter magas a Csomolungma?",
+            "answers": [
+                "9016 m",
+                "8848 m",
+                "8765 m"
+            ],
+            "correct_answer": "8848 m"
+        },
+        {
+            "question": "Mikor született I. Napoleon császár?",
+            "answers": [
+                "1769. augusztus 15-én",
+                "1767. augusztus 18-án",
+                "1798. augusztus 1-én"
+            ],
+            "correct_answer": "1769. augusztus 15-én"
+        },
+        {
+            "question": "Hol van Machu Picchu, az egykori Inka Birodalom romvárosa?",
+            "answers": [
+                "Venezuelában",
+                "Argentínában",
+                "Peruban"
+            ],
+            "correct_answer": "Peruban"
+        },
+        {
+            "question": "Mit jelent magyarul Buenos Aires?",
+            "answers": [
+                "szép kilátás",
+                "jó szelek",
+                "nagy erdők"
+            ],
+            "correct_answer": "jó szelek"
+        },
+        {
+            "question": "Ki volt Álmos fejedelem fia?",
+            "answers": [
+                "Taksony",
+                "Géza",
+                "Árpád"
+            ],
+            "correct_answer": "Árpád"
+        },
+        {
+            "question": "Mit a jelent a Mont Blanc?",
+            "answers": [
+                "csodás hegy",
+                "fehér hegy",
+                "magas hegy"
+            ],
+            "correct_answer": "fehér hegy"
+        },
+        {
+            "question": "Hány m magas a Pilis?",
+            "answers": [
+                "848 m",
+                "756 m",
+                "654 m"
+            ],
+            "correct_answer": "756 m"
+        },
+        {
+            "question": "Mi Komárom-Esztergom megye székhelye?",
+            "answers": [
+                "Komárom",
+                "Tatabánya",
+                "Esztergom"
+            ],
+            "correct_answer": "Tatabánya"
+        },
+        {
+            "question": "Milyen magas a Kőris-hegy?",
+            "answers": [
+                "654 m",
+                "850 m",
+                "709 m"
+            ],
+            "correct_answer": "709 m"
+        },
+        {
+            "question": "Mi Rio de Janeiro jelentése?",
+            "answers": [
+                "január óceánja",
+                "január folyója",
+                "májusi eső"
+            ],
+            "correct_answer": "január folyója"
+        },
+        {
+            "question": "Melyik megyében van Kőszeg?",
+            "answers": [
+                "Vas",
+                "Csongrád",
+                "Heves"
+            ],
+            "correct_answer": "Vas"
+        },
+        {
+            "question": "Heves-megyében hány város található?",
+            "answers": [
+                "11",
+                "21",
+                "15"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Milyen hosszú a Mississippi folyó?",
+            "answers": [
+                "4070 km",
+                "5670 km",
+                "6890 km"
+            ],
+            "correct_answer": "4070 km"
+        },
+        {
+            "question": "Mi Kanada fővárosa?",
+            "answers": [
+                "Ottawa",
+                "Toronto",
+                "Vancouver"
+            ],
+            "correct_answer": "Ottawa"
+        },
+        {
+            "question": "Melyik ország felé fúj a Bóra szél?",
+            "answers": [
+                "Spanyolország",
+                "Oroszország",
+                "Franciaország"
+            ],
+            "correct_answer": "Oroszország"
+        },
+        {
+            "question": "Melyik országon nem folyik keresztül az Amazonas folyó?",
+            "answers": [
+                "Argentína",
+                "Kolumbia",
+                "Brazília"
+            ],
+            "correct_answer": "Argentína"
+        },
+        {
+            "question": "Melyik tó nem az amerikai Nagy-tavak közé tartozik?",
+            "answers": [
+                "Guatavita-tó",
+                "Felső-tó",
+                "Ontario-tó"
+            ],
+            "correct_answer": "Guatavita-tó"
+        },
+        {
+            "question": "Milyen hosszú a Michigan-tó?",
+            "answers": [
+                "494 km",
+                "564 km",
+                "422 km"
+            ],
+            "correct_answer": "494 km"
+        },
+        {
+            "question": "Melyik város polgármestere Borkai Zsolt, olimpiai bajnok tornász?",
+            "answers": [
+                "Győr",
+                "Pécs",
+                "Sopron"
+            ],
+            "correct_answer": "Győr"
+        },
+        {
+            "question": "Mi Uruguay fővárosa?",
+            "answers": [
+                "Jereván",
+                "Katmandu",
+                "Montevideo"
+            ],
+            "correct_answer": "Montevideo"
+        },
+        {
+            "question": "Milyen széles a Gibraltári-szoros?",
+            "answers": [
+                "25 km",
+                "28 km",
+                "14 km"
+            ],
+            "correct_answer": "14 km"
+        },
+        {
+            "question": "Melyik az Európai Unió legkisebb tagállama?",
+            "answers": [
+                "Málta",
+                "Ciprus",
+                "Litvánia"
+            ],
+            "correct_answer": "Málta"
+        },
+        {
+            "question": "Melyik Győr legjelentősebb folyója?",
+            "answers": [
+                "Mosoni-Duna",
+                "Bodrog",
+                "Hernád"
+            ],
+            "correct_answer": "Mosoni-Duna"
+        },
+        {
+            "question": "Kik ellen harcoltak a magyarok a Muhi csatában?",
+            "answers": [
+                "törökök",
+                "tatárok",
+                "oszmánok"
+            ],
+            "correct_answer": "tatárok"
+        },
+        {
+            "question": "Milyen építészeti stílusban épült a Magyar Állami Operaház?",
+            "answers": [
+                "szecessziós",
+                "neoreneszánsz",
+                "klasszicista"
+            ],
+            "correct_answer": "neoreneszánsz"
+        },
+        {
+            "question": "Ki jelenleg Svédország királya?",
+            "answers": [
+                "XVI. Károly Gusztáv",
+                "X. Károly Gusztáv",
+                "XII. Gusztáv Károly"
+            ],
+            "correct_answer": "XVI. Károly Gusztáv"
+        },
+        {
+            "question": "Mennyi a legnagyobb mélysége az Atlanti-óceánnak?",
+            "answers": [
+                "8250 m",
+                "8380 m",
+                "7643 m"
+            ],
+            "correct_answer": "8380 m"
+        },
+        {
+            "question": "Melyik városban rendezik a Virágkarnevált?",
+            "answers": [
+                "Tatabányán",
+                "Nyíregyházán",
+                "Debrecenben"
+            ],
+            "correct_answer": "Debrecenben"
+        },
+        {
+            "question": "Melyik országon nem halad keresztül a Duna?",
+            "answers": [
+                "Franciaország",
+                "Szerbia",
+                "Románia"
+            ],
+            "correct_answer": "Franciaország"
+        },
+        {
+            "question": "Melyik megyénkben található Dunapataj?",
+            "answers": [
+                "Békés megyében",
+                "Bács-Kiskun megyében",
+                "Tolna megyében"
+            ],
+            "correct_answer": "Bács-Kiskun megyében"
+        },
+        {
+            "question": "Melyik város volt 2009-ben az Év Települése?",
+            "answers": [
+                "Hódmezővásárhely",
+                "Kaposvár",
+                "Kőszeg"
+            ],
+            "correct_answer": "Hódmezővásárhely"
+        },
+        {
+            "question": "Melyik folyó szeli ketté Csongrád megyét?",
+            "answers": [
+                "Tisza",
+                "Duna",
+                "Maros"
+            ],
+            "correct_answer": "Tisza"
+        },
+        {
+            "question": "Mi Csongrád megye legdélibb települése?",
+            "answers": [
+                "Kübekháza",
+                "Pitvaros",
+                "Deszk"
+            ],
+            "correct_answer": "Kübekháza"
+        },
+        {
+            "question": "Melyik megyében van Siófok?",
+            "answers": [
+                "Somogy",
+                "Zala",
+                "Veszprém"
+            ],
+            "correct_answer": "Somogy"
+        },
+        {
+            "question": "Milyen hosszú a Sió-csatorna?",
+            "answers": [
+                "98 km",
+                "120 km",
+                "150 km"
+            ],
+            "correct_answer": "120 km"
+        },
+        {
+            "question": "Mi Esztergom partnervárosa?",
+            "answers": [
+                "Szekszárd",
+                "Szentes",
+                "Szeged"
+            ],
+            "correct_answer": "Szekszárd"
+        },
+        {
+            "question": "Melyik Nemzeti Park része a Káli-medence?",
+            "answers": [
+                "Balaton-felvidéki",
+                "Bükki",
+                "Kiskunsági"
+            ],
+            "correct_answer": "Balaton-felvidéki"
+        },
+        {
+            "question": "Melyik volt hazánk első nemzeti parkja?",
+            "answers": [
+                "Hortobágyi",
+                "Aggteleki",
+                "Őrségi"
+            ],
+            "correct_answer": "Hortobágyi"
+        },
+        {
+            "question": "Mikor alapították az Őrségi Nemzeti Parkot?",
+            "answers": [
+                "2003-ban",
+                "2002-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2002-ben"
+        },
+        {
+            "question": "Ki a Dunakanyar védőszentje?",
+            "answers": [
+                "Szent Hedvig",
+                "Szent Katalin",
+                "Szent Erzsébet"
+            ],
+            "correct_answer": "Szent Hedvig"
+        },
+        {
+            "question": "Melyik országban van Havasalföld?",
+            "answers": [
+                "Romániában",
+                "Szlovákiában",
+                "Ausztriában"
+            ],
+            "correct_answer": "Romániában"
+        },
+        {
+            "question": "Melyik folyó Magyarország és Horvátország határfolyója?",
+            "answers": [
+                "Dráva",
+                "Száva",
+                "Rába"
+            ],
+            "correct_answer": "Dráva"
+        },
+        {
+            "question": "Melyik tengerben fekszik Jamaica?",
+            "answers": [
+                "Karib-tenger",
+                "Fekete-tenger",
+                "Földközi-tenger"
+            ],
+            "correct_answer": "Karib-tenger"
+        },
+        {
+            "question": "Melyik tenger nem tartozik a Hét tenger közé?",
+            "answers": [
+                "Márvány-tenger",
+                "Adriai-tenger",
+                "Kaszpi-tenger"
+            ],
+            "correct_answer": "Márvány-tenger"
+        },
+        {
+            "question": "Melyik országban van a Márvány-tenger?",
+            "answers": [
+                "Törökországban",
+                "Olaszországban",
+                "Spanyolországban"
+            ],
+            "correct_answer": "Törökországban"
+        },
+        {
+            "question": "Mi Montenegro fővárosa?",
+            "answers": [
+                "Podgorica",
+                "Zágráb",
+                "Szarajevó"
+            ],
+            "correct_answer": "Podgorica"
+        },
+        {
+            "question": "Melyik amerikai város része Hollywood?",
+            "answers": [
+                "Los Angeles",
+                "San Francisco",
+                "New York"
+            ],
+            "correct_answer": "Los Angeles"
+        },
+        {
+            "question": "Melyik amerikai államban van a Grand Canyon?",
+            "answers": [
+                "Arizonában",
+                "Alaszkában",
+                "Alamabában"
+            ],
+            "correct_answer": "Arizonában"
+        },
+        {
+            "question": "Mi a Grand Canyon jelentése?",
+            "answers": [
+                "nagy szurdok",
+                "nagy árok",
+                "nagy völgy"
+            ],
+            "correct_answer": "nagy szurdok"
+        },
+        {
+            "question": "Mettől-meddig tartott az első világháború?",
+            "answers": [
+                "1914-18-ig",
+                "1814-18-ig",
+                "1950-56-ig"
+            ],
+            "correct_answer": "1914-18-ig"
+        },
+        {
+            "question": "Melyik országban van Montreal?",
+            "answers": [
+                "Kanadában",
+                "Spanyolországban",
+                "Olaszországban"
+            ],
+            "correct_answer": "Kanadában"
+        },
+        {
+            "question": "Melyik ország szigete Szicília?",
+            "answers": [
+                "Olaszország",
+                "Franciaország",
+                "Svédország"
+            ],
+            "correct_answer": "Olaszország"
+        },
+        {
+            "question": "Mi San Marino hivatalos nyelve?",
+            "answers": [
+                "olasz",
+                "angol",
+                "francia"
+            ],
+            "correct_answer": "olasz"
+        },
+        {
+            "question": "Melyik nem vulkán?",
+            "answers": [
+                "Murano",
+                "Etna",
+                "Vezúv"
+            ],
+            "correct_answer": "Murano"
+        },
+        {
+            "question": "Mi Malayzia fővárosa?",
+            "answers": [
+                "Kuala Lumpur",
+                "Manila",
+                "Casablanca"
+            ],
+            "correct_answer": "Kuala Lumpur"
+        },
+        {
+            "question": "Melyik országban van Casablanca?",
+            "answers": [
+                "Marokkóban",
+                "Mexikóban",
+                "Mozambikban"
+            ],
+            "correct_answer": "Marokkóban"
+        },
+        {
+            "question": "Mi Győr-Moson-Sopron megye székhelye?",
+            "answers": [
+                "Győr",
+                "Sopron",
+                "Mosonmagyaróvár"
+            ],
+            "correct_answer": "Győr"
+        },
+        {
+            "question": "Melyik várost nevezik a nyugat királynőjének?",
+            "answers": [
+                "Szombathelyt",
+                "Sopront",
+                "Kőszeget"
+            ],
+            "correct_answer": "Szombathelyt"
+        },
+        {
+            "question": "Kőszeg várát ki védte 1532-ben?",
+            "answers": [
+                "Jurisics Miklós",
+                "Zrínyi Miklós",
+                "Dobó István"
+            ],
+            "correct_answer": "Jurisics Miklós"
+        },
+        {
+            "question": "Hány km-re van Debrecentől Hajdúszoboszló?",
+            "answers": [
+                "22 km",
+                "12 km",
+                "45 km"
+            ],
+            "correct_answer": "22 km"
+        },
+        {
+            "question": "Mikor jött létre a Hortobágyi Nemzeti Park?",
+            "answers": [
+                "1973-ban",
+                "1975-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1973-ban"
+        },
+        {
+            "question": "Melyik város az UNESCO központja?",
+            "answers": [
+                "Párizs",
+                "Róma",
+                "Brüsszel"
+            ],
+            "correct_answer": "Párizs"
+        },
+        {
+            "question": "Mi a Baktérítő?",
+            "answers": [
+                "a Föld egyik szélességi köre",
+                "baktériumfajta",
+                "csillagjegy"
+            ],
+            "correct_answer": "a Föld egyik szélességi köre"
+        },
+        {
+            "question": "Melyik a Föld leghosszabb szélességi köre?",
+            "answers": [
+                "Egyenlítő",
+                "Ráktérítő",
+                "Baktérítő"
+            ],
+            "correct_answer": "Egyenlítő"
+        },
+        {
+            "question": "Melyik országon nem halad keresztül az Egyenlítő?",
+            "answers": [
+                "Argentína",
+                "Kenya",
+                "Indonézia"
+            ],
+            "correct_answer": "Argentína"
+        },
+        {
+            "question": "Melyik kontinenshez tartozik Egyenlítői-Guinea?",
+            "answers": [
+                "Afrika",
+                "Amerika",
+                "Ázsia"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Melyik országhoz tartoznak a Galápagos-szigetek?",
+            "answers": [
+                "Ecuadorhoz",
+                "Peruhoz",
+                "Kolumbiához"
+            ],
+            "correct_answer": "Ecuadorhoz"
+        },
+        {
+            "question": "Hány nagyobb szigetből állnak a Galápagos-szigetek?",
+            "answers": [
+                "14",
+                "10",
+                "12"
+            ],
+            "correct_answer": "14"
+        },
+        {
+            "question": "Hol van a Titicaca-tó?",
+            "answers": [
+                "Dél-Amerikában",
+                "Észak-Amerikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Dél-Amerikában"
+        },
+        {
+            "question": "Hányszor nagyobb a Balatonnál a Titicaca-tó?",
+            "answers": [
+                "13x",
+                "10x",
+                "15x"
+            ],
+            "correct_answer": "13x"
+        },
+        {
+            "question": "Melyik a világ legmagasabban fekvő városa?",
+            "answers": [
+                "La Paz",
+                "Sucre",
+                "Lima"
+            ],
+            "correct_answer": "La Paz"
+        },
+        {
+            "question": "Mi Portugália egyetlen szomszédja?",
+            "answers": [
+                "Spanyolország",
+                "Franciaország",
+                "Marokkó"
+            ],
+            "correct_answer": "Spanyolország"
+        },
+        {
+            "question": "Mi választja el Spanyolországot Marokkótól?",
+            "answers": [
+                "Gibraltári-szoros",
+                "Magellán-szoros",
+                "Bering-szoros"
+            ],
+            "correct_answer": "Gibraltári-szoros"
+        },
+        {
+            "question": "Hány km széles a Gibraltári-szoros?",
+            "answers": [
+                "14 km",
+                "10 km",
+                "16 km"
+            ],
+            "correct_answer": "14 km"
+        },
+        {
+            "question": "Miként emlegetik Finnországot?",
+            "answers": [
+                "„Az ezer tó országaként”",
+                "\"Az ezer öböl országaként\"",
+                "\"A száz tó országaként\""
+            ],
+            "correct_answer": "„Az ezer tó országaként”"
+        },
+        {
+            "question": "Melyik ország megyéje Finnmark?",
+            "answers": [
+                "Norvégia",
+                "Finnország",
+                "Svédország"
+            ],
+            "correct_answer": "Norvégia"
+        },
+        {
+            "question": "Melyik tenger mellett fekszik Lettország?",
+            "answers": [
+                "Balti-tenger",
+                "Fekete-tenger",
+                "Adriai-tenger"
+            ],
+            "correct_answer": "Balti-tenger"
+        },
+        {
+            "question": "Melyik ország városa Krakkó?",
+            "answers": [
+                "Lengyelország",
+                "Finnország",
+                "Csehország"
+            ],
+            "correct_answer": "Lengyelország"
+        },
+        {
+            "question": "Mi Szlovákia fővárosa?",
+            "answers": [
+                "Pozsony",
+                "Nagyszombat",
+                "Kassa"
+            ],
+            "correct_answer": "Pozsony"
+        },
+        {
+            "question": "Hol látható a Sixtus-kápolna?",
+            "answers": [
+                "Vatikánban",
+                "Rómában",
+                "Párizsban"
+            ],
+            "correct_answer": "Vatikánban"
+        },
+        {
+            "question": "Melyik a Föld leghosszabb hegysége?",
+            "answers": [
+                "Andok",
+                "Himalája",
+                "Tien-san"
+            ],
+            "correct_answer": "Andok"
+        },
+        {
+            "question": "Hol található a Tien-San hegység?",
+            "answers": [
+                "Közép-Ázsiában",
+                "Dél-Amerikában",
+                "Afrikában"
+            ],
+            "correct_answer": "Közép-Ázsiában"
+        },
+        {
+            "question": "Mi a neve a Sziklás-hegység legmagasabb csúcsának?",
+            "answers": [
+                "Mount Elbert",
+                "Mount Everest",
+                "Mount Blanc"
+            ],
+            "correct_answer": "Mount Elbert"
+        },
+        {
+            "question": "Melyik földrész hegylánca az Alpok?",
+            "answers": [
+                "Európa",
+                "Ázsia",
+                "Észak-Amerika"
+            ],
+            "correct_answer": "Európa"
+        },
+        {
+            "question": "Melyik országban van a Yellowstone Nemzeti Park?",
+            "answers": [
+                "USA-ban",
+                "Kanadában",
+                "Argentínában"
+            ],
+            "correct_answer": "USA-ban"
+        },
+        {
+            "question": "Melyik Európa legnagyobb vulkánja?",
+            "answers": [
+                "Etna",
+                "Vezúv",
+                "Vulcano"
+            ],
+            "correct_answer": "Etna"
+        },
+        {
+            "question": "Melyik megyében van Hollókő?",
+            "answers": [
+                "Nógrád megyében",
+                "Békés megyében",
+                "Vas megyében"
+            ],
+            "correct_answer": "Nógrád megyében"
+        },
+        {
+            "question": "Melyik hegy tetején van a Citadella?",
+            "answers": [
+                "Gellért-hegy",
+                "Széchenyi-hegy",
+                "János-hegy"
+            ],
+            "correct_answer": "Gellért-hegy"
+        },
+        {
+            "question": "Mi a gleccser?",
+            "answers": [
+                "hóból alakult jégtömeg",
+                "jégből alakult árvíz",
+                "vízesés"
+            ],
+            "correct_answer": "hóból alakult jégtömeg"
+        },
+        {
+            "question": "Mi a Budai-hegység legmagasabb pontja?",
+            "answers": [
+                "Nagy-Kopasz",
+                "Kis-Kopasz",
+                "Kutya-hegy"
+            ],
+            "correct_answer": "Nagy-Kopasz"
+        },
+        {
+            "question": "Hány méter magas a János-hegy?",
+            "answers": [
+                "527 m",
+                "657 m",
+                "876 m"
+            ],
+            "correct_answer": "527 m"
+        },
+        {
+            "question": "Mi a Normafa régi neve?",
+            "answers": [
+                "Viharbükk",
+                "Ezüstfa",
+                "Szelesfa"
+            ],
+            "correct_answer": "Viharbükk"
+        },
+        {
+            "question": "Hanyadik kerületben van a Rózsadomb Budapesten?",
+            "answers": [
+                "II. kerületben",
+                "IV. kerületben",
+                "VIII. kerületben"
+            ],
+            "correct_answer": "II. kerületben"
+        },
+        {
+            "question": "Melyik a Föld legnagyobb szigete?",
+            "answers": [
+                "Grönland",
+                "Új-Guinea",
+                "Madagaszkár"
+            ],
+            "correct_answer": "Grönland"
+        },
+        {
+            "question": "Melyik országban található Szumátra szigete?",
+            "answers": [
+                "Indonéziában",
+                "Indiában",
+                "Jordániában"
+            ],
+            "correct_answer": "Indonéziában"
+        },
+        {
+            "question": "Mi Nepál fővárosa?",
+            "answers": [
+                "Katmandu",
+                "Doha",
+                "Manila"
+            ],
+            "correct_answer": "Katmandu"
+        },
+        {
+            "question": "Melyik félszigeten fekszik Egyiptom?",
+            "answers": [
+                "Sínai-félszigeten",
+                "Hindusztáni-félszigeten",
+                "Arab-félszigeten"
+            ],
+            "correct_answer": "Sínai-félszigeten"
+        },
+        {
+            "question": "Melyik a Föld legnagyobb sivataga?",
+            "answers": [
+                "Szahara",
+                "Góbi",
+                "Kalahári"
+            ],
+            "correct_answer": "Szahara"
+        },
+        {
+            "question": "Hány piramisból állnak a Gízai piramisok?",
+            "answers": [
+                "három",
+                "négy",
+                "hat"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "A gízai nagy Szfinx milyen testű lényt ábrázol?",
+            "answers": [
+                "oroszlán",
+                "sas",
+                "bölény"
+            ],
+            "correct_answer": "oroszlán"
+        },
+        {
+            "question": "Labrador félszigete melyik országban van?",
+            "answers": [
+                "Kanadában",
+                "Egyesült Államokban",
+                "Indiában"
+            ],
+            "correct_answer": "Kanadában"
+        },
+        {
+            "question": "Melyik óceánban helyezkedik el Kamcsatka?",
+            "answers": [
+                "Csendes-óceánban",
+                "Atlanti-óceánban",
+                "Indiai-óceánban"
+            ],
+            "correct_answer": "Csendes-óceánban"
+        },
+        {
+            "question": "Mi az Andok legmagasabb pontja?",
+            "answers": [
+                "Aconcagua",
+                "Mahendragiri",
+                "Csomolungma"
+            ],
+            "correct_answer": "Aconcagua"
+        },
+        {
+            "question": "Melyik országot nevezték el Jézus Krisztusról?",
+            "answers": [
+                "El Salvadort",
+                "Ecuadort",
+                "Chilét"
+            ],
+            "correct_answer": "El Salvadort"
+        },
+        {
+            "question": "Hány ország található a Nagy-Antillák szigetein?",
+            "answers": [
+                "öt",
+                "három",
+                "hat"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Melyik kontinens partjainál van a Nagy-korallzátony?",
+            "answers": [
+                "Ausztrália",
+                "Amerika",
+                "Afrika"
+            ],
+            "correct_answer": "Ausztrália"
+        },
+        {
+            "question": "Mi Baranya megye székhelye?",
+            "answers": [
+                "Pécs",
+                "Mohács",
+                "Siklós"
+            ],
+            "correct_answer": "Pécs"
+        },
+        {
+            "question": "Melyik megyében van Hatvan?",
+            "answers": [
+                "Heves",
+                "Fejér",
+                "Somogy"
+            ],
+            "correct_answer": "Heves"
+        },
+        {
+            "question": "Hol látható a Deseda-tó?",
+            "answers": [
+                "Kaposváron",
+                "Szekszárdon",
+                "Dombóváron"
+            ],
+            "correct_answer": "Kaposváron"
+        },
+        {
+            "question": "Hol található az Amazonas-medence?",
+            "answers": [
+                "Dél-Amerikában",
+                "Észak-Amerikában",
+                "Afrikában"
+            ],
+            "correct_answer": "Dél-Amerikában"
+        },
+        {
+            "question": "Mi Haiti egyetlen szárazföldi szomszédja?",
+            "answers": [
+                "Dominikai Köztársaság",
+                "Kuba",
+                "Jamaica"
+            ],
+            "correct_answer": "Dominikai Köztársaság"
+        },
+        {
+            "question": "Melyik zene őshazája Jamaica?",
+            "answers": [
+                "reggae",
+                "soul",
+                "jazz"
+            ],
+            "correct_answer": "reggae"
+        },
+        {
+            "question": "Mi Kolumbia hivatalos nyelve?",
+            "answers": [
+                "spanyol",
+                "angol",
+                "francia"
+            ],
+            "correct_answer": "spanyol"
+        },
+        {
+            "question": "Milyen hosszú az Orinoco folyó Dél-Amerikában?",
+            "answers": [
+                "2140 km",
+                "1130 km",
+                "3340 km"
+            ],
+            "correct_answer": "2140 km"
+        },
+        {
+            "question": "Mi Ciprus fővárosa?",
+            "answers": [
+                "Nicosia",
+                "Manila",
+                "Szöul"
+            ],
+            "correct_answer": "Nicosia"
+        },
+        {
+            "question": "Mi Burma mai neve?",
+            "answers": [
+                "Mianmar",
+                "Malajzia",
+                "Laosz"
+            ],
+            "correct_answer": "Mianmar"
+        },
+        {
+            "question": "Mit jelent Ulánbátor, Mongólia fővárosának neve?",
+            "answers": [
+                "vörös hős",
+                "vörös harcos",
+                "fekete angyal"
+            ],
+            "correct_answer": "vörös hős"
+        },
+        {
+            "question": "Melyik kontinenshez tartoznak a Kókusz-szigetek?",
+            "answers": [
+                "Ausztráliához",
+                "Ázsiához",
+                "Afrikához"
+            ],
+            "correct_answer": "Ausztráliához"
+        },
+        {
+            "question": "Melyik országban van a Gyöngy-folyó?",
+            "answers": [
+                "Kínában",
+                "Japánban",
+                "Indiában"
+            ],
+            "correct_answer": "Kínában"
+        },
+        {
+            "question": "Mennyi Budapest lakossága?",
+            "answers": [
+                "1,7 millió fő",
+                "500 ezer fő",
+                "1,2 millió fő"
+            ],
+            "correct_answer": "1,7 millió fő"
+        },
+        {
+            "question": "Milyen hosszú a Lánchíd Budapesten?",
+            "answers": [
+                "380m",
+                "260m",
+                "480m"
+            ],
+            "correct_answer": "380m"
+        },
+        {
+            "question": "Mikor volt a kiegyezés?",
+            "answers": [
+                "1867-ben",
+                "1877-ben",
+                "1856-ban"
+            ],
+            "correct_answer": "1867-ben"
+        },
+        {
+            "question": "Kit száműztek 1815-ben Szent-Ilona szigetére?",
+            "answers": [
+                "Napoleont",
+                "V. Ferdinándot",
+                "Garibaldit"
+            ],
+            "correct_answer": "Napoleont"
+        },
+        {
+            "question": "Mi a Himalája szó jelentése?",
+            "answers": [
+                "\"a hó hazája\"",
+                "\"a jég birodalma\"",
+                "\" a hegyek ura\""
+            ],
+            "correct_answer": "\"a hó hazája\""
+        },
+        {
+            "question": "Melyik a Föld második legmagasabb hegycsúcsa?",
+            "answers": [
+                "K2",
+                "Huascarán",
+                "Aconcagua"
+            ],
+            "correct_answer": "K2"
+        },
+        {
+            "question": "Hány négyzetkilométer a Yellowstone Nemzeti Park az USA-ban?",
+            "answers": [
+                "8980",
+                "5670",
+                "9856"
+            ],
+            "correct_answer": "8980"
+        },
+        {
+            "question": "Melyik Magyarország legmagasabb hegysége?",
+            "answers": [
+                "Mátra",
+                "Bükk",
+                "Börzsöny"
+            ],
+            "correct_answer": "Mátra"
+        },
+        {
+            "question": "Melyik hegységünk csúcsa Írott-kő?",
+            "answers": [
+                "Kőszegi-hegység",
+                "Zempléni-hegység",
+                "Börzsöny"
+            ],
+            "correct_answer": "Kőszegi-hegység"
+        },
+        {
+            "question": "Mi a Mecsek legmagasabb csúcsa?",
+            "answers": [
+                "Zengő",
+                "Csóványos",
+                "Istállós-kő"
+            ],
+            "correct_answer": "Zengő"
+        },
+        {
+            "question": "Melyik pápa kezdeményezésére jött létre a Szent Liga?",
+            "answers": [
+                "V. Piusz pápa",
+                "IV. Piusz pápa",
+                "V. Sixtus pápa"
+            ],
+            "correct_answer": "V. Piusz pápa"
+        },
+        {
+            "question": "Melyik ország határolja nyugaton Indiát?",
+            "answers": [
+                "Pakisztán",
+                "Kína",
+                "Nepál"
+            ],
+            "correct_answer": "Pakisztán"
+        },
+        {
+            "question": "Melyik a világ legnagyobb öble?",
+            "answers": [
+                "Bengáli-öböl",
+                "Mexikói-öböl",
+                "Perzsa-öböl"
+            ],
+            "correct_answer": "Bengáli-öböl"
+        },
+        {
+            "question": "Melyik hegység egyik hegycsúcsa a Matterhorn?",
+            "answers": [
+                "Alpok",
+                "Andok",
+                "Himalája"
+            ],
+            "correct_answer": "Alpok"
+        },
+        {
+            "question": "Hány km hosszú a Kebele-patak?",
+            "answers": [
+                "33 km",
+                "11 km",
+                "42 km"
+            ],
+            "correct_answer": "33 km"
+        },
+        {
+            "question": "Melyik megyében van Pannonhalma?",
+            "answers": [
+                "Győr-Moson-Sopron",
+                "Jász-Nagykun-Szolnok",
+                "Borsod-Abaúj-Zemplén"
+            ],
+            "correct_answer": "Győr-Moson-Sopron"
+        },
+        {
+            "question": "Melyik folyó mellékfolyója a Hernád?",
+            "answers": [
+                "Sajó",
+                "Bodrog",
+                "Tisza"
+            ],
+            "correct_answer": "Sajó"
+        },
+        {
+            "question": "Mi a sárospataki vár másik elnevezése?",
+            "answers": [
+                "Rákóczi-vár",
+                "Zrínyi-vár",
+                "Thököly-vár"
+            ],
+            "correct_answer": "Rákóczi-vár"
+        },
+        {
+            "question": "Hány országon halad át a Duna?",
+            "answers": [
+                "10",
+                "12",
+                "18"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Melyik nem a Kisalföld régi elnevezése?",
+            "answers": [
+                "Soproni-medence",
+                "Pozsonyi-medence",
+                "Győri-medence"
+            ],
+            "correct_answer": "Soproni-medence"
+        },
+        {
+            "question": "Hány négyzetkilóméter a Kisalföld teljes területe?",
+            "answers": [
+                "9000",
+                "4000",
+                "3000"
+            ],
+            "correct_answer": "9000"
+        },
+        {
+            "question": "Melyik városban található a Victor Vasarely Múzeum?",
+            "answers": [
+                "Pécsen",
+                "Miskolcon",
+                "Szegeden"
+            ],
+            "correct_answer": "Pécsen"
+        },
+        {
+            "question": "Melyik város nem Szabolcs-Szatmár-Bereg megyében van?",
+            "answers": [
+                "Szécsény",
+                "Máriapócs",
+                "Baktalórántháza"
+            ],
+            "correct_answer": "Szécsény"
+        },
+        {
+            "question": "Melyik amerikai államban van az Alcatraz-sziget?",
+            "answers": [
+                "Kalifornia",
+                "Arizona",
+                "Texas"
+            ],
+            "correct_answer": "Kalifornia"
+        },
+        {
+            "question": "Hány méter a teljes hosszúsága a Golden Gate hídnak?",
+            "answers": [
+                "2737 m",
+                "1625 m",
+                "2678 m"
+            ],
+            "correct_answer": "2737 m"
+        },
+        {
+            "question": "Melyik bankjegy hátoldalán látható a Sárospataki vár?",
+            "answers": [
+                "500 Ft-os",
+                "1000 Ft-os",
+                "200 Ft-os"
+            ],
+            "correct_answer": "500 Ft-os"
+        },
+        {
+            "question": "Mi Bács-Kiskun megye székhelye?",
+            "answers": [
+                "Kecskemét",
+                "Kiskunfélegyháza",
+                "Kiskunhalas"
+            ],
+            "correct_answer": "Kecskemét"
+        },
+        {
+            "question": "Melyik városunkban található a Csonka-torony?",
+            "answers": [
+                "Dunaföldváron",
+                "Szekszárdon",
+                "Dombóváron"
+            ],
+            "correct_answer": "Dunaföldváron"
+        },
+        {
+            "question": "Mi volt Srí Lanka régi elnevezése?",
+            "answers": [
+                "Ceylon",
+                "Burma",
+                "Colombo"
+            ],
+            "correct_answer": "Ceylon"
+        },
+        {
+            "question": "Mit jelent magyarul a Srí Lanka elnevezés?",
+            "answers": [
+                "\"Fényességes sziget\"",
+                "\"Gyönyörűséges sziget\"",
+                "\"Napsugaras sziget\""
+            ],
+            "correct_answer": "\"Fényességes sziget\""
+        },
+        {
+            "question": "Melyik király korában élt Janus Pannonius?",
+            "answers": [
+                "Mátyás király",
+                "II. Ulászló",
+                "II. Lajos"
+            ],
+            "correct_answer": "Mátyás király"
+        },
+        {
+            "question": "Melyik városban van az 56-os Múzeum?",
+            "answers": [
+                "Kiskunmajsán",
+                "Kiskunfélegyházán",
+                "Kiskőrösön"
+            ],
+            "correct_answer": "Kiskunmajsán"
+        },
+        {
+            "question": "Melyik ország határolja északról Nógrád megyét?",
+            "answers": [
+                "Szlovákia",
+                "Szlovénia",
+                "Ausztria"
+            ],
+            "correct_answer": "Szlovákia"
+        },
+        {
+            "question": "Milyen hosszú a Kárpátok?",
+            "answers": [
+                "1500 km",
+                "800 km",
+                "2600 km"
+            ],
+            "correct_answer": "1500 km"
+        },
+        {
+            "question": "Melyik skálán mérik a szél sebességét?",
+            "answers": [
+                "Beaufort-skálán",
+                "Scoville-skálán",
+                "Richter-skálán"
+            ],
+            "correct_answer": "Beaufort-skálán"
+        },
+        {
+            "question": "Mi a tornádó?",
+            "answers": [
+                "forgószél",
+                "betegség",
+                "édesség"
+            ],
+            "correct_answer": "forgószél"
+        },
+        {
+            "question": "Melyik országhoz tartozik Korzika szigete?",
+            "answers": [
+                "Franciaország",
+                "Spanyolország",
+                "Olaszország"
+            ],
+            "correct_answer": "Franciaország"
+        },
+        {
+            "question": "Mi volt Thaiföld régi neve?",
+            "answers": [
+                "Sziám",
+                "Burma",
+                "Colombo"
+            ],
+            "correct_answer": "Sziám"
+        },
+        {
+            "question": "Melyik ország szigete Ibiza?",
+            "answers": [
+                "Spanyolország",
+                "Olaszország",
+                "Franciaország"
+            ],
+            "correct_answer": "Spanyolország"
+        },
+        {
+            "question": "Mi Hawaii állam székhelye?",
+            "answers": [
+                "Honolulu",
+                "Atlanta",
+                "Denver"
+            ],
+            "correct_answer": "Honolulu"
+        },
+        {
+            "question": "Melyik amerikai államban van Miami?",
+            "answers": [
+                "Florida",
+                "Kalifornia",
+                "Idaho"
+            ],
+            "correct_answer": "Florida"
+        },
+        {
+            "question": "Melyik város van Kalifornia államban?",
+            "answers": [
+                "San Francisco",
+                "Seattle",
+                "Las Vegas"
+            ],
+            "correct_answer": "San Francisco"
+        },
+        {
+            "question": "Melyik folyó táplálja a Balatont?",
+            "answers": [
+                "Zala-folyó",
+                "Mura",
+                "Sió"
+            ],
+            "correct_answer": "Zala-folyó"
+        },
+        {
+            "question": "Melyik megye területén van Göcsej?",
+            "answers": [
+                "Zala",
+                "Békés",
+                "Heves"
+            ],
+            "correct_answer": "Zala"
+        },
+        {
+            "question": "Melyik magyar hegymászó mászta meg a Csomolungmát?",
+            "answers": [
+                "Erőss Zsolt",
+                "Lukács Attila",
+                "Horváth Tibor"
+            ],
+            "correct_answer": "Erőss Zsolt"
+        },
+        {
+            "question": "Melyik ország nem tartozik a skandináv államok közé?",
+            "answers": [
+                "Svájc",
+                "Dánia",
+                "Norvégia"
+            ],
+            "correct_answer": "Svájc"
+        },
+        {
+            "question": "Melyik országban van a Ladoga-tó?",
+            "answers": [
+                "Oroszországban",
+                "Franciaországban",
+                "Finnországban"
+            ],
+            "correct_answer": "Oroszországban"
+        },
+        {
+            "question": "Mi Finnország fővárosa?",
+            "answers": [
+                "Helsinki",
+                "Oslo",
+                "Athén"
+            ],
+            "correct_answer": "Helsinki"
+        },
+        {
+            "question": "Melyik tenger nyúlványa a Botteni-öböl?",
+            "answers": [
+                "Balti-tenger",
+                "Adriai-tenger",
+                "Fekete-tenger"
+            ],
+            "correct_answer": "Balti-tenger"
+        },
+        {
+            "question": "Milyen magas a Kab-hegy?",
+            "answers": [
+                "599 m",
+                "645 m",
+                "720 m"
+            ],
+            "correct_answer": "599 m"
+        },
+        {
+            "question": "Mi Banglades hivatalos nyelve?",
+            "answers": [
+                "bengáli",
+                "portugál",
+                "arab"
+            ],
+            "correct_answer": "bengáli"
+        },
+        {
+            "question": "Hol található a Planetárium Budapesten?",
+            "answers": [
+                "Népligetben",
+                "Városligetben",
+                "Margit-szigeten"
+            ],
+            "correct_answer": "Népligetben"
+        },
+        {
+            "question": "Milyen hosszú a Szuezi-csatorna?",
+            "answers": [
+                "163 km",
+                "198 km",
+                "234 km"
+            ],
+            "correct_answer": "163 km"
+        },
+        {
+            "question": "Mikor adták át a Megyeri-hidat Budapesten?",
+            "answers": [
+                "2008. szept. 30-án",
+                "2009. szept. 1-én",
+                "2010. aug. 20-án"
+            ],
+            "correct_answer": "2008. szept. 30-án"
+        },
+        {
+            "question": "Budapest hanyadik kerületében van a Budavári Palota?",
+            "answers": [
+                "I. kerületben",
+                "III. kerületben",
+                "VII. kerületben"
+            ],
+            "correct_answer": "I. kerületben"
+        },
+        {
+            "question": "Mi Szabolcs-Szatmár-Bereg megye székhelye?",
+            "answers": [
+                "Nyíregyháza",
+                "Debrecen",
+                "Miskolc"
+            ],
+            "correct_answer": "Nyíregyháza"
+        },
+        {
+            "question": "Melyik megyében van Mezőkövesd?",
+            "answers": [
+                "Borsod-Abaúj-Zemplén megye",
+                "Jász-Nagykun-Szolnok megye",
+                "Komárom-Esztergom megye"
+            ],
+            "correct_answer": "Borsod-Abaúj-Zemplén megye"
+        },
+        {
+            "question": "Melyik ország határolja északról Nógrád-megyét?",
+            "answers": [
+                "Szlovákia",
+                "Szlovénia",
+                "Ausztria"
+            ],
+            "correct_answer": "Szlovákia"
+        },
+        {
+            "question": "Milyen magas a Galya-tető?",
+            "answers": [
+                "965 m",
+                "887 m",
+                "910 m"
+            ],
+            "correct_answer": "965 m"
+        },
+        {
+            "question": "Melyik megyében van a siroki vár?",
+            "answers": [
+                "Heves",
+                "Zala",
+                "Somogy"
+            ],
+            "correct_answer": "Heves"
+        },
+        {
+            "question": "Melyik folyó mellékfolyója a Zagyva?",
+            "answers": [
+                "Tisza",
+                "Duna",
+                "Dráva"
+            ],
+            "correct_answer": "Tisza"
+        },
+        {
+            "question": "Melyik ország folyója még Magyarországon kívűl a Dráva?",
+            "answers": [
+                "Horvátország",
+                "Montenegro",
+                "Szlovénia"
+            ],
+            "correct_answer": "Horvátország"
+        },
+        {
+            "question": "Melyik amerikai államban van Portland?",
+            "answers": [
+                "Oregon",
+                "Oklahoma",
+                "Arizona"
+            ],
+            "correct_answer": "Oregon"
+        },
+        {
+            "question": "Melyik amerikai államban van egy Budapest nevű település?",
+            "answers": [
+                "Georgiában",
+                "Nebraskában",
+                "Minnesotában"
+            ],
+            "correct_answer": "Georgiában"
+        },
+        {
+            "question": "Melyik amerikai városban van a John F. Kennedy nemzetközi repülőtér?",
+            "answers": [
+                "New Yorkban",
+                "Los Angelesben",
+                "Dallasban"
+            ],
+            "correct_answer": "New Yorkban"
+        },
+        {
+            "question": "Hány méter az Eiffel-torony?",
+            "answers": [
+                "324 m",
+                "675 m",
+                "134 m"
+            ],
+            "correct_answer": "324 m"
+        },
+        {
+            "question": "Melyik városban akarták eredetileg felépíteni az Eiffel-tornyot?",
+            "answers": [
+                "Barcelonában",
+                "Lyonban",
+                "Madridban"
+            ],
+            "correct_answer": "Barcelonában"
+        },
+        {
+            "question": "Milyen magas a párizsi Diadalív?",
+            "answers": [
+                "50 m",
+                "75 m",
+                "167 m"
+            ],
+            "correct_answer": "50 m"
+        },
+        {
+            "question": "Melyik király rezidenciája volt a versailles-i kastély?",
+            "answers": [
+                "XIV. Lajos",
+                "XV. Lajos",
+                "XIII. Lajos"
+            ],
+            "correct_answer": "XIV. Lajos"
+        },
+        {
+            "question": "Melyik országgal határos Monaco?",
+            "answers": [
+                "Franciaországgal",
+                "Németországgal",
+                "Olaszországgal"
+            ],
+            "correct_answer": "Franciaországgal"
+        },
+        {
+            "question": "Melyik két szín van Spanyolország zászlajában?",
+            "answers": [
+                "sárga és piros",
+                "zöld és kék",
+                "fekete és piros"
+            ],
+            "correct_answer": "sárga és piros"
+        },
+        {
+            "question": "Melyik tenger öble a Tarantói-öböl?",
+            "answers": [
+                "Jón-tenger",
+                "Fekete-tenger",
+                "Adriai-tenger"
+            ],
+            "correct_answer": "Jón-tenger"
+        },
+        {
+            "question": "Melyik tenger határolja északon Európát?",
+            "answers": [
+                "Jeges-tenger",
+                "Földközi-tenger",
+                "Fekete-tenger"
+            ],
+            "correct_answer": "Jeges-tenger"
+        },
+        {
+            "question": "Hány ország van Európában?",
+            "answers": [
+                "50",
+                "44",
+                "32"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Milyen hosszú a Volga folyó?",
+            "answers": [
+                "3960 km",
+                "3450 km",
+                "3245 km"
+            ],
+            "correct_answer": "3960 km"
+        },
+        {
+            "question": "Mi a trópusi ciklon neve a Távol-Keleten?",
+            "answers": [
+                "Tájfun",
+                "Hurrikán",
+                "Tornádó"
+            ],
+            "correct_answer": "Tájfun"
+        },
+        {
+            "question": "Honnan fúj a Sirokkó szélfajta?",
+            "answers": [
+                "Észak-Afrikából",
+                "Spanyolországból",
+                "Ausztráliából"
+            ],
+            "correct_answer": "Észak-Afrikából"
+        },
+        {
+            "question": "Hány kerület van Budapesten?",
+            "answers": [
+                "23",
+                "20",
+                "16"
+            ],
+            "correct_answer": "23"
+        },
+        {
+            "question": "Melyik folyó osztja két részre Budapestet?",
+            "answers": [
+                "Duna",
+                "Tisza",
+                "Maros"
+            ],
+            "correct_answer": "Duna"
+        },
+        {
+            "question": "Milyen hosszú a Margit-híd?",
+            "answers": [
+                "607 m",
+                "380 m",
+                "456 m"
+            ],
+            "correct_answer": "607 m"
+        },
+        {
+            "question": "Mikor épült a budapesti Libegő?",
+            "answers": [
+                "1970-ben",
+                "1980-ban",
+                "1990-ben"
+            ],
+            "correct_answer": "1970-ben"
+        },
+        {
+            "question": "Melyik kontinensen van a Kilimandzsáró?",
+            "answers": [
+                "Afrikában",
+                "Amerikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Hányszor nagyobb a Szahara sivatag hazánknál?",
+            "answers": [
+                "90-szer",
+                "60-szor",
+                "40-szer"
+            ],
+            "correct_answer": "90-szer"
+        },
+        {
+            "question": "Hány ország területén halad keresztül a Nílus folyó?",
+            "answers": [
+                "11",
+                "9",
+                "10"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Mit jelent magyarul a Nílus szó?",
+            "answers": [
+                "folyóvölgy",
+                "kék folyó",
+                "nagy folyó"
+            ],
+            "correct_answer": "folyóvölgy"
+        },
+        {
+            "question": "Milyen hosszú Afrikában a Tanganyika-tó?",
+            "answers": [
+                "673 km",
+                "567 km",
+                "698 km"
+            ],
+            "correct_answer": "673 km"
+        },
+        {
+            "question": "Melyik amerikai államból ered a Rio Grande folyó?",
+            "answers": [
+                "Colorado",
+                "Kalifornia",
+                "Oklahoma"
+            ],
+            "correct_answer": "Colorado"
+        },
+        {
+            "question": "Milyen hosszú az Egyenlítő?",
+            "answers": [
+                "40 ezer km",
+                "10 ezer km",
+                "60 ezer km"
+            ],
+            "correct_answer": "40 ezer km"
+        },
+        {
+            "question": "Melyik országban van a pisai ferde torony?",
+            "answers": [
+                "Olaszországban",
+                "Franciaországban",
+                "Spanyolországban"
+            ],
+            "correct_answer": "Olaszországban"
+        },
+        {
+            "question": "Hány emelete van a pisai ferde toronynak?",
+            "answers": [
+                "8",
+                "5",
+                "12"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik megyében van Szigetköz?",
+            "answers": [
+                "Győr-Moson-Sopron",
+                "Szabolcs-Szatmár-Bereg",
+                "Komárom-Esztergom"
+            ],
+            "correct_answer": "Győr-Moson-Sopron"
+        },
+        {
+            "question": "Melyik király katonája volt Búvár Kund?",
+            "answers": [
+                "I. András",
+                "IV. Béla",
+                "I. Béla"
+            ],
+            "correct_answer": "I. András"
+        },
+        {
+            "question": "Mi a Viharsarok?",
+            "answers": [
+                "magyar tájegység neve",
+                "az a hely ahol sok a vihar",
+                "Észarki sark része"
+            ],
+            "correct_answer": "magyar tájegység neve"
+        },
+        {
+            "question": "Hány főből áll Vatikán népessége?",
+            "answers": [
+                "793",
+                "2345",
+                "234"
+            ],
+            "correct_answer": "793"
+        },
+        {
+            "question": "Hol található a Sixtus-kápolna?",
+            "answers": [
+                "Vatikánban",
+                "Rómában",
+                "Monacoban"
+            ],
+            "correct_answer": "Vatikánban"
+        },
+        {
+            "question": "Milyen magas a Colosseum?",
+            "answers": [
+                "48,5 m",
+                "65,8 m",
+                "22,5 m"
+            ],
+            "correct_answer": "48,5 m"
+        },
+        {
+            "question": "Mi a neve a londoni Westminster-palota toronyórája harangjának?",
+            "answers": [
+                "Big Ben",
+                "Big Mac",
+                "Big Belli"
+            ],
+            "correct_answer": "Big Ben"
+        },
+        {
+            "question": "Mi a London Eye másik elnevezése?",
+            "answers": [
+                "Millenniumi Kerék",
+                "Óriáskerék",
+                "London kerék"
+            ],
+            "correct_answer": "Millenniumi Kerék"
+        },
+        {
+            "question": "Hány fülkéből áll a London Eye?",
+            "answers": [
+                "32",
+                "50",
+                "26"
+            ],
+            "correct_answer": "32"
+        },
+        {
+            "question": "Melyik városban látható a Prado?",
+            "answers": [
+                "Madridban",
+                "Londonban",
+                "Rómában"
+            ],
+            "correct_answer": "Madridban"
+        },
+        {
+            "question": "Mi a déli-sarkvidék neve?",
+            "answers": [
+                "Antarktisz",
+                "Arktisz",
+                "Grönland"
+            ],
+            "correct_answer": "Antarktisz"
+        },
+        {
+            "question": "Milyen állat van Grönland címerén?",
+            "answers": [
+                "jegesmedve",
+                "fóka",
+                "delfin"
+            ],
+            "correct_answer": "jegesmedve"
+        },
+        {
+            "question": "Melyik a Föld második legnagyobb kontinense?",
+            "answers": [
+                "Afrika",
+                "Ázsia",
+                "Európa"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Hol van a Tűzföld?",
+            "answers": [
+                "Dél-Amerikában",
+                "Dél-Afrikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Dél-Amerikában"
+        },
+        {
+            "question": "Milyen hosszú a Magellán-szoros?",
+            "answers": [
+                "570 km",
+                "430 km",
+                "1024 km"
+            ],
+            "correct_answer": "570 km"
+        },
+        {
+            "question": "Melyik községbe született Kossuth Lajos?",
+            "answers": [
+                "Monok",
+                "Mikóháza",
+                "Mezőnyárád"
+            ],
+            "correct_answer": "Monok"
+        },
+        {
+            "question": "Minek a neve a Farkaslyuk?",
+            "answers": [
+                "község",
+                "hegy",
+                "folyó"
+            ],
+            "correct_answer": "község"
+        },
+        {
+            "question": "Melyik országban van az Altamira-barlang?",
+            "answers": [
+                "Spanyolországban",
+                "Franciaországban",
+                "Olaszországban"
+            ],
+            "correct_answer": "Spanyolországban"
+        },
+        {
+            "question": "Melyik városban van a Fehér-ház?",
+            "answers": [
+                "Washingtonban",
+                "Atlantában",
+                "Las-Vegasban"
+            ],
+            "correct_answer": "Washingtonban"
+        },
+        {
+            "question": "Milyen alakú a Pentagon?",
+            "answers": [
+                "ötszög",
+                "hatszög",
+                "nyolcszög"
+            ],
+            "correct_answer": "ötszög"
+        },
+        {
+            "question": "Mi a Kék Mauritius?",
+            "answers": [
+                "bélyeg",
+                "kőzet",
+                "öböl"
+            ],
+            "correct_answer": "bélyeg"
+        },
+        {
+            "question": "Hány méter magas a London Eye?",
+            "answers": [
+                "135 m",
+                "235 m",
+                "567 m"
+            ],
+            "correct_answer": "135 m"
+        },
+        {
+            "question": "Milyen hosszú a Balaton?",
+            "answers": [
+                "77 km",
+                "120 km",
+                "56 km"
+            ],
+            "correct_answer": "77 km"
+        },
+        {
+            "question": "Melyik országban van Karlstad?",
+            "answers": [
+                "Svédországban",
+                "Olaszországban",
+                "Norvégiában"
+            ],
+            "correct_answer": "Svédországban"
+        },
+        {
+            "question": "Melyik országban van a Stonehenge?",
+            "answers": [
+                "Nagy-Britanniában",
+                "Franciaországban",
+                "Olaszországban"
+            ],
+            "correct_answer": "Nagy-Britanniában"
+        },
+        {
+            "question": "Milyen hosszú a Tisza magyarországi szakasza?",
+            "answers": [
+                "585 km",
+                "789 km",
+                "234 km"
+            ],
+            "correct_answer": "585 km"
+        },
+        {
+            "question": "Melyik folyó mellékvize a Tarna?",
+            "answers": [
+                "Zagyva",
+                "Hernád",
+                "Sajó"
+            ],
+            "correct_answer": "Zagyva"
+        },
+        {
+            "question": "Melyik kontinensen élnek a busmanok?",
+            "answers": [
+                "Afrikában",
+                "Amerikában",
+                "Ausztráliában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Melyik két színből áll Ausztria zászlaja?",
+            "answers": [
+                "piros és fehér",
+                "zöld és kék",
+                "piros és kék"
+            ],
+            "correct_answer": "piros és fehér"
+        },
+        {
+            "question": "Melyik ország a világ legnagyobb kávétermelője?",
+            "answers": [
+                "Brazília",
+                "Indonézia",
+                "Kuba"
+            ],
+            "correct_answer": "Brazília"
+        },
+        {
+            "question": "Milyen szín nincs Franciaország zászlajában?",
+            "answers": [
+                "sárga",
+                "kék",
+                "piros"
+            ],
+            "correct_answer": "sárga"
+        },
+        {
+            "question": "Melyik félszigeten fekszik Montenegro?",
+            "answers": [
+                "Balkán-félszigeten",
+                "Appennini-félszigeten",
+                "Skandináv-félszigeten"
+            ],
+            "correct_answer": "Balkán-félszigeten"
+        },
+        {
+            "question": "Hány vulkán található Kamcsatka területén?",
+            "answers": [
+                "160",
+                "340",
+                "59"
+            ],
+            "correct_answer": "160"
+        },
+        {
+            "question": "Melyik településen épül fel az ország legnagyobb betleheme?",
+            "answers": [
+                "Vörsön",
+                "Kehidakustányban",
+                "Rinyabesenyőn"
+            ],
+            "correct_answer": "Vörsön"
+        },
+        {
+            "question": "Melyik kontinensen van Peru?",
+            "answers": [
+                "Amerika",
+                "Ázsia",
+                "Afrika"
+            ],
+            "correct_answer": "Amerika"
+        },
+        {
+            "question": "Melyik szín nem található meg Finnország zászlajában?",
+            "answers": [
+                "piros",
+                "kék",
+                "fehér"
+            ],
+            "correct_answer": "piros"
+        },
+        {
+            "question": "Hány kerület van New Yorkban?",
+            "answers": [
+                "5",
+                "6",
+                "13"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Milyen hosszú a Fogarasi-havasok?",
+            "answers": [
+                "70 km",
+                "100 km",
+                "450 km"
+            ],
+            "correct_answer": "70 km"
+        },
+        {
+            "question": "Melyik ország zászlaja a fehér alapon, piros kör?",
+            "answers": [
+                "Japán",
+                "Kína",
+                "Libanon"
+            ],
+            "correct_answer": "Japán"
+        },
+        {
+            "question": "Melyik országban kerül átadásra a Nobel-békedíj?",
+            "answers": [
+                "Norvégiában",
+                "Franciaországban",
+                "Svédországban"
+            ],
+            "correct_answer": "Norvégiában"
+        },
+        {
+            "question": "Melyik ország zászlaja nem két színből áll?",
+            "answers": [
+                "Németország",
+                "Svájc",
+                "Kanada"
+            ],
+            "correct_answer": "Németország"
+        },
+        {
+            "question": "Hol van Genova?",
+            "answers": [
+                "Olaszországban",
+                "Franciaországban",
+                "Dániában"
+            ],
+            "correct_answer": "Olaszországban"
+        },
+        {
+            "question": "Melyik megyében van Solymár?",
+            "answers": [
+                "Pest",
+                "Zala",
+                "Fejér"
+            ],
+            "correct_answer": "Pest"
+        },
+        {
+            "question": "Hány országra terjed ki az Alföld?",
+            "answers": [
+                "5",
+                "4",
+                "8"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Melyik sziget neve volt régebben Formosa?",
+            "answers": [
+                "Tajvan",
+                "Szumátra",
+                "Borneó"
+            ],
+            "correct_answer": "Tajvan"
+        },
+        {
+            "question": "Melyik a Föld második legnagyobb szigete?",
+            "answers": [
+                "Új-Guinea",
+                "Madagszkár",
+                "Izland"
+            ],
+            "correct_answer": "Új-Guinea"
+        },
+        {
+            "question": "Mekkora a Duna magyarországi szakaszának a hossza?",
+            "answers": [
+                "417 km",
+                "658 km",
+                "876 km"
+            ],
+            "correct_answer": "417 km"
+        },
+        {
+            "question": "Melyik országhoz tartozik a Bermuda szigetcsoport?",
+            "answers": [
+                "Nagy-Britannia",
+                "Izland",
+                "Dánia"
+            ],
+            "correct_answer": "Nagy-Britannia"
+        },
+        {
+            "question": "Melyik hurrikán okozott 2005-ben nagy károkat?",
+            "answers": [
+                "Katrina",
+                "Hanna",
+                "Jenny"
+            ],
+            "correct_answer": "Katrina"
+        },
+        {
+            "question": "Mióta az Egyesült Királyság királynője II. Erzsébet?",
+            "answers": [
+                "1952",
+                "1987",
+                "1968"
+            ],
+            "correct_answer": "1952"
+        },
+        {
+            "question": "Melyik tó nem az afrikai Nagy-Tavak egyike?",
+            "answers": [
+                "Ontario-tó",
+                "Tanganyika-tó",
+                "Viktória-tó"
+            ],
+            "correct_answer": "Ontario-tó"
+        },
+        {
+            "question": "Melyik tengeren fekszik Ibiza?",
+            "answers": [
+                "Földközi-tengeren",
+                "Fekete-tengeren",
+                "Balti-tengeren"
+            ],
+            "correct_answer": "Földközi-tengeren"
+        },
+        {
+            "question": "Melyik folyón van a Vaskapu-szoros?",
+            "answers": [
+                "Dunán",
+                "Tiszán",
+                "Dráván"
+            ],
+            "correct_answer": "Dunán"
+        },
+        {
+            "question": "Melyik tengerben fekszik a Kis-Antillák szigetcsoport?",
+            "answers": [
+                "Karib-tengerben",
+                "Földközi-tengerben",
+                "Adriai-tengerben"
+            ],
+            "correct_answer": "Karib-tengerben"
+        },
+        {
+            "question": "Mi Zimbabwe fővárosa?",
+            "answers": [
+                "Harare",
+                "Maputo",
+                "Dodoma"
+            ],
+            "correct_answer": "Harare"
+        },
+        {
+            "question": "Hol található a Machu Picchu?",
+            "answers": [
+                "Peruban",
+                "Bolíviában",
+                "Brazíliában"
+            ],
+            "correct_answer": "Peruban"
+        },
+        {
+            "question": "Melyik ország része a Vajdaság?",
+            "answers": [
+                "Szerbia",
+                "Horvátország",
+                "Románia"
+            ],
+            "correct_answer": "Szerbia"
+        },
+        {
+            "question": "Melyik két ország folyója a Kraszna?",
+            "answers": [
+                "Magyarország és Románia",
+                "Szerbia és Magyarország",
+                "Románia és Ukrajna"
+            ],
+            "correct_answer": "Magyarország és Románia"
+        },
+        {
+            "question": "Melyik megyében van Kocsord?",
+            "answers": [
+                "Szabolcs-Szatmár-Bereg megyében",
+                "Győr-Moson-Sopron megyében",
+                "Borsod-Abaúj-Zemplén megyében"
+            ],
+            "correct_answer": "Szabolcs-Szatmár-Bereg megyében"
+        },
+        {
+            "question": "Melyik városban van a schönbrunni kastély?",
+            "answers": [
+                "Bécsben",
+                "Madridban",
+                "Brüsszelben"
+            ],
+            "correct_answer": "Bécsben"
+        },
+        {
+            "question": "Melyik király zarándoklatát nevezzük Canossa-járásnak?",
+            "answers": [
+                "IV. Henrik",
+                "III. Henrik",
+                "V. Henrik"
+            ],
+            "correct_answer": "IV. Henrik"
+        },
+        {
+            "question": "Hány színből áll Hollandia zászlaja?",
+            "answers": [
+                "három",
+                "kettő",
+                "öt"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Mi határolja keletről Argentinát?",
+            "answers": [
+                "Atlanti-óceán",
+                "Bolívia",
+                "Brazília"
+            ],
+            "correct_answer": "Atlanti-óceán"
+        },
+        {
+            "question": "Melyik ország tartománya Manitoba?",
+            "answers": [
+                "Kanada",
+                "Mexikó",
+                "Uruguay"
+            ],
+            "correct_answer": "Kanada"
+        },
+        {
+            "question": "Melyik városban van a Hyde-Park?",
+            "answers": [
+                "Londonban",
+                "Brüsszelben",
+                "Madridban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik városban van a La Scala Operaház?",
+            "answers": [
+                "Milánóban",
+                "Firenzében",
+                "Velencében"
+            ],
+            "correct_answer": "Milánóban"
+        },
+        {
+            "question": "Mi Somogy-megye székhelye?",
+            "answers": [
+                "Kaposvár",
+                "Siófok",
+                "Barcs"
+            ],
+            "correct_answer": "Kaposvár"
+        },
+        {
+            "question": "Melyik ország szigete Jáva?",
+            "answers": [
+                "Indonézia",
+                "Új-Zéland",
+                "Izland"
+            ],
+            "correct_answer": "Indonézia"
+        },
+        {
+            "question": "Melyik két színből áll Izland zászlaja?",
+            "answers": [
+                "kék és piros",
+                "zöld és sárga",
+                "kék és fekete"
+            ],
+            "correct_answer": "kék és piros"
+        },
+        {
+            "question": "Milyen hosszú a Tisza?",
+            "answers": [
+                "962 km",
+                "1034 km",
+                "876 km"
+            ],
+            "correct_answer": "962 km"
+        },
+        {
+            "question": "Melyik városban található a Buckingham-palota?",
+            "answers": [
+                "Londonban",
+                "Párizsban",
+                "Rómában"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik országban van Ho Si Minh-város?",
+            "answers": [
+                "Vietnámban",
+                "Kínában",
+                "Indiában"
+            ],
+            "correct_answer": "Vietnámban"
+        },
+        {
+            "question": "Melyik megyében van Almásfüzitő?",
+            "answers": [
+                "Komárom-Esztergom megyében",
+                "Jász-Nagykun-Szolnok megyében",
+                "Szabolcs-Szatmár-Bereg megyében"
+            ],
+            "correct_answer": "Komárom-Esztergom megyében"
+        },
+        {
+            "question": "Melyik államban van a Pentagon?",
+            "answers": [
+                "Virginia",
+                "Texas",
+                "Kalifornia"
+            ],
+            "correct_answer": "Virginia"
+        },
+        {
+            "question": "Hány országon folyik keresztül a Nílus?",
+            "answers": [
+                "6",
+                "5",
+                "10"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Mi a Fülöp-szigetek fővárosa?",
+            "answers": [
+                "Manila",
+                "Davao",
+                "Zamboanga"
+            ],
+            "correct_answer": "Manila"
+        },
+        {
+            "question": "Melyik ország regiója Kárpátalja?",
+            "answers": [
+                "Ukrajna",
+                "Románia",
+                "Ausztria"
+            ],
+            "correct_answer": "Ukrajna"
+        },
+        {
+            "question": "Melyik országban van az Appalache-hegység?",
+            "answers": [
+                "USA-ban",
+                "Egyesült Királyságban",
+                "Dániában"
+            ],
+            "correct_answer": "USA-ban"
+        },
+        {
+            "question": "Milyen alakú a Sínai-félsziget?",
+            "answers": [
+                "háromszög",
+                "csizma",
+                "csillag"
+            ],
+            "correct_answer": "háromszög"
+        },
+        {
+            "question": "Hol székel a Világbank?",
+            "answers": [
+                "Washingtonban",
+                "Párizsban",
+                "Brüsszelben"
+            ],
+            "correct_answer": "Washingtonban"
+        },
+        {
+            "question": "Melyik kontinensen van Burkina Faso?",
+            "answers": [
+                "Afrika",
+                "Amerika",
+                "Ázsia"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Melyik országban van Granada?",
+            "answers": [
+                "Spanyolországban",
+                "Portugáliában",
+                "Németországban"
+            ],
+            "correct_answer": "Spanyolországban"
+        },
+        {
+            "question": "Melyik folyó partján terül el London?",
+            "answers": [
+                "Temze",
+                "Duna",
+                "Elba"
+            ],
+            "correct_answer": "Temze"
+        },
+        {
+            "question": "Milyen hosszú a Szajna folyó?",
+            "answers": [
+                "777 km",
+                "888 km",
+                "666 km"
+            ],
+            "correct_answer": "777 km"
+        },
+        {
+            "question": "Melyik országhoz tartoznak az Azori-szigetek?",
+            "answers": [
+                "Portugáliához",
+                "Dániához",
+                "Franciaországhoz"
+            ],
+            "correct_answer": "Portugáliához"
+        },
+        {
+            "question": "Melyik ország határolja délen Brazíliát?",
+            "answers": [
+                "Uruguay",
+                "Argentína",
+                "Peru"
+            ],
+            "correct_answer": "Uruguay"
+        },
+        {
+            "question": "Melyik szín nem található meg Belgium zászlajában?",
+            "answers": [
+                "kék",
+                "piros",
+                "sárga"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Melyik városunkban található a Memento Park?",
+            "answers": [
+                "Budapesten",
+                "Székesfehérváron",
+                "Debrecenben"
+            ],
+            "correct_answer": "Budapesten"
+        },
+        {
+            "question": "Hol található Budapesten a Halászbástya?",
+            "answers": [
+                "a budai várban",
+                "a Gellért-hegyen",
+                "a Margit-szigeten"
+            ],
+            "correct_answer": "a budai várban"
+        },
+        {
+            "question": "Mit jelent a Citadella szó?",
+            "answers": [
+                "fellegvár",
+                "kővár",
+                "kőoszlop"
+            ],
+            "correct_answer": "fellegvár"
+        },
+        {
+            "question": "Hány piramisból állnak a Gízai piramisok?",
+            "answers": [
+                "három",
+                "négy",
+                "hat"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Mikor adták át a Kiskörei-víztározót?",
+            "answers": [
+                "1975-ben",
+                "1984-ben",
+                "1965-ben"
+            ],
+            "correct_answer": "1975-ben"
+        },
+        {
+            "question": "Melyik országhoz tartozik Bácska túlnyomó része?",
+            "answers": [
+                "Szerbia",
+                "Horvátország",
+                "Románia"
+            ],
+            "correct_answer": "Szerbia"
+        },
+        {
+            "question": "Mi Burkina Faso nevének jelentése?",
+            "answers": [
+                "becsületes emberek országa",
+                "a világ legboldogabb országa",
+                "sok folyó országa"
+            ],
+            "correct_answer": "becsületes emberek országa"
+        },
+        {
+            "question": "Mennyi a teljes hosszúsága a londoni Tower Bridge-nek?",
+            "answers": [
+                "244 m",
+                "123 m",
+                "567 m"
+            ],
+            "correct_answer": "244 m"
+        },
+        {
+            "question": "Mi Alamaba állam székhelye?",
+            "answers": [
+                "Montgomery",
+                "Columbia",
+                "Boston"
+            ],
+            "correct_answer": "Montgomery"
+        },
+        {
+            "question": "Melyik országban van a Muszala hegycsúcs?",
+            "answers": [
+                "Bulgáriában",
+                "Szerbiában",
+                "Görögországban"
+            ],
+            "correct_answer": "Bulgáriában"
+        },
+        {
+            "question": "Melyik magyarországi település fekszik hármashatár mellett?",
+            "answers": [
+                "Kübekháza",
+                "Kerekegyháza",
+                "Cibakháza"
+            ],
+            "correct_answer": "Kübekháza"
+        },
+        {
+            "question": "Melyik városban található a Pantheon?",
+            "answers": [
+                "Rómában",
+                "Firenzében",
+                "Párizsban"
+            ],
+            "correct_answer": "Rómában"
+        },
+        {
+            "question": "Melyik megye nem szomszédja Somogy megyének?",
+            "answers": [
+                "Vas megye",
+                "Baranya megye",
+                "Fejér megye"
+            ],
+            "correct_answer": "Vas megye"
+        },
+        {
+            "question": "Hány csillag van Honduras zászlaján?",
+            "answers": [
+                "5",
+                "3",
+                "1"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Hol található a Kékfestő Múzeum?",
+            "answers": [
+                "Pápán",
+                "Szentendrén",
+                "Visegrádon"
+            ],
+            "correct_answer": "Pápán"
+        },
+        {
+            "question": "Milyen hosszú a Bering-szoros?",
+            "answers": [
+                "1600 km",
+                "2500 km",
+                "2100 km"
+            ],
+            "correct_answer": "1600 km"
+        },
+        {
+            "question": "Milyen hosszú a Limpopo folyó?",
+            "answers": [
+                "1750 km",
+                "1256 km",
+                "2010 km"
+            ],
+            "correct_answer": "1750 km"
+        },
+        {
+            "question": "Melyik amerikai állam fekszik a legdélebben?",
+            "answers": [
+                "Texas",
+                "Montana",
+                "Arizona"
+            ],
+            "correct_answer": "Texas"
+        },
+        {
+            "question": "Hány km a Balatonpart?",
+            "answers": [
+                "195 km",
+                "220 km",
+                "180 km"
+            ],
+            "correct_answer": "195 km"
+        },
+        {
+            "question": "Melyik ország felé fúj a \"Bóra\" szél?",
+            "answers": [
+                "Olaszország",
+                "Franciaország",
+                "Egyiptom"
+            ],
+            "correct_answer": "Olaszország"
+        },
+        {
+            "question": "Hány ország területét foglalja el a Szahara sivatag?",
+            "answers": [
+                "12",
+                "10",
+                "8"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Hol él a Loch Ness-i szörny a legenda szerint?",
+            "answers": [
+                "egy skóciai tóban",
+                "egy angol folyóban",
+                "egy osztrák tóban"
+            ],
+            "correct_answer": "egy skóciai tóban"
+        },
+        {
+            "question": "Melyik várost szokták a bajor velencének is nevezni?",
+            "answers": [
+                "Passaut",
+                "Düsseldorfot",
+                "Hamburgot"
+            ],
+            "correct_answer": "Passaut"
+        },
+        {
+            "question": "Milyen magas az Annapurna?",
+            "answers": [
+                "8091 m",
+                "8024 m",
+                "7654 m"
+            ],
+            "correct_answer": "8091 m"
+        },
+        {
+            "question": "A tudósok szerint mi lehetne a nyolcadik kontinens?",
+            "answers": [
+                "Zélandia",
+                "Indonézia",
+                "Pápua Új-Guinea"
+            ],
+            "correct_answer": "Zélandia"
+        },
+        {
+            "question": "Melyik szín nem található meg Írország zászlajában?",
+            "answers": [
+                "kék",
+                "zöld",
+                "narancssárga"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Budapest után melyik a legnépesebb város Magyarországon?",
+            "answers": [
+                "Debrecen",
+                "Szeged",
+                "Pécs"
+            ],
+            "correct_answer": "Debrecen"
+        },
+        {
+            "question": "Melyik ország nem tartozik a Balti országok közé?",
+            "answers": [
+                "Oroszország",
+                "Észtország",
+                "Lettország"
+            ],
+            "correct_answer": "Oroszország"
+        },
+        {
+            "question": "Melyik a legnépesebb ország a Földön?",
+            "answers": [
+                "Kína",
+                "India",
+                "USA"
+            ],
+            "correct_answer": "Kína"
+        },
+        {
+            "question": "Mi Jamaica nevének jelentése?",
+            "answers": [
+                "\"A források szigete\"",
+                "\"A vulkánok szigete\"",
+                "\"A kék sziget\""
+            ],
+            "correct_answer": "\"A források szigete\""
+        },
+        {
+            "question": "Melyik országban van Karlovy Vary?",
+            "answers": [
+                "Csehországban",
+                "Szlovákiában",
+                "Szlovéniában"
+            ],
+            "correct_answer": "Csehországban"
+        },
+        {
+            "question": "Melyik ország határolja északról Magyarországot?",
+            "answers": [
+                "Szlovákia",
+                "Szerbia",
+                "Ausztria"
+            ],
+            "correct_answer": "Szlovákia"
+        },
+        {
+            "question": "Hány kontinens veszi körbe a Földközi-tengert?",
+            "answers": [
+                "három",
+                "kettő",
+                "négy"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Melyik óceánban található a Seychelle-szigetek?",
+            "answers": [
+                "Indiai",
+                "Csendes",
+                "Atlanti"
+            ],
+            "correct_answer": "Indiai"
+        },
+        {
+            "question": "Melyik a legnagyobb bauxittermelő ország?",
+            "answers": [
+                "Ausztrália",
+                "Brazília",
+                "India"
+            ],
+            "correct_answer": "Ausztrália"
+        },
+        {
+            "question": "Melyik tenger partján fekszik Bulgária?",
+            "answers": [
+                "Fekete",
+                "Földközi",
+                "Vörös"
+            ],
+            "correct_answer": "Fekete"
+        },
+        {
+            "question": "Melyik ország nem Borneó szigetén van?",
+            "answers": [
+                "Pápua Új-Guinea",
+                "Indonézia",
+                "Malajzia"
+            ],
+            "correct_answer": "Pápua Új-Guinea"
+        },
+        {
+            "question": "Mi volt a budapesti Szabadság híd eredeti neve?",
+            "answers": [
+                "Ferenc József híd",
+                "Horthy Miklós híd",
+                "Lágymányosi híd"
+            ],
+            "correct_answer": "Ferenc József híd"
+        },
+        {
+            "question": "Melyik ország zászlaja nem téglalap alakú?",
+            "answers": [
+                "Nepál",
+                "Nigéria",
+                "Nicaragua"
+            ],
+            "correct_answer": "Nepál"
+        },
+        {
+            "question": "Hol fordul elő Magyarországon feketekőszén?",
+            "answers": [
+                "Mecsekben",
+                "Mátrában",
+                "Bakonyban"
+            ],
+            "correct_answer": "Mecsekben"
+        },
+        {
+            "question": "Mekkora a teljes magassága a New Yorki Szabadság szobornak?",
+            "answers": [
+                "93 méter",
+                "134 méter",
+                "102 méter"
+            ],
+            "correct_answer": "93 méter"
+        },
+        {
+            "question": "Hegyeshalomnál melyik országba tudunk átkelni?",
+            "answers": [
+                "Ausztriába",
+                "Romániába",
+                "Szerbiába"
+            ],
+            "correct_answer": "Ausztriába"
+        },
+        {
+            "question": "Melyik ország nem tartozik a latin-amerikai országok közé?",
+            "answers": [
+                "Kanada",
+                "Mexikó",
+                "Kuba"
+            ],
+            "correct_answer": "Kanada"
+        },
+        {
+            "question": "Hol van a Kruger Nemzeti Park?",
+            "answers": [
+                "Dél-Afrikában",
+                "USA-ban",
+                "Ausztráliában"
+            ],
+            "correct_answer": "Dél-Afrikában"
+        },
+        {
+            "question": "Melyik városban látható a Megváltó Krisztus szobra Brazíliában?",
+            "answers": [
+                "Rio de Janeiroban",
+                "Brazíliavárosban",
+                "Sao Pauloban"
+            ],
+            "correct_answer": "Rio de Janeiroban"
+        },
+        {
+            "question": "Mi a Feszty-körkép eredeti címe?",
+            "answers": [
+                "A magyarok bejövetele",
+                "A magyarok vándorlása",
+                "Magyar honfoglalás"
+            ],
+            "correct_answer": "A magyarok bejövetele"
+        },
+        {
+            "question": "Melyik Magyarország legdélebben fekvő városa?",
+            "answers": [
+                "Siklós",
+                "Pécs",
+                "Mohács"
+            ],
+            "correct_answer": "Siklós"
+        },
+        {
+            "question": "Melyik megyében van Bugyi község?",
+            "answers": [
+                "Pest-megyében",
+                "Komárom-Esztergom megyében",
+                "Somogy megyében"
+            ],
+            "correct_answer": "Pest-megyében"
+        },
+        {
+            "question": "Hány napig volt a Balaton a leghosszabb ideig befagyva?",
+            "answers": [
+                "110 nap",
+                "86 nap",
+                "70 nap"
+            ],
+            "correct_answer": "110 nap"
+        },
+        {
+            "question": "Milyen hoszzú a budapesti Árpád-híd?",
+            "answers": [
+                "928 m",
+                "356 m",
+                "478 m"
+            ],
+            "correct_answer": "928 m"
+        },
+        {
+            "question": "Melyik amerikai állam székhelye Boston?",
+            "answers": [
+                "Massachusetts",
+                "Minnesota",
+                "Nevada"
+            ],
+            "correct_answer": "Massachusetts"
+        },
+        {
+            "question": "Melyik országnál ömlik az Atlanti-óceánba az Amazonas?",
+            "answers": [
+                "Brazília",
+                "Kolumbia",
+                "Peru"
+            ],
+            "correct_answer": "Brazília"
+        },
+        {
+            "question": "Melyik falunak van egy lakosa?",
+            "answers": [
+                "Nagygéc",
+                "Nagyvarsány",
+                "Nagycserkesz"
+            ],
+            "correct_answer": "Nagygéc"
+        },
+        {
+            "question": "Mi Dél-Amerika legdélibb pontja?",
+            "answers": [
+                "Horn-fok",
+                "Jóreménység foka",
+                "Cape Point"
+            ],
+            "correct_answer": "Horn-fok"
+        },
+        {
+            "question": "Melyik megyében van Karakószörcsök?",
+            "answers": [
+                "Veszprém megyében",
+                "Pest megyében",
+                "Bács-Kiskun megyében"
+            ],
+            "correct_answer": "Veszprém megyében"
+        },
+        {
+            "question": "Hol látható a Festetics-kastély?",
+            "answers": [
+                "Keszthelyen",
+                "Kőszegen",
+                "Gödöllőn"
+            ],
+            "correct_answer": "Keszthelyen"
+        },
+        {
+            "question": "Melyik Magyarország legnagyobb kiterjedésű borvidéke?",
+            "answers": [
+                "Kunsági borvidék",
+                "Szekszárdi borvidék",
+                "Villányi borvidék"
+            ],
+            "correct_answer": "Kunsági borvidék"
+        },
+        {
+            "question": "Melyik megye folyói a Rába, Gyöngyös, Répce, Marcal?",
+            "answers": [
+                "Vas megye",
+                "Zala megye",
+                "Csongrád megye"
+            ],
+            "correct_answer": "Vas megye"
+        },
+        {
+            "question": "Hol látható az \"Óriások útja\"?",
+            "answers": [
+                "Észak-Írországban",
+                "Skóciában",
+                "Walesben"
+            ],
+            "correct_answer": "Észak-Írországban"
+        },
+        {
+            "question": "Milyen hosszú a Viktória-tó?",
+            "answers": [
+                "337 km",
+                "235 km",
+                "387 km"
+            ],
+            "correct_answer": "337 km"
+        },
+        {
+            "question": "Hány kerülete van Budapestnek?",
+            "answers": [
+                "23",
+                "20",
+                "16"
+            ],
+            "correct_answer": "23"
+        },
+        {
+            "question": "Melyik országban van Stuttgart?",
+            "answers": [
+                "Németországban",
+                "Ausztriában",
+                "Svájcban"
+            ],
+            "correct_answer": "Németországban"
+        },
+        {
+            "question": "Hol látható a Millenniumi emlékmű Budapesten?",
+            "answers": [
+                "a Hősök terén",
+                "a Gellért-hegyen",
+                "a Margitszigeten"
+            ],
+            "correct_answer": "a Hősök terén"
+        },
+        {
+            "question": "Melyik nem Dél-Amerikai ország?",
+            "answers": [
+                "Nicaragua",
+                "Venezuela",
+                "Kolumbia"
+            ],
+            "correct_answer": "Nicaragua"
+        },
+        {
+            "question": "Mi Komárom-Esztergom megye székhelye?",
+            "answers": [
+                "Tatabánya",
+                "Esztergom",
+                "Oroszlány"
+            ],
+            "correct_answer": "Tatabánya"
+        },
+        {
+            "question": "Kiknek az arcmását vésték az amerikai Rushmore-hegy oldalába?",
+            "answers": [
+                "amerikai elnökök",
+                "amerikai filmcsillagok",
+                "amerikai sportolók"
+            ],
+            "correct_answer": "amerikai elnökök"
+        },
+        {
+            "question": "Melyik városban látható a Laokoón-csoport szobor?",
+            "answers": [
+                "Rómában",
+                "Párizsban",
+                "Athénban"
+            ],
+            "correct_answer": "Rómában"
+        },
+        {
+            "question": "Mi van Kanada zászlaján?",
+            "answers": [
+                "juharlevél",
+                "csillag",
+                "nap"
+            ],
+            "correct_answer": "juharlevél"
+        },
+        {
+            "question": "Mi Uruguay fővárosa?",
+            "answers": [
+                "Montevideo",
+                "Lima",
+                "Caracas"
+            ],
+            "correct_answer": "Montevideo"
+        },
+        {
+            "question": "Milyen állat nincs Budapest címerében?",
+            "answers": [
+                "tigris",
+                "griffmadár",
+                "oroszlán"
+            ],
+            "correct_answer": "tigris"
+        },
+        {
+            "question": "Melyik megyében van Zala község?",
+            "answers": [
+                "Somogy megyében",
+                "Zala megyében",
+                "Bács-Kiskun megyében"
+            ],
+            "correct_answer": "Somogy megyében"
+        },
+        {
+            "question": "Melyik Magyarország leghosszabb hídja?",
+            "answers": [
+                "Kőröshegyi völgyhíd",
+                "budapesti Megyeri-híd",
+                "Pentele-híd"
+            ],
+            "correct_answer": "Kőröshegyi völgyhíd"
+        },
+        {
+            "question": "Ki követte Károly Róbertet a trónon?",
+            "answers": [
+                "I. Nagy Lajos",
+                "II. Károly",
+                "I. Mátyás"
+            ],
+            "correct_answer": "I. Nagy Lajos"
+        },
+        {
+            "question": "Hol látható a Csontváry Múzeum?",
+            "answers": [
+                "Pécsen",
+                "Sopronban",
+                "Debrecenben"
+            ],
+            "correct_answer": "Pécsen"
+        },
+        {
+            "question": "Melyik országban látható a Sierra Nevada hegység?",
+            "answers": [
+                "Spanyolországban",
+                "Franciaországban",
+                "Olaszországban"
+            ],
+            "correct_answer": "Spanyolországban"
+        },
+        {
+            "question": "Melyik nem New York városrésze?",
+            "answers": [
+                "Hollywood",
+                "Brooklyn",
+                "Manhattan"
+            ],
+            "correct_answer": "Hollywood"
+        },
+        {
+            "question": "Hanyadik kerület Ferencváros Budapesten?",
+            "answers": [
+                "IX.",
+                "XI.",
+                "XXI."
+            ],
+            "correct_answer": "IX."
+        },
+        {
+            "question": "Melyik országban van Granada?",
+            "answers": [
+                "Spanyolországban",
+                "Olaszországban",
+                "Svédországban"
+            ],
+            "correct_answer": "Spanyolországban"
+        },
+        {
+            "question": "Mikor tört ki utoljára a Vezúv?",
+            "answers": [
+                "1944-ben",
+                "1956-ban",
+                "1987-ben"
+            ],
+            "correct_answer": "1944-ben"
+        },
+        {
+            "question": "Mik találhatók Madame Tussaud panoptikumában?",
+            "answers": [
+                "híres emberek viaszfigurái",
+                "híres festők művei",
+                "kerámiák"
+            ],
+            "correct_answer": "híres emberek viaszfigurái"
+        },
+        {
+            "question": "Melyik ország fennhatósága alatt áll Grönland?",
+            "answers": [
+                "Dánia",
+                "USA",
+                "Kanada"
+            ],
+            "correct_answer": "Dánia"
+        },
+        {
+            "question": "Milyen hosszú az Erzsébet-híd?",
+            "answers": [
+                "379 m",
+                "457 m",
+                "224 m"
+            ],
+            "correct_answer": "379 m"
+        },
+        {
+            "question": "Milyen magas a pécsi tévétorony?",
+            "answers": [
+                "197 m",
+                "256 m",
+                "289 m"
+            ],
+            "correct_answer": "197 m"
+        },
+        {
+            "question": "Melyik nem Balaton parti település?",
+            "answers": [
+                "Baktalórántháza",
+                "Gyenesdiás",
+                "Vonyarcvashegy"
+            ],
+            "correct_answer": "Baktalórántháza"
+        },
+        {
+            "question": "Melyik téren található Budapesten az Országház?",
+            "answers": [
+                "Kossuth Lajos téren",
+                "Liszt Ferenc téren",
+                "Bethlen Gábor téren"
+            ],
+            "correct_answer": "Kossuth Lajos téren"
+        },
+        {
+            "question": "Melyik hegységben található az Ördögmalom-vízesés?",
+            "answers": [
+                "Visegrádi-hegységben",
+                "Kőszegi-hegységben",
+                "Mátrában"
+            ],
+            "correct_answer": "Visegrádi-hegységben"
+        },
+        {
+            "question": "Mi volt Irán régi neve?",
+            "answers": [
+                "Perzsia",
+                "Burma",
+                "Abesszínia"
+            ],
+            "correct_answer": "Perzsia"
+        },
+        {
+            "question": "Melyik országban van Dubaj?",
+            "answers": [
+                "Egyesült Arab Emírségek",
+                "Szaúd-Arábia",
+                "Irán"
+            ],
+            "correct_answer": "Egyesült Arab Emírségek"
+        },
+        {
+            "question": "Melyik Nemzeti Park része a Káli-medence?",
+            "answers": [
+                "Balaton-felvidéki Nemzeti Park",
+                "Kiskunsági Nemzeti Park",
+                "Bükki Nemzeti Park"
+            ],
+            "correct_answer": "Balaton-felvidéki Nemzeti Park"
+        },
+        {
+            "question": "Melyik megyében van Makkoshotyka?",
+            "answers": [
+                "Borsod-Abaúj-Zemplén megyében",
+                "Szabolcs-Szatmár-Bereg megyében",
+                "Hajdú-Bihar megyében"
+            ],
+            "correct_answer": "Borsod-Abaúj-Zemplén megyében"
+        },
+        {
+            "question": "Melyik európai országban látható a heidelbergi várkastély?",
+            "answers": [
+                "Németországban",
+                "Ausztriában",
+                "Svájcban"
+            ],
+            "correct_answer": "Németországban"
+        },
+        {
+            "question": "Mi Angola fővárosa?",
+            "answers": [
+                "Luanda",
+                "Lusaka",
+                "Dodoma"
+            ],
+            "correct_answer": "Luanda"
+        },
+        {
+            "question": "Milyen madár látható Heves megye címerében?",
+            "answers": [
+                "gólya",
+                "strucc",
+                "fecske"
+            ],
+            "correct_answer": "gólya"
+        },
+        {
+            "question": "Melyik balatoni település közelében van a Pántlika kastély?",
+            "answers": [
+                "Balatonakali",
+                "Balatonboglár",
+                "Balatonszárszó"
+            ],
+            "correct_answer": "Balatonakali"
+        },
+        {
+            "question": "Hol látható a Kovács Margit Múzeum?",
+            "answers": [
+                "Szentendrén",
+                "Visegrádon",
+                "Pápán"
+            ],
+            "correct_answer": "Szentendrén"
+        },
+        {
+            "question": "Hány dombra épült Róma?",
+            "answers": [
+                "hét",
+                "öt",
+                "kilenc"
+            ],
+            "correct_answer": "hét"
+        },
+        {
+            "question": "Melyik nem ázsiai ország?",
+            "answers": [
+                "Tanzánia",
+                "Pakisztán",
+                "Nepál"
+            ],
+            "correct_answer": "Tanzánia"
+        },
+        {
+            "question": "Hol található a Grand Canyon?",
+            "answers": [
+                "Arizonában",
+                "Coloradoba",
+                "Kaliforniába"
+            ],
+            "correct_answer": "Arizonában"
+        },
+        {
+            "question": "Melyik európai fővárost nevezik \"arany városnak\"?",
+            "answers": [
+                "Prágát",
+                "Londont",
+                "Brüsszelt"
+            ],
+            "correct_answer": "Prágát"
+        },
+        {
+            "question": "Melyik megyében van Kömpöc?",
+            "answers": [
+                "Bács-Kiskun megyében",
+                "Csongrád megyében",
+                "Zala megyében"
+            ],
+            "correct_answer": "Bács-Kiskun megyében"
+        },
+        {
+            "question": "Melyik városban van a Szent Márk-bazilika?",
+            "answers": [
+                "Velencében",
+                "Rómában",
+                "Firenzében"
+            ],
+            "correct_answer": "Velencében"
+        },
+        {
+            "question": "Melyik ország fővárosa Havanna?",
+            "answers": [
+                "Kuba",
+                "Jamaica",
+                "Ecuador"
+            ],
+            "correct_answer": "Kuba"
+        },
+        {
+            "question": "Hol látható a Golden Gate híd?",
+            "answers": [
+                "San Franciscóban",
+                "Los Angelesben",
+                "New Yorkban"
+            ],
+            "correct_answer": "San Franciscóban"
+        },
+        {
+            "question": "Melyik megyében van Nyúl nevű település?",
+            "answers": [
+                "Győr-Moson-Sopron megyében",
+                "Somogy megyében",
+                "Nógrád megyében"
+            ],
+            "correct_answer": "Győr-Moson-Sopron megyében"
+        },
+        {
+            "question": "Melyik óceánban van a Húsvét-sziget?",
+            "answers": [
+                "Csendes-óceánban",
+                "Atlanti-óceánban",
+                "Indiai-óceánban"
+            ],
+            "correct_answer": "Csendes-óceánban"
+        },
+        {
+            "question": "Hány km-re fekszik Sopron Bécstől?",
+            "answers": [
+                "60",
+                "120",
+                "80"
+            ],
+            "correct_answer": "60"
+        },
+        {
+            "question": "Hány méter magas a Hármashatár-hegy?",
+            "answers": [
+                "495 m",
+                "675 m",
+                "387 m"
+            ],
+            "correct_answer": "495 m"
+        },
+        {
+            "question": "Melyik országban van Petra romvárosa?",
+            "answers": [
+                "Jordániában",
+                "Szaúd-Arábiában",
+                "Izraelben"
+            ],
+            "correct_answer": "Jordániában"
+        },
+        {
+            "question": "Melyik ország a világ legnagyobb banánexportőre?",
+            "answers": [
+                "Ecuador",
+                "Argentína",
+                "Brazília"
+            ],
+            "correct_answer": "Ecuador"
+        },
+        {
+            "question": "Melyik ország nem a Perzsa-öböl partján van?",
+            "answers": [
+                "Egyiptom",
+                "Szaúd-Arábia",
+                "Irak"
+            ],
+            "correct_answer": "Egyiptom"
+        },
+        {
+            "question": "Hol látható a Sagrada Família, a Szent Család-templom?",
+            "answers": [
+                "Barcelonában",
+                "Madridban",
+                "Sevillában"
+            ],
+            "correct_answer": "Barcelonában"
+        },
+        {
+            "question": "Hány kilométer hosszú a Balaton?",
+            "answers": [
+                "77 km",
+                "89 km",
+                "120 km"
+            ],
+            "correct_answer": "77 km"
+        },
+        {
+            "question": "Melyik Brazília folyója?",
+            "answers": [
+                "Amazonas",
+                "Nílus",
+                "Jangce"
+            ],
+            "correct_answer": "Amazonas"
+        },
+        {
+            "question": "Hol van Bali szigete?",
+            "answers": [
+                "Indonéziában",
+                "Kanadában",
+                "Új-Zélandon"
+            ],
+            "correct_answer": "Indonéziában"
+        },
+        {
+            "question": "Mi a Föld legmélyebb pontja?",
+            "answers": [
+                "Mariana-árok",
+                "Tonga-árok",
+                "Japán-árok"
+            ],
+            "correct_answer": "Mariana-árok"
+        },
+        {
+            "question": "Hány emelete van az Empire State Buildingnek?",
+            "answers": [
+                "102",
+                "87",
+                "93"
+            ],
+            "correct_answer": "102"
+        },
+        {
+            "question": "Melyik a Föld leghosszabb szélességi köre?",
+            "answers": [
+                "Egyenlítő",
+                "Ráktérítő",
+                "Baktérítő"
+            ],
+            "correct_answer": "Egyenlítő"
+        },
+        {
+            "question": "Melyik országban van az Április 25. híd?",
+            "answers": [
+                "Portugáliában",
+                "Olaszországban",
+                "Dániában"
+            ],
+            "correct_answer": "Portugáliában"
+        },
+        {
+            "question": "Hol van a Labrador félsziget?",
+            "answers": [
+                "Kanadában",
+                "USA-ban",
+                "Indiában"
+            ],
+            "correct_answer": "Kanadában"
+        },
+        {
+            "question": "Melyik városban található az Ermitázs?",
+            "answers": [
+                "Szentpéterváron",
+                "Párizsban",
+                "Berlinben"
+            ],
+            "correct_answer": "Szentpéterváron"
+        },
+        {
+            "question": "Ki volt I. Szent István édesanyja?",
+            "answers": [
+                "Sarolt",
+                "Gizella",
+                "Réka"
+            ],
+            "correct_answer": "Sarolt"
+        },
+        {
+            "question": "Melyik megye székhelye Miskolc?",
+            "answers": [
+                "Borsod-Abaúj-Zemplén megye",
+                "Hajdú-Bihar megye",
+                "Szabolcs-Szatmár-Bereg megye"
+            ],
+            "correct_answer": "Borsod-Abaúj-Zemplén megye"
+        },
+        {
+            "question": "Hol található Indiában a Tádzs Mahal?",
+            "answers": [
+                "Agrában",
+                "Delhiben",
+                "Kalkuttában"
+            ],
+            "correct_answer": "Agrában"
+        },
+        {
+            "question": "Melyik a világ legnagyobb öble?",
+            "answers": [
+                "Bengáli-öböl",
+                "Mexikói-öböl",
+                "Perzsa-öböl"
+            ],
+            "correct_answer": "Bengáli-öböl"
+        },
+        {
+            "question": "Hol látható a Három-szurdok-gát?",
+            "answers": [
+                "Kínában",
+                "Japánban",
+                "Indiában"
+            ],
+            "correct_answer": "Kínában"
+        },
+        {
+            "question": "Milyen magas a János-hegy?",
+            "answers": [
+                "527 m",
+                "346 m",
+                "478 m"
+            ],
+            "correct_answer": "527 m"
+        },
+        {
+            "question": "Melyik európai fővárosban van a Piccadilly Circus?",
+            "answers": [
+                "Londonban",
+                "Párizsban",
+                "Madridban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik nem egy amerikai állam?",
+            "answers": [
+                "Denver",
+                "Montana",
+                "Alaszka"
+            ],
+            "correct_answer": "Denver"
+        },
+        {
+            "question": "Melyik ország területén van Erdély?",
+            "answers": [
+                "Románia",
+                "Csehország",
+                "Ukrajna"
+            ],
+            "correct_answer": "Románia"
+        },
+        {
+            "question": "Melyik állam nem tartozik az ABC államok közé?",
+            "answers": [
+                "Afganisztán",
+                "Chile",
+                "Brazília"
+            ],
+            "correct_answer": "Afganisztán"
+        },
+        {
+            "question": "Melyik folyó partján fekszik Bécs?",
+            "answers": [
+                "Duna",
+                "Tisza",
+                "Dráva"
+            ],
+            "correct_answer": "Duna"
+        },
+        {
+            "question": "Melyik megyében van Balaton nevű település?",
+            "answers": [
+                "Heves megyében",
+                "Somogy megyében",
+                "Vas megyében"
+            ],
+            "correct_answer": "Heves megyében"
+        },
+        {
+            "question": "Melyik ország fővárosa Bamako?",
+            "answers": [
+                "Mali",
+                "Paraguay",
+                "Kolumbia"
+            ],
+            "correct_answer": "Mali"
+        },
+        {
+            "question": "Melyik városban van a Déri múzeum?",
+            "answers": [
+                "Debrecenben",
+                "Miskolcon",
+                "Szolnokon"
+            ],
+            "correct_answer": "Debrecenben"
+        },
+        {
+            "question": "Melyik ország zászlaja nem három színből áll?",
+            "answers": [
+                "Ukrajna",
+                "Németország",
+                "Hollandia"
+            ],
+            "correct_answer": "Ukrajna"
+        },
+        {
+            "question": "Melyik ország városai Hannover és Düsseldorf?",
+            "answers": [
+                "Németország",
+                "Svájc",
+                "Ausztria"
+            ],
+            "correct_answer": "Németország"
+        },
+        {
+            "question": "Hol van Mozart szülőháza?",
+            "answers": [
+                "Salzburgban",
+                "Bécsben",
+                "Frankfurtban"
+            ],
+            "correct_answer": "Salzburgban"
+        },
+        {
+            "question": "Ki tervezte a Magyar Nemzeti Múzeumot?",
+            "answers": [
+                "Pollack Mihály",
+                "Ybl Miklós",
+                "Lechner Ödön"
+            ],
+            "correct_answer": "Pollack Mihály"
+        },
+        {
+            "question": "Mi volt Srí Lanka régi elnevezése?",
+            "answers": [
+                "Ceylon",
+                "Burma",
+                "Colombo"
+            ],
+            "correct_answer": "Ceylon"
+        },
+        {
+            "question": "Mi az Északi-sarkvidék neve?",
+            "answers": [
+                "Arktisz",
+                "Antarktisz",
+                "Horn-fok"
+            ],
+            "correct_answer": "Arktisz"
+        },
+        {
+            "question": "Hol található a Szahara sivatag?",
+            "answers": [
+                "Észak-Afrikában",
+                "Ausztráliában",
+                "Dél-Ázsiában"
+            ],
+            "correct_answer": "Észak-Afrikában"
+        },
+        {
+            "question": "Mi Uruguay fővárosa?",
+            "answers": [
+                "Montevideo",
+                "Katmandu",
+                "Jereván"
+            ],
+            "correct_answer": "Montevideo"
+        },
+        {
+            "question": "Melyik ország fekszik az Egyenlítő vonalán?",
+            "answers": [
+                "Ecuador",
+                "Peru",
+                "Venezuela"
+            ],
+            "correct_answer": "Ecuador"
+        },
+        {
+            "question": "Mi az Andok legmagasabb pontja?",
+            "answers": [
+                "Aconcagua",
+                "Mahendragiri",
+                "Csomolungma"
+            ],
+            "correct_answer": "Aconcagua"
+        },
+        {
+            "question": "Melyik megyében van Hatvan?",
+            "answers": [
+                "Heves megyében",
+                "Fejér megyében",
+                "Somogy megyében"
+            ],
+            "correct_answer": "Heves megyében"
+        },
+        {
+            "question": "Melyik városban van a Horror Színház?",
+            "answers": [
+                "Esztergomban",
+                "Budapesten",
+                "Szarvason"
+            ],
+            "correct_answer": "Esztergomban"
+        },
+        {
+            "question": "Mi választja el Spanyolországot Marokkótól?",
+            "answers": [
+                "Gibraltári -szoros",
+                "Magellán-szoros",
+                "Bering-szoros"
+            ],
+            "correct_answer": "Gibraltári -szoros"
+        },
+        {
+            "question": "Mi Alamaba állam székhelye?",
+            "answers": [
+                "Montgomery",
+                "Columbia",
+                "Boston"
+            ],
+            "correct_answer": "Montgomery"
+        },
+        {
+            "question": "Mi az Egyesült Államok nemzeti állata?",
+            "answers": [
+                "Fehérfejű rétisas",
+                "Oroszlán",
+                "Főnix"
+            ],
+            "correct_answer": "Fehérfejű rétisas"
+        },
+        {
+            "question": "Melyik ország a legnagyobb burgonyafogyasztó a világon?",
+            "answers": [
+                "Kína",
+                "Oroszország",
+                "USA"
+            ],
+            "correct_answer": "Kína"
+        },
+        {
+            "question": "Melyik megye székhelye Szeged?",
+            "answers": [
+                "Csongrád megye",
+                "Heves megye",
+                "Békés megye"
+            ],
+            "correct_answer": "Csongrád megye"
+        },
+        {
+            "question": "Mi a neve a szegedi múzeumnak?",
+            "answers": [
+                "Móra Ferenc",
+                "József Attila",
+                "Vörösmarty Mihály"
+            ],
+            "correct_answer": "Móra Ferenc"
+        },
+        {
+            "question": "Melyik ország nem szomszédos Svájccal?",
+            "answers": [
+                "Norvégia",
+                "Olaszország",
+                "Ausztria"
+            ],
+            "correct_answer": "Norvégia"
+        },
+        {
+            "question": "Melyik tenger nem tartozik a Hét tenger közé?",
+            "answers": [
+                "Márvány-tenger",
+                "Adriai-tenger",
+                "Kaszpi-tenger"
+            ],
+            "correct_answer": "Márvány-tenger"
+        },
+        {
+            "question": "Melyik évben csatlakozott Magyarország az Európai Unióhoz?",
+            "answers": [
+                "2004-ben",
+                "2008-ban",
+                "2002-ben"
+            ],
+            "correct_answer": "2004-ben"
+        },
+        {
+            "question": "Melyik városban látható a Petronas-ikertorony?",
+            "answers": [
+                "Kuala Lumpurban",
+                "Katmanduban",
+                "Damaszkuszban"
+            ],
+            "correct_answer": "Kuala Lumpurban"
+        },
+        {
+            "question": "Denver, melyik amerikai állam székhelye?",
+            "answers": [
+                "Colorado",
+                "Florida",
+                "Arizona"
+            ],
+            "correct_answer": "Colorado"
+        },
+        {
+            "question": "Mi Zimbabwe fővárosa?",
+            "answers": [
+                "Harare",
+                "Maputo",
+                "Dodoma"
+            ],
+            "correct_answer": "Harare"
+        },
+        {
+            "question": "Melyik országon nem halad keresztül a Duna?",
+            "answers": [
+                "Franciaország",
+                "Szerbia",
+                "Románia"
+            ],
+            "correct_answer": "Franciaország"
+        },
+        {
+            "question": "Melyik amerikai állam fekszik a legdélebben?",
+            "answers": [
+                "Texas",
+                "Montana",
+                "Arizona"
+            ],
+            "correct_answer": "Texas"
+        },
+        {
+            "question": "Hány km a Balatonpart?",
+            "answers": [
+                "195 km",
+                "220 km",
+                "180 km"
+            ],
+            "correct_answer": "195 km"
+        },
+        {
+            "question": "Hány ország területét foglalja el a Szahara sivatag?",
+            "answers": [
+                "12",
+                "8",
+                "10"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Hol él a Loch Ness-i szörny a legenda szerint?",
+            "answers": [
+                "egy skóciai tóban",
+                "egy angol folyóban",
+                "egy osztrák tóban"
+            ],
+            "correct_answer": "egy skóciai tóban"
+        },
+        {
+            "question": "Melyik várost szokták a bajor velencének is nevezni?",
+            "answers": [
+                "Passaut",
+                "Düsseldorfot",
+                "Hamburgot"
+            ],
+            "correct_answer": "Passaut"
+        },
+        {
+            "question": "Melyik a legnépesebb ország a Földön?",
+            "answers": [
+                "Kína",
+                "India",
+                "USA"
+            ],
+            "correct_answer": "Kína"
+        },
+        {
+            "question": "Melyik nem tartozik a világ hét csodája közé?",
+            "answers": [
+                "Noé bárkája",
+                "Szemiramisz függőkertje",
+                "rodoszi kolosszus"
+            ],
+            "correct_answer": "Noé bárkája"
+        },
+        {
+            "question": "Melyik megyében van Csanádapáca?",
+            "answers": [
+                "Békés megyében",
+                "Csongrád megyében",
+                "Zala megyében"
+            ],
+            "correct_answer": "Békés megyében"
+        },
+        {
+            "question": "Melyik két óceánt köti össze a Drake-átjáró?",
+            "answers": [
+                "Atlanti és Csendes",
+                "Csendes és Indiai",
+                "Indiai és Atlanti"
+            ],
+            "correct_answer": "Atlanti és Csendes"
+        },
+        {
+            "question": "Mi Argentína hivatalos nyelve?",
+            "answers": [
+                "spanyol",
+                "angol",
+                "francia"
+            ],
+            "correct_answer": "spanyol"
+        },
+        {
+            "question": "Melyik országban van a kölni dóm?",
+            "answers": [
+                "Németországban",
+                "Ausztriában",
+                "Svájcban"
+            ],
+            "correct_answer": "Németországban"
+        },
+        {
+            "question": "Mi Ázsia legmagasabb csúcsa?",
+            "answers": [
+                "Mount Everest",
+                "Kilimandzsáró",
+                "Aconcagua"
+            ],
+            "correct_answer": "Mount Everest"
+        },
+        {
+            "question": "Melyik nem Balaton-parti település?",
+            "answers": [
+                "Demjén",
+                "Vonyarcvarshegy",
+                "Csopak"
+            ],
+            "correct_answer": "Demjén"
+        },
+        {
+            "question": "Mi Mongólia fővárosa?",
+            "answers": [
+                "Ulánbátor",
+                "Kijev",
+                "Dakar"
+            ],
+            "correct_answer": "Ulánbátor"
+        },
+        {
+            "question": "Melyik kontinensen van Etiópia?",
+            "answers": [
+                "Afrikában",
+                "Ázsiában",
+                "Dél-Amerikában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Milyen szín nincs Csehország zászlajában?",
+            "answers": [
+                "zöld",
+                "kék",
+                "piros"
+            ],
+            "correct_answer": "zöld"
+        },
+        {
+            "question": "Melyik városban található a Buckingham-palota?",
+            "answers": [
+                "Londonban",
+                "Párizsban",
+                "Rómában"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik településen épül fel az ország legnagyobb betleheme?",
+            "answers": [
+                "Vörsön",
+                "Kehidakustányban",
+                "Rinyabesenyőn"
+            ],
+            "correct_answer": "Vörsön"
+        },
+        {
+            "question": "Melyik államban van a Pentagon?",
+            "answers": [
+                "Virginia",
+                "Texas",
+                "Kalifornia"
+            ],
+            "correct_answer": "Virginia"
+        },
+        {
+            "question": "Mi Komárom-Esztergom megye székhelye?",
+            "answers": [
+                "Tatabánya",
+                "Szekszárd",
+                "Szolnok"
+            ],
+            "correct_answer": "Tatabánya"
+        },
+        {
+            "question": "Hol található a Rushmore-hegy?",
+            "answers": [
+                "USA-ban",
+                "Angliában",
+                "Kanadában"
+            ],
+            "correct_answer": "USA-ban"
+        },
+        {
+            "question": "Milyen állat látható Pest-megye címerében?",
+            "answers": [
+                "oroszlán",
+                "tigris",
+                "medve"
+            ],
+            "correct_answer": "oroszlán"
+        },
+        {
+            "question": "Melyik amerikai államban van a Grand Canyon?",
+            "answers": [
+                "Arizona",
+                "Alabama",
+                "Kalifornia"
+            ],
+            "correct_answer": "Arizona"
+        },
+        {
+            "question": "Hány km a Mississippi folyó?",
+            "answers": [
+                "4070 km",
+                "1200 km",
+                "6700 km"
+            ],
+            "correct_answer": "4070 km"
+        },
+        {
+            "question": "Melyik a Föld 3. legnagyobb szigete?",
+            "answers": [
+                "Borneó",
+                "Madagaszkár",
+                "Szumátra"
+            ],
+            "correct_answer": "Borneó"
+        },
+        {
+            "question": "Hol van Kalotaszeg?",
+            "answers": [
+                "Romániában",
+                "Ausztriában",
+                "Szlovákiában"
+            ],
+            "correct_answer": "Romániában"
+        },
+        {
+            "question": "Melyik városban van Katona József Színház?",
+            "answers": [
+                "Kecskeméten",
+                "Szombathelyen",
+                "Debrecenben"
+            ],
+            "correct_answer": "Kecskeméten"
+        },
+        {
+            "question": "Melyik ország nem tartozik a Benelux államok közé?",
+            "answers": [
+                "Svédország",
+                "Belgium",
+                "Hollandia"
+            ],
+            "correct_answer": "Svédország"
+        },
+        {
+            "question": "Mi volt Isztambul régi neve?",
+            "answers": [
+                "Konstantinápoly",
+                "Aquincum‎",
+                "Colonia"
+            ],
+            "correct_answer": "Konstantinápoly"
+        },
+        {
+            "question": "Melyik országban van Rotterdam?",
+            "answers": [
+                "Hollandiában",
+                "Németországban",
+                "Belgiumban"
+            ],
+            "correct_answer": "Hollandiában"
+        },
+        {
+            "question": "Mi Egyiptom fővárosa?",
+            "answers": [
+                "Kairó",
+                "Tripoli",
+                "Luxor"
+            ],
+            "correct_answer": "Kairó"
+        },
+        {
+            "question": "Melyik országban van a Gyilkos-tó?",
+            "answers": [
+                "Romániában",
+                "Ausztriában",
+                "Ukrajnában"
+            ],
+            "correct_answer": "Romániában"
+        },
+        {
+            "question": "Melyik egy hurrikán neve?",
+            "answers": [
+                "Katrina",
+                "Katinka",
+                "Katóka"
+            ],
+            "correct_answer": "Katrina"
+        },
+        {
+            "question": "Melyik város történelmi negyede a Hradzsin?",
+            "answers": [
+                "Prága",
+                "Párizs",
+                "Isztambul"
+            ],
+            "correct_answer": "Prága"
+        },
+        {
+            "question": "Melyik országban van Montreal?",
+            "answers": [
+                "Kanadában",
+                "USA-ban",
+                "Németországban"
+            ],
+            "correct_answer": "Kanadában"
+        },
+        {
+            "question": "Melyik kontinensen helyezkedik el Botswana?",
+            "answers": [
+                "Afrikában",
+                "Ázsiában",
+                "Dél- Amerikában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Mi Horvátország fővárosa?",
+            "answers": [
+                "Zágráb",
+                "Belgrád",
+                "Podgorica"
+            ],
+            "correct_answer": "Zágráb"
+        },
+        {
+            "question": "Melyik két kontinens között helyezkedik el a Vörös-tenger?",
+            "answers": [
+                "Afrika és Ázsia",
+                "Európa és Ázsia",
+                "Dél-Amerika és Afrika"
+            ],
+            "correct_answer": "Afrika és Ázsia"
+        },
+        {
+            "question": "Mik állnak a budapesti Memento Parkban?",
+            "answers": [
+                "szobrok",
+                "jurták",
+                "szökőkutak"
+            ],
+            "correct_answer": "szobrok"
+        },
+        {
+            "question": "Melyik állam nem tartozik az USA alapító államai közé?",
+            "answers": [
+                "Texas",
+                "New York",
+                "New Jersey"
+            ],
+            "correct_answer": "Texas"
+        },
+        {
+            "question": "Melyik a legnagyobb területű megyénk?",
+            "answers": [
+                "Bács-Kiskun megye",
+                "Borsod-Abaúj-Zemplén megye",
+                "Szabolcs-Szatmár-Bereg megye"
+            ],
+            "correct_answer": "Bács-Kiskun megye"
+        },
+        {
+            "question": "Melyik nemzeti park nem létezik?",
+            "answers": [
+                "Duna-Tisza Nemzeti Park",
+                "Duna–Dráva Nemzeti Park",
+                "Körös–Maros Nemzeti Park"
+            ],
+            "correct_answer": "Duna-Tisza Nemzeti Park"
+        },
+        {
+            "question": "Melyik megyében van Lakitelek?",
+            "answers": [
+                "Bács-Kiskun megyében",
+                "Baranya megyében",
+                "Békés megyében"
+            ],
+            "correct_answer": "Bács-Kiskun megyében"
+        },
+        {
+            "question": "Melyik országon nem folyik keresztül a Tisza?",
+            "answers": [
+                "Szlovénia",
+                "Románia",
+                "Ukrajna"
+            ],
+            "correct_answer": "Szlovénia"
+        },
+        {
+            "question": "Melyik ország a világ legnagyobb banánexportőre?",
+            "answers": [
+                "Ecuador",
+                "Argentína",
+                "Peru"
+            ],
+            "correct_answer": "Ecuador"
+        },
+        {
+            "question": "Budapest melyik terén van az óriáskerék?",
+            "answers": [
+                "Erzsébet téren",
+                "Deák Ferenc téren",
+                "Hősök terén"
+            ],
+            "correct_answer": "Erzsébet téren"
+        },
+        {
+            "question": "Melyik városban van a Brooklyn híd?",
+            "answers": [
+                "New Yorkban",
+                "Londonban",
+                "Párizsban"
+            ],
+            "correct_answer": "New Yorkban"
+        },
+        {
+            "question": "Melyik borvidék nem létezik?",
+            "answers": [
+                "Balatonföldvári borvidék",
+                "Bükki borvidék",
+                "Szekszárdi borvidék"
+            ],
+            "correct_answer": "Balatonföldvári borvidék"
+        },
+        {
+            "question": "Melyik folyó két partján fekszik Bécs?",
+            "answers": [
+                "Duna",
+                "Tisza",
+                "Rajna"
+            ],
+            "correct_answer": "Duna"
+        },
+        {
+            "question": "Hol látható a Hagia Szophia székesegyház?",
+            "answers": [
+                "Isztambulban",
+                "Rómában",
+                "Athénban"
+            ],
+            "correct_answer": "Isztambulban"
+        },
+        {
+            "question": "Melyik kastély látható Nagycenken?",
+            "answers": [
+                "Széchenyi-kastély",
+                "Esterházy-kastély",
+                "Grassalkovich-kastély"
+            ],
+            "correct_answer": "Széchenyi-kastély"
+        },
+        {
+            "question": "Melyik országban van a Kilimandzsáró?",
+            "answers": [
+                "Tanzániában",
+                "Kenyában",
+                "Etiópiában"
+            ],
+            "correct_answer": "Tanzániában"
+        },
+        {
+            "question": "Melyik szélességi kör osztja ketté Mexikót?",
+            "answers": [
+                "Ráktérítő",
+                "Baktérítő",
+                "Egyenlítő"
+            ],
+            "correct_answer": "Ráktérítő"
+        },
+        {
+            "question": "Mikor volt a kiegyezés?",
+            "answers": [
+                "1867-ben",
+                "1876-ban",
+                "1856-ban"
+            ],
+            "correct_answer": "1867-ben"
+        },
+        {
+            "question": "Mi Nógrád megye székhelye?",
+            "answers": [
+                "Salgótarján",
+                "Balassagyarmat",
+                "Kecskemét"
+            ],
+            "correct_answer": "Salgótarján"
+        },
+        {
+            "question": "Hol található Budapesten a Halászbástya?",
+            "answers": [
+                "a budai várban",
+                "a Gellért-hegyen",
+                "a Hősök terén"
+            ],
+            "correct_answer": "a budai várban"
+        },
+        {
+            "question": "Melyik város nevezetessége a Big Ben?",
+            "answers": [
+                "London",
+                "Párizs",
+                "Firenze"
+            ],
+            "correct_answer": "London"
+        },
+        {
+            "question": "Melyik államban van Dallas?",
+            "answers": [
+                "Kalifornia",
+                "Texas",
+                "Arizona"
+            ],
+            "correct_answer": "Texas"
+        },
+        {
+            "question": "Jelenleg hány tagállama van az Európai Uniónak?",
+            "answers": [
+                "28",
+                "33",
+                "21"
+            ],
+            "correct_answer": "28"
+        },
+        {
+            "question": "Hol van a Zöld-fok?",
+            "answers": [
+                "Afrikában",
+                "Ázsiában",
+                "Dél-Amerikában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Melyik városba jutunk ha az M6-os autópályán megyünk Budapestről?",
+            "answers": [
+                "Pécsre",
+                "Szegedre",
+                "Debrecenbe"
+            ],
+            "correct_answer": "Pécsre"
+        },
+        {
+            "question": "Melyik egy létező település?",
+            "answers": [
+                "Szalonna",
+                "Hagyma",
+                "Kolbász"
+            ],
+            "correct_answer": "Szalonna"
+        },
+        {
+            "question": "Budapest hanyadik kerülete Csepel?",
+            "answers": [
+                "XXI.",
+                "XX.",
+                "XIV."
+            ],
+            "correct_answer": "XXI."
+        },
+        {
+            "question": "Hány kerülete van New Yorknak?",
+            "answers": [
+                "öt",
+                "kilenc",
+                "hét"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Melyik országban található Leszbosz szigete?",
+            "answers": [
+                "Görögországban",
+                "Olaszországban",
+                "Törökországban"
+            ],
+            "correct_answer": "Görögországban"
+        },
+        {
+            "question": "Melyik nem megyei jogú város?",
+            "answers": [
+                "Balmazújváros",
+                "Érd",
+                "Nagykanizsa"
+            ],
+            "correct_answer": "Balmazújváros"
+        },
+        {
+            "question": "Megközelítőleg hány éves a világ legidősebb fája a \"Matuzsálem fa\"?",
+            "answers": [
+                "4800",
+                "6700",
+                "10600"
+            ],
+            "correct_answer": "4800"
+        },
+        {
+            "question": "Miről kapta nevét Kambodzsa?",
+            "answers": [
+                "egy fáról",
+                "egy folyóról",
+                "egy állatfajról"
+            ],
+            "correct_answer": "egy fáról"
+        },
+        {
+            "question": "Melyik országgal határos egyedül Monaco?",
+            "answers": [
+                "Franciaországgal",
+                "Spanyolországgal",
+                "Olaszországgal"
+            ],
+            "correct_answer": "Franciaországgal"
+        },
+        {
+            "question": "Melyik hegységben van a Prédikálószék?",
+            "answers": [
+                "Visegrádi-hegység",
+                "Villányi-hegység‎",
+                "Mátra"
+            ],
+            "correct_answer": "Visegrádi-hegység"
+        },
+        {
+            "question": "Melyik országhoz van legközelebb a Seychelle-szigetek?",
+            "answers": [
+                "Szomáliához",
+                "Etiópiához",
+                "Kenyához"
+            ],
+            "correct_answer": "Szomáliához"
+        },
+        {
+            "question": "Melyik község része Dobogó-kő?",
+            "answers": [
+                "Pilisszentkereszt",
+                "Pilisszántó",
+                "Pilisszentlélek"
+            ],
+            "correct_answer": "Pilisszentkereszt"
+        },
+        {
+            "question": "Melyik folyó mellékfolyója a Szamos?",
+            "answers": [
+                "Tisza",
+                "Duna",
+                "Dráva"
+            ],
+            "correct_answer": "Tisza"
+        },
+        {
+            "question": "Hol van Kézdivásárhely és Sepsiszentgyörgy?",
+            "answers": [
+                "Erdélyben",
+                "Kárpátalján",
+                "Vajdaságban"
+            ],
+            "correct_answer": "Erdélyben"
+        },
+        {
+            "question": "Hol hullik a Földön a legkevesebb csapadék?",
+            "answers": [
+                "Antarktiszon",
+                "Szaharában",
+                "Ausztráliában"
+            ],
+            "correct_answer": "Antarktiszon"
+        },
+        {
+            "question": "Hol van Magyarországon a Csillagvár?",
+            "answers": [
+                "Balatonszentgyörgynél",
+                "Dombóváron",
+                "Esztergomban"
+            ],
+            "correct_answer": "Balatonszentgyörgynél"
+        },
+        {
+            "question": "Hol található a Wembley Stadion?",
+            "answers": [
+                "Londonban",
+                "Barcelonában",
+                "Milánóban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik amerikai elnök arcmása nincs a Rushmore-hegy oldalába vésve?",
+            "answers": [
+                "Richard Nixon",
+                "George Washington",
+                "Thomas Jefferson"
+            ],
+            "correct_answer": "Richard Nixon"
+        },
+        {
+            "question": "Melyik hegység része Drégely vára?",
+            "answers": [
+                "Börzsöny",
+                "Bakony",
+                "Cserhát"
+            ],
+            "correct_answer": "Börzsöny"
+        },
+        {
+            "question": "Melyik városhoz van legközelebb Kópháza?",
+            "answers": [
+                "Sopron",
+                "Szeged",
+                "Miskolc"
+            ],
+            "correct_answer": "Sopron"
+        },
+        {
+            "question": "Hol van Szászország?",
+            "answers": [
+                "Németországban",
+                "Ausztriában",
+                "Svájcban"
+            ],
+            "correct_answer": "Németországban"
+        },
+        {
+            "question": "Mi választja el Spanyolországot Marokkótól?",
+            "answers": [
+                "Gibraltári -szoros",
+                "Magellán-szoros",
+                "Bering-szoros"
+            ],
+            "correct_answer": "Gibraltári -szoros"
+        },
+        {
+            "question": "Melyik ország nem tartozik a Balti országok közé?",
+            "answers": [
+                "Oroszország",
+                "Észtország",
+                "Lettország"
+            ],
+            "correct_answer": "Oroszország"
+        },
+        {
+            "question": "Melyik tenger beltengere a Ligur-tenger?",
+            "answers": [
+                "Földközi-tenger",
+                "Fekete-tenger",
+                "Azovi-tenger"
+            ],
+            "correct_answer": "Földközi-tenger"
+        },
+        {
+            "question": "Hol látható a Sziklás-hegység(Rocky Mountains)?",
+            "answers": [
+                "Észak-Amerikában",
+                "Ázsiában",
+                "Afrikában"
+            ],
+            "correct_answer": "Észak-Amerikában"
+        },
+        {
+            "question": "Mi a neve Velence leghíresebb hídjának?",
+            "answers": [
+                "Sóhajok hídja",
+                "Vágyaink hídja",
+                "Remények hídja"
+            ],
+            "correct_answer": "Sóhajok hídja"
+        },
+        {
+            "question": "Mi Venezuela fővárosa?",
+            "answers": [
+                "Caracas",
+                "Hanoi",
+                "Bangkok"
+            ],
+            "correct_answer": "Caracas"
+        },
+        {
+            "question": "Hol található a Pitti-palota?",
+            "answers": [
+                "Firenzében",
+                "Bécsben",
+                "Párizsban"
+            ],
+            "correct_answer": "Firenzében"
+        },
+        {
+            "question": "Melyik megyében van Egerszalók?",
+            "answers": [
+                "Heves megyében",
+                "Vas megyében",
+                "Békés megyében"
+            ],
+            "correct_answer": "Heves megyében"
+        },
+        {
+            "question": "Melyik fővárost szokták úgy emlegetni mint \"a harmadik Róma\"?",
+            "answers": [
+                "Moszkvát",
+                "Kijevet",
+                "Pekinget"
+            ],
+            "correct_answer": "Moszkvát"
+        },
+        {
+            "question": "Mi a Csomolungma hegység nevének a jelentése?",
+            "answers": [
+                "\"a Föld istenasszonya\"",
+                "\"a hó hazája\"",
+                "\"mennyei hegység\""
+            ],
+            "correct_answer": "\"a Föld istenasszonya\""
+        },
+        {
+            "question": "Hol látható a \"Királyok völgye\"?",
+            "answers": [
+                "Egyiptomban",
+                "Algériában",
+                "Indiában"
+            ],
+            "correct_answer": "Egyiptomban"
+        },
+        {
+            "question": "Budapest hanyadik kerülete Zugló?",
+            "answers": [
+                "XIV.",
+                "IX.",
+                "XVII."
+            ],
+            "correct_answer": "XIV."
+        },
+        {
+            "question": "Hol található a Téli Palota?",
+            "answers": [
+                "Szentpétervárott",
+                "Moszkvában",
+                "Londonban"
+            ],
+            "correct_answer": "Szentpétervárott"
+        },
+        {
+            "question": "Hol található a Bikini-atoll?",
+            "answers": [
+                "Csendes-óceánon",
+                "Atlanti-óceánon",
+                "Indiai-óceánon"
+            ],
+            "correct_answer": "Csendes-óceánon"
+        },
+        {
+            "question": "Hol van a Takla-Makán sivatag?",
+            "answers": [
+                "Kínában",
+                "Líbiában",
+                "Egyiptomban"
+            ],
+            "correct_answer": "Kínában"
+        },
+        {
+            "question": "Milyen épület a \"Shanghai Tower\" Kínában?",
+            "answers": [
+                "felhőkarcoló",
+                "múzeum",
+                "országház"
+            ],
+            "correct_answer": "felhőkarcoló"
+        },
+        {
+            "question": "Melyik szigeten született Bonaparte Napóleon?",
+            "answers": [
+                "Korzika",
+                "Szicília",
+                "Szardínia"
+            ],
+            "correct_answer": "Korzika"
+        },
+        {
+            "question": "Mi Somogy-megye székhelye?",
+            "answers": [
+                "Kaposvár",
+                "Siófok",
+                "Nagyatád"
+            ],
+            "correct_answer": "Kaposvár"
+        },
+        {
+            "question": "Hol látható a Sonora-sivatag?",
+            "answers": [
+                "Észak-Amerikában",
+                "Afrikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Észak-Amerikában"
+        },
+        {
+            "question": "Mi a Budavári Sikló két kocsijának a neve?",
+            "answers": [
+                "Margit és Gellért",
+                "Mária és János",
+                "Mónika és Lajos"
+            ],
+            "correct_answer": "Margit és Gellért"
+        },
+        {
+            "question": "Melyik ország nem Jugoszlávia utódállama?",
+            "answers": [
+                "Szlovákia",
+                "Szlovénia",
+                "Montenegró"
+            ],
+            "correct_answer": "Szlovákia"
+        },
+        {
+            "question": "Milyen hosszú a Margit-híd?",
+            "answers": [
+                "607,6 m",
+                "205,7 m",
+                "420 m"
+            ],
+            "correct_answer": "607,6 m"
+        },
+        {
+            "question": "Milyen szín nincs Franciaország zászlajában?",
+            "answers": [
+                "zöld",
+                "kék",
+                "piros"
+            ],
+            "correct_answer": "zöld"
+        },
+        {
+            "question": "Melyik tenger nyúlványa a Botteni-öböl?",
+            "answers": [
+                "Balti-tenger",
+                "Földközi-tenger",
+                "Karib-tenger"
+            ],
+            "correct_answer": "Balti-tenger"
+        },
+        {
+            "question": "Ki találta meg a holt-tengeri tekercsek első darabjait?",
+            "answers": [
+                "beduin kecskepásztor",
+                "mór juhász",
+                "szaracén kádár"
+            ],
+            "correct_answer": "beduin kecskepásztor"
+        },
+        {
+            "question": "Milyen hosszú a Csalagút?",
+            "answers": [
+                "50,5 km",
+                "60,7 km",
+                "105 km"
+            ],
+            "correct_answer": "50,5 km"
+        },
+        {
+            "question": "Honnan indul a János-hegyre a budapesti Libegő?",
+            "answers": [
+                "Zugligetből",
+                "Zuglóból",
+                "Kispestről"
+            ],
+            "correct_answer": "Zugligetből"
+        },
+        {
+            "question": "Mi Algéria hivatalos nyelve?",
+            "answers": [
+                "arab",
+                "hindi",
+                "angol"
+            ],
+            "correct_answer": "arab"
+        },
+        {
+            "question": "Melyik országban van a Delta Works nevű gátrendszer?",
+            "answers": [
+                "Hollandiában",
+                "Dániában",
+                "Svédországban"
+            ],
+            "correct_answer": "Hollandiában"
+        },
+        {
+            "question": "Melyik város régi neve volt Oradea?",
+            "answers": [
+                "Nagyvárad",
+                "Kolozsvár",
+                "Nagyszeben"
+            ],
+            "correct_answer": "Nagyvárad"
+        },
+        {
+            "question": "Melyik ország városa Krakkó?",
+            "answers": [
+                "Lengyelország",
+                "Belgium",
+                "Szlovákia"
+            ],
+            "correct_answer": "Lengyelország"
+        },
+        {
+            "question": "Melyik megyében van Balassagyarmat?",
+            "answers": [
+                "Nógrád megyében",
+                "Heves megyében",
+                "Fejér megyében"
+            ],
+            "correct_answer": "Nógrád megyében"
+        },
+        {
+            "question": "Ki a rendezője a Terminátor c. filmnek?",
+            "answers": [
+                "James Cameron",
+                "Steven Spielberg",
+                "George Lucas"
+            ],
+            "correct_answer": "James Cameron"
+        },
+        {
+            "question": "Hol látható a Cifrapalota?",
+            "answers": [
+                "Kecskeméten",
+                "Szolnokon",
+                "Nyíregyházán"
+            ],
+            "correct_answer": "Kecskeméten"
+        },
+        {
+            "question": "Milyen otthon van Veresegyházán?",
+            "answers": [
+                "medve",
+                "oroszlán",
+                "majom"
+            ],
+            "correct_answer": "medve"
+        },
+        {
+            "question": "Melyik két település között fut a Kőröshegyi völgyhíd?",
+            "answers": [
+                "Zamárdi és Balatonszárszó",
+                "Siófok és Balatonfüred",
+                "Szántód és Balatonföldvár"
+            ],
+            "correct_answer": "Zamárdi és Balatonszárszó"
+        },
+        {
+            "question": "Melyik városunkban található a Munkácsy Mihály Múzeum?",
+            "answers": [
+                "Békéscsaba",
+                "Pécs",
+                "Eger"
+            ],
+            "correct_answer": "Békéscsaba"
+        },
+        {
+            "question": "Az alábbiak közül melyik országon halad át a Tisza?",
+            "answers": [
+                "Szerbia",
+                "Ausztria",
+                "Lengyelország"
+            ],
+            "correct_answer": "Szerbia"
+        },
+        {
+            "question": "Melyik államban van Beverly Hills?",
+            "answers": [
+                "Kaliforniában",
+                "Arizonában",
+                "Texasban"
+            ],
+            "correct_answer": "Kaliforniában"
+        },
+        {
+            "question": "Melyik megyében van Csanádpalota?",
+            "answers": [
+                "Csongrád megyében",
+                "Békés megyében",
+                "Somogy megyében"
+            ],
+            "correct_answer": "Csongrád megyében"
+        },
+        {
+            "question": "Melyik országba jutunk ha Letenyénél szeretnénk átkelni a határon?",
+            "answers": [
+                "Horvátországba",
+                "Szerbiába",
+                "Ukrajnába"
+            ],
+            "correct_answer": "Horvátországba"
+        },
+        {
+            "question": "Mi a Szent Jakab-út másik elnevezése?",
+            "answers": [
+                "El Caminó",
+                "Al Bambinó",
+                "El Diego"
+            ],
+            "correct_answer": "El Caminó"
+        },
+        {
+            "question": "Melyik országban van Besztercebánya és Nagyszombat?",
+            "answers": [
+                "Szlovákiában",
+                "Szlovéniában",
+                "Romániában"
+            ],
+            "correct_answer": "Szlovákiában"
+        },
+        {
+            "question": "Melyik a Föld második legnépesebb országa?",
+            "answers": [
+                "India",
+                "Oroszország",
+                "Kína"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Hol látható Pamukkale, a ritka természeti képződmény?",
+            "answers": [
+                "Törökországban",
+                "Bulgáriában",
+                "Egyiptomban"
+            ],
+            "correct_answer": "Törökországban"
+        }
+    ]
+}

@@ -1,0 +1,293 @@
+{
+    "theme": "Képzőművészet",
+    "questions": [
+        {
+            "question": "Melyik magyar festőművész alkotása a Golgota?",
+            "answers": [
+                "Munkácsy Mihály",
+                "Székely Bertalan",
+                "Rippl-Rónai József"
+            ],
+            "correct_answer": "Munkácsy Mihály"
+        },
+        {
+            "question": "Kinek az alkotása a Magányos cédrus?",
+            "answers": [
+                "Csontváry Kosztka Tivadar",
+                "Madarász Viktor",
+                "Rippl-Rónai József"
+            ],
+            "correct_answer": "Csontváry Kosztka Tivadar"
+        },
+        {
+            "question": "Hol tekinthető meg a Feszty-körkép?",
+            "answers": [
+                "Ópusztaszeri Nemzeti Történeti Emlékparban",
+                "Zalavári Történelmi Emlékparkban",
+                "Vésztő-Mágor Történelmi Emlékhelyen"
+            ],
+            "correct_answer": "Ópusztaszeri Nemzeti Történeti Emlékparban"
+        },
+        {
+            "question": "Melyik festő volt kedvenc témája a napraforgók?",
+            "answers": [
+                "Vincent van Gogh",
+                "Paul Gauguin",
+                "Leonardo da Vinci"
+            ],
+            "correct_answer": "Vincent van Gogh"
+        },
+        {
+            "question": "Kinek a műve a Mona Lisa?",
+            "answers": [
+                "Leonardo da Vinci",
+                "Michelangelo",
+                "Pablo Picasso"
+            ],
+            "correct_answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "Hol van kiállítva a Mona Lisa?",
+            "answers": [
+                "párizsi Louvre-ban",
+                "firenzei Uffizi Képtárban",
+                "brit Nemzeti Képtárban"
+            ],
+            "correct_answer": "párizsi Louvre-ban"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Pablo Picasso?",
+            "answers": [
+                "spanyol",
+                "olasz",
+                "francia"
+            ],
+            "correct_answer": "spanyol"
+        },
+        {
+            "question": "Kinek a műve a Don Quijote szobra Spanyolországban?",
+            "answers": [
+                "Salvador Dali",
+                "Michelangelo",
+                "Raffaello"
+            ],
+            "correct_answer": "Salvador Dali"
+        },
+        {
+            "question": "Mi található a párizsi Louvre udvarán?",
+            "answers": [
+                "üvegpiramis",
+                "üvegoroszlán",
+                "üvegszobor"
+            ],
+            "correct_answer": "üvegpiramis"
+        },
+        {
+            "question": "Hány üveglapból áll ez az üvegpiramis?",
+            "answers": [
+                "666",
+                "777",
+                "333"
+            ],
+            "correct_answer": "666"
+        },
+        {
+            "question": "Mikor alapították a firenzei Uffizi Képtárat?",
+            "answers": [
+                "1581-ben",
+                "1781-ben",
+                "1678-ban"
+            ],
+            "correct_answer": "1581-ben"
+        },
+        {
+            "question": "Mi volt Victor Vasarely születési neve?",
+            "answers": [
+                "Vásárhelyi Győző",
+                "Vásárhelyi Viktor",
+                "Vas Győző"
+            ],
+            "correct_answer": "Vásárhelyi Győző"
+        },
+        {
+            "question": "Melyik festő alkotásai a Majális és a Lilaruhás nő?",
+            "answers": [
+                "Szinyei Merse Pál",
+                "Csontváry Kosztka Tivadar",
+                "Munkácsy Mihály"
+            ],
+            "correct_answer": "Szinyei Merse Pál"
+        },
+        {
+            "question": "Hol született Munkácsy Mihály?",
+            "answers": [
+                "Munkácson",
+                "Szinyeújfalun",
+                "Kisszebenen"
+            ],
+            "correct_answer": "Munkácson"
+        },
+        {
+            "question": "Melyik festő alkotása a Honfoglalás?",
+            "answers": [
+                "Munkácsy Mihály",
+                "Czóbel Béla",
+                "Benczur Gyula"
+            ],
+            "correct_answer": "Munkácsy Mihály"
+        },
+        {
+            "question": "Mi Amerigo Tot szobrászművész eredeti neve?",
+            "answers": [
+                "Tóth Imre",
+                "Tóth András",
+                "Nagy Kálmán"
+            ],
+            "correct_answer": "Tóth Imre"
+        },
+        {
+            "question": "Melyik testrészét vágta le Vincent van Gogh?",
+            "answers": [
+                "fülét",
+                "kezét",
+                "lábát"
+            ],
+            "correct_answer": "fülét"
+        },
+        {
+            "question": "Melyik festő műve a Karácsonyi éj?",
+            "answers": [
+                "Paul Gauguin",
+                "Vincent van Gogh",
+                "Paul Cézanne"
+            ],
+            "correct_answer": "Paul Gauguin"
+        },
+        {
+            "question": "Miből készült a \"Boci\" szobor Budapesten?",
+            "answers": [
+                "alumíniumból",
+                "bronzból",
+                "mészkőből"
+            ],
+            "correct_answer": "alumíniumból"
+        },
+        {
+            "question": "Kinek a festménye a Vénusz születése?",
+            "answers": [
+                "Sandro Botticelli",
+                "Claude Monet",
+                "Pablo Picasso"
+            ],
+            "correct_answer": "Sandro Botticelli"
+        },
+        {
+            "question": "Hol született Victor Vasarely festő?",
+            "answers": [
+                "Pécsen",
+                "Párizsban",
+                "Londonban"
+            ],
+            "correct_answer": "Pécsen"
+        },
+        {
+            "question": "Melyik festő műve a Krisztus trilógia?",
+            "answers": [
+                "Munkácsy Mihály",
+                "Csontváry Kosztka Tivadar",
+                "Szinyei Merse Pál"
+            ],
+            "correct_answer": "Munkácsy Mihály"
+        },
+        {
+            "question": "Hány festményt loptak el 1983-ban a Szépművészeti Múzeumból?",
+            "answers": [
+                "7",
+                "10",
+                "16"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Melyik szobrász alkotása a Diszkoszvető?",
+            "answers": [
+                "Mürón",
+                "Pheidiasz",
+                "Polükleitosz"
+            ],
+            "correct_answer": "Mürón"
+        },
+        {
+            "question": "Kinek a festménye az Éjjeli őrjárat?",
+            "answers": [
+                "Rembrandt",
+                "Leonardo da Vinci",
+                "Picasso"
+            ],
+            "correct_answer": "Rembrandt"
+        },
+        {
+            "question": "Melyik magyar festő alkotása a Majális?",
+            "answers": [
+                "Szinyei Merse Pál",
+                "Munkácsy Mihály",
+                "Csontváry Kosztka Tivadar"
+            ],
+            "correct_answer": "Szinyei Merse Pál"
+        },
+        {
+            "question": "Kinek az alkotása a Magányos cédrus?",
+            "answers": [
+                "Csontváry Kosztka Tivadar",
+                "Madarász Viktor",
+                "Rippl-Rónai József"
+            ],
+            "correct_answer": "Csontváry Kosztka Tivadar"
+        },
+        {
+            "question": "Kinek a festménye a Mona Lisa?",
+            "answers": [
+                "Leondardo da Vinci",
+                "Vincent van Gogh",
+                "Pablo Picasso"
+            ],
+            "correct_answer": "Leondardo da Vinci"
+        },
+        {
+            "question": "Mit csinál az inas Munkácsi Mihály festményén?",
+            "answers": [
+                "ásít",
+                "alszik",
+                "zongorázik"
+            ],
+            "correct_answer": "ásít"
+        },
+        {
+            "question": "Ki volt Szinyei Merse Pál?",
+            "answers": [
+                "festő",
+                "író",
+                "szobrász"
+            ],
+            "correct_answer": "festő"
+        },
+        {
+            "question": "Ki volt Rippl-Rónai József?",
+            "answers": [
+                "festő",
+                "sportoló",
+                "színész"
+            ],
+            "correct_answer": "festő"
+        },
+        {
+            "question": "Hol látható Munkácsy Mihály: Honfoglalás c. festménye?",
+            "answers": [
+                "Országházban",
+                "Szépművészeti Múzeumban",
+                "Magyar Nemzeti Múzeumban"
+            ],
+            "correct_answer": "Országházban"
+        }
+    ]
+}

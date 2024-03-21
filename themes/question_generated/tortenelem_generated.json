@@ -1,0 +1,2399 @@
+{
+    "theme": "Történelem",
+    "questions": [
+        {
+            "question": "Mikor volt István királlyá koronázása?",
+            "answers": [
+                "1001. jan. 1.",
+                "1001. jan. 11.",
+                "1001. jan. 21."
+            ],
+            "correct_answer": "1001. jan. 1."
+        },
+        {
+            "question": "Mikor volt a kenyérmezei csata?",
+            "answers": [
+                "1479. október 13-án",
+                "1467. novenber 5-én",
+                "1456. március 18-án"
+            ],
+            "correct_answer": "1479. október 13-án"
+        },
+        {
+            "question": "Kik voltak a Küklopszok a görög mitológiában?",
+            "answers": [
+                "egyszemű óriások",
+                "félig ember, félig ló alakú lények",
+                "emberevő óriások"
+            ],
+            "correct_answer": "egyszemű óriások"
+        },
+        {
+            "question": "Ki volt a második honalapító?",
+            "answers": [
+                "IV. Béla",
+                "III. Béla",
+                "IV. (Kun) László"
+            ],
+            "correct_answer": "IV. Béla"
+        },
+        {
+            "question": "Ki volt Az árvízi hajós?",
+            "answers": [
+                "Wesselényi Miklós",
+                "Széchenyi István",
+                "Deák Ferenc"
+            ],
+            "correct_answer": "Wesselényi Miklós"
+        },
+        {
+            "question": "Ki fedezte fel a déli sarkkört?",
+            "answers": [
+                "James Cook",
+                "Magellán",
+                "Marco Polo"
+            ],
+            "correct_answer": "James Cook"
+        },
+        {
+            "question": "Mikortól lehet Magyarországon öttöslottóval játszani?",
+            "answers": [
+                "1957. márc. 7-től",
+                "1976. jan. 7-től",
+                "1966. okt. 21-től"
+            ],
+            "correct_answer": "1957. márc. 7-től"
+        },
+        {
+            "question": "Mikor alapították a Pannonhalmi apátságot?",
+            "answers": [
+                "996-ban",
+                "998-ban",
+                "976-ban"
+            ],
+            "correct_answer": "996-ban"
+        },
+        {
+            "question": "1995-ben ki volt az USA elnöke?",
+            "answers": [
+                "George W. Bush",
+                "Ronald Reagan",
+                "Bill Clinton"
+            ],
+            "correct_answer": "Bill Clinton"
+        },
+        {
+            "question": "Ki volt Hunyadi Mátyás anyja?",
+            "answers": [
+                "Morzsinai Erzsébet",
+                "Szilágyi Erzsébet",
+                "Anjou Mária"
+            ],
+            "correct_answer": "Szilágyi Erzsébet"
+        },
+        {
+            "question": "Kik voltak a tatárok?",
+            "answers": [
+                "mongolok",
+                "törökök",
+                "pogányok"
+            ],
+            "correct_answer": "mongolok"
+        },
+        {
+            "question": "Ki volt Dzsingisz kán?",
+            "answers": [
+                "kínai császár",
+                "mongol császár",
+                "mongol hadvezér"
+            ],
+            "correct_answer": "mongol császár"
+        },
+        {
+            "question": "Hol dolgozott a molnár?",
+            "answers": [
+                "kórházban",
+                "malomban",
+                "gyárban"
+            ],
+            "correct_answer": "malomban"
+        },
+        {
+            "question": "Mióta Barack Obama az USA elnöke?",
+            "answers": [
+                "2010",
+                "2008",
+                "2009"
+            ],
+            "correct_answer": "2009"
+        },
+        {
+            "question": "Ki volt Orpheusz felesége?",
+            "answers": [
+                "Eurüdiké",
+                "Élektra",
+                "Pénelopé"
+            ],
+            "correct_answer": "Eurüdiké"
+        },
+        {
+            "question": "Melyik háborúban volt a Barbadossa hadművelet?",
+            "answers": [
+                "második világháború",
+                "első világháború",
+                "százéves háború"
+            ],
+            "correct_answer": "második világháború"
+        },
+        {
+            "question": "Ki volt Szókratész?",
+            "answers": [
+                "görög filozófus",
+                "görög történetíró",
+                "görög hadvezér"
+            ],
+            "correct_answer": "görög filozófus"
+        },
+        {
+            "question": "Mikor gyártották az első Trabantot?",
+            "answers": [
+                "1960-ban",
+                "1957-ben",
+                "1972-ben"
+            ],
+            "correct_answer": "1957-ben"
+        },
+        {
+            "question": "Ki volt Rózsa Sándor?",
+            "answers": [
+                "betyár",
+                "költő",
+                "színész"
+            ],
+            "correct_answer": "betyár"
+        },
+        {
+            "question": "Ki az uralkodó Spanyolországban?",
+            "answers": [
+                "VII. Béla király",
+                "VI. Fülöp király",
+                "VI. András király"
+            ],
+            "correct_answer": "VI. Fülöp király"
+        },
+        {
+            "question": "Ki látható az 1000 Ft-os bankjegyen?",
+            "answers": [
+                "Deák Ferenc",
+                "Széchenyi István",
+                "Mátyás király"
+            ],
+            "correct_answer": "Mátyás király"
+        },
+        {
+            "question": "Mikor vezették be a forintot Magyarországon?",
+            "answers": [
+                "1946. augusztus 1.",
+                "1956. július 21.",
+                "1971. szeptember 12."
+            ],
+            "correct_answer": "1946. augusztus 1."
+        },
+        {
+            "question": "Mikor indult meg az első pesti lóvasút?",
+            "answers": [
+                "1876. augusztus 11-én",
+                "1866. augusztus 1-én",
+                "1912. november 23-án"
+            ],
+            "correct_answer": "1866. augusztus 1-én"
+        },
+        {
+            "question": "Ki volt az USA első elnöke?",
+            "answers": [
+                "Thomas Jefferson",
+                "George Washington",
+                "Abraham Lincoln"
+            ],
+            "correct_answer": "George Washington"
+        },
+        {
+            "question": "Mi volt a ragadványneve Mátyás királynak?",
+            "answers": [
+                "a becsületes",
+                "az igazságos",
+                "a nagyravágyó"
+            ],
+            "correct_answer": "az igazságos"
+        },
+        {
+            "question": "Melyik régi bankjegyen volt látható Kossuth Lajos?",
+            "answers": [
+                "100 Ft-os",
+                "20 Ft-os",
+                "50 Ft-os"
+            ],
+            "correct_answer": "100 Ft-os"
+        },
+        {
+            "question": "Ki volt a kalapos király?",
+            "answers": [
+                "II. József",
+                "I. József",
+                "IV. Károly"
+            ],
+            "correct_answer": "II. József"
+        },
+        {
+            "question": "Mi volt Szombahely ókori latin neve?",
+            "answers": [
+                "Solva",
+                "Savaria",
+                "Arrabona"
+            ],
+            "correct_answer": "Savaria"
+        },
+        {
+            "question": "Mikor volt a mohácsi csata?",
+            "answers": [
+                "1526. aug. 29-én",
+                "1526. máj. 15-én",
+                "1527. ápr. 2-án"
+            ],
+            "correct_answer": "1526. aug. 29-én"
+        },
+        {
+            "question": "Hol mutatták be először Az Operaház fantomja c. musicalt?",
+            "answers": [
+                "Párizsban",
+                "Milánóban",
+                "Londonban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Melyik vár kapitánya volt Dobó István?",
+            "answers": [
+                "budai",
+                "egri",
+                "szigetvári"
+            ],
+            "correct_answer": "egri"
+        },
+        {
+            "question": "Mikor nyílt meg a Népstadion Budapesten?",
+            "answers": [
+                "1953. augusztus 20-án",
+                "1954. augusztus 20-án",
+                "1950. augusztus 20-án"
+            ],
+            "correct_answer": "1953. augusztus 20-án"
+        },
+        {
+            "question": "Hol őrzik a Szent Jobbot?",
+            "answers": [
+                "Országházban",
+                "Szent István-bazilikában",
+                "Mátyás-templonban"
+            ],
+            "correct_answer": "Szent István-bazilikában"
+        },
+        {
+            "question": "Milyen magas a Szent István-bazilika?",
+            "answers": [
+                "112 m",
+                "87 m",
+                "96 m"
+            ],
+            "correct_answer": "96 m"
+        },
+        {
+            "question": "Ki volt Szent István király felesége?",
+            "answers": [
+                "Sarolta",
+                "Gizella",
+                "Réka"
+            ],
+            "correct_answer": "Gizella"
+        },
+        {
+            "question": "Melyik nem a koronázási jelvények közé tartozik?",
+            "answers": [
+                "országzászló",
+                "Szent Korona",
+                "országalma"
+            ],
+            "correct_answer": "országzászló"
+        },
+        {
+            "question": "Melyik fejedelmünk anyja Zrínyi Ilona?",
+            "answers": [
+                "Báthory István",
+                "Thököly Imre",
+                "II. Rákóczi Ferenc"
+            ],
+            "correct_answer": "II. Rákóczi Ferenc"
+        },
+        {
+            "question": "Ki az uralkodó az Egyesült Királyságban?",
+            "answers": [
+                "II. Erzsébet királynő",
+                "I. Erzsébet királynő",
+                "Viktória királynő"
+            ],
+            "correct_answer": "II. Erzsébet királynő"
+        },
+        {
+            "question": "Hány gyermeke született Károly Walesi hercegnek?",
+            "answers": [
+                "négy",
+                "három",
+                "kettő"
+            ],
+            "correct_answer": "kettő"
+        },
+        {
+            "question": "Ki volt Oliver Cromwell?",
+            "answers": [
+                "angol hadvezér",
+                "francia tábornok",
+                "amerikai politikus"
+            ],
+            "correct_answer": "angol hadvezér"
+        },
+        {
+            "question": "Mikor vezették be az eurót?",
+            "answers": [
+                "1999-ben",
+                "2000-ben",
+                "1996-ban"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Melyik amerikai állam kormányzója Arnold Schwarzenegger?",
+            "answers": [
+                "Kalifornia",
+                "Kansas",
+                "Minnesota"
+            ],
+            "correct_answer": "Kalifornia"
+        },
+        {
+            "question": "Mi volt Sisi császárnő teljes neve?",
+            "answers": [
+                "Wittelsbach Erzsébet",
+                "Miksa Erzsébet",
+                "Ferenc Erzsébet"
+            ],
+            "correct_answer": "Wittelsbach Erzsébet"
+        },
+        {
+            "question": "Hol látható a Grassalkovich-kastély?",
+            "answers": [
+                "Gödöllőn",
+                "Keszthelyen",
+                "Gyulán"
+            ],
+            "correct_answer": "Gödöllőn"
+        },
+        {
+            "question": "Mi volt a régi Inka Birodalom központja?",
+            "answers": [
+                "Peru",
+                "Bolívia",
+                "Chile"
+            ],
+            "correct_answer": "Peru"
+        },
+        {
+            "question": "Ki Dánia(Dán királyság)uralkodója?",
+            "answers": [
+                "II. Margit",
+                "I. Margit",
+                "IV. Mária"
+            ],
+            "correct_answer": "II. Margit"
+        },
+        {
+            "question": "Az Assisi Szent Ferenc-bazilikát mikor nyílvánították a Világörökség részévé?",
+            "answers": [
+                "2000-ben",
+                "2005-ben",
+                "2010-ben"
+            ],
+            "correct_answer": "2000-ben"
+        },
+        {
+            "question": "Ádám melyik csontjából lett Éva?",
+            "answers": [
+                "bordájából",
+                "szegycsontjából",
+                "medencecsontjából"
+            ],
+            "correct_answer": "bordájából"
+        },
+        {
+            "question": "Hány felesége volt VIII. Henrik angol királynak?",
+            "answers": [
+                "hat",
+                "nyolc",
+                "öt"
+            ],
+            "correct_answer": "hat"
+        },
+        {
+            "question": "Hanyadik felesége volt VIII. Henriknek, Boleyn Anna?",
+            "answers": [
+                "második",
+                "negyedik",
+                "hatodik"
+            ],
+            "correct_answer": "második"
+        },
+        {
+            "question": "Mi történt VIII. Henrik harmadik feleségével?",
+            "answers": [
+                "meghalt gyermekágyi lázban",
+                "kivégeztette",
+                "elvált tőle"
+            ],
+            "correct_answer": "meghalt gyermekágyi lázban"
+        },
+        {
+            "question": "Ki lépte át először a déli sarkkört?",
+            "answers": [
+                "James Cook",
+                "Frederick Cook",
+                "Vasco da Gama"
+            ],
+            "correct_answer": "James Cook"
+        },
+        {
+            "question": "Ki követte I. István magyar királyt a trónon?",
+            "answers": [
+                "Péter",
+                "Sámuel",
+                "Salamon"
+            ],
+            "correct_answer": "Péter"
+        },
+        {
+            "question": "Melyik királyunk nevéhez fűződik az Aranybulla kiadása?",
+            "answers": [
+                "II. András",
+                "IV. Béla",
+                "V. István"
+            ],
+            "correct_answer": "II. András"
+        },
+        {
+            "question": "Mikor volt a tatárjárás?",
+            "answers": [
+                "1241-42",
+                "1267-68",
+                "1343-44"
+            ],
+            "correct_answer": "1241-42"
+        },
+        {
+            "question": "Ki volt az utolsó magyar király?",
+            "answers": [
+                "IV. Károly",
+                "V. Ferdinánd",
+                "II. Lipót"
+            ],
+            "correct_answer": "IV. Károly"
+        },
+        {
+            "question": "Ki volt Mária Terézia fia?",
+            "answers": [
+                "II. József",
+                "I. József",
+                "V. Ferdinánd"
+            ],
+            "correct_answer": "II. József"
+        },
+        {
+            "question": "Hány évig uralkodott I. Ferenc József?",
+            "answers": [
+                "68 évig",
+                "34 évig",
+                "44 évig"
+            ],
+            "correct_answer": "68 évig"
+        },
+        {
+            "question": "Ki volt Thököly Imre házastársa?",
+            "answers": [
+                "Zrínyi Ilona",
+                "Báthory Zsófia",
+                "Rákóczi Julianna"
+            ],
+            "correct_answer": "Zrínyi Ilona"
+        },
+        {
+            "question": "Ki volt Tomori Pál?",
+            "answers": [
+                "hadvezér",
+                "főispán",
+                "nádor"
+            ],
+            "correct_answer": "hadvezér"
+        },
+        {
+            "question": "Ki nem a hét honfoglaló vezér egyike?",
+            "answers": [
+                "Kuka",
+                "Huba",
+                "Előd"
+            ],
+            "correct_answer": "Kuka"
+        },
+        {
+            "question": "Melyik ország királynéja volt Stuart Mária?",
+            "answers": [
+                "Franciaország",
+                "Anglia",
+                "Svédország"
+            ],
+            "correct_answer": "Franciaország"
+        },
+        {
+            "question": "Mikor kezdte meg a Magyar Rádió az adását?",
+            "answers": [
+                "1925-ben",
+                "1945-ben",
+                "1965-ben"
+            ],
+            "correct_answer": "1925-ben"
+        },
+        {
+            "question": "Ki volt az első felelős magyar kormány igazságügyminisztere?",
+            "answers": [
+                "Deák Ferenc",
+                "Szemere Bertalan",
+                "Kossuth Lajos"
+            ],
+            "correct_answer": "Deák Ferenc"
+        },
+        {
+            "question": "Hány aradi vértanu volt?",
+            "answers": [
+                "13",
+                "10",
+                "8"
+            ],
+            "correct_answer": "13"
+        },
+        {
+            "question": "Ki Magyarország köztársasági elnöke jelenleg?",
+            "answers": [
+                "Áder János",
+                "Kövér László",
+                "Schmitt Pál"
+            ],
+            "correct_answer": "Áder János"
+        },
+        {
+            "question": "Melyik országban zajlott a rózsák háborúja?",
+            "answers": [
+                "Angliában",
+                "Franciaországban",
+                "Spanyolországban"
+            ],
+            "correct_answer": "Angliában"
+        },
+        {
+            "question": "Mikor volt a lepantói csata?",
+            "answers": [
+                "1571. október 7-én",
+                "1675. október 15-én",
+                "1564. október 11-én"
+            ],
+            "correct_answer": "1571. október 7-én"
+        },
+        {
+            "question": "Hány táblából áll a Gyönyörök kertje c. műalkotás?",
+            "answers": [
+                "három",
+                "öt",
+                "nyolc"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Milyen színű a híres delfti fajansz?",
+            "answers": [
+                "kék",
+                "zöld",
+                "sárga"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Ki a pszihoanalitikus iskola megalapítója?",
+            "answers": [
+                "Sigmund Freud",
+                "Jean-Martin Charcot",
+                "Josef Breuer"
+            ],
+            "correct_answer": "Sigmund Freud"
+        },
+        {
+            "question": "Ki volt az evolúcióelmélet kidolgozója?",
+            "answers": [
+                "Charles Darwin",
+                "Jean-Baptiste Lamarck",
+                "Charles Lyell"
+            ],
+            "correct_answer": "Charles Darwin"
+        },
+        {
+            "question": "Ki van az amerikai 100 dolláros bankjegyen?",
+            "answers": [
+                "Benjamin Franklin",
+                "Abraham Lincoln",
+                "Grover Cleveland"
+            ],
+            "correct_answer": "Benjamin Franklin"
+        },
+        {
+            "question": "Mikor kezdődött pontosan az 1956-os forradalom?",
+            "answers": [
+                "október 23-án",
+                "november 14-én",
+                "december 1-én"
+            ],
+            "correct_answer": "október 23-án"
+        },
+        {
+            "question": "Mikor volt a körmendi csata?",
+            "answers": [
+                "1664. július 26–27-én",
+                "1526. július 22-23-án",
+                "1667. május 12-én"
+            ],
+            "correct_answer": "1664. július 26–27-én"
+        },
+        {
+            "question": "Ki volt az első magyar enciklopédista?",
+            "answers": [
+                "Apáczai Csere János",
+                "Jókai Mór",
+                "Berei Andor"
+            ],
+            "correct_answer": "Apáczai Csere János"
+        },
+        {
+            "question": "Mi a neve annak a fegyvernek amivel Jézust megsebezték a kereszten?",
+            "answers": [
+                "A Végzet Lándzsája",
+                "A Végzet Fegyvere",
+                "A Szent Kopja"
+            ],
+            "correct_answer": "A Végzet Lándzsája"
+        },
+        {
+            "question": "Mikor hozták létre a Magyar Örökség díjat?",
+            "answers": [
+                "1995-ben",
+                "1998-ban",
+                "1991-ben"
+            ],
+            "correct_answer": "1995-ben"
+        },
+        {
+            "question": "Mi volt Vak Bottyán igazi neve?",
+            "answers": [
+                "Bottyán János",
+                "Bottyán Béla",
+                "Bottyán József"
+            ],
+            "correct_answer": "Bottyán János"
+        },
+        {
+            "question": "Mi volt a neve Odüsszeusz feleségének?",
+            "answers": [
+                "Pénelopé",
+                "Pandóra",
+                "Perszephoné"
+            ],
+            "correct_answer": "Pénelopé"
+        },
+        {
+            "question": "Ki volt a szépség és a szerelem istennője a görög mitológiában?",
+            "answers": [
+                "Aphrodité",
+                "Andromeda",
+                "Artemisz"
+            ],
+            "correct_answer": "Aphrodité"
+        },
+        {
+            "question": "Kik voltak a gigászok a görög mitológiában?",
+            "answers": [
+                "szakállas, félig kigyó testű lények",
+                "félig ember, félig ló alakú lények",
+                "félig ember, félig bika alakú lények"
+            ],
+            "correct_answer": "szakállas, félig kigyó testű lények"
+        },
+        {
+            "question": "Kinek az ikertestvére volt Artemisz?",
+            "answers": [
+                "Apollón",
+                "Adónisz",
+                "Antaiosz"
+            ],
+            "correct_answer": "Apollón"
+        },
+        {
+            "question": "Mi volt Madách Imre fő műve?",
+            "answers": [
+                "Az ember tragédiája",
+                "Mózes",
+                "A civilizátor"
+            ],
+            "correct_answer": "Az ember tragédiája"
+        },
+        {
+            "question": "Melyik évben kiáltották ki a köztársaságot Magyarországon?",
+            "answers": [
+                "1989-ben",
+                "1986-ban",
+                "1990-ben"
+            ],
+            "correct_answer": "1989-ben"
+        },
+        {
+            "question": "Ki volt az 56-os forradalom alatt a Miniszertanács elnöke?",
+            "answers": [
+                "Nagy Imre",
+                "Kádár János",
+                "Tildy Zoltán"
+            ],
+            "correct_answer": "Nagy Imre"
+        },
+        {
+            "question": "Mi volt Kádár János születéskori neve?",
+            "answers": [
+                "Czermanik János",
+                "Nagymarosi János",
+                "Nagy János"
+            ],
+            "correct_answer": "Czermanik János"
+        },
+        {
+            "question": "Mit tart Atlasz a vállán a görög mitológiában?",
+            "answers": [
+                "égboltot",
+                "Földet",
+                "hegyet"
+            ],
+            "correct_answer": "égboltot"
+        },
+        {
+            "question": "Mikor volt a váradi békekötés?",
+            "answers": [
+                "1538. febr. 24-én",
+                "1657. febr. 13-án",
+                "1789. aug. 23-án"
+            ],
+            "correct_answer": "1538. febr. 24-én"
+        },
+        {
+            "question": "Ki volt II. Rákóczi György?",
+            "answers": [
+                "erdélyi fejedelem",
+                "erdélyi vajda",
+                "osztrák főherceg"
+            ],
+            "correct_answer": "erdélyi fejedelem"
+        },
+        {
+            "question": "Mikor volt a Challenger-katasztrófa?",
+            "answers": [
+                "1986. január 28-án",
+                "1996. január 14-én",
+                "1988. február 23-án"
+            ],
+            "correct_answer": "1986. január 28-án"
+        },
+        {
+            "question": "Ki jelenleg Budapest főpolgármestere?",
+            "answers": [
+                "Tarlós István",
+                "Demszky Gábor",
+                "Schmitt Pál"
+            ],
+            "correct_answer": "Tarlós István"
+        },
+        {
+            "question": "Ki volt Zolta a magyar történelemben?",
+            "answers": [
+                "Árpád fia",
+                "Árpád unokája",
+                "Álmos fia"
+            ],
+            "correct_answer": "Árpád fia"
+        },
+        {
+            "question": "Ki követte II. Andrást a trónon?",
+            "answers": [
+                "IV. Béla",
+                "III. László",
+                "III. András"
+            ],
+            "correct_answer": "IV. Béla"
+        },
+        {
+            "question": "Ki volt II. Civakodó Frigyes?",
+            "answers": [
+                "osztrák herceg",
+                "osztrák császár",
+                "német király"
+            ],
+            "correct_answer": "osztrák herceg"
+        },
+        {
+            "question": "Kik találták fel a mozit?",
+            "answers": [
+                "Lumiére testvérek",
+                "Montgolfier-testvérek",
+                "Wright fivérek"
+            ],
+            "correct_answer": "Lumiére testvérek"
+        },
+        {
+            "question": "Mikor hozták létre a párizsi Disneyland-et?",
+            "answers": [
+                "1992-ben",
+                "1998-ban",
+                "1978-ban"
+            ],
+            "correct_answer": "1992-ben"
+        },
+        {
+            "question": "Milyen származású Kolumbusz Kristóf?",
+            "answers": [
+                "olasz",
+                "svéd",
+                "francia"
+            ],
+            "correct_answer": "olasz"
+        },
+        {
+            "question": "Mi volt a neve Kolumbusz vezérhajójának?",
+            "answers": [
+                "Santa Maria",
+                "Santa Margit",
+                "Santa Monika"
+            ],
+            "correct_answer": "Santa Maria"
+        },
+        {
+            "question": "Mi a squash?",
+            "answers": [
+                "fallabda",
+                "röplabda",
+                "gyeplabda"
+            ],
+            "correct_answer": "fallabda"
+        },
+        {
+            "question": "Hány felesége volt Julius Caesarnak?",
+            "answers": [
+                "három",
+                "egy",
+                "hat"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Melyik amerikai bankjegy hátoldalán látható a Fehér-ház?",
+            "answers": [
+                "20 dolláros",
+                "10 dolláros",
+                "500 dolláros"
+            ],
+            "correct_answer": "20 dolláros"
+        },
+        {
+            "question": "Melyik ország nemzeti hőse volt Tell Vilmos?",
+            "answers": [
+                "Svájc",
+                "Norvégia",
+                "Hollandia"
+            ],
+            "correct_answer": "Svájc"
+        },
+        {
+            "question": "Hány évesen halt meg Bornemissza Gergely?",
+            "answers": [
+                "29",
+                "42",
+                "56"
+            ],
+            "correct_answer": "29"
+        },
+        {
+            "question": "Mikor volt a bostoni teadélután?",
+            "answers": [
+                "1773.dec.16-án",
+                "1873.dec.16-án",
+                "1678.okt.22-én"
+            ],
+            "correct_answer": "1773.dec.16-án"
+        },
+        {
+            "question": "Melyik ország ellen vívták az amerikai függetlenségi háborút?",
+            "answers": [
+                "Nagy-Britannia",
+                "Finnország",
+                "Spanyolország"
+            ],
+            "correct_answer": "Nagy-Britannia"
+        },
+        {
+            "question": "Ki volt \"Az árvízi hajós\"?",
+            "answers": [
+                "Wesselényi Miklós",
+                "Széchenyi István",
+                "Deák Ferenc"
+            ],
+            "correct_answer": "Wesselényi Miklós"
+        },
+        {
+            "question": "Mikor van a forint bevezetésének napja?",
+            "answers": [
+                "1946. augusztus 1.",
+                "1956. július 21.",
+                "1981.szeptember 12."
+            ],
+            "correct_answer": "1946. augusztus 1."
+        },
+        {
+            "question": "Hány tudós nevét örökítettek meg az Eiffel-tornyon?",
+            "answers": [
+                "72",
+                "48",
+                "22"
+            ],
+            "correct_answer": "72"
+        },
+        {
+            "question": "Mikor adták át a Kisföldalatti Vasutat?",
+            "answers": [
+                "1896-ban",
+                "1996-ban",
+                "1922-ben"
+            ],
+            "correct_answer": "1896-ban"
+        },
+        {
+            "question": "Mi a neve Erdélyben a répának?",
+            "answers": [
+                "murok",
+                "cirok",
+                "murva"
+            ],
+            "correct_answer": "murok"
+        },
+        {
+            "question": "Ki volt Benyovszki Móric?",
+            "answers": [
+                "főnemes és utazó",
+                "festő és szobrász",
+                "író és költő"
+            ],
+            "correct_answer": "főnemes és utazó"
+        },
+        {
+            "question": "Melyik ország elnöke volt Nelson Mandela?",
+            "answers": [
+                "Dél-afrikai Köztársaság",
+                "Mozambik",
+                "Zimbabwe"
+            ],
+            "correct_answer": "Dél-afrikai Köztársaság"
+        },
+        {
+            "question": "Melyik királyunk lánya volt Árpád-házi Szent Margit?",
+            "answers": [
+                "IV. Béla",
+                "I. István",
+                "I. Károly"
+            ],
+            "correct_answer": "IV. Béla"
+        },
+        {
+            "question": "Ki volt Aba Sámuel?",
+            "answers": [
+                "I. István sógora",
+                "I. István fia",
+                "I. István unokatestvére"
+            ],
+            "correct_answer": "I. István sógora"
+        },
+        {
+            "question": "Ki Bill Gates?",
+            "answers": [
+                "a világ leggazdagabb embere",
+                "író, költő",
+                "énekes, színész"
+            ],
+            "correct_answer": "a világ leggazdagabb embere"
+        },
+        {
+            "question": "Mi maradt benn Pandora szelencéjében a görög mitológia szerint?",
+            "answers": [
+                "remény",
+                "bánat",
+                "betegség"
+            ],
+            "correct_answer": "remény"
+        },
+        {
+            "question": "Hány gyermeke van II. Erzsébet brit királynőnek?",
+            "answers": [
+                "4",
+                "5",
+                "2"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Melyik két csapat között zajlott a verduni csata?",
+            "answers": [
+                "német és francia",
+                "török és magyar",
+                "angol és német"
+            ],
+            "correct_answer": "német és francia"
+        },
+        {
+            "question": "Mikor alapították Herendi Porcelánmanufaktúrát?",
+            "answers": [
+                "1826-ban",
+                "1926-ban",
+                "1867-ben"
+            ],
+            "correct_answer": "1826-ban"
+        },
+        {
+            "question": "Mikor írták alá a trianoni békeszerződést?",
+            "answers": [
+                "1920. június 4-én",
+                "1932. december 18-án",
+                "1925. november 5-én"
+            ],
+            "correct_answer": "1920. június 4-én"
+        },
+        {
+            "question": "Ki volt Sisi, osztrák császárné édesapja?",
+            "answers": [
+                "Miksa József",
+                "Ferenc József",
+                "Piusz Ágost"
+            ],
+            "correct_answer": "Miksa József"
+        },
+        {
+            "question": "Ki volt Borromeo Szent Károly?",
+            "answers": [
+                "olasz bíboros érsek",
+                "jezsuita szerzetes",
+                "katolikus pap"
+            ],
+            "correct_answer": "olasz bíboros érsek"
+        },
+        {
+            "question": "Ki volt Hitvalló Eduárd?",
+            "answers": [
+                "angol király",
+                "angol filozófus",
+                "angol csillagász"
+            ],
+            "correct_answer": "angol király"
+        },
+        {
+            "question": "Ki volt a ferences rend megalapítója?",
+            "answers": [
+                "Assisi Szent Ferenc",
+                "Assisi Szent Klára",
+                "Szent Domonkos"
+            ],
+            "correct_answer": "Assisi Szent Ferenc"
+        },
+        {
+            "question": "Kinek a lánya volt Árpád-házi Szent Erzsébet?",
+            "answers": [
+                "II. András",
+                "IV. Béla",
+                "III. László"
+            ],
+            "correct_answer": "II. András"
+        },
+        {
+            "question": "Ki volt az első magyar régésznő?",
+            "answers": [
+                "Torma Zsófia",
+                "Sass Flóra",
+                "Ráskay Lea"
+            ],
+            "correct_answer": "Torma Zsófia"
+        },
+        {
+            "question": "Ki volt Canterburyi Szent Tamás?",
+            "answers": [
+                "canterburyi érsek",
+                "bíboros",
+                "esztergomi érsek"
+            ],
+            "correct_answer": "canterburyi érsek"
+        },
+        {
+            "question": "Ki nem tartozik a négy evangelista apostolok közé?",
+            "answers": [
+                "Jakab",
+                "Márk",
+                "János"
+            ],
+            "correct_answer": "Jakab"
+        },
+        {
+            "question": "Ki volt Széchenyi István édesanyja?",
+            "answers": [
+                "Festetics Julianna",
+                "Bossányi Julianna",
+                "Ottlik Julianna"
+            ],
+            "correct_answer": "Festetics Julianna"
+        },
+        {
+            "question": "Hány évig szolgáltatott áramot az Inotai hőerőmű?",
+            "answers": [
+                "50",
+                "30",
+                "60"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Mi volt Vasvári Pál eredeti neve?",
+            "answers": [
+                "Fejér Pál",
+                "Nagy Péter",
+                "Fogarasi Ottó"
+            ],
+            "correct_answer": "Fejér Pál"
+        },
+        {
+            "question": "Kik voltak a vandálok?",
+            "answers": [
+                "germán nép",
+                "szláv népcsoport",
+                "mór nép"
+            ],
+            "correct_answer": "germán nép"
+        },
+        {
+            "question": "Mikor volt a nikolsburgi békeszerződés?",
+            "answers": [
+                "1621.december 31-én",
+                "1786.december 31-én",
+                "1897.december 31-én"
+            ],
+            "correct_answer": "1621.december 31-én"
+        },
+        {
+            "question": "Hány európai ország kapott segélyt a Marshall-terv nemzetközi segélyprogram keretében?",
+            "answers": [
+                "17",
+                "12",
+                "8"
+            ],
+            "correct_answer": "17"
+        },
+        {
+            "question": "Mikor vezette be a Magyar Posta az irányítószámok használatát?",
+            "answers": [
+                "1973-ban",
+                "1975-ben",
+                "1978-ban"
+            ],
+            "correct_answer": "1973-ban"
+        },
+        {
+            "question": "Ki kapta 1979-ben a Nobel-békedíjat?",
+            "answers": [
+                "Teréz anya",
+                "Dalai láma",
+                "Nelson Mandela"
+            ],
+            "correct_answer": "Teréz anya"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Marco Polo?",
+            "answers": [
+                "velencei",
+                "angol",
+                "ír"
+            ],
+            "correct_answer": "velencei"
+        },
+        {
+            "question": "Melyik háborút zárta le a hubertusburgi béke?",
+            "answers": [
+                "hétéves háborút",
+                "első világháborút",
+                "százéves háborút"
+            ],
+            "correct_answer": "hétéves háborút"
+        },
+        {
+            "question": "Hány évig tartott valójában a százéves háború?",
+            "answers": [
+                "116",
+                "105",
+                "122"
+            ],
+            "correct_answer": "116"
+        },
+        {
+            "question": "Melyik évben csatlakozott Magyarország az Európai Unióhoz?",
+            "answers": [
+                "2004-ben",
+                "2008-ban",
+                "2002-ben"
+            ],
+            "correct_answer": "2004-ben"
+        },
+        {
+            "question": "Mikor volt a soproni népszavazás?",
+            "answers": [
+                "1921-ben",
+                "1948-ban",
+                "1956-ban"
+            ],
+            "correct_answer": "1921-ben"
+        },
+        {
+            "question": "Milyen rokoni kapcsolatban állt Zeusszal, Artemisz?",
+            "answers": [
+                "édesapja volt",
+                "nagybátyja volt",
+                "testvére volt"
+            ],
+            "correct_answer": "édesapja volt"
+        },
+        {
+            "question": "Ki követte IV. Bélát a magyar trónon?",
+            "answers": [
+                "V. István",
+                "V. Béla",
+                "IV. László"
+            ],
+            "correct_answer": "V. István"
+        },
+        {
+            "question": "Hány gyermeke született Mária Teréziának?",
+            "answers": [
+                "16",
+                "11",
+                "6"
+            ],
+            "correct_answer": "16"
+        },
+        {
+            "question": "Hány évig uralkodott Viktória királynő?",
+            "answers": [
+                "64",
+                "56",
+                "48"
+            ],
+            "correct_answer": "64"
+        },
+        {
+            "question": "Hol született Bonaparte Napóleon?",
+            "answers": [
+                "Korzikán",
+                "Krétán",
+                "Elbán"
+            ],
+            "correct_answer": "Korzikán"
+        },
+        {
+            "question": "Melyik évben volt a nagy londoni tűzvész?",
+            "answers": [
+                "1666-ban",
+                "1777-ben",
+                "1888-ban"
+            ],
+            "correct_answer": "1666-ban"
+        },
+        {
+            "question": "Mit készítettek a bodnárok?",
+            "answers": [
+                "faedényeket",
+                "kerekeket",
+                "bőrcipőt"
+            ],
+            "correct_answer": "faedényeket"
+        },
+        {
+            "question": "Hol halt meg Bartók Béla?",
+            "answers": [
+                "New Yorkban",
+                "Los Angelesben",
+                "Budapesten"
+            ],
+            "correct_answer": "New Yorkban"
+        },
+        {
+            "question": "Mikor kötötték a Szent Szövetséget?",
+            "answers": [
+                "1815.szeptember 26-án",
+                "1789.szeptember 6-án",
+                "1687. január 23-án"
+            ],
+            "correct_answer": "1815.szeptember 26-án"
+        },
+        {
+            "question": "Mikor vonták ki a forgalomból Magyarországon az 1 és 2 forintos érméket?",
+            "answers": [
+                "2008-ban",
+                "2009-ben",
+                "2004-ben"
+            ],
+            "correct_answer": "2008-ban"
+        },
+        {
+            "question": "Árpád után ki volt a következő Árpád-házi fejedelem?",
+            "answers": [
+                "Zolta",
+                "Taksony",
+                "Géza"
+            ],
+            "correct_answer": "Zolta"
+        },
+        {
+            "question": "Hanyadik elnöke volt az USA-nak John Fitzgerald Kennedy?",
+            "answers": [
+                "35.",
+                "43.",
+                "22."
+            ],
+            "correct_answer": "35."
+        },
+        {
+            "question": "Mikor nyitották meg a Nyugati pályaudvart?",
+            "answers": [
+                "1877-ben",
+                "1865-ben",
+                "1921-ben"
+            ],
+            "correct_answer": "1877-ben"
+        },
+        {
+            "question": "Hány múzsa volt a görög mitológiában?",
+            "answers": [
+                "9",
+                "12",
+                "16"
+            ],
+            "correct_answer": "9"
+        },
+        {
+            "question": "Mikor nyitotta meg kaput a párizsi Disneyland?",
+            "answers": [
+                "1992-ben",
+                "1998-ban",
+                "1986-ban"
+            ],
+            "correct_answer": "1992-ben"
+        },
+        {
+            "question": "Mettől-meddig tartott az 1848–49-es forradalom és szabadságharc?",
+            "answers": [
+                "1848. március 15.-1849. október 4-ig",
+                "1848. március 1.-1949. november 25-ig",
+                "1848. június 15.-1949. október 16-ig"
+            ],
+            "correct_answer": "1848. március 15.-1849. október 4-ig"
+        },
+        {
+            "question": "Mikor vívták a pákozdi csatát?",
+            "answers": [
+                "1848. szeptember 29-én",
+                "1849. október 1-én",
+                "1848. május 14-én"
+            ],
+            "correct_answer": "1848. szeptember 29-én"
+        },
+        {
+            "question": "Az 1848-as forradalom hanyadik évfordulóján adtak át először Kossuth-díjat?",
+            "answers": [
+                "100.",
+                "50.",
+                "500."
+            ],
+            "correct_answer": "100."
+        },
+        {
+            "question": "Hány cm magas a Batthyány-örökmécses?",
+            "answers": [
+                "180 cm",
+                "320 cm",
+                "560 cm"
+            ],
+            "correct_answer": "180 cm"
+        },
+        {
+            "question": "Ki volt „a haza bölcse” és „a nemzet prókátora” ?",
+            "answers": [
+                "Deák Ferenc",
+                "Kossuth Lajos",
+                "Széchenyi István"
+            ],
+            "correct_answer": "Deák Ferenc"
+        },
+        {
+            "question": "Kik a számik?",
+            "answers": [
+                "lappok",
+                "szardíniaiak",
+                "szlávok"
+            ],
+            "correct_answer": "lappok"
+        },
+        {
+            "question": "Mi volt Fa Nándor első hajójának a neve?",
+            "answers": [
+                "Szent Jupát",
+                "Santa Maria",
+                "Szent Anna"
+            ],
+            "correct_answer": "Szent Jupát"
+        },
+        {
+            "question": "Mikor alapították a Magyar Vöröskeresztet?",
+            "answers": [
+                "1881-ben",
+                "1867-ben",
+                "1886-ban"
+            ],
+            "correct_answer": "1881-ben"
+        },
+        {
+            "question": "Kiknek a nemzeti viselete a kimonó?",
+            "answers": [
+                "japánoknak",
+                "kínaiaknak",
+                "indiaiaknak"
+            ],
+            "correct_answer": "japánoknak"
+        },
+        {
+            "question": "Mikor szűnt meg a Budapesti Vidám Park?",
+            "answers": [
+                "2013-ban",
+                "2015-ben",
+                "2011-ben"
+            ],
+            "correct_answer": "2013-ban"
+        },
+        {
+            "question": "Mióta létezik Magyarországon televízió?",
+            "answers": [
+                "1950-es évektől",
+                "1930-as évektől",
+                "1960-as évektől"
+            ],
+            "correct_answer": "1950-es évektől"
+        },
+        {
+            "question": "Melyik amerikai elnök lemondásához vezetett a Watergate-botrány?",
+            "answers": [
+                "Richard Nixon",
+                "Jimmy Carter",
+                "Ronald Reagan"
+            ],
+            "correct_answer": "Richard Nixon"
+        },
+        {
+            "question": "Mi az ENSZ székhelye?",
+            "answers": [
+                "New York",
+                "Washington",
+                "Brüsszel"
+            ],
+            "correct_answer": "New York"
+        },
+        {
+            "question": "Mettől-meddig tartott a sztálingrádi csata?",
+            "answers": [
+                "1942-43",
+                "1958-59",
+                "1889-90"
+            ],
+            "correct_answer": "1942-43"
+        },
+        {
+            "question": "Hány tanítványa (apostola) volt Jézusnak?",
+            "answers": [
+                "12",
+                "9",
+                "7"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Hány ország tagja az ENSZ-nek?",
+            "answers": [
+                "193",
+                "154",
+                "118"
+            ],
+            "correct_answer": "193"
+        },
+        {
+            "question": "Kik voltak a komancsok?",
+            "answers": [
+                "indián törzs",
+                "szláv népcsoport",
+                "germán népek"
+            ],
+            "correct_answer": "indián törzs"
+        },
+        {
+            "question": "Hány évig uralkodott Viktória királynő?",
+            "answers": [
+                "63",
+                "42",
+                "28"
+            ],
+            "correct_answer": "63"
+        },
+        {
+            "question": "Melyik évben volt a kenyérmezei csata?",
+            "answers": [
+                "1479-ben",
+                "1526-ban",
+                "1467-ben"
+            ],
+            "correct_answer": "1479-ben"
+        },
+        {
+            "question": "Hol született Jézus Krisztus?",
+            "answers": [
+                "Betlehemben",
+                "Jeruzsálemben",
+                "Budapesten"
+            ],
+            "correct_answer": "Betlehemben"
+        },
+        {
+            "question": "Melyik bankjegyen látható Mátyás király?",
+            "answers": [
+                "1000 Ft-os",
+                "10000 Ft-os",
+                "5000 Ft-os"
+            ],
+            "correct_answer": "1000 Ft-os"
+        },
+        {
+            "question": "Hogy hívták I. Szulejmán hitvesét?",
+            "answers": [
+                "Hürrem",
+                "Fatma Nur",
+                "Raziye"
+            ],
+            "correct_answer": "Hürrem"
+        },
+        {
+            "question": "Ki volt I. Szent László apja?",
+            "answers": [
+                "I. Béla",
+                "IV. Béla",
+                "I. István"
+            ],
+            "correct_answer": "I. Béla"
+        },
+        {
+            "question": "Ki az uralkodó Dániában?",
+            "answers": [
+                "II. Margit",
+                "I. Margit",
+                "IV. Mária"
+            ],
+            "correct_answer": "II. Margit"
+        },
+        {
+            "question": "Mikből állnak a Seuso-kincsek?",
+            "answers": [
+                "díszes étkezési tárgyakból",
+                "híres kerámiákból",
+                "régi pénzérmékből"
+            ],
+            "correct_answer": "díszes étkezési tárgyakból"
+        },
+        {
+            "question": "Mettől-meddig tartott az angol polgári forradalom?",
+            "answers": [
+                "1642-1651-ig",
+                "1786-1798-ig",
+                "1586-1611-ig"
+            ],
+            "correct_answer": "1642-1651-ig"
+        },
+        {
+            "question": "Mikor volt a szatmári békekötés?",
+            "answers": [
+                "1711. április 30-án",
+                "1867. május 24-én",
+                "1456. április 12-én"
+            ],
+            "correct_answer": "1711. április 30-án"
+        },
+        {
+            "question": "Hol őrzik \"Lehel kürtjét\" ?",
+            "answers": [
+                "Jászberényben",
+                "Kecskeméten",
+                "Szolnokon"
+            ],
+            "correct_answer": "Jászberényben"
+        },
+        {
+            "question": "Melyik királyt tartják Budavár alapítójának?",
+            "answers": [
+                "IV. Bélát",
+                "III. Bélát",
+                "II. Andrást"
+            ],
+            "correct_answer": "IV. Bélát"
+        },
+        {
+            "question": "Ki volt Szent Flórián?",
+            "answers": [
+                "a tűzoltók védőszentje",
+                "a rendőrök védőszentje",
+                "a katonák védőszentje"
+            ],
+            "correct_answer": "a tűzoltók védőszentje"
+        },
+        {
+            "question": "Melyik országból származik a szauna?",
+            "answers": [
+                "Finnországból",
+                "Norvégiából",
+                "Dániából"
+            ],
+            "correct_answer": "Finnországból"
+        },
+        {
+            "question": "Mikor nyílt meg a Ferihegyi Nemzetközi Repülőtér?",
+            "answers": [
+                "1950-ben",
+                "1960-ban",
+                "1970-ben"
+            ],
+            "correct_answer": "1950-ben"
+        },
+        {
+            "question": "Mikor volt a thermopülai csata?",
+            "answers": [
+                "i.e. 480-ban",
+                "i.e. 370-ben",
+                "i.e. 460-ban"
+            ],
+            "correct_answer": "i.e. 480-ban"
+        },
+        {
+            "question": "Melyik háború az alapja a Miss Saigon c. musicalnek?",
+            "answers": [
+                "vietnami háború",
+                "második világháború",
+                "koreai háború"
+            ],
+            "correct_answer": "vietnami háború"
+        },
+        {
+            "question": "Ki alapította a tihanyi apátságot?",
+            "answers": [
+                "I. András király",
+                "I. István király",
+                "I. Mátyás király"
+            ],
+            "correct_answer": "I. András király"
+        },
+        {
+            "question": "Hol halt meg II. Rákóczi Ferenc?",
+            "answers": [
+                "Rodostón",
+                "Vágsellyén",
+                "Bécsben"
+            ],
+            "correct_answer": "Rodostón"
+        },
+        {
+            "question": "Melyik országból származik a Szamba tánc?",
+            "answers": [
+                "Brazíliából",
+                "Spanyolországból",
+                "Kubából"
+            ],
+            "correct_answer": "Brazíliából"
+        },
+        {
+            "question": "Jelenleg ki a norvég király?",
+            "answers": [
+                "V. Harald",
+                "V. Olaf",
+                "VII. Haakon"
+            ],
+            "correct_answer": "V. Harald"
+        },
+        {
+            "question": "Melyik évben nyitotta meg kapuit a Groupama Aréna?",
+            "answers": [
+                "2014-ben",
+                "2015-ben",
+                "2016-ban"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Ki az uralkodó az Egyesült Királyságban?",
+            "answers": [
+                "II. Erzsébet királynő",
+                "III. Károly",
+                "Viktória királynő"
+            ],
+            "correct_answer": "III. Károly"
+        },
+        {
+            "question": "Mikor vezették be az eurót?",
+            "answers": [
+                "1999-ben",
+                "2000-ben",
+                "1996-ban"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Hány évig tartott valójában a százéves háború?",
+            "answers": [
+                "116",
+                "105",
+                "122"
+            ],
+            "correct_answer": "116"
+        },
+        {
+            "question": "Mikor volt István, királlyá koronázása?",
+            "answers": [
+                "1001. jan. 1.",
+                "1001. jan.11.",
+                "1011. jan. 21."
+            ],
+            "correct_answer": "1001. jan. 1."
+        },
+        {
+            "question": "Melyik fejedelem anyja Zrínyi Ilona?",
+            "answers": [
+                "II. Rákóczi Ferenc",
+                "Thököly Imre",
+                "Báthory István"
+            ],
+            "correct_answer": "II. Rákóczi Ferenc"
+        },
+        {
+            "question": "Melyik volt hazánk első nemzeti parkja?",
+            "answers": [
+                "Hortobágyi",
+                "Aggteleki",
+                "Őrségi"
+            ],
+            "correct_answer": "Hortobágyi"
+        },
+        {
+            "question": "Ki követte IV. Bélát a magyar trónon?",
+            "answers": [
+                "V. István",
+                "V. Béla",
+                "IV. László"
+            ],
+            "correct_answer": "V. István"
+        },
+        {
+            "question": "Hány évig uralkodott Viktória királynő?",
+            "answers": [
+                "64",
+                "56",
+                "48"
+            ],
+            "correct_answer": "64"
+        },
+        {
+            "question": "Mikor ütközött egy jéghegynek a Titanic?",
+            "answers": [
+                "1912-ben",
+                "1945-ben",
+                "1897-ben"
+            ],
+            "correct_answer": "1912-ben"
+        },
+        {
+            "question": "Mikor volt a Morvamezei-csata?",
+            "answers": [
+                "1278-ban",
+                "1345-ben",
+                "1256-ban"
+            ],
+            "correct_answer": "1278-ban"
+        },
+        {
+            "question": "Ki volt I. Leonidasz?",
+            "answers": [
+                "spártai király",
+                "perzsa király",
+                "spártai harcos"
+            ],
+            "correct_answer": "spártai király"
+        },
+        {
+            "question": "Hány festményt loptak el 1983-ban a Szépművészeti Múzeumból?",
+            "answers": [
+                "7",
+                "13",
+                "22"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Ki volt a \"haza bölcse\"?",
+            "answers": [
+                "Deák Ferenc",
+                "Széchenyi István",
+                "Kossuth Lajos"
+            ],
+            "correct_answer": "Deák Ferenc"
+        },
+        {
+            "question": "Melyik egy fáraó?",
+            "answers": [
+                "Dzsószer",
+                "Dzsóker",
+                "Dzsódhpur"
+            ],
+            "correct_answer": "Dzsószer"
+        },
+        {
+            "question": "Melyik város védőszentje Szent Miklós?",
+            "answers": [
+                "Kecskemét",
+                "Debrecen",
+                "Miskolc"
+            ],
+            "correct_answer": "Kecskemét"
+        },
+        {
+            "question": "Mikor volt a Pearl Harbor-i csata?",
+            "answers": [
+                "1941. december 7-én",
+                "1945. december 7-én",
+                "1964. december 7-én"
+            ],
+            "correct_answer": "1941. december 7-én"
+        },
+        {
+            "question": "Ki volt I.(Szent)István király édesapja?",
+            "answers": [
+                "Géza fejedelem",
+                "Taksony fejedelem",
+                "Árpád fejedelem"
+            ],
+            "correct_answer": "Géza fejedelem"
+        },
+        {
+            "question": "Melyik ország elnöke volt Nelson Mandela?",
+            "answers": [
+                "Dél-afrikai Köztársaság",
+                "Mozambik",
+                "Zimbabwe"
+            ],
+            "correct_answer": "Dél-afrikai Köztársaság"
+        },
+        {
+            "question": "Melyik évben égett le a Budapest Sportcsarnok?",
+            "answers": [
+                "1999-ben",
+                "2000-ben",
+                "1987-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Hanyadik évezred van most?",
+            "answers": [
+                "harmadik",
+                "második",
+                "első"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Ki volt Zeusz apja a görög mitológiában?",
+            "answers": [
+                "Kronosz",
+                "Poszeidon",
+                "Hádész"
+            ],
+            "correct_answer": "Kronosz"
+        },
+        {
+            "question": "Miről kapta nevét a Wartburg autó?",
+            "answers": [
+                "egy várról",
+                "egy városról",
+                "egy folyóról"
+            ],
+            "correct_answer": "egy várról"
+        },
+        {
+            "question": "Ki avatta fel a Sydney-i Operaházat?",
+            "answers": [
+                "II. Erzsébet királynő",
+                "Barack Obama",
+                "Viktória királynő"
+            ],
+            "correct_answer": "II. Erzsébet királynő"
+        },
+        {
+            "question": "Mikor volt a bostoni teadélután?",
+            "answers": [
+                "1773. dec. 16-án",
+                "1767. dec. 11-én",
+                "1772. dec. 16-án"
+            ],
+            "correct_answer": "1773. dec. 16-án"
+        },
+        {
+            "question": "Mit készítettek a kádárok?",
+            "answers": [
+                "faedényeket",
+                "szekereket",
+                "cipőket"
+            ],
+            "correct_answer": "faedényeket"
+        },
+        {
+            "question": "Mikor omlott le a berlini fal?",
+            "answers": [
+                "1989-ben",
+                "1990-ben",
+                "1993-ban"
+            ],
+            "correct_answer": "1989-ben"
+        },
+        {
+            "question": "Mikor jött létre az ENSZ?",
+            "answers": [
+                "1945-ben",
+                "1965-ben",
+                "1956-ban"
+            ],
+            "correct_answer": "1945-ben"
+        },
+        {
+            "question": "Ki jelenleg Magyarország köztársasági elnöke?",
+            "answers": [
+                "Áder János",
+                "Kövér László",
+                "Schmitt Pál"
+            ],
+            "correct_answer": "Áder János"
+        },
+        {
+            "question": "Mikor volt az egri vár ostroma?",
+            "answers": [
+                "1552-ben",
+                "1654-ben",
+                "1456-ban"
+            ],
+            "correct_answer": "1552-ben"
+        },
+        {
+            "question": "Ki volt Bonaparte Napoleon házastársa?",
+            "answers": [
+                "Mária Lujza",
+                "Mária Klementina",
+                "Mária Karolina"
+            ],
+            "correct_answer": "Mária Lujza"
+        },
+        {
+            "question": "Ki volt Izsák apja a Bibliában?",
+            "answers": [
+                "Ábrahám",
+                "Jákob",
+                "Mózes"
+            ],
+            "correct_answer": "Ábrahám"
+        },
+        {
+            "question": "Melyik nem tartozik a világ hét új csodája közé?",
+            "answers": [
+                "Pantheon",
+                "Kínai nagy fal",
+                "A Megváltó Krisztus szobra"
+            ],
+            "correct_answer": "Pantheon"
+        },
+        {
+            "question": "Melyik király alapította a tihanyi apátságot?",
+            "answers": [
+                "I. András",
+                "II. András",
+                "I. Lajos"
+            ],
+            "correct_answer": "I. András"
+        },
+        {
+            "question": "Mikor adták ki az Aranybullát?",
+            "answers": [
+                "1222-ben",
+                "1333-ban",
+                "1526-ban"
+            ],
+            "correct_answer": "1222-ben"
+        },
+        {
+            "question": "Ki volt az orvostudomány megalapítója?",
+            "answers": [
+                "Hippokratész",
+                "Szókratész",
+                "Platón"
+            ],
+            "correct_answer": "Hippokratész"
+        },
+        {
+            "question": "Alföldi Róbert melyik színház igazgatója volt 2008-tól-2013-ig?",
+            "answers": [
+                "Nemzeti Színház",
+                "Madách Színház",
+                "Thália Színház"
+            ],
+            "correct_answer": "Nemzeti Színház"
+        },
+        {
+            "question": "Ki volt Széchenyi István édesanyja?",
+            "answers": [
+                "Festetics Julianna",
+                "Bossányi Julianna",
+                "Ottlik Julianna"
+            ],
+            "correct_answer": "Festetics Julianna"
+        },
+        {
+            "question": "Mikor vezették be az eurót?",
+            "answers": [
+                "1999. január 1-én",
+                "2000. január 1-én",
+                "1997. január 1-én"
+            ],
+            "correct_answer": "1999. január 1-én"
+        },
+        {
+            "question": "Mikor készítették az első Trabantot?",
+            "answers": [
+                "1957-ben",
+                "1965-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1957-ben"
+        },
+        {
+            "question": "Hanyadik századig tartott a középkor?",
+            "answers": [
+                "16. századig",
+                "14. századig",
+                "18. századig"
+            ],
+            "correct_answer": "16. századig"
+        },
+        {
+            "question": "Melyik ország nem tartozik a visegrádi négyek közé?",
+            "answers": [
+                "Horvátország",
+                "Csehország",
+                "Szlovákia"
+            ],
+            "correct_answer": "Horvátország"
+        },
+        {
+            "question": "Minek a rövidítése a NATO?",
+            "answers": [
+                "Észak-atlanti Szerződés Szervezete",
+                "Európai Gazdasági Közösség",
+                "Egyesült Nemzetek Szervezete"
+            ],
+            "correct_answer": "Észak-atlanti Szerződés Szervezete"
+        },
+        {
+            "question": "Melyik nem világörökségi helyszín?",
+            "answers": [
+                "Tihanyi-félsziget",
+                "Hollokő-Ófalu",
+                "Hortobágyi Nemzeti Park"
+            ],
+            "correct_answer": "Tihanyi-félsziget"
+        },
+        {
+            "question": "Mit jelent a GDP magyarul?",
+            "answers": [
+                "bruttó hazai termék",
+                "teljes hiteldíjmutató",
+                "általános forgalmi adó"
+            ],
+            "correct_answer": "bruttó hazai termék"
+        },
+        {
+            "question": "Ki követte II. Andrást a trónon?",
+            "answers": [
+                "IV. Béla",
+                "V. István",
+                "IV. László"
+            ],
+            "correct_answer": "IV. Béla"
+        },
+        {
+            "question": "Kik voltak a normannok?",
+            "answers": [
+                "skandináv eredetű nép",
+                "észak-amerikai indián törzs",
+                "finnugor nép"
+            ],
+            "correct_answer": "skandináv eredetű nép"
+        },
+        {
+            "question": "Mi volt Mária Terézia uralkodói neve?",
+            "answers": [
+                "II. Mária",
+                "IV. Mária",
+                "I. Mária"
+            ],
+            "correct_answer": "II. Mária"
+        },
+        {
+            "question": "Mikor futott zátonyra a Costa Concordia hajó?",
+            "answers": [
+                "2012. január 13-án",
+                "2014. január 13-án",
+                "2010. január 13-án"
+            ],
+            "correct_answer": "2012. január 13-án"
+        },
+        {
+            "question": "Hány évig tartott az első világháború?",
+            "answers": [
+                "négy",
+                "nyolc",
+                "tizenkettő"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Melyik épitmény került be a világ hét új csodája közé?",
+            "answers": [
+                "Machu Picchu",
+                "Eiffel-torony",
+                "Stonehenge"
+            ],
+            "correct_answer": "Machu Picchu"
+        },
+        {
+            "question": "Melyik budapesti szigeten hunyt el Árpád-házi Szent Margit?",
+            "answers": [
+                "Margit-szigeten",
+                "Csepel-szigeten",
+                "Óbudai-szigeten"
+            ],
+            "correct_answer": "Margit-szigeten"
+        },
+        {
+            "question": "Mikor indult útjára a cserkészmozgalom Magyarországon?",
+            "answers": [
+                "1910-ben",
+                "1890-ben",
+                "1940-ben"
+            ],
+            "correct_answer": "1910-ben"
+        },
+        {
+            "question": "Hány feleségét fejeztetett le VIII. Henrik, angol király?",
+            "answers": [
+                "kettőt",
+                "négyet",
+                "egyet"
+            ],
+            "correct_answer": "kettőt"
+        },
+        {
+            "question": "Ki 2013-tól a római pápa?",
+            "answers": [
+                "Ferenc pápa",
+                "XVI. Benedek pápa",
+                "XII. Piusz pápa"
+            ],
+            "correct_answer": "Ferenc pápa"
+        },
+        {
+            "question": "Mit készített a takács?",
+            "answers": [
+                "vászont",
+                "cipőt",
+                "faedényeket"
+            ],
+            "correct_answer": "vászont"
+        },
+        {
+            "question": "Hány szakaszból állt az angol polgári forradalom?",
+            "answers": [
+                "öt",
+                "hét",
+                "három"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Melyik uralkodónk latin neve volt Mathias Rex?",
+            "answers": [
+                "I. Mátyás király",
+                "I. Szent István",
+                "IV. Béla"
+            ],
+            "correct_answer": "I. Mátyás király"
+        },
+        {
+            "question": "Mikor volt a Casablancai konferencia?",
+            "answers": [
+                "1943-ban",
+                "1897-ben",
+                "1985-ben"
+            ],
+            "correct_answer": "1943-ban"
+        },
+        {
+            "question": "Mi volt Ausztria az euró bevezetése előtti pénzneme?",
+            "answers": [
+                "schilling",
+                "márka",
+                "korona"
+            ],
+            "correct_answer": "schilling"
+        },
+        {
+            "question": "Melyik kor előzte meg az ókort?",
+            "answers": [
+                "őskor",
+                "középkor",
+                "újkor"
+            ],
+            "correct_answer": "őskor"
+        },
+        {
+            "question": "Ki volt a magyar jakobinus mozgalom vezére?",
+            "answers": [
+                "Martinovics Ignác",
+                "Hajnóczy József",
+                "Batsányi János"
+            ],
+            "correct_answer": "Martinovics Ignác"
+        },
+        {
+            "question": "Ki volt az első római császár?",
+            "answers": [
+                "Augustus",
+                "Tiberius",
+                "Nero"
+            ],
+            "correct_answer": "Augustus"
+        },
+        {
+            "question": "Milyen hosszú a La Manche csatorna?",
+            "answers": [
+                "563 km",
+                "123 km",
+                "456 km"
+            ],
+            "correct_answer": "563 km"
+        },
+        {
+            "question": "Melyik évben kezdődött a kaliforniai aranyláz?",
+            "answers": [
+                "1848-ban",
+                "1967-ben",
+                "1789-ben"
+            ],
+            "correct_answer": "1848-ban"
+        },
+        {
+            "question": "Ki Hollandia jelenlegi királya?",
+            "answers": [
+                "Vilmos Sándor",
+                "Beatrix királynő",
+                "XVI. Károly Gusztáv"
+            ],
+            "correct_answer": "Vilmos Sándor"
+        },
+        {
+            "question": "Ki volt Barack Obama elődje az amerikai elnöki székben?",
+            "answers": [
+                "George W. Bush",
+                "Bill Clinton",
+                "Ronald Reagan"
+            ],
+            "correct_answer": "George W. Bush"
+        },
+        {
+            "question": "Kik nem léphetnek be az Athosz-hegyi Köztársaság területére?",
+            "answers": [
+                "nők",
+                "férfiak",
+                "gyerekek"
+            ],
+            "correct_answer": "nők"
+        },
+        {
+            "question": "Melyik ország adta a Szabadság-szobrot az USA-nak?",
+            "answers": [
+                "Franciaország",
+                "Spanyolország",
+                "Olaszország"
+            ],
+            "correct_answer": "Franciaország"
+        },
+        {
+            "question": "Mikor volt a nagy gazdasági világválság?",
+            "answers": [
+                "1929-33 között",
+                "1938-40 között",
+                "1945-60 között"
+            ],
+            "correct_answer": "1929-33 között"
+        },
+        {
+            "question": "Hol született Széchenyi István?",
+            "answers": [
+                "Bécsben",
+                "Nagycenken",
+                "Budapesten"
+            ],
+            "correct_answer": "Bécsben"
+        }
+    ]
+}

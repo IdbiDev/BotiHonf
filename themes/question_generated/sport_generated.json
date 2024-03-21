@@ -1,0 +1,2138 @@
+{
+    "theme": "Sport",
+    "questions": [
+        {
+            "question": "Mikor és hol rendezték meg az első nyári olimpiai játékokat?",
+            "answers": [
+                "1896 Athén",
+                "1908 London",
+                "932 Los Angeles"
+            ],
+            "correct_answer": "1896 Athén"
+        },
+        {
+            "question": "Mi volt a végeredménye a Magyar-Ausztria mérkőzésnek a 2016-os foci EB-n?",
+            "answers": [
+                "2-0",
+                "1-0",
+                "1-1"
+            ],
+            "correct_answer": "2-0"
+        },
+        {
+            "question": "Hol rendezik meg a 2016-os Olimpiai Játékokat?",
+            "answers": [
+                "Rio de Janeiroban",
+                "Londonban",
+                "Párizsban"
+            ],
+            "correct_answer": "Rio de Janeiroban"
+        },
+        {
+            "question": "Ki nyerte a 2016. május 1-i Forma 1-es futamot (orosz nagydíj)?",
+            "answers": [
+                "Nico Rosberg",
+                "Lewis Hamilton",
+                "Max Verstappen"
+            ],
+            "correct_answer": "Nico Rosberg"
+        },
+        {
+            "question": "Hány évente kerül megrendezésre a labdarúgó EB?",
+            "answers": [
+                "4",
+                "2",
+                "1"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Ki a Forma 1 történetének legsikeresebb versenyzője?",
+            "answers": [
+                "Michael Schumacher",
+                "Nelson Piquet",
+                "Alain Prost"
+            ],
+            "correct_answer": "Michael Schumacher"
+        },
+        {
+            "question": "Hol rendezték meg a 2016-os kajak-kenu Európa-bajnokságot?",
+            "answers": [
+                "Moszkvában",
+                "Londonban",
+                "Párizsban"
+            ],
+            "correct_answer": "Moszkvában"
+        },
+        {
+            "question": "Hol született Lionel Messi a híres focista?",
+            "answers": [
+                "Argentínában",
+                "Brazíliában",
+                "Spanyolországban"
+            ],
+            "correct_answer": "Argentínában"
+        },
+        {
+            "question": "Hol rendezték meg a 2016-os labdarúgó Eb-t?",
+            "answers": [
+                "Franciaországban",
+                "Angliában",
+                "Spanyolországban"
+            ],
+            "correct_answer": "Franciaországban"
+        },
+        {
+            "question": "Michael Phelps úszó, hány aranyérmet nyert 2012-ben Londonban?",
+            "answers": [
+                "4",
+                "3",
+                "5"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Mi lett a Németország-Franciaország mérkőzés végeredménye a foci Eb-n?",
+            "answers": [
+                "0-2",
+                "2-0",
+                "1-1"
+            ],
+            "correct_answer": "0-2"
+        },
+        {
+            "question": "2008-ban melyik városban rendezték meg a nyári olimpiai játékokat?",
+            "answers": [
+                "Londonban",
+                "Atlantában",
+                "Pekingben"
+            ],
+            "correct_answer": "Pekingben"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Egerszegi Krisztina?",
+            "answers": [
+                "5",
+                "4",
+                "6"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Hány aranyérmet szerzett a magyar csapat a 3. Arena junior úszó-Európa-bajnokságon?",
+            "answers": [
+                "5",
+                "4",
+                "3"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Melyik csapat nyerte a 2016-os Foci Eb-t?",
+            "answers": [
+                "Németország",
+                "Franciaország",
+                "Portugália"
+            ],
+            "correct_answer": "Portugália"
+        },
+        {
+            "question": "Melyik évben lett világbajnok Talmácsi Gábor?",
+            "answers": [
+                "2007-ben",
+                "2008-ben",
+                "2010-ben"
+            ],
+            "correct_answer": "2007-ben"
+        },
+        {
+            "question": "Milyen poszton játszott Puskás Öcsi, a legendás labdarúgó?",
+            "answers": [
+                "csatár",
+                "hátvéd",
+                "középpályás"
+            ],
+            "correct_answer": "csatár"
+        },
+        {
+            "question": "Carl Lewis melyik sportág olimpiai bajnoka?",
+            "answers": [
+                "úszás",
+                "atlétika",
+                "torna"
+            ],
+            "correct_answer": "atlétika"
+        },
+        {
+            "question": "Hány km hosszú a Kékszalag vitorlásverseny?",
+            "answers": [
+                "160 km",
+                "240 km",
+                "190 km"
+            ],
+            "correct_answer": "160 km"
+        },
+        {
+            "question": "Hol rendezték meg 2014-ben a Foci VB-t?",
+            "answers": [
+                "Mexikóban",
+                "Argentínában",
+                "Brazíliában"
+            ],
+            "correct_answer": "Brazíliában"
+        },
+        {
+            "question": "Maradona hányas mezt viselt?",
+            "answers": [
+                "10-es",
+                "11-es",
+                "12-es"
+            ],
+            "correct_answer": "10-es"
+        },
+        {
+            "question": "2020-ban hol rendezik meg a nyári olimpiai játékokat?",
+            "answers": [
+                "Athénban",
+                "Pekingben",
+                "Tokióban"
+            ],
+            "correct_answer": "Tokióban"
+        },
+        {
+            "question": "Milyen súlycsoportú volt Balzsay Károly ökölvívó?",
+            "answers": [
+                "nehézsúlyú",
+                "váltósúlyú",
+                "nagyközépsúlyú"
+            ],
+            "correct_answer": "nagyközépsúlyú"
+        },
+        {
+            "question": "Kinek a becene volt a \"Magyar delfin\"?",
+            "answers": [
+                "Hajós Alfréd",
+                "Komjádi Béla",
+                "Rózsa Norbert"
+            ],
+            "correct_answer": "Hajós Alfréd"
+        },
+        {
+            "question": "Repka Attila, bírkózó melyik olimpián nyert aranyérmet?",
+            "answers": [
+                "1996, Atlanta",
+                "1992, Barcelona",
+                "2000, Sydney"
+            ],
+            "correct_answer": "1992, Barcelona"
+        },
+        {
+            "question": "Mikor rendezték meg a Forma 1 Magyar Nagydíját a Hungaroringen?",
+            "answers": [
+                "2016. július 24-én",
+                "2016. július 25-én",
+                "2016. július 28-án"
+            ],
+            "correct_answer": "2016. július 24-én"
+        },
+        {
+            "question": "Ki nyerte a Forma 1 Magyar Nagydíját?",
+            "answers": [
+                "Daniel Ricciardo",
+                "Nico Rosberg",
+                "Lewis Hamilton"
+            ],
+            "correct_answer": "Lewis Hamilton"
+        },
+        {
+            "question": "Melyik sportolónk beceneve Madár?",
+            "answers": [
+                "Erdei Zsolt",
+                "Cseh László",
+                "Kovács István"
+            ],
+            "correct_answer": "Erdei Zsolt"
+        },
+        {
+            "question": "Gyurta Dánielnek hány olimpiai aranyérme van?",
+            "answers": [
+                "1",
+                "2",
+                "3"
+            ],
+            "correct_answer": "1"
+        },
+        {
+            "question": "Melyik sportág Olimpiai bajnoka Pars Krisztián?",
+            "answers": [
+                "gerelyhajítás",
+                "kalapácsvetés",
+                "diszkoszvetés"
+            ],
+            "correct_answer": "kalapácsvetés"
+        },
+        {
+            "question": "Hányszoros világbajnok volt, Kolonics György kenus?",
+            "answers": [
+                "15",
+                "10",
+                "8"
+            ],
+            "correct_answer": "15"
+        },
+        {
+            "question": "Melyik város szülötte Vajda Attila kenus?",
+            "answers": [
+                "Szeged",
+                "Sopron",
+                "Pécs"
+            ],
+            "correct_answer": "Szeged"
+        },
+        {
+            "question": "Mikor kezdődik a 2016-os Riói Olimpia?",
+            "answers": [
+                "2016. augusztus 21-én",
+                "2016. augusztus 8-án",
+                "2016. augusztus 5-én"
+            ],
+            "correct_answer": "2016. augusztus 5-én"
+        },
+        {
+            "question": "Pályafutása során összesen hány aranyérmet szerzett Kovács István (Kokó)?",
+            "answers": [
+                "10",
+                "13",
+                "8"
+            ],
+            "correct_answer": "13"
+        },
+        {
+            "question": "A 2012-es londoni olimpián hány aranyérmet szerzett a magyar csapat?",
+            "answers": [
+                "8",
+                "7",
+                "10"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik ország csapata gyűjtötte be a legtöbb aranyérmet a londoni olimpián?",
+            "answers": [
+                "Oroszország",
+                "Kína",
+                "Egyesült Államok"
+            ],
+            "correct_answer": "Egyesült Államok"
+        },
+        {
+            "question": "Hány főből áll a magyar csapat a 2016-os Riói olimpián?",
+            "answers": [
+                "160",
+                "140",
+                "200"
+            ],
+            "correct_answer": "160"
+        },
+        {
+            "question": "Mit szimbolizál a Riói olimpiai logó?",
+            "answers": [
+                "Cukorsüveg-hegyet",
+                "összefogást",
+                "a természet varázsát"
+            ],
+            "correct_answer": "Cukorsüveg-hegyet"
+        },
+        {
+            "question": "Ki vitte a magyar zászlót a Riói olimpia megnyitóján?",
+            "answers": [
+                "Szilágyi Áron",
+                "Cseh László",
+                "Gyurta Dániel"
+            ],
+            "correct_answer": "Szilágyi Áron"
+        },
+        {
+            "question": "Szilágyi Áron melyik sportág olimpiai bajnoka?",
+            "answers": [
+                "tőrvívás",
+                "kardvívás",
+                "atlétika"
+            ],
+            "correct_answer": "kardvívás"
+        },
+        {
+            "question": "Melyik csapat vonult be utoljára a Riói olimpia megnyitó ünnepségén?",
+            "answers": [
+                "brazíl",
+                "görög",
+                "magyar"
+            ],
+            "correct_answer": "brazíl"
+        },
+        {
+            "question": "Hosszú Katinka melyik sportág világbajnoka?",
+            "answers": [
+                "szinkronúszás",
+                "evezés",
+                "úszás"
+            ],
+            "correct_answer": "úszás"
+        },
+        {
+            "question": "A Magyar férfi vízilabda-válogatott összesen hányszor lett aranyérmes az olimpiákon?",
+            "answers": [
+                "9x",
+                "10 x",
+                "6 x"
+            ],
+            "correct_answer": "9x"
+        },
+        {
+            "question": "A londoni olimpián hányadik helyen végzett a Magyar férfi vízilabda-válogatott?",
+            "answers": [
+                "5.",
+                "3.",
+                "2."
+            ],
+            "correct_answer": "5."
+        },
+        {
+            "question": "Ki az első nő, aki a magyar cselgáncs történetében érmett szerzett olimpiai játékokon?",
+            "answers": [
+                "Joó Abigél",
+                "Csernoviczki Éva",
+                "Karakas Hedvig"
+            ],
+            "correct_answer": "Csernoviczki Éva"
+        },
+        {
+            "question": "Ki nyerte az első magyar aranyérmet a Riói olimpián?",
+            "answers": [
+                "Hosszú Katinka",
+                "Szász Emese",
+                "Gyurta Dániel"
+            ],
+            "correct_answer": "Szász Emese"
+        },
+        {
+            "question": "Bacskai Balázs ökölvívónknak mi a beceneve?",
+            "answers": [
+                "Benji",
+                "Bazsa",
+                "Beni"
+            ],
+            "correct_answer": "Benji"
+        },
+        {
+            "question": "Hányszoros világbajnok úszó Hosszú Katinka?",
+            "answers": [
+                "ötszörös",
+                "négyszeres",
+                "hatszoros"
+            ],
+            "correct_answer": "ötszörös"
+        },
+        {
+            "question": "A 2008-as Pekingi olimpián hány ezüstérmet szerzett Cseh László?",
+            "answers": [
+                "3",
+                "2",
+                "5"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "Kenderesi Tamás úszó, melyik versenyszámban lett bronzérmes Rióban?",
+            "answers": [
+                "200 m pillangó",
+                "100 m pillangó",
+                "200 m vegyes"
+            ],
+            "correct_answer": "200 m pillangó"
+        },
+        {
+            "question": "Gerevich Aladár hányszoros olimpiai aranyérmes vívó?",
+            "answers": [
+                "hétszeres",
+                "hatszoros",
+                "négyszeres"
+            ],
+            "correct_answer": "hétszeres"
+        },
+        {
+            "question": "Keleti Ágnes melyik sportág olimpiai bajnoka?",
+            "answers": [
+                "úszás",
+                "torna",
+                "vívás"
+            ],
+            "correct_answer": "torna"
+        },
+        {
+            "question": "Mi Darnyi Tamás olimpiai bajnok úszónk beceneve?",
+            "answers": [
+                "Puci",
+                "Pici",
+                "Poci"
+            ],
+            "correct_answer": "Puci"
+        },
+        {
+            "question": "Hányszoros világbajnok kajakozó Dusev-Janics Natasa?",
+            "answers": [
+                "23-szoros",
+                "16-szoros",
+                "19-szeres"
+            ],
+            "correct_answer": "19-szeres"
+        },
+        {
+            "question": "Ki a magyar férfi vízilabda-válogatott szövetségi kapitánya?",
+            "answers": [
+                "Varga Dániel",
+                "Kemény Dénes",
+                "Benedek Tibor"
+            ],
+            "correct_answer": "Benedek Tibor"
+        },
+        {
+            "question": "Melyik olimpián szerzett aranyérmet Csollány Szilveszter tornász?",
+            "answers": [
+                "1996-ban Atlantában",
+                "2000-ben Sydneyben",
+                "2004-ben Athénban"
+            ],
+            "correct_answer": "2000-ben Sydneyben"
+        },
+        {
+            "question": "Ki a magyar sport első női olimpiai aranyérmese?",
+            "answers": [
+                "Elek Ilona",
+                "Keleti Ágnes",
+                "Köteles Erzsébet"
+            ],
+            "correct_answer": "Elek Ilona"
+        },
+        {
+            "question": "Melyik úszásnem olimpiai bajnoka Gyurta Dániel?",
+            "answers": [
+                "mellúszás",
+                "gyorsúszás",
+                "pillangó"
+            ],
+            "correct_answer": "mellúszás"
+        },
+        {
+            "question": "Hány aranyérmet gyűjtött Hosszú Katinka a Riói Olimpián?",
+            "answers": [
+                "3",
+                "4",
+                "2"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "Melyik sportolónk nem augusztus 22-én született?",
+            "answers": [
+                "Szilágyi Áron",
+                "Nagy Tímea",
+                "Verrasztó Dávid"
+            ],
+            "correct_answer": "Szilágyi Áron"
+        },
+        {
+            "question": "Hány érmet szereztek a magyarok a 2016-os Riói Olimpián?",
+            "answers": [
+                "15",
+                "13",
+                "12"
+            ],
+            "correct_answer": "15"
+        },
+        {
+            "question": "Ki vitte a magyar zászlót a Riói Olimpia záróünnepségén?",
+            "answers": [
+                "Kozák Danuta",
+                "Hosszú Katinka",
+                "Szász Emese"
+            ],
+            "correct_answer": "Hosszú Katinka"
+        },
+        {
+            "question": "Hanyadik helyen végzett Magyarország a Riói Olimpián?",
+            "answers": [
+                "12.",
+                "15.",
+                "10."
+            ],
+            "correct_answer": "12."
+        },
+        {
+            "question": "Melyik ország csapata végzett az első helyen a Riói Olimpián?",
+            "answers": [
+                "Egyesült Államok",
+                "Kína",
+                "Japán"
+            ],
+            "correct_answer": "Egyesült Államok"
+        },
+        {
+            "question": "A magyar női vízilabdacsapat hanyadik helyen végzett a Riói Olimpián?",
+            "answers": [
+                "4.",
+                "5.",
+                "7."
+            ],
+            "correct_answer": "4."
+        },
+        {
+            "question": "Hány aranyérmet nyert a magyar csapat a Riói Olimpián?",
+            "answers": [
+                "8",
+                "6",
+                "12"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik ország szerzett bírkózásban a legtöbb aranyérmet a Riói Olimpián?",
+            "answers": [
+                "Törökország",
+                "Kuba",
+                "Oroszország"
+            ],
+            "correct_answer": "Oroszország"
+        },
+        {
+            "question": "Milyen származású Kozák Danuta?",
+            "answers": [
+                "szerb",
+                "lengyel",
+                "román"
+            ],
+            "correct_answer": "lengyel"
+        },
+        {
+            "question": "Összesen hány aranyérmet nyert Szabó Gabriella az eddigi Olimpiákon?",
+            "answers": [
+                "3",
+                "4",
+                "5"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "Ki Imre Géza párbajtőrvívó felesége?",
+            "answers": [
+                "Kökény Beatrix",
+                "Szekeres Klára",
+                "Bíró Blanka"
+            ],
+            "correct_answer": "Kökény Beatrix"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Kásás Tamás?",
+            "answers": [
+                "háromszoros",
+                "négyszeres",
+                "kétszeres"
+            ],
+            "correct_answer": "háromszoros"
+        },
+        {
+            "question": "Kőbán Rita melyik sportág olimpiai bajnoka?",
+            "answers": [
+                "kajak",
+                "evezés",
+                "úszás"
+            ],
+            "correct_answer": "kajak"
+        },
+        {
+            "question": "Hol született Ónodi Henrietta, olimpiai bajnok tornásznő?",
+            "answers": [
+                "Békéscsabán",
+                "Kecskeméten",
+                "Szolnokon"
+            ],
+            "correct_answer": "Békéscsabán"
+        },
+        {
+            "question": "Melyik olimpián szerezte aranyérmét Repka Attila bírkozó?",
+            "answers": [
+                "Barcelonai",
+                "Szöuli",
+                "Pekingi"
+            ],
+            "correct_answer": "Barcelonai"
+        },
+        {
+            "question": "Hol került megrendezésre 2000-ben a nyári olimpiai játékok?",
+            "answers": [
+                "Sydneyben",
+                "Athénban",
+                "Londonban"
+            ],
+            "correct_answer": "Sydneyben"
+        },
+        {
+            "question": "Mi volt Papp László ökölvívónk beceneve?",
+            "answers": [
+                "Görbe",
+                "Hosszú",
+                "Bástya"
+            ],
+            "correct_answer": "Görbe"
+        },
+        {
+            "question": "Melyik évben hunyt el Kesjár Csaba autóversenyző?",
+            "answers": [
+                "1988-ban",
+                "1989-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1988-ban"
+        },
+        {
+            "question": "Melyik sportág kiválósága Mandula Petra?",
+            "answers": [
+                "tenisz",
+                "úszás",
+                "torna"
+            ],
+            "correct_answer": "tenisz"
+        },
+        {
+            "question": "Milyen olimpiai érme van Marosi Ádám öttusázónak?",
+            "answers": [
+                "bronz",
+                "arany",
+                "ezüst"
+            ],
+            "correct_answer": "bronz"
+        },
+        {
+            "question": "Ki volt az év sportolónője 2007-ben?",
+            "answers": [
+                "Szávay Ágnes",
+                "Nagy Tímea",
+                "Hosszú Katinka"
+            ],
+            "correct_answer": "Szávay Ágnes"
+        },
+        {
+            "question": "Ki volt az év férfi sportolója 2014-ben?",
+            "answers": [
+                "Berki Krisztián",
+                "Cseh László",
+                "Gyurta Dániel"
+            ],
+            "correct_answer": "Berki Krisztián"
+        },
+        {
+            "question": "Hány érme van összesen Braun Ákos, cselgáncsozónak?",
+            "answers": [
+                "3",
+                "5",
+                "2"
+            ],
+            "correct_answer": "3"
+        },
+        {
+            "question": "Melyik úszásnem olimpiai bajnoka Rózsa Norbert?",
+            "answers": [
+                "mellúszás",
+                "hátúszás",
+                "gyorsúszás"
+            ],
+            "correct_answer": "mellúszás"
+        },
+        {
+            "question": "Milyen nemzetiségű Hosszú Katinka férje?",
+            "answers": [
+                "amerikai",
+                "olasz",
+                "francia"
+            ],
+            "correct_answer": "amerikai"
+        },
+        {
+            "question": "Mi a foglalkozása Mincza-Nébald Ildikó vivónőnek?",
+            "answers": [
+                "ügyvéd",
+                "orvos",
+                "marketing manager"
+            ],
+            "correct_answer": "ügyvéd"
+        },
+        {
+            "question": "Melyik sportág rajongója Jack Nicholson?",
+            "answers": [
+                "kosárlabda",
+                "baseball",
+                "amerikai futball"
+            ],
+            "correct_answer": "kosárlabda"
+        },
+        {
+            "question": "Mi a bandy sport másik neve?",
+            "answers": [
+                "jéglabda",
+                "röplabda",
+                "gyeplabda"
+            ],
+            "correct_answer": "jéglabda"
+        },
+        {
+            "question": "Mennyi a játékideje a rögbinek?",
+            "answers": [
+                "2x40 perc",
+                "3x45 perc",
+                "2x25 perc"
+            ],
+            "correct_answer": "2x40 perc"
+        },
+        {
+            "question": "Mi a softball?",
+            "answers": [
+                "a baseball női változata",
+                "a floorball női változata",
+                "a raketball női változata"
+            ],
+            "correct_answer": "a baseball női változata"
+        },
+        {
+            "question": "Hány fős csapatok játszanak a vízilabdában?",
+            "answers": [
+                "7-7 fős",
+                "10-10 fős",
+                "12-12 fős"
+            ],
+            "correct_answer": "7-7 fős"
+        },
+        {
+            "question": "Melyik sportág csapata a Los Angeles Lakers?",
+            "answers": [
+                "kosárlabda",
+                "kézilabba",
+                "labdarúgás"
+            ],
+            "correct_answer": "kosárlabda"
+        },
+        {
+            "question": "Mikor szerezte első olimpiai aranyérmét Csipes Tamara?",
+            "answers": [
+                "2016-ban",
+                "2012-ben",
+                "2004-ben"
+            ],
+            "correct_answer": "2016-ban"
+        },
+        {
+            "question": "1988-ban hol volt megrendezve az nyári olimpiai játékok?",
+            "answers": [
+                "Szöulban",
+                "Barcelonában",
+                "Atlantában"
+            ],
+            "correct_answer": "Szöulban"
+        },
+        {
+            "question": "Ki nyerte el legtöbb alkalommal Az év magyar ökölvívója címet?",
+            "answers": [
+                "Kovács István",
+                "Balzsay Károly",
+                "Harcsa Zoltán"
+            ],
+            "correct_answer": "Kovács István"
+        },
+        {
+            "question": "2015-ben ki volt Az év magyar férfi vívója?",
+            "answers": [
+                "Imre Géza",
+                "Szilágyi Áron",
+                "Rédli András"
+            ],
+            "correct_answer": "Imre Géza"
+        },
+        {
+            "question": "Ki volt 1988-1996-ig Az év magyar úszónője?",
+            "answers": [
+                "Egerszegi Krisztina",
+                "Kovács Ágnes",
+                "Risztov Éva"
+            ],
+            "correct_answer": "Egerszegi Krisztina"
+        },
+        {
+            "question": "Melyik sportot nevezik a sportok \"királyának\"?",
+            "answers": [
+                "teniszt",
+                "labdarúgást",
+                "úszást"
+            ],
+            "correct_answer": "teniszt"
+        },
+        {
+            "question": "Mi a méta?",
+            "answers": [
+                "labdajáték",
+                "zokni",
+                "édesség"
+            ],
+            "correct_answer": "labdajáték"
+        },
+        {
+            "question": "Melyik India legnépszerűbb sportja?",
+            "answers": [
+                "krikett",
+                "jégkorong",
+                "sakk"
+            ],
+            "correct_answer": "krikett"
+        },
+        {
+            "question": "Melyik sportban van sáncolás?",
+            "answers": [
+                "sakkban",
+                "vívásban",
+                "tekében"
+            ],
+            "correct_answer": "sakkban"
+        },
+        {
+            "question": "Mi az Unicum-kupa vízilabdatorna mai elnevezése?",
+            "answers": [
+                "Vodafone-kupa",
+                "LEN-kupa",
+                "Vízi-kupa"
+            ],
+            "correct_answer": "Vodafone-kupa"
+        },
+        {
+            "question": "Mennyi a játékideje egy kézilabda mérkőzésnek?",
+            "answers": [
+                "2x30 perc",
+                "2x45 perc",
+                "3x15 perc"
+            ],
+            "correct_answer": "2x30 perc"
+        },
+        {
+            "question": "Milyen sportág bajnoka Likerecz Gyöngyi?",
+            "answers": [
+                "súlyemelés",
+                "úszás",
+                "vívás"
+            ],
+            "correct_answer": "súlyemelés"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok vívó Kulcsár Győző?",
+            "answers": [
+                "négyszeres",
+                "ötszörös",
+                "kétszeres"
+            ],
+            "correct_answer": "négyszeres"
+        },
+        {
+            "question": "Milyen magas Kásás Tamás vízilabdázó?",
+            "answers": [
+                "200 cm",
+                "196 cm",
+                "208 cm"
+            ],
+            "correct_answer": "200 cm"
+        },
+        {
+            "question": "Melyik olimpián szerezte bronzérmét, Marosi Ádám öttusázó?",
+            "answers": [
+                "2012 London",
+                "2008 Peking",
+                "2016 Rio de Janeiro"
+            ],
+            "correct_answer": "2012 London"
+        },
+        {
+            "question": "Mi a biatlon?",
+            "answers": [
+                "sílövészet",
+                "autósport",
+                "bírkózás"
+            ],
+            "correct_answer": "sílövészet"
+        },
+        {
+            "question": "Milyen színű a sapkája a kapusnak a vízilabdában?",
+            "answers": [
+                "piros",
+                "kék",
+                "fehér"
+            ],
+            "correct_answer": "piros"
+        },
+        {
+            "question": "Honnan ered a taekwondo?",
+            "answers": [
+                "Koreából",
+                "Japánból",
+                "Kínából"
+            ],
+            "correct_answer": "Koreából"
+        },
+        {
+            "question": "Melyik nem a ritmikus gimnasztika kelléke?",
+            "answers": [
+                "frizbi",
+                "labda",
+                "buzogány"
+            ],
+            "correct_answer": "frizbi"
+        },
+        {
+            "question": "Mivel próbálják egymást eltalálni a paintball játékosai?",
+            "answers": [
+                "festékgolyókkal",
+                "üveggolyókkal",
+                "golflabdával"
+            ],
+            "correct_answer": "festékgolyókkal"
+        },
+        {
+            "question": "Mi a neve a legerősebb lapkombinációnak a pókerben?",
+            "answers": [
+                "royal flush",
+                "full house",
+                "straight flush"
+            ],
+            "correct_answer": "royal flush"
+        },
+        {
+            "question": "Hány méter hosszú a pást, a vivás küzdőtere?",
+            "answers": [
+                "14 m",
+                "23 m",
+                "18 m"
+            ],
+            "correct_answer": "14 m"
+        },
+        {
+            "question": "Hány színből áll a Rubik-kocka?",
+            "answers": [
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Melyik sportág képviselője Körmendi Petra?",
+            "answers": [
+                "wakeboard",
+                "úszás",
+                "tenisz"
+            ],
+            "correct_answer": "wakeboard"
+        },
+        {
+            "question": "Mi Hosszú Katinka beceneve?",
+            "answers": [
+                "Iron Lady",
+                "Fitness Lady",
+                "Kitten Lady"
+            ],
+            "correct_answer": "Iron Lady"
+        },
+        {
+            "question": "Ki Varga Dániel vízilabdázó öccse?",
+            "answers": [
+                "Varga Dénes",
+                "Varga Dávid",
+                "Varga Bence"
+            ],
+            "correct_answer": "Varga Dénes"
+        },
+        {
+            "question": "Milyen nemzetiségű Gabriela Sabatini, teniszezőnő?",
+            "answers": [
+                "argentin",
+                "brazil",
+                "portugál"
+            ],
+            "correct_answer": "argentin"
+        },
+        {
+            "question": "Melyik évben égett le a Budapest Sportcsarnok?",
+            "answers": [
+                "1999-ben",
+                "2000-ben",
+                "1987-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Hol van a Wembley Stadion?",
+            "answers": [
+                "Londonban",
+                "Párizsban",
+                "Los Angelesben"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Kozák Danuta?",
+            "answers": [
+                "ötszörös",
+                "háromszoros",
+                "hatszoros"
+            ],
+            "correct_answer": "ötszörös"
+        },
+        {
+            "question": "Melyik ország nyerte a 2016-os labdarúgó-Európa-bajnokságot?",
+            "answers": [
+                "Portugália",
+                "Spanyolország",
+                "Franciaország"
+            ],
+            "correct_answer": "Portugália"
+        },
+        {
+            "question": "Ki volt az idei, 51. Super Bowl félidei műsorának fellépője?",
+            "answers": [
+                "Lady Gaga",
+                "Rihanna",
+                "Beyoncé"
+            ],
+            "correct_answer": "Lady Gaga"
+        },
+        {
+            "question": "Milyen szín nincs az olimpiai ötkarikák között?",
+            "answers": [
+                "lila",
+                "kék",
+                "zöld"
+            ],
+            "correct_answer": "lila"
+        },
+        {
+            "question": "Hány cm magas Michael Jordan, amerikai kosárlabdázó?",
+            "answers": [
+                "198 cm",
+                "202 cm",
+                "220 cm"
+            ],
+            "correct_answer": "198 cm"
+        },
+        {
+            "question": "Melyik sportág versenyeinek összefoglaló neve a \"Grand Slam-tornák\"?",
+            "answers": [
+                "tenisz",
+                "kosárlabda",
+                "jégkorong"
+            ],
+            "correct_answer": "tenisz"
+        },
+        {
+            "question": "Melyik csapatnak volt a legtöbb győzelme az UEFA-bajnokok ligájában?",
+            "answers": [
+                "Real Madrid",
+                "FC Barcelona",
+                "Manchester United"
+            ],
+            "correct_answer": "Real Madrid"
+        },
+        {
+            "question": "Melyik a leghosszabb versenypálya a Forma 1-ben?",
+            "answers": [
+                "Pescara Circuit",
+                "Red Bull Ring",
+                "Monte Carlo"
+            ],
+            "correct_answer": "Pescara Circuit"
+        },
+        {
+            "question": "Mennyi ideig tart egy jégkorong mérkőzés?",
+            "answers": [
+                "3x20 percig",
+                "2x60 percig",
+                "4x45 percig"
+            ],
+            "correct_answer": "3x20 percig"
+        },
+        {
+            "question": "Hány méter a maraton távja?",
+            "answers": [
+                "42195 méter",
+                "34674 méter",
+                "23621 méter"
+            ],
+            "correct_answer": "42195 méter"
+        },
+        {
+            "question": "Melyik dal volt Erdei Zsolt, ökölvívó bevonulózenéje?",
+            "answers": [
+                "Republic-Szállj el kismadár",
+                "Balkan Fanatik-Repülj madár",
+                "István a király-Szállj fel szabad madár"
+            ],
+            "correct_answer": "Republic-Szállj el kismadár"
+        },
+        {
+            "question": "Melyik sport világnapja van március 4-én?",
+            "answers": [
+                "tenisz",
+                "kézilabda",
+                "tollaslabda"
+            ],
+            "correct_answer": "tenisz"
+        },
+        {
+            "question": "2014-ben melyik csapat nyerte meg a labdarúgó-világbajnokságot?",
+            "answers": [
+                "Németország",
+                "Brazília",
+                "Spanyolország"
+            ],
+            "correct_answer": "Németország"
+        },
+        {
+            "question": "Melyik ország szerezte a legtöbb győzelmet a labdarúgó VB-k történetében?",
+            "answers": [
+                "Brazília",
+                "Németország",
+                "Olaszország"
+            ],
+            "correct_answer": "Brazília"
+        },
+        {
+            "question": "A Copa Libertadores melyik kontinens labdarúgó kupája?",
+            "answers": [
+                "Dél-Amerika",
+                "Ázsia",
+                "Afrika"
+            ],
+            "correct_answer": "Dél-Amerika"
+        },
+        {
+            "question": "Mikor rendezték az első labdarúgó VB-t?",
+            "answers": [
+                "1930-ban",
+                "1934-ben",
+                "1938-ban"
+            ],
+            "correct_answer": "1930-ban"
+        },
+        {
+            "question": "Melyik országban kerül megrendezésre a 2018-as labdarúgó VB?",
+            "answers": [
+                "Oroszországban",
+                "Brazíliában",
+                "Franciaországban"
+            ],
+            "correct_answer": "Oroszországban"
+        },
+        {
+            "question": "Melyik versenyszámban lett ezüstérmes Cseh László a 2016-os Riói Olimpián?",
+            "answers": [
+                "100 méteres pillangó",
+                "200 méteres pillangó",
+                "400 méteres vegyes"
+            ],
+            "correct_answer": "100 méteres pillangó"
+        },
+        {
+            "question": "Mekkora a Rio de Janeiro-i Maracana Stadion befogadóképessége?",
+            "answers": [
+                "88 992 fő",
+                "102 889 fő",
+                "99 999 fő"
+            ],
+            "correct_answer": "88 992 fő"
+        },
+        {
+            "question": "Hány magyar sportoló viseli az olimpiai bajnok címet?",
+            "answers": [
+                "298",
+                "345",
+                "675"
+            ],
+            "correct_answer": "298"
+        },
+        {
+            "question": "Ki a magyar férfi vízilabda-válogatott csapatkapitánya?",
+            "answers": [
+                "Varga Dénes",
+                "Varga Dániel",
+                "Benedek Tibor"
+            ],
+            "correct_answer": "Varga Dénes"
+        },
+        {
+            "question": "Melyik labdarúgó világbajnokság dala volt \"We Are the Champions\"?",
+            "answers": [
+                "1994-es",
+                "1998-as",
+                "2006-os"
+            ],
+            "correct_answer": "1994-es"
+        },
+        {
+            "question": "Ki volt a 2002-es labdarúgó-világbajnokság gólkirálya?",
+            "answers": [
+                "Ronaldo",
+                "Rivaldo",
+                "Roberto Carlos"
+            ],
+            "correct_answer": "Ronaldo"
+        },
+        {
+            "question": "Hol látható a világ legnagyobb labdarúgóstadionja?",
+            "answers": [
+                "Észak-Koreában",
+                "Indiában",
+                "Mexikóvárosban"
+            ],
+            "correct_answer": "Észak-Koreában"
+        },
+        {
+            "question": "Melyik csapat nyerte a 2016-es labdarúgó EB-t?",
+            "answers": [
+                "Portugália",
+                "Franciaország",
+                "Spanyolország"
+            ],
+            "correct_answer": "Portugália"
+        },
+        {
+            "question": "Mi Ronaldo, volt brazil válogatott labdarúgó beceneve?",
+            "answers": [
+                "\"Fenomén\"",
+                "\"Titanium\"",
+                "\"Gólkirály\""
+            ],
+            "correct_answer": "\"Fenomén\""
+        },
+        {
+            "question": "Melyik labdarúgónak van a legtöbb\" Aranylabdája\"?",
+            "answers": [
+                "Lionel Messi",
+                "Cristiano Ronaldo",
+                "Rivaldo"
+            ],
+            "correct_answer": "Lionel Messi"
+        },
+        {
+            "question": "Hány bajnoki címmel büszkélkedhet a Real Madrid csapata?",
+            "answers": [
+                "32",
+                "22",
+                "14"
+            ],
+            "correct_answer": "32"
+        },
+        {
+            "question": "Milyen származású Zinédine Zidane labdarúgó?",
+            "answers": [
+                "algériai",
+                "angliai",
+                "amerikai"
+            ],
+            "correct_answer": "algériai"
+        },
+        {
+            "question": "Mi a Liverpool Football Club, angol labdarúgócsapat beceneve?",
+            "answers": [
+                "\"A Vörösök\"",
+                "\"A Kékek\"",
+                "\"A Zöldek\""
+            ],
+            "correct_answer": "\"A Vörösök\""
+        },
+        {
+            "question": "Ki volt az első edzője Hosszú Katinkának?",
+            "answers": [
+                "nagyapja",
+                "férje",
+                "édesapja"
+            ],
+            "correct_answer": "nagyapja"
+        },
+        {
+            "question": "Milyen nemzetiségű Roger Federer teniszező?",
+            "answers": [
+                "svájci",
+                "német",
+                "dán"
+            ],
+            "correct_answer": "svájci"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Egerszegi Krisztina?",
+            "answers": [
+                "ötszörös",
+                "hatszoros",
+                "nyolcszoros"
+            ],
+            "correct_answer": "ötszörös"
+        },
+        {
+            "question": "Mi a FIFA?",
+            "answers": [
+                "Nemzetközi Labdarúgó-szövetség",
+                "Nemzetközi Atlétikai Szövetség",
+                "Nemzetközi Kézilabda-szövetség"
+            ],
+            "correct_answer": "Nemzetközi Labdarúgó-szövetség"
+        },
+        {
+            "question": "Milyen sportot űz Tápai Szabina?",
+            "answers": [
+                "kézilabda",
+                "röplabda",
+                "tenisz"
+            ],
+            "correct_answer": "kézilabda"
+        },
+        {
+            "question": "Hol lesz a 2017-es Vizes Világbajnokság nyíltvizi úszása megrendezve?",
+            "answers": [
+                "Balatonfüreden",
+                "Balatonföldváron",
+                "Balatonbogláron"
+            ],
+            "correct_answer": "Balatonfüreden"
+        },
+        {
+            "question": "Milyen sportág magyar bajnoka Dávid Kornél?",
+            "answers": [
+                "kosárlabda",
+                "labdarúgás",
+                "vízilabda"
+            ],
+            "correct_answer": "kosárlabda"
+        },
+        {
+            "question": "Mi a dekatlon jelentése?",
+            "answers": [
+                "tízpróba",
+                "hétpróba",
+                "öttusa"
+            ],
+            "correct_answer": "tízpróba"
+        },
+        {
+            "question": "Hány mezőből áll egy sakktábla?",
+            "answers": [
+                "64",
+                "57",
+                "75"
+            ],
+            "correct_answer": "64"
+        },
+        {
+            "question": "Hány lap van egy pakli francia kártyában, jokerek nélkül?",
+            "answers": [
+                "52",
+                "44",
+                "37"
+            ],
+            "correct_answer": "52"
+        },
+        {
+            "question": "Milyen sportág nincs az öttusában?",
+            "answers": [
+                "kerékpározás",
+                "lovaglás",
+                "vívás"
+            ],
+            "correct_answer": "kerékpározás"
+        },
+        {
+            "question": "Hol rendezték meg 2000-ben a XXVII. nyári olimpiai játékokat?",
+            "answers": [
+                "Atlantában",
+                "Athénban",
+                "Londonban"
+            ],
+            "correct_answer": "Atlantában"
+        },
+        {
+            "question": "Ki nem volt a legendás Aranycsapat tagja?",
+            "answers": [
+                "Garaba Imre",
+                "Kocsis Sándor",
+                "Grosics Gyula"
+            ],
+            "correct_answer": "Garaba Imre"
+        },
+        {
+            "question": "Mikor és hol lesz a Bajnokok Ligája döntője?",
+            "answers": [
+                "2017. június 3-án Cardiffban",
+                "2017. június 13-án Párizsban",
+                "2017. június 26-án Londonban"
+            ],
+            "correct_answer": "2017. június 3-án Cardiffban"
+        },
+        {
+            "question": "Melyik sportág olimpiai bajnoka volt Székely Éva?",
+            "answers": [
+                "úszás",
+                "vívás",
+                "cselgáncs"
+            ],
+            "correct_answer": "úszás"
+        },
+        {
+            "question": "Melyik sport ifjúsági bajnoka volt Oszvald Marika?",
+            "answers": [
+                "toronyugrás",
+                "szinkronúszás",
+                "torna"
+            ],
+            "correct_answer": "toronyugrás"
+        },
+        {
+            "question": "Milyen nemzetiségű Ayrton Senna, világbajnok autóversenyző?",
+            "answers": [
+                "brazil",
+                "argentin",
+                "kanadai"
+            ],
+            "correct_answer": "brazil"
+        },
+        {
+            "question": "Hány méter magasból ugranak le a toronyugrók?",
+            "answers": [
+                "10 méter",
+                "8 méter",
+                "3 méter"
+            ],
+            "correct_answer": "10 méter"
+        },
+        {
+            "question": "Ki volt a Nemzeti Vágta ötletadója?",
+            "answers": [
+                "Geszti Péter",
+                "Nagy Feró",
+                "Sasvári Sándor"
+            ],
+            "correct_answer": "Geszti Péter"
+        },
+        {
+            "question": "Ki a \"Kajakkirálynő\"?",
+            "answers": [
+                "Kovács Katalin",
+                "Kőbán Rita",
+                "Janics Natasa"
+            ],
+            "correct_answer": "Kovács Katalin"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok teniszezőnő Serena Williams?",
+            "answers": [
+                "négyszeres",
+                "kétszeres",
+                "háromszoros"
+            ],
+            "correct_answer": "négyszeres"
+        },
+        {
+            "question": "Mi a Critical Mass?",
+            "answers": [
+                "kerékpáros felvonulás",
+                "futóverseny",
+                "motoros felvonulás"
+            ],
+            "correct_answer": "kerékpáros felvonulás"
+        },
+        {
+            "question": "Melyik sport nagy rajongója Jack Nicholson?",
+            "answers": [
+                "kosárlabda",
+                "labdarúgás",
+                "tenisz"
+            ],
+            "correct_answer": "kosárlabda"
+        },
+        {
+            "question": "Mennyi ideig tart egy labdarúgó mérkőzés?",
+            "answers": [
+                "2x45 percig",
+                "2x30 percig",
+                "3x25 percig"
+            ],
+            "correct_answer": "2x45 percig"
+        },
+        {
+            "question": "Ki a legeredményesebb magyar olimpiai bajnokunk?",
+            "answers": [
+                "Gerevich Aladár",
+                "Egerszegi Krisztina",
+                "Kárpáti Rudolf"
+            ],
+            "correct_answer": "Gerevich Aladár"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Gerevich Aladár?",
+            "answers": [
+                "hétszeres",
+                "hatszoros",
+                "nyolcszoros"
+            ],
+            "correct_answer": "hétszeres"
+        },
+        {
+            "question": "Milyen nemzetiségű David Beckham labdarúgó?",
+            "answers": [
+                "angol",
+                "francia",
+                "amerikai"
+            ],
+            "correct_answer": "angol"
+        },
+        {
+            "question": "Hol van a Santiago Bernabéu stadion?",
+            "answers": [
+                "Madridban",
+                "Londonban",
+                "Párizsban"
+            ],
+            "correct_answer": "Madridban"
+        },
+        {
+            "question": "Minek a röviditése az FTC?",
+            "answers": [
+                "Ferencvárosi Torna Klub",
+                "Fiatal Tornászok Klubja",
+                "Forgalomirányítók Klubja"
+            ],
+            "correct_answer": "Ferencvárosi Torna Klub"
+        },
+        {
+            "question": "Mi a versenyszáma Gyurta Dánielnek?",
+            "answers": [
+                "mellúszás",
+                "gyorsúszás",
+                "hátúszás"
+            ],
+            "correct_answer": "mellúszás"
+        },
+        {
+            "question": "Melyik évben volt a nyári olimpia Moszkvában megrendezve?",
+            "answers": [
+                "1980-ban",
+                "1984-ben",
+                "1992-ben"
+            ],
+            "correct_answer": "1980-ban"
+        },
+        {
+            "question": "Hány világbajnoki címe van Alain Prost autóversenyzőnek?",
+            "answers": [
+                "négy",
+                "három",
+                "hat"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Milyen sport bajnoka volt Magic Johnson?",
+            "answers": [
+                "kosárlabda",
+                "futás",
+                "labdarúgás"
+            ],
+            "correct_answer": "kosárlabda"
+        },
+        {
+            "question": "Melyik labdarúgó válogatottnak volt a tagja Diego Maradona?",
+            "answers": [
+                "argentin",
+                "brazil",
+                "mexikói"
+            ],
+            "correct_answer": "argentin"
+        },
+        {
+            "question": "Mennyi a játékideje a rögbinek?",
+            "answers": [
+                "2x40 perc",
+                "3x45 perc",
+                "2x25 perc"
+            ],
+            "correct_answer": "2x40 perc"
+        },
+        {
+            "question": "Hol rendezték meg 2016-ban a labdarúgó-EB-t?",
+            "answers": [
+                "Franciaországban",
+                "Spanyolországban",
+                "Svédországban"
+            ],
+            "correct_answer": "Franciaországban"
+        },
+        {
+            "question": "Melyik labdarúgóklub játékosa Cristiano Ronaldo?",
+            "answers": [
+                "Real Madrid",
+                "Atlético de Madrid",
+                "FC Bayern München"
+            ],
+            "correct_answer": "Real Madrid"
+        },
+        {
+            "question": "2020-ban hol rendezik a nyári olimpiai játékokat?",
+            "answers": [
+                "Tokióban",
+                "Pekingben",
+                "Athénban"
+            ],
+            "correct_answer": "Tokióban"
+        },
+        {
+            "question": "Ki vitte a magyar zászlót a 2016-os Riói olimpia megnyitóján?",
+            "answers": [
+                "Szilágyi Áron",
+                "Cseh László",
+                "Gyurta Dániel"
+            ],
+            "correct_answer": "Szilágyi Áron"
+        },
+        {
+            "question": "Ki a Forma 1 történetének legsikeresebb versenyzője?",
+            "answers": [
+                "Michael Schumacher",
+                "Nelson Piquet",
+                "Alain Prost"
+            ],
+            "correct_answer": "Michael Schumacher"
+        },
+        {
+            "question": "Milyen szín nincs az olimpiai ötkarikák között?",
+            "answers": [
+                "lila",
+                "kék",
+                "zöld"
+            ],
+            "correct_answer": "lila"
+        },
+        {
+            "question": "Hány arannyal zárták a magyarok a Kajak-kenu világkupát Szegeden?",
+            "answers": [
+                "7",
+                "13",
+                "5"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Mi Erdei Zsolt ökölvívó beceneve?",
+            "answers": [
+                "Madár",
+                "Sirály",
+                "Sas"
+            ],
+            "correct_answer": "Madár"
+        },
+        {
+            "question": "Melyik sportág kiválósága Tiger Woods?",
+            "answers": [
+                "golf",
+                "kosárlabda",
+                "ökölvívás"
+            ],
+            "correct_answer": "golf"
+        },
+        {
+            "question": "Mikor rendeztek először labdarúgó világbajnokságot?",
+            "answers": [
+                "1930-ban",
+                "1940-ben",
+                "1950-ben"
+            ],
+            "correct_answer": "1930-ban"
+        },
+        {
+            "question": "Hol kerül megrendezésre 2020-ban a nyári olimpiai játékok?",
+            "answers": [
+                "Tokióban",
+                "Párizsban",
+                "Londonban"
+            ],
+            "correct_answer": "Tokióban"
+        },
+        {
+            "question": "Milyen nevű hajója nem volt Fa Nándornak?",
+            "answers": [
+                "Santa Maria",
+                "Szent Jupát",
+                "Alba Regia"
+            ],
+            "correct_answer": "Santa Maria"
+        },
+        {
+            "question": "Hanyadik lett az éremtáblázatban Magyarország a 2016-os nyári olimpián?",
+            "answers": [
+                "12.",
+                "15.",
+                "18."
+            ],
+            "correct_answer": "12."
+        },
+        {
+            "question": "Ki kapta 2017-ben az Aranylabdát?",
+            "answers": [
+                "Cristiano Ronaldo",
+                "Lionel Messi",
+                "Ronaldinho"
+            ],
+            "correct_answer": "Cristiano Ronaldo"
+        },
+        {
+            "question": "Mi volt a Honeybeast együttes legelső nagy slágere?",
+            "answers": [
+                "A legnagyobb hős",
+                "Igy játszom",
+                "Bódottá"
+            ],
+            "correct_answer": "A legnagyobb hős"
+        },
+        {
+            "question": "Hol van a Nemzetközi Labdarúgó-szövetség (FIFA) székhelye?",
+            "answers": [
+                "Zürichben",
+                "Berlinben",
+                "Brüsszelben"
+            ],
+            "correct_answer": "Zürichben"
+        },
+        {
+            "question": "Ki Klein Dávid?",
+            "answers": [
+                "hegymászó",
+                "labdarúgó",
+                "festő"
+            ],
+            "correct_answer": "hegymászó"
+        },
+        {
+            "question": "Melyik sport kiválósága Görbicz Anita?",
+            "answers": [
+                "kézilabda",
+                "úszás",
+                "atlétika"
+            ],
+            "correct_answer": "kézilabda"
+        },
+        {
+            "question": "Melyik sportot nem labdával űzik?",
+            "answers": [
+                "ju-jitsu",
+                "rögbi",
+                "futsal"
+            ],
+            "correct_answer": "ju-jitsu"
+        },
+        {
+            "question": "Hány aranyérmet nyert Hosszú Katinka a 2017-es úszó-világbajnokságon?",
+            "answers": [
+                "kettő",
+                "négy",
+                "nyolc"
+            ],
+            "correct_answer": "kettő"
+        },
+        {
+            "question": "Melyik sportág nincs az atlétikában?",
+            "answers": [
+                "úszás",
+                "ugrás",
+                "futás"
+            ],
+            "correct_answer": "úszás"
+        },
+        {
+            "question": "Hányszoros olimpiai bajnok Michael Phelps?",
+            "answers": [
+                "23",
+                "12",
+                "20"
+            ],
+            "correct_answer": "23"
+        },
+        {
+            "question": "Melyik egy hajótipus neve?",
+            "answers": [
+                "karavella",
+                "karamella",
+                "kalevala"
+            ],
+            "correct_answer": "karavella"
+        },
+        {
+            "question": "Hol kerül megrendezésre 2018-ban a Labdarúgó-világbajnokság?",
+            "answers": [
+                "Oroszországba",
+                "Brazíliába",
+                "Németországba"
+            ],
+            "correct_answer": "Oroszországba"
+        },
+        {
+            "question": "Ki a Magyar Ökölvívó-szakszövetség jelenlegi elnöke?",
+            "answers": [
+                "Erdei Zsolt",
+                "Kovács István",
+                "Kótai Mihály"
+            ],
+            "correct_answer": "Erdei Zsolt"
+        },
+        {
+            "question": "Milyen gyakran kerül megrendezésre a Dakar-rali?",
+            "answers": [
+                "évente",
+                "négyévente",
+                "kétévente"
+            ],
+            "correct_answer": "évente"
+        },
+        {
+            "question": "Hol található a világ legnagyobb focistadionja?",
+            "answers": [
+                "Észak-Koreában",
+                "Indiában",
+                "Mexikóban"
+            ],
+            "correct_answer": "Észak-Koreában"
+        },
+        {
+            "question": "Hány méter hosszú a maraton?",
+            "answers": [
+                "42195 m",
+                "32456 m",
+                "11432 m"
+            ],
+            "correct_answer": "42195 m"
+        },
+        {
+            "question": "Mi a Real Madrid spanyol labdarúgóklub másik elnevezése?",
+            "answers": [
+                "Galaktikusok",
+                "A Vörösök",
+                "Szarkák"
+            ],
+            "correct_answer": "Galaktikusok"
+        },
+        {
+            "question": "Mikor alakult meg az FTC (Ferencvárosi Torna Club) ?",
+            "answers": [
+                "1899-ben",
+                "1999-ben",
+                "1925-ben"
+            ],
+            "correct_answer": "1899-ben"
+        },
+        {
+            "question": "Hányszoros Forma-1 világbajnok Sebastian Vettel?",
+            "answers": [
+                "négyszeres",
+                "hatszoros",
+                "nyolcszoros"
+            ],
+            "correct_answer": "négyszeres"
+        },
+        {
+            "question": "Ki lett 2017-ben az év magyar férfi sportolója?",
+            "answers": [
+                "Baji Balázs",
+                "Berki Krisztián",
+                "Szilágyi Áron"
+            ],
+            "correct_answer": "Baji Balázs"
+        },
+        {
+            "question": "2020-ban hol rendezik a nyári olimpiai játékokat?",
+            "answers": [
+                "Tokióban",
+                "Pekingben",
+                "Athénban"
+            ],
+            "correct_answer": "Tokióban"
+        },
+        {
+            "question": "Hanyadik alkalommal nyerte el Hosszú Katinka az év női sportolója díjat?",
+            "answers": [
+                "hatodik",
+                "negyedik",
+                "tizedik"
+            ],
+            "correct_answer": "hatodik"
+        },
+        {
+            "question": "Mikor rendezték meg az első téli olimpiai játékokat?",
+            "answers": [
+                "1924-ben",
+                "1916-ban",
+                "1908-ban"
+            ],
+            "correct_answer": "1924-ben"
+        },
+        {
+            "question": "Hány aranyat szerzett Magyarország az 1992. évi nyári olimpiai játékokon Barcelonában?",
+            "answers": [
+                "11",
+                "21",
+                "18"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Milyen sportágban jeleskedett Mandula Petra?",
+            "answers": [
+                "tenisz",
+                "vívás",
+                "úszás"
+            ],
+            "correct_answer": "tenisz"
+        },
+        {
+            "question": "Mikor kezdődik 2018-ban a XXIII. téli olimpiai játékok?",
+            "answers": [
+                "február 9-én",
+                "január 25-én",
+                "február 16-án"
+            ],
+            "correct_answer": "február 9-én"
+        },
+        {
+            "question": "Hány teniszverseny összefoglaló neve a Grand Slam-tornák?",
+            "answers": [
+                "négy",
+                "nyolc",
+                "tíz"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Mi a kötélugrás nevű extrém sport angol megfelelője?",
+            "answers": [
+                "bungee jumping",
+                "snowboard",
+                "slackline"
+            ],
+            "correct_answer": "bungee jumping"
+        },
+        {
+            "question": "Melyik focicsapatot nevezik \"A vörös ördögöknek\" is?",
+            "answers": [
+                "Manchester United",
+                "Liverpool FC",
+                "Arsenal FC"
+            ],
+            "correct_answer": "Manchester United"
+        },
+        {
+            "question": "Mi Eusébio portugál labdarúgó beceneve?",
+            "answers": [
+                "Fekete Párduc",
+                "Messiás",
+                "A bolygó hollandi"
+            ],
+            "correct_answer": "Fekete Párduc"
+        },
+        {
+            "question": "Hol zajlik jelenleg is a 2018-as Australian Open teniszverseny?",
+            "answers": [
+                "Melbourne-ben",
+                "Sydney-ben",
+                "Canberrában"
+            ],
+            "correct_answer": "Melbourne-ben"
+        },
+        {
+            "question": "Hol kerül megrendezésre 2018-ban a téli olimpiai játékok?",
+            "answers": [
+                "Dél-Koreában",
+                "Kínában",
+                "Oroszországban"
+            ],
+            "correct_answer": "Dél-Koreában"
+        },
+        {
+            "question": "Melyik sportág tartozik az atlétika versenyszámai közé?",
+            "answers": [
+                "kalapácsvetés",
+                "bírkózás",
+                "evezés"
+            ],
+            "correct_answer": "kalapácsvetés"
+        },
+        {
+            "question": "Mi a foglalkozása Baji Balázs Európa-bajnoki ezüstérmes gátfutónknak?",
+            "answers": [
+                "állatorvos",
+                "ügyvéd",
+                "vegyész"
+            ],
+            "correct_answer": "állatorvos"
+        },
+        {
+            "question": "Melyik sport négyszeres világbajnoka Medveczky Erika?",
+            "answers": [
+                "kajak",
+                "úszás",
+                "tenisz"
+            ],
+            "correct_answer": "kajak"
+        },
+        {
+            "question": "Hány érmet szerzett Michael Phelps a 2016-os nyári olimpiai játékokon, Rio de Janeiróban?",
+            "answers": [
+                "hat",
+                "nyolc",
+                "tizenhat"
+            ],
+            "correct_answer": "hat"
+        },
+        {
+            "question": "Hány lépésben lehet susztermattot adni a sakkjátékban?",
+            "answers": [
+                "4",
+                "2",
+                "1"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Hol játszik jelenleg Dzsuzsák Balázs labdarúgó?",
+            "answers": [
+                "Egyesült Arab Emírségekben",
+                "Szaúd-Arábiában",
+                "Katarban"
+            ],
+            "correct_answer": "Egyesült Arab Emírségekben"
+        },
+        {
+            "question": "Hanyas mezt visel Neymar, olimpiai bajnok brazil labdarúgó?",
+            "answers": [
+                "10-es",
+                "8-as",
+                "6-os"
+            ],
+            "correct_answer": "10-es"
+        },
+        {
+            "question": "Melyik csapat nyerte a Super Bowl LII-t?",
+            "answers": [
+                "Philadelphia Eagles",
+                "New England",
+                "Denver Broncos"
+            ],
+            "correct_answer": "Philadelphia Eagles"
+        }
+    ]
+}

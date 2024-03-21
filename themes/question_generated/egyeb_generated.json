@@ -1,0 +1,3146 @@
+{
+    "theme": "Egyéb",
+    "questions": [
+        {
+            "question": "Mit jelent a macsánka szó?",
+            "answers": [
+                "paprikás krumpli",
+                "bozótvágó kés",
+                "muskotályos bor"
+            ],
+            "correct_answer": "paprikás krumpli"
+        },
+        {
+            "question": "Ki fedezte fel a C-vitamint?",
+            "answers": [
+                "Szent-Györgyi Albert",
+                "Czeizel Endre",
+                "Semmelweis Ignác"
+            ],
+            "correct_answer": "Szent-Györgyi Albert"
+        },
+        {
+            "question": "Mi a talizmán?",
+            "answers": [
+                "szerencsét hozó tárgy",
+                "ritka madárféle",
+                "szúrófegyver"
+            ],
+            "correct_answer": "szerencsét hozó tárgy"
+        },
+        {
+            "question": "Ki találta fel a golyóstollat?",
+            "answers": [
+                "Bíró László",
+                "Gábor Dénes",
+                "Irinyi János"
+            ],
+            "correct_answer": "Bíró László"
+        },
+        {
+            "question": "Mit jelent a gábli szó?",
+            "answers": [
+                "villásreggeli",
+                "folyosó",
+                "vizipipa"
+            ],
+            "correct_answer": "villásreggeli"
+        },
+        {
+            "question": "Mi volt a foglalkozása Aigner Szilárdnak?",
+            "answers": [
+                "meteorólogus",
+                "színész",
+                "újságíró"
+            ],
+            "correct_answer": "meteorólogus"
+        },
+        {
+            "question": "Mi a kén vegyjele?",
+            "answers": [
+                "S",
+                "K",
+                "C"
+            ],
+            "correct_answer": "S"
+        },
+        {
+            "question": "Mi a szelfi?",
+            "answers": [
+                "önfotó",
+                "önámítás",
+                "önéletrajz"
+            ],
+            "correct_answer": "önfotó"
+        },
+        {
+            "question": "Mit jelent az angol always szó?",
+            "answers": [
+                "mindig",
+                "soha",
+                "egyedül"
+            ],
+            "correct_answer": "mindig"
+        },
+        {
+            "question": "Mit jelent a CPU?",
+            "answers": [
+                "processzor",
+                "professzor",
+                "profósz"
+            ],
+            "correct_answer": "processzor"
+        },
+        {
+            "question": "Ki volt Lechner Ödön?",
+            "answers": [
+                "magyar építész",
+                "magyar festő",
+                "magyar szobrász"
+            ],
+            "correct_answer": "magyar építész"
+        },
+        {
+            "question": "Milyen tudományág a paleontológia?",
+            "answers": [
+                "őslénytan",
+                "ősföldrajz",
+                "öregedéstan"
+            ],
+            "correct_answer": "őslénytan"
+        },
+        {
+            "question": "Mi Törökország pénzneme?",
+            "answers": [
+                "líra",
+                "euró",
+                "shiling"
+            ],
+            "correct_answer": "líra"
+        },
+        {
+            "question": "Ki tervezte a Parlamentet?",
+            "answers": [
+                "Steindl Imre",
+                "Otto Wagner",
+                "Ybl Miklós"
+            ],
+            "correct_answer": "Steindl Imre"
+        },
+        {
+            "question": "Mit jelent a pádimentom szó?",
+            "answers": [
+                "padló",
+                "erkély",
+                "ablak"
+            ],
+            "correct_answer": "padló"
+        },
+        {
+            "question": "Mi a tamburin?",
+            "answers": [
+                "csörgődob",
+                "furulya",
+                "nagybőgő"
+            ],
+            "correct_answer": "csörgődob"
+        },
+        {
+            "question": "Mi Horváthország pénzneme?",
+            "answers": [
+                "kuna",
+                "euró",
+                "frank"
+            ],
+            "correct_answer": "kuna"
+        },
+        {
+            "question": "Mi a slambuc?",
+            "answers": [
+                "krumplis tészta",
+                "mákos tészta",
+                "sajtos tészta"
+            ],
+            "correct_answer": "krumplis tészta"
+        },
+        {
+            "question": "Mivel foglalkozik az etnográfia?",
+            "answers": [
+                "néprajzzal",
+                "csillagászattal",
+                "írás történetével"
+            ],
+            "correct_answer": "néprajzzal"
+        },
+        {
+            "question": "Mivel foglalkozik az etnográfia?",
+            "answers": [
+                "néprajzzal",
+                "csillagászattal",
+                "írás történetével"
+            ],
+            "correct_answer": "néprajzzal"
+        },
+        {
+            "question": "Milyen nemzetiségű Gordon Ramsay, a híres szakács?",
+            "answers": [
+                "skót",
+                "svéd",
+                "dán"
+            ],
+            "correct_answer": "skót"
+        },
+        {
+            "question": "Mi a kobalt vegyjele?",
+            "answers": [
+                "Co",
+                "K",
+                "Ko"
+            ],
+            "correct_answer": "Co"
+        },
+        {
+            "question": "Ki találta fel a bűvös kockát?",
+            "answers": [
+                "Rubik Ernő",
+                "Gábor Dénes",
+                "Kempelen Farkas"
+            ],
+            "correct_answer": "Rubik Ernő"
+        },
+        {
+            "question": "Melyik szakácsnak nincs Michelin csillaga?",
+            "answers": [
+                "Jamie Oliver",
+                "Gordon Ramsay",
+                "Alain Ducasse"
+            ],
+            "correct_answer": "Jamie Oliver"
+        },
+        {
+            "question": "Milyen lábbeli a kalucsni?",
+            "answers": [
+                "gumicipő",
+                "csizma",
+                "papucs"
+            ],
+            "correct_answer": "gumicipő"
+        },
+        {
+            "question": "Mi a diabetes?",
+            "answers": [
+                "cukorbetegség",
+                "laktózérzékenység",
+                "szénanátha"
+            ],
+            "correct_answer": "cukorbetegség"
+        },
+        {
+            "question": "Kiről nevezték el az Újházi-tyúklevest?",
+            "answers": [
+                "Újházi Edéről",
+                "Újházi Lászlóról",
+                "Újházi Andrásról"
+            ],
+            "correct_answer": "Újházi Edéről"
+        },
+        {
+            "question": "Minek a rövidítése a CD?",
+            "answers": [
+                "Color Disc",
+                "Compact Disc",
+                "Compact Disco"
+            ],
+            "correct_answer": "Compact Disc"
+        },
+        {
+            "question": "Mi a barátfüle?",
+            "answers": [
+                "szilvalekváros derelye",
+                "mákos nudli",
+                "csörögefánk"
+            ],
+            "correct_answer": "szilvalekváros derelye"
+        },
+        {
+            "question": "Mit jelent a halef szó?",
+            "answers": [
+                "villa",
+                "kanál",
+                "kés"
+            ],
+            "correct_answer": "kés"
+        },
+        {
+            "question": "Melyik hónap régi elnevezése a Boldogasszony hava?",
+            "answers": [
+                "október",
+                "február",
+                "január"
+            ],
+            "correct_answer": "január"
+        },
+        {
+            "question": "Melyik vitamin hiánya okozza a farkasvakságot?",
+            "answers": [
+                "A vitamin",
+                "C vitamin",
+                "K vitamin"
+            ],
+            "correct_answer": "A vitamin"
+        },
+        {
+            "question": "Mi a citológia?",
+            "answers": [
+                "bonctan",
+                "szövettan",
+                "sejttan"
+            ],
+            "correct_answer": "sejttan"
+        },
+        {
+            "question": "Mit jelent az angol future szó?",
+            "answers": [
+                "jövő",
+                "múlt",
+                "jelen"
+            ],
+            "correct_answer": "jövő"
+        },
+        {
+            "question": "Mi a cséving?",
+            "answers": [
+                "tálalóedény",
+                "fejfedő",
+                "ritka madárfaj"
+            ],
+            "correct_answer": "tálalóedény"
+        },
+        {
+            "question": "Mi a tarantasz?",
+            "answers": [
+                "utazókocsi",
+                "kétüléses bicikli",
+                "lovaskocsi"
+            ],
+            "correct_answer": "utazókocsi"
+        },
+        {
+            "question": "Mi a compó?",
+            "answers": [
+                "madárfaj",
+                "halfajta",
+                "rovarféle"
+            ],
+            "correct_answer": "halfajta"
+        },
+        {
+            "question": "Mit jelent a beard, angol szó?",
+            "answers": [
+                "bajusz",
+                "szakáll",
+                "homlok"
+            ],
+            "correct_answer": "szakáll"
+        },
+        {
+            "question": "Mi a vintage?",
+            "answers": [
+                "kis edényke",
+                "stílusirányzat",
+                "madárfaj"
+            ],
+            "correct_answer": "stílusirányzat"
+        },
+        {
+            "question": "Ki a matróna?",
+            "answers": [
+                "idős asszony",
+                "idős matróz",
+                "masiniszta"
+            ],
+            "correct_answer": "idős asszony"
+        },
+        {
+            "question": "Miknek az atyjának nevezték Hermann Ottót?",
+            "answers": [
+                "növények",
+                "madarak",
+                "emlősök"
+            ],
+            "correct_answer": "madarak"
+        },
+        {
+            "question": "Mivel foglalkozik az antropológia?",
+            "answers": [
+                "növényekkel",
+                "állatokkal",
+                "emberekkel"
+            ],
+            "correct_answer": "emberekkel"
+        },
+        {
+            "question": "Mit jellemez a Ph érték?",
+            "answers": [
+                "kémhatást",
+                "hőmérsékletet",
+                "szélirányt"
+            ],
+            "correct_answer": "kémhatást"
+        },
+        {
+            "question": "Mi a Bóra?",
+            "answers": [
+                "szélfajta",
+                "halfajta",
+                "gombafajta"
+            ],
+            "correct_answer": "szélfajta"
+        },
+        {
+            "question": "Mennyi idő alatt rakta ki, aki megnyerte a Rubik-kocka Európa-bajnokságot?",
+            "answers": [
+                "7,88 mp",
+                "11,7 mp",
+                "22,88 mp"
+            ],
+            "correct_answer": "7,88 mp"
+        },
+        {
+            "question": "Milyen ruhadarab volt a pruszlik?",
+            "answers": [
+                "díszes mellény",
+                "díszes fejfedő",
+                "télikabát"
+            ],
+            "correct_answer": "díszes mellény"
+        },
+        {
+            "question": "Mit csinál az, aki obszervál?",
+            "answers": [
+                "megfigyel",
+                "sportol",
+                "menekül"
+            ],
+            "correct_answer": "megfigyel"
+        },
+        {
+            "question": "Milyen játéktípus a snooker?",
+            "answers": [
+                "teke",
+                "sakk",
+                "biliárd"
+            ],
+            "correct_answer": "biliárd"
+        },
+        {
+            "question": "Mi a COPD?",
+            "answers": [
+                "vesebetegség",
+                "szívbetegség",
+                "tüdőbetegség"
+            ],
+            "correct_answer": "tüdőbetegség"
+        },
+        {
+            "question": "Svájcnak mi a pénzneme?",
+            "answers": [
+                "korona",
+                "euró",
+                "svájci frank"
+            ],
+            "correct_answer": "svájci frank"
+        },
+        {
+            "question": "Mi a króm vegyjele?",
+            "answers": [
+                "Cr",
+                "Kr",
+                "Km"
+            ],
+            "correct_answer": "Cr"
+        },
+        {
+            "question": "Melyik csoportba tartozik a kalcium?",
+            "answers": [
+                "alkáliföldfémek",
+                "alkálifémek",
+                "halogének"
+            ],
+            "correct_answer": "alkáliföldfémek"
+        },
+        {
+            "question": "Mikor jelent meg Magyarországon a Pokémon Go játék?",
+            "answers": [
+                "2016. július 14-én",
+                "2016. július 22-én",
+                "2016. július 16-án"
+            ],
+            "correct_answer": "2016. július 16-án"
+        },
+        {
+            "question": "Melyik hónapot hívták régen Szent György havának?",
+            "answers": [
+                "április",
+                "május",
+                "július"
+            ],
+            "correct_answer": "április"
+        },
+        {
+            "question": "Mi a kvadrát?",
+            "answers": [
+                "négyzet",
+                "téglalap",
+                "háromszög"
+            ],
+            "correct_answer": "négyzet"
+        },
+        {
+            "question": "Szent-Györgyi Albert melyik évben kapott Nobel-díjat?",
+            "answers": [
+                "1961-ben",
+                "1937-ben",
+                "1943-ban"
+            ],
+            "correct_answer": "1937-ben"
+        },
+        {
+            "question": "Mi a Morgan?",
+            "answers": [
+                "német férfinév",
+                "angol autómárka",
+                "olasz fényképezőgépmárka"
+            ],
+            "correct_answer": "angol autómárka"
+        },
+        {
+            "question": "Mit csinál az aki zrikál?",
+            "answers": [
+                "bosszant",
+                "átgondol",
+                "étkezik"
+            ],
+            "correct_answer": "bosszant"
+        },
+        {
+            "question": "Mi aTwister?",
+            "answers": [
+                "édesség",
+                "modern táncfajta",
+                "társasjáték"
+            ],
+            "correct_answer": "társasjáték"
+        },
+        {
+            "question": "Melyik vár volt a régi 200 Ft-os bankjegy hátoldalán?",
+            "answers": [
+                "diósgyőri",
+                "egri",
+                "gyulai"
+            ],
+            "correct_answer": "diósgyőri"
+        },
+        {
+            "question": "Melyik hónapunk régi elnevezése a Kisasszony hava?",
+            "answers": [
+                "július",
+                "augusztus",
+                "október"
+            ],
+            "correct_answer": "augusztus"
+        },
+        {
+            "question": "Augusztus hónapunk kiről kapta a nevét?",
+            "answers": [
+                "Marcus Aurelius császárról",
+                "Antoninus Pius császárról",
+                "Augustus császárról"
+            ],
+            "correct_answer": "Augustus császárról"
+        },
+        {
+            "question": "Mi a cvicsek?",
+            "answers": [
+                "orosz vodkafajta",
+                "szlovák pálinka fajta",
+                "szlovén vörösbor fajta"
+            ],
+            "correct_answer": "szlovén vörösbor fajta"
+        },
+        {
+            "question": "Ki látható a húszezres bankjegy előoldalán?",
+            "answers": [
+                "Deák Ferenc",
+                "Szent István király",
+                "Mátyás király"
+            ],
+            "correct_answer": "Deák Ferenc"
+        },
+        {
+            "question": "Melyik hónapunkat nevezték régen Szent Jakab havának?",
+            "answers": [
+                "márciust",
+                "júniust",
+                "júliust"
+            ],
+            "correct_answer": "júliust"
+        },
+        {
+            "question": "Mi volt a lottó régi elnevezése?",
+            "answers": [
+                "lottéria",
+                "lutri",
+                "luttó"
+            ],
+            "correct_answer": "lutri"
+        },
+        {
+            "question": "Mikor van a balkezesek világnapja?",
+            "answers": [
+                "augusztus 15-én",
+                "augusztus 13-án",
+                "augusztus 18-án"
+            ],
+            "correct_answer": "augusztus 13-án"
+        },
+        {
+            "question": "Mit csinál, aki validál?",
+            "answers": [
+                "igazol",
+                "változtat",
+                "érvényesít"
+            ],
+            "correct_answer": "érvényesít"
+        },
+        {
+            "question": "Milyen színű az ametiszt?",
+            "answers": [
+                "ibolya",
+                "rubinvörös",
+                "zafírkék"
+            ],
+            "correct_answer": "ibolya"
+        },
+        {
+            "question": "Mi a rádli?",
+            "answers": [
+                "kerék",
+                "karika",
+                "kabát"
+            ],
+            "correct_answer": "karika"
+        },
+        {
+            "question": "Mi a Moulin Rogue jelentése?",
+            "answers": [
+                "Vörös Rúzs",
+                "Vörös Malom",
+                "Vörös Oroszlán"
+            ],
+            "correct_answer": "Vörös Malom"
+        },
+        {
+            "question": "Minek a mértékegysége a newton?",
+            "answers": [
+                "erő",
+                "sebesség",
+                "súly"
+            ],
+            "correct_answer": "erő"
+        },
+        {
+            "question": "Mikor kerül átadásra a Kossuth-díj?",
+            "answers": [
+                "március 15-én",
+                "május 1-én",
+                "augusztus 20-án"
+            ],
+            "correct_answer": "március 15-én"
+        },
+        {
+            "question": "Milyen az, aki zelóta?",
+            "answers": [
+                "türelmetlen",
+                "céltudatos",
+                "öntelt"
+            ],
+            "correct_answer": "türelmetlen"
+        },
+        {
+            "question": "Mi a gálya?",
+            "answers": [
+                "hajó",
+                "vonat",
+                "csónak"
+            ],
+            "correct_answer": "hajó"
+        },
+        {
+            "question": "Mit csinál az, aki lájkol?",
+            "answers": [
+                "kedvel",
+                "sztrájkol",
+                "takarít"
+            ],
+            "correct_answer": "kedvel"
+        },
+        {
+            "question": "Mit szoktak kandírozni?",
+            "answers": [
+                "gyümölcsöt",
+                "zöldséget",
+                "kenyeret"
+            ],
+            "correct_answer": "gyümölcsöt"
+        },
+        {
+            "question": "Mi Finnország pénzneme?",
+            "answers": [
+                "euró",
+                "font",
+                "dollár"
+            ],
+            "correct_answer": "euró"
+        },
+        {
+            "question": "Ki volt a régi papír 10 Ft-oson?",
+            "answers": [
+                "Petőfi Sándor",
+                "Ady Endre",
+                "Arany János"
+            ],
+            "correct_answer": "Petőfi Sándor"
+        },
+        {
+            "question": "Mi kezdődik szeptember 1-én?",
+            "answers": [
+                "iskolai tanév",
+                "aratás",
+                "csillagászati ősz"
+            ],
+            "correct_answer": "iskolai tanév"
+        },
+        {
+            "question": "Mi szeptember hónap régi elnevezése?",
+            "answers": [
+                "Szent Mihály hava",
+                "Szent Jakab hava",
+                "Szent András hava"
+            ],
+            "correct_answer": "Szent Mihály hava"
+        },
+        {
+            "question": "Melyik csoportba tartozik a kálium?",
+            "answers": [
+                "alkálifémek",
+                "alkáliföldfémek",
+                "halogének"
+            ],
+            "correct_answer": "alkálifémek"
+        },
+        {
+            "question": "Mi a csomorika?",
+            "answers": [
+                "növényfaj",
+                "madárfaj",
+                "rovarféle"
+            ],
+            "correct_answer": "növényfaj"
+        },
+        {
+            "question": "Mit jelent a pagony szó?",
+            "answers": [
+                "liget",
+                "öböl",
+                "létra"
+            ],
+            "correct_answer": "liget"
+        },
+        {
+            "question": "Mit jelent a tarlatán szó?",
+            "answers": [
+                "pamutszövet",
+                "boszorkány",
+                "mikrofon"
+            ],
+            "correct_answer": "pamutszövet"
+        },
+        {
+            "question": "Mit csinál aki zenkol?",
+            "answers": [
+                "süllyeszt",
+                "kalapál",
+                "iszik"
+            ],
+            "correct_answer": "süllyeszt"
+        },
+        {
+            "question": "Hány oldala van egy paralelogrammának?",
+            "answers": [
+                "4",
+                "6",
+                "3"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Mennyi a négyszög belső szögeinek összege?",
+            "answers": [
+                "360 fok",
+                "180 fok",
+                "90 fok"
+            ],
+            "correct_answer": "360 fok"
+        },
+        {
+            "question": "Mi a hatszög angol neve?",
+            "answers": [
+                "hexagon",
+                "pentagon",
+                "octagon"
+            ],
+            "correct_answer": "hexagon"
+        },
+        {
+            "question": "Milyen ásvány a dolomit?",
+            "answers": [
+                "karbonát",
+                "szilikát",
+                "oxid"
+            ],
+            "correct_answer": "karbonát"
+        },
+        {
+            "question": "Mi a téltemető?",
+            "answers": [
+                "növényfaj",
+                "rovarfaj",
+                "gombafaj"
+            ],
+            "correct_answer": "növényfaj"
+        },
+        {
+            "question": "Mi a femme fatale jelentése?",
+            "answers": [
+                "a végzet asszonya",
+                "a ház úrnője",
+                "a falu bikája"
+            ],
+            "correct_answer": "a végzet asszonya"
+        },
+        {
+            "question": "Mi a masztaba szó jelentése?",
+            "answers": [
+                "pad",
+                "szék",
+                "hajó"
+            ],
+            "correct_answer": "pad"
+        },
+        {
+            "question": "Ki volt Teller Ede?",
+            "answers": [
+                "atomfizikus",
+                "kémikus",
+                "bilológus"
+            ],
+            "correct_answer": "atomfizikus"
+        },
+        {
+            "question": "Mi nem hasonlít Pom-pomra a rajzfilmben?",
+            "answers": [
+                "lyukas zokni",
+                "szobafestő pemzli",
+                "paróka"
+            ],
+            "correct_answer": "lyukas zokni"
+        },
+        {
+            "question": "Mi az ökológia?",
+            "answers": [
+                "környezettan",
+                "növénytan",
+                "álattan"
+            ],
+            "correct_answer": "környezettan"
+        },
+        {
+            "question": "Mi a kőolaj fő összetevője?",
+            "answers": [
+                "szénhidrogén",
+                "szén-dioxid",
+                "szén-diszulfid"
+            ],
+            "correct_answer": "szénhidrogén"
+        },
+        {
+            "question": "Mi a szambó?",
+            "answers": [
+                "sport",
+                "étel",
+                "tánc"
+            ],
+            "correct_answer": "sport"
+        },
+        {
+            "question": "Mi a bridzs?",
+            "answers": [
+                "kártyajáték",
+                "tekejáték",
+                "biliárd"
+            ],
+            "correct_answer": "kártyajáték"
+        },
+        {
+            "question": "Mi a nátrium rendszáma?",
+            "answers": [
+                "11",
+                "12",
+                "19"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Mi a nátrium-klorid?",
+            "answers": [
+                "konyhasó",
+                "bórsó",
+                "pác-só"
+            ],
+            "correct_answer": "konyhasó"
+        },
+        {
+            "question": "Mi a magnézium régi magyar neve?",
+            "answers": [
+                "kesereny",
+                "mészeny",
+                "szikeny"
+            ],
+            "correct_answer": "kesereny"
+        },
+        {
+            "question": "Milyen végzettsége volt Déri Jánosnak?",
+            "answers": [
+                "gépészmérnök",
+                "autószerelő",
+                "ács"
+            ],
+            "correct_answer": "gépészmérnök"
+        },
+        {
+            "question": "Kinek a lánya volt Pallas Athéné a görög mitológiában?",
+            "answers": [
+                "Zeusz",
+                "Odüsszeusz",
+                "Hermész"
+            ],
+            "correct_answer": "Zeusz"
+        },
+        {
+            "question": "Mi képes az aranyat feloldani?",
+            "answers": [
+                "királyvíz",
+                "salétromsav",
+                "sósav"
+            ],
+            "correct_answer": "királyvíz"
+        },
+        {
+            "question": "Mi október hónap régi elnevezése?",
+            "answers": [
+                "Mindszent hava",
+                "Szent András hava",
+                "Szent Jakab hava"
+            ],
+            "correct_answer": "Mindszent hava"
+        },
+        {
+            "question": "Mi a darbuka?",
+            "answers": [
+                "dob",
+                "gitár",
+                "furulya"
+            ],
+            "correct_answer": "dob"
+        },
+        {
+            "question": "Mi a szajkó népies elnevezése?",
+            "answers": [
+                "mátyásmadár",
+                "palimadár",
+                "királymadár"
+            ],
+            "correct_answer": "mátyásmadár"
+        },
+        {
+            "question": "Mi a barrakuda?",
+            "answers": [
+                "halfajta",
+                "szélfajta",
+                "hangszer"
+            ],
+            "correct_answer": "halfajta"
+        },
+        {
+            "question": "Mi a kakasmandikó?",
+            "answers": [
+                "növényfaj",
+                "állatfaj",
+                "ruhadarab"
+            ],
+            "correct_answer": "növényfaj"
+        },
+        {
+            "question": "Mi a barbitosz?",
+            "answers": [
+                "hangszer",
+                "étel",
+                "hegység"
+            ],
+            "correct_answer": "hangszer"
+        },
+        {
+            "question": "Mitől fél, aki klausztrofóbiás?",
+            "answers": [
+                "bezártságtól",
+                "pókoktól",
+                "nagy terektől"
+            ],
+            "correct_answer": "bezártságtól"
+        },
+        {
+            "question": "Mi a raglán?",
+            "answers": [
+                "kabát",
+                "lábbeli",
+                "fejfedő"
+            ],
+            "correct_answer": "kabát"
+        },
+        {
+            "question": "Milyen ember, aki nárcisztikus?",
+            "answers": [
+                "önimádó",
+                "önfeláldozó",
+                "ravasz"
+            ],
+            "correct_answer": "önimádó"
+        },
+        {
+            "question": "Mi a tramini?",
+            "answers": [
+                "borszőlőfajta",
+                "madárfajta",
+                "gombafajta"
+            ],
+            "correct_answer": "borszőlőfajta"
+        },
+        {
+            "question": "Mik a fosszíliák?",
+            "answers": [
+                "ősmaradványok",
+                "gombafajták",
+                "pálinkafajták"
+            ],
+            "correct_answer": "ősmaradványok"
+        },
+        {
+            "question": "Mi a karakk?",
+            "answers": [
+                "vitorláshajó",
+                "szélfajta",
+                "repülőgép"
+            ],
+            "correct_answer": "vitorláshajó"
+        },
+        {
+            "question": "Mi a kvaterka?",
+            "answers": [
+                "borospohár",
+                "sós sütemény",
+                "régi ruhadarab"
+            ],
+            "correct_answer": "borospohár"
+        },
+        {
+            "question": "Mi az erg?",
+            "answers": [
+                "homoktenger",
+                "síkság",
+                "völgy"
+            ],
+            "correct_answer": "homoktenger"
+        },
+        {
+            "question": "Mi a bentévi?",
+            "answers": [
+                "madárfaj",
+                "halfajta",
+                "növényfaj"
+            ],
+            "correct_answer": "madárfaj"
+        },
+        {
+            "question": "Mi a hosszúság mértékegysége?",
+            "answers": [
+                "méter",
+                "kilogramm",
+                "amper"
+            ],
+            "correct_answer": "méter"
+        },
+        {
+            "question": "Mi a kapotnyak?",
+            "answers": [
+                "növény",
+                "gomba",
+                "kígyó"
+            ],
+            "correct_answer": "növény"
+        },
+        {
+            "question": "Mi a macskaszem?",
+            "answers": [
+                "ásvány",
+                "gyógynövény",
+                "gomba"
+            ],
+            "correct_answer": "ásvány"
+        },
+        {
+            "question": "Melyik nem nemesgáz?",
+            "answers": [
+                "fluor",
+                "argon",
+                "hélium"
+            ],
+            "correct_answer": "fluor"
+        },
+        {
+            "question": "Mi a moréna?",
+            "answers": [
+                "kőzettörmelék",
+                "kihalt állat",
+                "sivatag"
+            ],
+            "correct_answer": "kőzettörmelék"
+        },
+        {
+            "question": "Milyen színű a zafir?",
+            "answers": [
+                "kék",
+                "zöld",
+                "vörös"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Mi a beléndek?",
+            "answers": [
+                "mérgező növény",
+                "vízi állat",
+                "régi fejfedő"
+            ],
+            "correct_answer": "mérgező növény"
+        },
+        {
+            "question": "Melyik a gumigyártás alapanyaga?",
+            "answers": [
+                "kaucsuk",
+                "gyanta",
+                "szilikon"
+            ],
+            "correct_answer": "kaucsuk"
+        },
+        {
+            "question": "Mi a zsorzsett?",
+            "answers": [
+                "női ruhaanyag",
+                "ülőhely",
+                "létra"
+            ],
+            "correct_answer": "női ruhaanyag"
+        },
+        {
+            "question": "Mi a gödölye?",
+            "answers": [
+                "fiatal kecske",
+                "édes étel",
+                "drágakő"
+            ],
+            "correct_answer": "fiatal kecske"
+        },
+        {
+            "question": "Mi az arany vegyjele?",
+            "answers": [
+                "Au",
+                "Pt",
+                "Hg"
+            ],
+            "correct_answer": "Au"
+        },
+        {
+            "question": "Ki találta fel a Rubik-kockát?",
+            "answers": [
+                "Rubik Ernő",
+                "Rubik Géza",
+                "Rubik Ágoston"
+            ],
+            "correct_answer": "Rubik Ernő"
+        },
+        {
+            "question": "Hány betűből áll a magyar ábécé?",
+            "answers": [
+                "40",
+                "30",
+                "50"
+            ],
+            "correct_answer": "40"
+        },
+        {
+            "question": "Mi a bózsa?",
+            "answers": [
+                "katicabogár",
+                "krumplibogár",
+                "szarvasbogár"
+            ],
+            "correct_answer": "katicabogár"
+        },
+        {
+            "question": "Mi a vörösburgundia?",
+            "answers": [
+                "cékla",
+                "borsó",
+                "alma"
+            ],
+            "correct_answer": "cékla"
+        },
+        {
+            "question": "Mi a csillámpala?",
+            "answers": [
+                "kőzetfajta",
+                "állatfaj",
+                "gyógynövény"
+            ],
+            "correct_answer": "kőzetfajta"
+        },
+        {
+            "question": "Mi a bubulyka?",
+            "answers": [
+                "kamilla",
+                "eper",
+                "gyermekláncfű"
+            ],
+            "correct_answer": "kamilla"
+        },
+        {
+            "question": "Ki Havasi Balázs?",
+            "answers": [
+                "zongoraművész",
+                "énekes",
+                "színész"
+            ],
+            "correct_answer": "zongoraművész"
+        },
+        {
+            "question": "Mi az angyaltrombita?",
+            "answers": [
+                "mérgező növény",
+                "vízi állat",
+                "gombafajta"
+            ],
+            "correct_answer": "mérgező növény"
+        },
+        {
+            "question": "Mi a December hónap régi elnevezése?",
+            "answers": [
+                "Karácsony hava",
+                "Boldogasszony hava",
+                "Böjtelő hava"
+            ],
+            "correct_answer": "Karácsony hava"
+        },
+        {
+            "question": "Ki volt Samu Géza?",
+            "answers": [
+                "szobrászművész",
+                "humorista",
+                "költő"
+            ],
+            "correct_answer": "szobrászművész"
+        },
+        {
+            "question": "Milyen a mefitikus?",
+            "answers": [
+                "büdös",
+                "hosszú",
+                "széles"
+            ],
+            "correct_answer": "büdös"
+        },
+        {
+            "question": "Hány kertitörpéje van a legnagyobb kertitörpe-gyüjtőnek?",
+            "answers": [
+                "2042",
+                "675",
+                "1456"
+            ],
+            "correct_answer": "2042"
+        },
+        {
+            "question": "Milyen a melankolikus ember?",
+            "answers": [
+                "lehangolt",
+                "jókedvű",
+                "szétszórt"
+            ],
+            "correct_answer": "lehangolt"
+        },
+        {
+            "question": "Hány liter tejet tud megfejni 2 perc alatt egy német férfi, a Guinness Rekordok Könyve szerint?",
+            "answers": [
+                "2 liter",
+                "1 liter",
+                "5 liter"
+            ],
+            "correct_answer": "2 liter"
+        },
+        {
+            "question": "Mi a magma?",
+            "answers": [
+                "kőzetanyag",
+                "gyümölcs",
+                "régi ruhadarab"
+            ],
+            "correct_answer": "kőzetanyag"
+        },
+        {
+            "question": "Mikor rendezték meg először a Miss Hungary szépségversenyt?",
+            "answers": [
+                "1929-ben",
+                "1985-ben",
+                "1976-ban"
+            ],
+            "correct_answer": "1929-ben"
+        },
+        {
+            "question": "Ki volt Joó Rózsi?",
+            "answers": [
+                "színésznő",
+                "opera énekesnő",
+                "ballettáncos"
+            ],
+            "correct_answer": "színésznő"
+        },
+        {
+            "question": "Milyen betegségben szenvedőknek védőszentje Szent-Luca?",
+            "answers": [
+                "szem",
+                "szív",
+                "vese"
+            ],
+            "correct_answer": "szem"
+        },
+        {
+            "question": "Milyen aki rabiátus?",
+            "answers": [
+                "indulatos",
+                "önérzetes",
+                "okoskodó"
+            ],
+            "correct_answer": "indulatos"
+        },
+        {
+            "question": "Mi a rucsni?",
+            "answers": [
+                "csúszda",
+                "labda",
+                "szoba"
+            ],
+            "correct_answer": "csúszda"
+        },
+        {
+            "question": "Mi a fado?",
+            "answers": [
+                "zenei műfaj",
+                "hangszer",
+                "leves"
+            ],
+            "correct_answer": "zenei műfaj"
+        },
+        {
+            "question": "Hány cm magas a világ legmagasabb embere?",
+            "answers": [
+                "246 cm",
+                "222 cm",
+                "280 cm"
+            ],
+            "correct_answer": "246 cm"
+        },
+        {
+            "question": "Ki volt Lux Elek?",
+            "answers": [
+                "szobrász",
+                "politikus",
+                "színész"
+            ],
+            "correct_answer": "szobrász"
+        },
+        {
+            "question": "Hány cm magas a világ legkisebb embere?",
+            "answers": [
+                "73",
+                "85",
+                "66"
+            ],
+            "correct_answer": "73"
+        },
+        {
+            "question": "Ki volt Püthagorasz?",
+            "answers": [
+                "ókori filozófus",
+                "ókori hadvezér",
+                "görög történetíró"
+            ],
+            "correct_answer": "ókori filozófus"
+        },
+        {
+            "question": "Mi az aulosz?",
+            "answers": [
+                "fúvós hangszer",
+                "déligyümölcs",
+                "gyógynövény"
+            ],
+            "correct_answer": "fúvós hangszer"
+        },
+        {
+            "question": "Milyen atomokból áll a gyémánt?",
+            "answers": [
+                "szén",
+                "titán",
+                "vas"
+            ],
+            "correct_answer": "szén"
+        },
+        {
+            "question": "Minek a képlete a HCl?",
+            "answers": [
+                "sósav",
+                "klórsav",
+                "salétromsav"
+            ],
+            "correct_answer": "sósav"
+        },
+        {
+            "question": "Melyik évben jelent meg a világ első keresztrejtvénye?",
+            "answers": [
+                "1913-ban",
+                "1928-ban",
+                "1967-ben"
+            ],
+            "correct_answer": "1913-ban"
+        },
+        {
+            "question": "Mikor készítette el Wilhelm Röntgen az első rtg. képet?",
+            "answers": [
+                "1895-ben",
+                "1921-ben",
+                "1954-ben"
+            ],
+            "correct_answer": "1895-ben"
+        },
+        {
+            "question": "Miről készítette el Wilhelm Röntgen, az első rtg.képet?",
+            "answers": [
+                "felesége kezéről",
+                "felesége térdéről",
+                "lánya válláról"
+            ],
+            "correct_answer": "felesége kezéről"
+        },
+        {
+            "question": "Melyik évben volt a rágógumi szabadalmaztatása?",
+            "answers": [
+                "1869-ben",
+                "1923-ban",
+                "1987-ben"
+            ],
+            "correct_answer": "1869-ben"
+        },
+        {
+            "question": "Mi a kalcium-karbonát?",
+            "answers": [
+                "mészkő",
+                "szénsav",
+                "metán"
+            ],
+            "correct_answer": "mészkő"
+        },
+        {
+            "question": "Mi Teréz anya másik neve?",
+            "answers": [
+                "Kalkuttai Szent Teréz",
+                "Indiai Szent Teréz",
+                "Apáczai Szent Teréz"
+            ],
+            "correct_answer": "Kalkuttai Szent Teréz"
+        },
+        {
+            "question": "Kik a fagyosszentek?",
+            "answers": [
+                "Pongrác, Szevác, Bonifác",
+                "Sándor, József, Benedek",
+                "Ádám, Éva, István"
+            ],
+            "correct_answer": "Pongrác, Szevác, Bonifác"
+        },
+        {
+            "question": "Miben halt meg Jurij Gagarin?",
+            "answers": [
+                "repülőgép-balesetben",
+                "betegségben",
+                "autóbalesetben"
+            ],
+            "correct_answer": "repülőgép-balesetben"
+        },
+        {
+            "question": "Milyen pénznem van Csehországban?",
+            "answers": [
+                "korona",
+                "euró",
+                "frank"
+            ],
+            "correct_answer": "korona"
+        },
+        {
+            "question": "Mi a kemanesz?",
+            "answers": [
+                "vonós hangszer",
+                "görög édesség",
+                "régi ruhadarab"
+            ],
+            "correct_answer": "vonós hangszer"
+        },
+        {
+            "question": "Mikortól lehet Magyarországon öttöslottóval játszani?",
+            "answers": [
+                "1957. márc. 7-től",
+                "1976. jan. 7-től",
+                "1966. okt. 21-től"
+            ],
+            "correct_answer": "1957. márc. 7-től"
+        },
+        {
+            "question": "Ki Ilosfalvy Róbert?",
+            "answers": [
+                "operaénekes",
+                "balettáncos",
+                "humorista"
+            ],
+            "correct_answer": "operaénekes"
+        },
+        {
+            "question": "Milyen pénznem van Belgiumban?",
+            "answers": [
+                "euró",
+                "leva",
+                "korona"
+            ],
+            "correct_answer": "euró"
+        },
+        {
+            "question": "Kiknek a védőszentje Szent Bálint?",
+            "answers": [
+                "szerelmesek",
+                "tűzoltók",
+                "tudósok"
+            ],
+            "correct_answer": "szerelmesek"
+        },
+        {
+            "question": "Ki a nők védőszentje?",
+            "answers": [
+                "Szent Angéla",
+                "Szent Borbála",
+                "Szent Genovéva"
+            ],
+            "correct_answer": "Szent Angéla"
+        },
+        {
+            "question": "Mi a kamin?",
+            "answers": [
+                "kandalló",
+                "kosztüm",
+                "állólámpa"
+            ],
+            "correct_answer": "kandalló"
+        },
+        {
+            "question": "Mikor szűnt meg a MALÉV?",
+            "answers": [
+                "2012-ben",
+                "2014-ben",
+                "2011-ben"
+            ],
+            "correct_answer": "2012-ben"
+        },
+        {
+            "question": "Ki találta fel a könyvnyomtatást?",
+            "answers": [
+                "Johannes Gutenberg",
+                "Luther Márton",
+                "Marshall McLuhan"
+            ],
+            "correct_answer": "Johannes Gutenberg"
+        },
+        {
+            "question": "Milyen ember aki filantróp?",
+            "answers": [
+                "emberbarát",
+                "költekező",
+                "irigy"
+            ],
+            "correct_answer": "emberbarát"
+        },
+        {
+            "question": "Melyik évben szűnt meg az iwiw?",
+            "answers": [
+                "2014-ben",
+                "2012-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Ki a holográfia feltalálója?",
+            "answers": [
+                "Gábor Dénes",
+                "Wigner Jenő",
+                "Lénárd Fülöp"
+            ],
+            "correct_answer": "Gábor Dénes"
+        },
+        {
+            "question": "Melyik évszak van a makk ászon a magyar kártyában?",
+            "answers": [
+                "tél",
+                "nyár",
+                "ősz"
+            ],
+            "correct_answer": "tél"
+        },
+        {
+            "question": "Mi a nikkel vegyjele?",
+            "answers": [
+                "Ni",
+                "N",
+                "Ny"
+            ],
+            "correct_answer": "Ni"
+        },
+        {
+            "question": "Mi a balafánt?",
+            "answers": [
+                "borszőlőfajta",
+                "elefántfaj",
+                "pengetős hangszer"
+            ],
+            "correct_answer": "borszőlőfajta"
+        },
+        {
+            "question": "Milyen hullámok képződnek a mikrohullámú sütőben?",
+            "answers": [
+                "elektromágneses",
+                "mechanikai",
+                "gravitációs"
+            ],
+            "correct_answer": "elektromágneses"
+        },
+        {
+            "question": "Milyen halmazállapotú a hélium?",
+            "answers": [
+                "gáz",
+                "folyékony",
+                "szilárd"
+            ],
+            "correct_answer": "gáz"
+        },
+        {
+            "question": "Melyik ország a tarokk kártyajáték őshazája?",
+            "answers": [
+                "Olaszország",
+                "Franciaország",
+                "Németország"
+            ],
+            "correct_answer": "Olaszország"
+        },
+        {
+            "question": "Hány évesen indult Palvin Barbara modellkarrierje?",
+            "answers": [
+                "13",
+                "12",
+                "15"
+            ],
+            "correct_answer": "13"
+        },
+        {
+            "question": "Milyen mestert neveztek régen gerencsérnek?",
+            "answers": [
+                "fazekasmestert",
+                "cipészmestert",
+                "ácsmestert"
+            ],
+            "correct_answer": "fazekasmestert"
+        },
+        {
+            "question": "Milyen hal a kandiru?",
+            "answers": [
+                "vámpírhal",
+                "doktorhal",
+                "bohóchal"
+            ],
+            "correct_answer": "vámpírhal"
+        },
+        {
+            "question": "Milyen új bankjegyek kerültek forgalomba 2017-márc.1-től?",
+            "answers": [
+                "2 és 5000 Ft-os",
+                "10 és 20 ezer Ft-os",
+                "Ezer és 500 Ft-os"
+            ],
+            "correct_answer": "2 és 5000 Ft-os"
+        },
+        {
+            "question": "Melyik a legnagyobb atomtömegű?",
+            "answers": [
+                "higany",
+                "platina",
+                "arany"
+            ],
+            "correct_answer": "higany"
+        },
+        {
+            "question": "Hány fokon forr a víz?",
+            "answers": [
+                "100",
+                "1000",
+                "500"
+            ],
+            "correct_answer": "100"
+        },
+        {
+            "question": "Mi a réz vegyjele?",
+            "answers": [
+                "Cu",
+                "Rz",
+                "Cd"
+            ],
+            "correct_answer": "Cu"
+        },
+        {
+            "question": "Melyik ország tánca a habanera?",
+            "answers": [
+                "Kuba",
+                "Spanyolország",
+                "Mexikó"
+            ],
+            "correct_answer": "Kuba"
+        },
+        {
+            "question": "Mi a pajszer?",
+            "answers": [
+                "feszítővas",
+                "ruhadarab",
+                "fáskamra"
+            ],
+            "correct_answer": "feszítővas"
+        },
+        {
+            "question": "Milyen szín a karmazsin?",
+            "answers": [
+                "sötétvörös",
+                "sötétkék",
+                "méregzöld"
+            ],
+            "correct_answer": "sötétvörös"
+        },
+        {
+            "question": "Melyik királyunk látható a 10 000 Ft-os bankjegyen?",
+            "answers": [
+                "Szent István király",
+                "Mátyás király",
+                "IV. Béla"
+            ],
+            "correct_answer": "Szent István király"
+        },
+        {
+            "question": "Mijét vesztette el aki amnéziás?",
+            "answers": [
+                "emlékezetét",
+                "hallását",
+                "zsebkendőjét"
+            ],
+            "correct_answer": "emlékezetét"
+        },
+        {
+            "question": "Mi a vademecum?",
+            "answers": [
+                "zsebkönyv",
+                "desszertkülönlegesség",
+                "régi bútordarab"
+            ],
+            "correct_answer": "zsebkönyv"
+        },
+        {
+            "question": "Mennyi a háromszög belső szögeinek összege?",
+            "answers": [
+                "180 fok",
+                "360 fok",
+                "90 fok"
+            ],
+            "correct_answer": "180 fok"
+        },
+        {
+            "question": "Mi a tamariska?",
+            "answers": [
+                "növény",
+                "hangszer",
+                "állat"
+            ],
+            "correct_answer": "növény"
+        },
+        {
+            "question": "Ki kapta a legjobb női műsorvezetőnek járó díjat a Televíziós Újságírók Díjkiosztóján?",
+            "answers": [
+                "Ördög Nóra",
+                "Liptai Claudia",
+                "Lilu"
+            ],
+            "correct_answer": "Ördög Nóra"
+        },
+        {
+            "question": "Mi a brigg?",
+            "answers": [
+                "vitorlás hajó",
+                "evezős csónak",
+                "óceánjáró hajó"
+            ],
+            "correct_answer": "vitorlás hajó"
+        },
+        {
+            "question": "Mikor fogadták el, hogy nagypéntek munkaszüneti nap legyen?",
+            "answers": [
+                "március 7-én",
+                "március 14-én",
+                "február 10-én"
+            ],
+            "correct_answer": "március 7-én"
+        },
+        {
+            "question": "Milyen térbeli alakzat a hexaéder?",
+            "answers": [
+                "kocka",
+                "téglatest",
+                "henger"
+            ],
+            "correct_answer": "kocka"
+        },
+        {
+            "question": "Melyik egy szoknyafajta?",
+            "answers": [
+                "bukjelszoknya",
+                "kapjelszoknya",
+                "fogdmegszoknya"
+            ],
+            "correct_answer": "bukjelszoknya"
+        },
+        {
+            "question": "Mit jelent a Yolo szleng?",
+            "answers": [
+                "csak egyszer élsz",
+                "nincs új a nap alatt",
+                "minden kezdet nehéz"
+            ],
+            "correct_answer": "csak egyszer élsz"
+        },
+        {
+            "question": "Milyen színű az akvamarin drágakő?",
+            "answers": [
+                "kékeszöld",
+                "bíborvörös",
+                "ibolya"
+            ],
+            "correct_answer": "kékeszöld"
+        },
+        {
+            "question": "Ki nem vezette soha a \"Legyen Ön is milliomos!\" televíziós kvízjátékot?",
+            "answers": [
+                "Egri János",
+                "Friderikusz Sándor",
+                "Fábry Sándor"
+            ],
+            "correct_answer": "Egri János"
+        },
+        {
+            "question": "Mit jelent az oktogon szó?",
+            "answers": [
+                "nyolcszög",
+                "hatszög",
+                "háromszög"
+            ],
+            "correct_answer": "nyolcszög"
+        },
+        {
+            "question": "Melyik két fő alkotórészből áll a levegő?",
+            "answers": [
+                "oxigén és nitrogén",
+                "oxigén és hidrogén",
+                "hidrogén és hélium"
+            ],
+            "correct_answer": "oxigén és nitrogén"
+        },
+        {
+            "question": "Mi a pántlika?",
+            "answers": [
+                "szalag",
+                "kesztyű",
+                "lábbeli"
+            ],
+            "correct_answer": "szalag"
+        },
+        {
+            "question": "Mi az oxigén rendszáma?",
+            "answers": [
+                "8",
+                "13",
+                "21"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Minek a rövidítése a Kft?",
+            "answers": [
+                "korlátolt felelősségű társaság",
+                "kombinált felelősségű társaság",
+                "korlátolt felelősségű társulat"
+            ],
+            "correct_answer": "korlátolt felelősségű társaság"
+        },
+        {
+            "question": "Mit jelent a szinesztézia szó?",
+            "answers": [
+                "összeérzés",
+                "fogékonyság",
+                "támogatás"
+            ],
+            "correct_answer": "összeérzés"
+        },
+        {
+            "question": "Mennyi 1 liter levegő tömege?",
+            "answers": [
+                "1,293 gramm",
+                "2,467 gramm",
+                "4,125 gramm"
+            ],
+            "correct_answer": "1,293 gramm"
+        },
+        {
+            "question": "Milyen halmazállapotú a kripton?",
+            "answers": [
+                "gáz",
+                "folyékony",
+                "szilárd"
+            ],
+            "correct_answer": "gáz"
+        },
+        {
+            "question": "Mi a Nemzetközi Valutaalap rövidítése?",
+            "answers": [
+                "IMF",
+                "NVA",
+                "IMA"
+            ],
+            "correct_answer": "IMF"
+        },
+        {
+            "question": "Mit jelent a paralel szó?",
+            "answers": [
+                "párhuzamos",
+                "szimmetrikus",
+                "vízszintes"
+            ],
+            "correct_answer": "párhuzamos"
+        },
+        {
+            "question": "Hogy nevezzük azt a folyamatot amikor szilárd anyag gőzzé alakul?",
+            "answers": [
+                "szublimáció",
+                "párolgás",
+                "kondenzáció"
+            ],
+            "correct_answer": "szublimáció"
+        },
+        {
+            "question": "Kit neveznek a \"matematika fejedelmének\"?",
+            "answers": [
+                "Carl Friedrich Gausst",
+                "Klaudiosz Ptolemaioszt",
+                "Fritz Oberhettingert"
+            ],
+            "correct_answer": "Carl Friedrich Gausst"
+        },
+        {
+            "question": "Melyik a legnagyobb szám a rulettben?",
+            "answers": [
+                "36",
+                "28",
+                "50"
+            ],
+            "correct_answer": "36"
+        },
+        {
+            "question": "Mi a segélyhívószám az Európai Unióban?",
+            "answers": [
+                "112",
+                "118",
+                "115"
+            ],
+            "correct_answer": "112"
+        },
+        {
+            "question": "Melyik játékot játsszák magyar kártyával?",
+            "answers": [
+                "Snapszer",
+                "Bridzs",
+                "Kanaszta"
+            ],
+            "correct_answer": "Snapszer"
+        },
+        {
+            "question": "Mi a mirin?",
+            "answers": [
+                "rizsből készült bor",
+                "régi bútordarab",
+                "állatfaj"
+            ],
+            "correct_answer": "rizsből készült bor"
+        },
+        {
+            "question": "Mi a lepketapló?",
+            "answers": [
+                "gombafaj",
+                "madárfaj",
+                "lepkefaj"
+            ],
+            "correct_answer": "gombafaj"
+        },
+        {
+            "question": "Mi a rikiki?",
+            "answers": [
+                "kártyajáték",
+                "állat",
+                "hangszer"
+            ],
+            "correct_answer": "kártyajáték"
+        },
+        {
+            "question": "Mi a csirimojó?",
+            "answers": [
+                "gyümölcs",
+                "gyógynövény",
+                "gombafaj"
+            ],
+            "correct_answer": "gyümölcs"
+        },
+        {
+            "question": "Mennyi egy tucat?",
+            "answers": [
+                "12",
+                "6",
+                "24"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Mennyi a négyszög belső szögeinek összege?",
+            "answers": [
+                "360 fok",
+                "180 fok",
+                "240 fok"
+            ],
+            "correct_answer": "360 fok"
+        },
+        {
+            "question": "Mi a racketlon?",
+            "answers": [
+                "ütővel játszható sport",
+                "repülőeszköz",
+                "társasjáték"
+            ],
+            "correct_answer": "ütővel játszható sport"
+        },
+        {
+            "question": "Mi a Mentők hívószáma?",
+            "answers": [
+                "104",
+                "105",
+                "107"
+            ],
+            "correct_answer": "104"
+        },
+        {
+            "question": "Mit mutat meg a pH érték?",
+            "answers": [
+                "oldat kémhatását",
+                "oldat koncentrációát",
+                "oldat tömegét"
+            ],
+            "correct_answer": "oldat kémhatását"
+        },
+        {
+            "question": "Milyen színű lesz a lakmuszpapír lúgos oldatban?",
+            "answers": [
+                "kék",
+                "vörös",
+                "zöld"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Mi a Bolygó Hollandi?",
+            "answers": [
+                "hajó",
+                "vonat",
+                "helikopter"
+            ],
+            "correct_answer": "hajó"
+        },
+        {
+            "question": "Mi kezdte meg működését 1957. május 1-én?",
+            "answers": [
+                "Magyar Televízió",
+                "Magyar Rádió",
+                "Magyar Gárda"
+            ],
+            "correct_answer": "Magyar Televízió"
+        },
+        {
+            "question": "Mitől fél aki nomofóbiás?",
+            "answers": [
+                "a mobiltelefon hiányától",
+                "a pókoktól",
+                "a magasságtól"
+            ],
+            "correct_answer": "a mobiltelefon hiányától"
+        },
+        {
+            "question": "Mi a kotla?",
+            "answers": [
+                "edényféle",
+                "régi pénzérme",
+                "ruhadarab"
+            ],
+            "correct_answer": "edényféle"
+        },
+        {
+            "question": "Minek a rövidítése az ENSZ?",
+            "answers": [
+                "Egyesült Nemzetek Szervezete",
+                "Egyesült Nemzetközi Szerv",
+                "Egyéni Nevelési Szervezet"
+            ],
+            "correct_answer": "Egyesült Nemzetek Szervezete"
+        },
+        {
+            "question": "Ki volt Szipál Márton?",
+            "answers": [
+                "fotóművész",
+                "festőművész",
+                "zeneszerző"
+            ],
+            "correct_answer": "fotóművész"
+        },
+        {
+            "question": "Mi a 30. házassági évforduló neve?",
+            "answers": [
+                "gyöngylakodalom",
+                "ezüstlakodalom",
+                "rubinlakodalom"
+            ],
+            "correct_answer": "gyöngylakodalom"
+        },
+        {
+            "question": "Mi a kübli?",
+            "answers": [
+                "pohár",
+                "édesség",
+                "jármű"
+            ],
+            "correct_answer": "pohár"
+        },
+        {
+            "question": "Mitől fél aki künofóbiás?",
+            "answers": [
+                "kutyáktól",
+                "egerektől",
+                "kígyóktól"
+            ],
+            "correct_answer": "kutyáktól"
+        },
+        {
+            "question": "Mi a hencser?",
+            "answers": [
+                "heverő",
+                "asztal",
+                "ablak"
+            ],
+            "correct_answer": "heverő"
+        },
+        {
+            "question": "Mi a magnézium régi magyar neve?",
+            "answers": [
+                "kesereny",
+                "mészeny",
+                "szikeny"
+            ],
+            "correct_answer": "kesereny"
+        },
+        {
+            "question": "Mi a szürkebarát?",
+            "answers": [
+                "szőlőfajta",
+                "emlős állat",
+                "gombafaj"
+            ],
+            "correct_answer": "szőlőfajta"
+        },
+        {
+            "question": "Mi az alpinizmus?",
+            "answers": [
+                "hegymászás",
+                "japán harcművészet",
+                "táblajáték"
+            ],
+            "correct_answer": "hegymászás"
+        },
+        {
+            "question": "Mi a kintorna?",
+            "answers": [
+                "régi hangszer",
+                "szabadban végezhető sport",
+                "kinzóeszköz"
+            ],
+            "correct_answer": "régi hangszer"
+        },
+        {
+            "question": "Ki volt Lechner Ödön?",
+            "answers": [
+                "magyar építész",
+                "magyar festő",
+                "magyar szobrász"
+            ],
+            "correct_answer": "magyar építész"
+        },
+        {
+            "question": "Mit jelent a macsánka szó?",
+            "answers": [
+                "paprikás krumpli",
+                "bozótvágó kés",
+                "muskotályos bor"
+            ],
+            "correct_answer": "paprikás krumpli"
+        },
+        {
+            "question": "Mi a femme fatale jelentése?",
+            "answers": [
+                "a végzet asszonya",
+                "a ház úrnője",
+                "a falu bikája"
+            ],
+            "correct_answer": "a végzet asszonya"
+        },
+        {
+            "question": "Minek a rövidítése a CD?",
+            "answers": [
+                "Compact Disc",
+                "Color Disco",
+                "Compact Disco"
+            ],
+            "correct_answer": "Compact Disc"
+        },
+        {
+            "question": "Mi a tamburin?",
+            "answers": [
+                "csörgődob",
+                "cirkuszi kellék",
+                "gyerekjáték"
+            ],
+            "correct_answer": "csörgődob"
+        },
+        {
+            "question": "Mi a barátfüle?",
+            "answers": [
+                "szilvalekváros derelye",
+                "betegség",
+                "csörögefánk"
+            ],
+            "correct_answer": "szilvalekváros derelye"
+        },
+        {
+            "question": "Mi a periódusos rendszer első eleme?",
+            "answers": [
+                "hidrogén",
+                "hélium",
+                "nátrium"
+            ],
+            "correct_answer": "hidrogén"
+        },
+        {
+            "question": "Ki volt Rökk Marika?",
+            "answers": [
+                "operettprimadonna",
+                "kerámiaművész",
+                "író"
+            ],
+            "correct_answer": "operettprimadonna"
+        },
+        {
+            "question": "Mitől fél aki monofóbiás?",
+            "answers": [
+                "egyedülléttől",
+                "mélységtől",
+                "víztől"
+            ],
+            "correct_answer": "egyedülléttől"
+        },
+        {
+            "question": "Mi a kurkuma?",
+            "answers": [
+                "fűszernövény",
+                "gyerekjáték",
+                "hangszer"
+            ],
+            "correct_answer": "fűszernövény"
+        },
+        {
+            "question": "Mi a fregatt?",
+            "answers": [
+                "hadihajó",
+                "társasjáték",
+                "hangszer"
+            ],
+            "correct_answer": "hadihajó"
+        },
+        {
+            "question": "Mikor szűnt meg a MALÉV?",
+            "answers": [
+                "2012-ben",
+                "2014-ben",
+                "2011-ben"
+            ],
+            "correct_answer": "2012-ben"
+        },
+        {
+            "question": "Mi a GM49?",
+            "answers": [
+                "magyar együttes",
+                "vulkán neve",
+                "kisbolygó neve"
+            ],
+            "correct_answer": "magyar együttes"
+        },
+        {
+            "question": "Mi az ólom vegyjele?",
+            "answers": [
+                "Pb",
+                "Pt",
+                "Tm"
+            ],
+            "correct_answer": "Pb"
+        },
+        {
+            "question": "Mi a nátrium-klorid?",
+            "answers": [
+                "konyhasó",
+                "víz",
+                "szőlőcukor"
+            ],
+            "correct_answer": "konyhasó"
+        },
+        {
+            "question": "Milyen orvosi vizsgálatok során használnak gadonlíniumot?",
+            "answers": [
+                "MR vizsgálat",
+                "CT vizsgálat",
+                "röntgen vizsgálat"
+            ],
+            "correct_answer": "MR vizsgálat"
+        },
+        {
+            "question": "Mit csinál az, aki lájkol?",
+            "answers": [
+                "kedvel",
+                "sztrájkol",
+                "takarít"
+            ],
+            "correct_answer": "kedvel"
+        },
+        {
+            "question": "Ki látható a húszezres bankjegy előoldalán?",
+            "answers": [
+                "Deák Ferenc",
+                "Szent István király",
+                "Mátyás király"
+            ],
+            "correct_answer": "Deák Ferenc"
+        },
+        {
+            "question": "Mi Finnország pénzneme?",
+            "answers": [
+                "euró",
+                "font",
+                "dollár"
+            ],
+            "correct_answer": "euró"
+        },
+        {
+            "question": "Milyen hullámok képződnek a mikrohullámú sütőben",
+            "answers": [
+                "elektromágneses",
+                "mechanikai",
+                "gravitációs"
+            ],
+            "correct_answer": "elektromágneses"
+        },
+        {
+            "question": "Hol került megrendezésre az Anna-bál?",
+            "answers": [
+                "Balatonfüreden",
+                "Balatonföldváron",
+                "Balatonbogláron"
+            ],
+            "correct_answer": "Balatonfüreden"
+        },
+        {
+            "question": "Milyen pénznem van Belgiumban?",
+            "answers": [
+                "euró",
+                "leva",
+                "korona"
+            ],
+            "correct_answer": "euró"
+        },
+        {
+            "question": "Melyik évben szűnt meg az iwiw?",
+            "answers": [
+                "2014-ben",
+                "2012-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Mi a dikó?",
+            "answers": [
+                "ágy",
+                "asztal",
+                "szék"
+            ],
+            "correct_answer": "ágy"
+        },
+        {
+            "question": "Mi a tűzoltóság hívószáma?",
+            "answers": [
+                "105",
+                "106",
+                "107"
+            ],
+            "correct_answer": "105"
+        },
+        {
+            "question": "Melyik női keresztnév nem egy szőlőfajta neve is?",
+            "answers": [
+                "Judit",
+                "Eszter",
+                "Anita"
+            ],
+            "correct_answer": "Judit"
+        },
+        {
+            "question": "Mi a csacsacsa?",
+            "answers": [
+                "táncféle",
+                "madárféle",
+                "gyerekjáték"
+            ],
+            "correct_answer": "táncféle"
+        },
+        {
+            "question": "Ki kapott Nobel-békedíjat az alábbiak közül?",
+            "answers": [
+                "Barack Obama",
+                "Mahatma Gandhi",
+                "II. János Pál pápa"
+            ],
+            "correct_answer": "Barack Obama"
+        },
+        {
+            "question": "Mi a filantrópia?",
+            "answers": [
+                "jótékonykodás",
+                "shoppingolás",
+                "imádkozás"
+            ],
+            "correct_answer": "jótékonykodás"
+        },
+        {
+            "question": "Miről készítette el Wilhelm Röntgen, az első rtg.képet?",
+            "answers": [
+                "felesége kezéről",
+                "felesége térdéről",
+                "lánya válláról"
+            ],
+            "correct_answer": "felesége kezéről"
+        },
+        {
+            "question": "Mi az általános segélyhívó szám?",
+            "answers": [
+                "112",
+                "116",
+                "121"
+            ],
+            "correct_answer": "112"
+        },
+        {
+            "question": "Melyik egy francia kártyával játszott játék?",
+            "answers": [
+                "kanaszta",
+                "makaó",
+                "snapszer"
+            ],
+            "correct_answer": "kanaszta"
+        },
+        {
+            "question": "Mi az echo?",
+            "answers": [
+                "visszhang",
+                "közjáték",
+                "dal, ének"
+            ],
+            "correct_answer": "visszhang"
+        },
+        {
+            "question": "Mi a vigvam?",
+            "answers": [
+                "indián sátor",
+                "indián szerszám",
+                "indián fejfedő"
+            ],
+            "correct_answer": "indián sátor"
+        },
+        {
+            "question": "Mi az oxigén vegyjele?",
+            "answers": [
+                "O",
+                "Ox",
+                "Og"
+            ],
+            "correct_answer": "O"
+        },
+        {
+            "question": "Mi a csabagyöngye?",
+            "answers": [
+                "szőlőfajta",
+                "almafajta",
+                "szilvafajta"
+            ],
+            "correct_answer": "szőlőfajta"
+        },
+        {
+            "question": "Hol van a székhelye az UNESCO-nak?",
+            "answers": [
+                "Párizsban",
+                "Brüsszelben",
+                "Rómában"
+            ],
+            "correct_answer": "Párizsban"
+        },
+        {
+            "question": "Mi Németország gépkocsijelzése?",
+            "answers": [
+                "D",
+                "N",
+                "Dd"
+            ],
+            "correct_answer": "D"
+        },
+        {
+            "question": "Ki az USA jelenlegi elnöke?",
+            "answers": [
+                "Donald Trump",
+                "Barack Obama",
+                "George W. Bush"
+            ],
+            "correct_answer": "Donald Trump"
+        },
+        {
+            "question": "Mi a Rendőrség hívószáma?",
+            "answers": [
+                "107",
+                "105",
+                "104"
+            ],
+            "correct_answer": "107"
+        },
+        {
+            "question": "Mi a tobogán?",
+            "answers": [
+                "téli sporteszköz",
+                "madárféle",
+                "régi ruhadarab"
+            ],
+            "correct_answer": "téli sporteszköz"
+        },
+        {
+            "question": "Mit jelent a millennium szó?",
+            "answers": [
+                "ezeréves évforduló",
+                "tízéves évforduló",
+                "százéves évforduló"
+            ],
+            "correct_answer": "ezeréves évforduló"
+        },
+        {
+            "question": "Mit csinál az, aki pacifikál?",
+            "answers": [
+                "békéltet",
+                "gyógyít",
+                "aláír"
+            ],
+            "correct_answer": "békéltet"
+        },
+        {
+            "question": "Milyen eredetű tánc a szamba?",
+            "answers": [
+                "afrikai",
+                "spanyol",
+                "brazil"
+            ],
+            "correct_answer": "afrikai"
+        },
+        {
+            "question": "Ki volt Bonnie bűnöző párja?",
+            "answers": [
+                "Clyde",
+                "Rómeó",
+                "Stan"
+            ],
+            "correct_answer": "Clyde"
+        },
+        {
+            "question": "Melyik egy orvosok által használt eszköz?",
+            "answers": [
+                "sztetoszkóp",
+                "periszkóp",
+                "monoszkóp"
+            ],
+            "correct_answer": "sztetoszkóp"
+        },
+        {
+            "question": "Mit mérnek a barométerrel?",
+            "answers": [
+                "légnyomást",
+                "szélerősséget",
+                "hőmérsékletet"
+            ],
+            "correct_answer": "légnyomást"
+        },
+        {
+            "question": "Mi a fő alkotóeleme a fogászatban használt amalgámnak?",
+            "answers": [
+                "higany",
+                "szén",
+                "alumínium"
+            ],
+            "correct_answer": "higany"
+        },
+        {
+            "question": "Mi a winchester magyar elnevezése?",
+            "answers": [
+                "merevlemez",
+                "hajlékonylemez",
+                "bakelitlemez"
+            ],
+            "correct_answer": "merevlemez"
+        },
+        {
+            "question": "Melyik egy operációs rendszer?",
+            "answers": [
+                "Microsoft Windows",
+                "Microsoft Office",
+                "Internet Explorer"
+            ],
+            "correct_answer": "Microsoft Windows"
+        },
+        {
+            "question": "Mennyi a téglalap belső szögeinek összege?",
+            "answers": [
+                "360 fok",
+                "180 fok",
+                "260 fok"
+            ],
+            "correct_answer": "360 fok"
+        },
+        {
+            "question": "Mit jelent az apokalipszis szó?",
+            "answers": [
+                "kinyilatkoztatás",
+                "elidegenedés",
+                "felhatalmazás"
+            ],
+            "correct_answer": "kinyilatkoztatás"
+        },
+        {
+            "question": "Mivel foglalkozik az ornitológus?",
+            "answers": [
+                "madarakkal",
+                "pókokkal",
+                "néprajzzal"
+            ],
+            "correct_answer": "madarakkal"
+        },
+        {
+            "question": "Miknek a tárolására alkalmas fájlfomátum a jpeg?",
+            "answers": [
+                "képek",
+                "videok",
+                "dokumentumok"
+            ],
+            "correct_answer": "képek"
+        },
+        {
+            "question": "Mi a cunami?",
+            "answers": [
+                "szökőár",
+                "földrengés",
+                "vulkánkitörés"
+            ],
+            "correct_answer": "szökőár"
+        },
+        {
+            "question": "Ki fedezte fel a C-vitamint?",
+            "answers": [
+                "Szent-Györgyi Albert",
+                "Czeizel Endre",
+                "Semmelweis Ignác"
+            ],
+            "correct_answer": "Szent-Györgyi Albert"
+        },
+        {
+            "question": "Mit a szelfi?",
+            "answers": [
+                "önfotó",
+                "önéletrajz",
+                "önámítás"
+            ],
+            "correct_answer": "önfotó"
+        },
+        {
+            "question": "Milyen eredetű férfinév a Szilveszter?",
+            "answers": [
+                "latin",
+                "görög",
+                "német"
+            ],
+            "correct_answer": "latin"
+        },
+        {
+            "question": "Mi a pézsma?",
+            "answers": [
+                "illatszer",
+                "növényfaj",
+                "ruhadarab"
+            ],
+            "correct_answer": "illatszer"
+        },
+        {
+            "question": "Melyik nem hungarikum?",
+            "answers": [
+                "Jókai-bableves",
+                "Egri Bikavér",
+                "Törley pezsgő"
+            ],
+            "correct_answer": "Jókai-bableves"
+        },
+        {
+            "question": "Mi a gyász színe Japánban?",
+            "answers": [
+                "fehér",
+                "kék",
+                "sárga"
+            ],
+            "correct_answer": "fehér"
+        },
+        {
+            "question": "Milyen ember a panamista?",
+            "answers": [
+                "szélhámos",
+                "figyelmes",
+                "bolondos"
+            ],
+            "correct_answer": "szélhámos"
+        },
+        {
+            "question": "Melyik szervünk állítja elő a legtöbb koleszterint?",
+            "answers": [
+                "máj",
+                "pajzsmirigy",
+                "vese"
+            ],
+            "correct_answer": "máj"
+        },
+        {
+            "question": "Milyen hosszú az M1-es autópálya?",
+            "answers": [
+                "171 km",
+                "230 km",
+                "154 km"
+            ],
+            "correct_answer": "171 km"
+        },
+        {
+            "question": "Mi a vészjelzés jele?",
+            "answers": [
+                "SOS",
+                "SOL",
+                "GSO"
+            ],
+            "correct_answer": "SOS"
+        },
+        {
+            "question": "Mi a garaboly?",
+            "answers": [
+                "kosár",
+                "sátor",
+                "fekvőhely"
+            ],
+            "correct_answer": "kosár"
+        },
+        {
+            "question": "Mi az Arzén vegyjele?",
+            "answers": [
+                "As",
+                "Ar",
+                "A"
+            ],
+            "correct_answer": "As"
+        },
+        {
+            "question": "Mi az enigma szó jelentése?",
+            "answers": [
+                "rejtély",
+                "erkély",
+                "segély"
+            ],
+            "correct_answer": "rejtély"
+        },
+        {
+            "question": "Mi a neve a dédszülő szüleinek?",
+            "answers": [
+                "ükszülő",
+                "szépszülő",
+                "ősszülő"
+            ],
+            "correct_answer": "ükszülő"
+        },
+        {
+            "question": "Mi a zsanér?",
+            "answers": [
+                "sarokpánt",
+                "csavar",
+                "csavaralátét"
+            ],
+            "correct_answer": "sarokpánt"
+        },
+        {
+            "question": "Ki a stewardess?",
+            "answers": [
+                "légi utaskísérő",
+                "revütáncos",
+                "filmszínésznő"
+            ],
+            "correct_answer": "légi utaskísérő"
+        },
+        {
+            "question": "Hány darab csillag látható az Európai Unió zászlaján?",
+            "answers": [
+                "12",
+                "8",
+                "24"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Milyen ami szuperszónikus?",
+            "answers": [
+                "a hangsebességet túllépő",
+                "a fénysebességet túllépő",
+                "szuper képességekkel rendelkező"
+            ],
+            "correct_answer": "a hangsebességet túllépő"
+        },
+        {
+            "question": "Melyik két elem vegyülete az ammónia?",
+            "answers": [
+                "nitrogén és hidrogén",
+                "oxigén és hidrogén",
+                "hélium és nitrogén"
+            ],
+            "correct_answer": "nitrogén és hidrogén"
+        },
+        {
+            "question": "Milyen fertőző betegség a rubeola?",
+            "answers": [
+                "rózsahimlő",
+                "bárányhimlő",
+                "kanyaró"
+            ],
+            "correct_answer": "rózsahimlő"
+        },
+        {
+            "question": "Melyik sokszögnek van átfogója és befogója?",
+            "answers": [
+                "háromszög",
+                "négyszög",
+                "hatszög"
+            ],
+            "correct_answer": "háromszög"
+        },
+        {
+            "question": "Melyik vitamin a riboflavin?",
+            "answers": [
+                "B2",
+                "B1",
+                "B6"
+            ],
+            "correct_answer": "B2"
+        },
+        {
+            "question": "Milyen eredetű a taxi szó?",
+            "answers": [
+                "francia",
+                "német",
+                "görög"
+            ],
+            "correct_answer": "francia"
+        },
+        {
+            "question": "Mit jelent az infláció szó?",
+            "answers": [
+                "pénzromlást",
+                "pénzmozgást",
+                "pénzmosást"
+            ],
+            "correct_answer": "pénzromlást"
+        },
+        {
+            "question": "Mi az arany latin neve?",
+            "answers": [
+                "Aurum",
+                "Argentum",
+                "Arborum"
+            ],
+            "correct_answer": "Aurum"
+        },
+        {
+            "question": "Mi az MLSZ?",
+            "answers": [
+                "Magyar Labdarúgó-szövetség",
+                "Magyar Labdarúgó-szervezet",
+                "Magyar Labdarúgás Szervezete"
+            ],
+            "correct_answer": "Magyar Labdarúgó-szövetség"
+        },
+        {
+            "question": "Mi a múmia szó jelentése?",
+            "answers": [
+                "szurok",
+                "szurdok",
+                "szurony"
+            ],
+            "correct_answer": "szurok"
+        },
+        {
+            "question": "Mi a laktóz?",
+            "answers": [
+                "tejcukor",
+                "gyümölcscukor",
+                "szőlőcukor"
+            ],
+            "correct_answer": "tejcukor"
+        },
+        {
+            "question": "Kit nevezték régen napamnak?",
+            "answers": [
+                "anyóst",
+                "apóst",
+                "sógort"
+            ],
+            "correct_answer": "anyóst"
+        },
+        {
+            "question": "Mi a kalcium-karbonát?",
+            "answers": [
+                "mészkő",
+                "dolomit",
+                "szóda"
+            ],
+            "correct_answer": "mészkő"
+        },
+        {
+            "question": "Mi az Egészségügyi Világszervezet rövidítése?",
+            "answers": [
+                "WHO",
+                "EGO",
+                "WHI"
+            ],
+            "correct_answer": "WHO"
+        },
+        {
+            "question": "Milyen eredetű név a Xénia?",
+            "answers": [
+                "görög",
+                "szláv",
+                "német"
+            ],
+            "correct_answer": "görög"
+        },
+        {
+            "question": "Miből áll a metán?",
+            "answers": [
+                "szénből és hidrogénből",
+                "oxigénból és héliumból",
+                "nitrogénből és hidrogénből"
+            ],
+            "correct_answer": "szénből és hidrogénből"
+        },
+        {
+            "question": "Mivel foglalkozik a balneográfia?",
+            "answers": [
+                "gyógyfürdőkkel",
+                "madarakkal",
+                "bálnákkal"
+            ],
+            "correct_answer": "gyógyfürdőkkel"
+        },
+        {
+            "question": "Mit jelent magyarul az SMS?",
+            "answers": [
+                "rövidüzenet szolgáltatás",
+                "multimédiás üzenetküldési szolgáltatás",
+                "gyors üzenet"
+            ],
+            "correct_answer": "rövidüzenet szolgáltatás"
+        },
+        {
+            "question": "1 byte hány bit?",
+            "answers": [
+                "8",
+                "12",
+                "24"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Mi a merengue?",
+            "answers": [
+                "nemzeti tánc",
+                "nemzeti étel",
+                "nemzeti ital"
+            ],
+            "correct_answer": "nemzeti tánc"
+        },
+        {
+            "question": "Hány Kelvin 0 fok?",
+            "answers": [
+                "273,15",
+                "123,16",
+                "23,67"
+            ],
+            "correct_answer": "273,15"
+        },
+        {
+            "question": "Milyen aki makrancos?",
+            "answers": [
+                "akaratos",
+                "céltudatos",
+                "tökéletes"
+            ],
+            "correct_answer": "akaratos"
+        },
+        {
+            "question": "Mi a fényerősség mértékegysége?",
+            "answers": [
+                "kandela",
+                "amper",
+                "mól"
+            ],
+            "correct_answer": "kandela"
+        },
+        {
+            "question": "Mi a miópia?",
+            "answers": [
+                "rövidlátás",
+                "távollátás",
+                "szemtengelyferdülés"
+            ],
+            "correct_answer": "rövidlátás"
+        },
+        {
+            "question": "Hány watt 1 lóerő?",
+            "answers": [
+                "735",
+                "124",
+                "987"
+            ],
+            "correct_answer": "735"
+        },
+        {
+            "question": "Mennyi a deltoid belső szögeinek összege?",
+            "answers": [
+                "360 fok",
+                "180 fok",
+                "240 fok"
+            ],
+            "correct_answer": "360 fok"
+        },
+        {
+            "question": "Mi a parfé?",
+            "answers": [
+                "fagylaltszerű édesség",
+                "kozmetikai eszköz",
+                "háztartási kellék"
+            ],
+            "correct_answer": "fagylaltszerű édesség"
+        },
+        {
+            "question": "Minek a rövidítése az IFFB?",
+            "answers": [
+                "Testépítők Nemzetközi Szövetsége",
+                "Ismeretlen Fiúk Barátai",
+                "Labdarúgók Szövetsége"
+            ],
+            "correct_answer": "Testépítők Nemzetközi Szövetsége"
+        },
+        {
+            "question": "Melyik nem tartozik a magyar kártya színei közé?",
+            "answers": [
+                "kék",
+                "piros",
+                "zöld"
+            ],
+            "correct_answer": "kék"
+        }
+    ]
+}

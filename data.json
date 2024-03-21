@@ -1,0 +1,1049 @@
+{
+  "theme": "Bulvár",
+  "questions": [
+    {
+      "question": "Ki Szandi férje?",
+      "answers": [
+        "Bogdán Csaba",
+        "Berkes Gábor",
+        "Kisszabó Gábor"
+      ],
+      "correct_answer": "Bogdán Csaba"
+    },
+    {
+      "question": "Ki lett Magyarország Szépe 2016-ban?",
+      "answers": [
+        "Késmárki Enikő",
+        "Oczella Eszter",
+        "Gelencsér Tímea"
+      ],
+      "correct_answer": "Gelencsér Tímea"
+    },
+    {
+      "question": "Ki lett az Anna-bál szépe 2016-ban?",
+      "answers": [
+        "Gorosics Csenge",
+        "Kriveczky Villő",
+        "Káplár Fanni"
+      ],
+      "correct_answer": "Kriveczky Villő"
+    },
+    {
+      "question": "Hol került megrendezésre az Anna-bál?",
+      "answers": [
+        "Balatonfüreden",
+        "Balatonföldváron",
+        "Balatonbogláron"
+      ],
+      "correct_answer": "Balatonfüreden"
+    },
+    {
+      "question": "Mikor került megrendezésre a Miss Balaton 2016?",
+      "answers": [
+        "augusztus 6-án",
+        "augusztus 1-én",
+        "július 22-én"
+      ],
+      "correct_answer": "augusztus 6-án"
+    },
+    {
+      "question": "Ki volt Madonna első férje?",
+      "answers": [
+        "Guy Ritchie",
+        "Sean Penn",
+        "Carlos Leon"
+      ],
+      "correct_answer": "Sean Penn"
+    },
+    {
+      "question": "Melyik énekesnő keresztanyja Aretha Franklin?",
+      "answers": [
+        "Whitney Houston",
+        "Alicia Keys",
+        "Mariah Carey"
+      ],
+      "correct_answer": "Whitney Houston"
+    },
+    {
+      "question": "Hány éves most Tina Turner?",
+      "answers": [
+        "77",
+        "76",
+        "66"
+      ],
+      "correct_answer": "76"
+    },
+    {
+      "question": "Hányadik életévét töltötte be 2016-ban Koncz Zsuzsa?",
+      "answers": [
+        "70.",
+        "60.",
+        "65."
+      ],
+      "correct_answer": "70."
+    },
+    {
+      "question": "Melyik állam nem tartozik az Amerikai Egyesült Államok alapító államai közé?",
+      "answers": [
+        "Virginia",
+        "New York",
+        "Kalifornia"
+      ],
+      "correct_answer": "Kalifornia"
+    },
+    {
+      "question": "Ki Vilmos herceg felesége?",
+      "answers": [
+        "Kate Middleton",
+        "Philippa Middleton",
+        "Elizabeth Middleton"
+      ],
+      "correct_answer": "Kate Middleton"
+    },
+    {
+      "question": "Ki volt Kaszás Attila első felesége?",
+      "answers": [
+        "Eszenyi Enikő",
+        "Balázsovits Edit",
+        "Ónodi Eszter"
+      ],
+      "correct_answer": "Eszenyi Enikő"
+    },
+    {
+      "question": "Mi a neve Szinetár Dóra apjának?",
+      "answers": [
+        "Szinetár Miklós",
+        "Szinetár Gábor",
+        "Szinetár Zoltán"
+      ],
+      "correct_answer": "Szinetár Miklós"
+    },
+    {
+      "question": "Melyik színésznővel nem volt kapcsolata Ben Afflecknek?",
+      "answers": [
+        "Gwyneth Paltrow",
+        "Jennifer Aniston",
+        "Jennifer Garner"
+      ],
+      "correct_answer": "Jennifer Aniston"
+    },
+    {
+      "question": "Ki Jennifer Aniston keresztapja?",
+      "answers": [
+        "Telly Savalas",
+        "Woody Allen",
+        "Dustin Hoffman"
+      ],
+      "correct_answer": "Telly Savalas"
+    },
+    {
+      "question": "Hány gyermeke van Sylvester Stallone-nak?",
+      "answers": [
+        "5",
+        "4",
+        "2"
+      ],
+      "correct_answer": "5"
+    },
+    {
+      "question": "Ki volt Petőfi Sándor felesége?",
+      "answers": [
+        "Szendrey Júlia",
+        "Ercsey Julianna",
+        "Boncza Berta"
+      ],
+      "correct_answer": "Szendrey Júlia"
+    },
+    {
+      "question": "Mi Zséda gyermekének a neve?",
+      "answers": [
+        "Nimród",
+        "Bence",
+        "Kristóf"
+      ],
+      "correct_answer": "Nimród"
+    },
+    {
+      "question": "Melyik X faktor győztes született szeptember 1-én?",
+      "answers": [
+        "Kocsis Tibor",
+        "Oláh Gergő",
+        "Danics Dóra"
+      ],
+      "correct_answer": "Kocsis Tibor"
+    },
+    {
+      "question": "Ki Zoltán Erika férje?",
+      "answers": [
+        "Robby D.",
+        "Bobby D.",
+        "Robby C."
+      ],
+      "correct_answer": "Robby D."
+    },
+    {
+      "question": "Hol született Freddie Mercury?",
+      "answers": [
+        "Zanzibárban",
+        "Kenyában",
+        "Mongóliában"
+      ],
+      "correct_answer": "Zanzibárban"
+    },
+    {
+      "question": "Mi volt Rodolfó polgári neve?",
+      "answers": [
+        "Gács Rezső",
+        "Csákányi Rezső",
+        "Gácser Róbert"
+      ],
+      "correct_answer": "Gács Rezső"
+    },
+    {
+      "question": "Markos Józsefnek mi volt a művészneve?",
+      "answers": [
+        "Alfonzó",
+        "Olfonzó",
+        "Elfonzó"
+      ],
+      "correct_answer": "Alfonzó"
+    },
+    {
+      "question": "Kivel nem volt kapcsolatban Julia Roberts?",
+      "answers": [
+        "Bard Pitt",
+        "Kiefer Sutherland",
+        "Richard Gere"
+      ],
+      "correct_answer": "Bard Pitt"
+    },
+    {
+      "question": "Hol született Keresztes Ildikó?",
+      "answers": [
+        "Marosvásárhelyen",
+        "Kolozsváron",
+        "Nagyszebenben"
+      ],
+      "correct_answer": "Marosvásárhelyen"
+    },
+    {
+      "question": "Mi a második neve Sebestyén Balázsnak?",
+      "answers": [
+        "Ottó",
+        "Géza",
+        "Imre"
+      ],
+      "correct_answer": "Ottó"
+    },
+    {
+      "question": "Mi Csepregi Éva fiának a keresztneve?",
+      "answers": [
+        "Dávid",
+        "Ádám",
+        "Kristóf"
+      ],
+      "correct_answer": "Dávid"
+    },
+    {
+      "question": "Mi a végzettsége Adam Sandlernek?",
+      "answers": [
+        "bölcsész",
+        "vegyész",
+        "jogász"
+      ],
+      "correct_answer": "bölcsész"
+    },
+    {
+      "question": "Ki Catherine Zeta-Jones házastársa?",
+      "answers": [
+        "Michael Douglas",
+        "Robert De Niro",
+        "George Clooney"
+      ],
+      "correct_answer": "Michael Douglas"
+    },
+    {
+      "question": "Mi az eredeti keresztneve Benny Hillnek?",
+      "answers": [
+        "Alfred",
+        "Adam",
+        "Benjamin"
+      ],
+      "correct_answer": "Alfred"
+    },
+    {
+      "question": "Mi a keresztneve Dr. House-nak?",
+      "answers": [
+        "Gregory",
+        "Peter",
+        "James"
+      ],
+      "correct_answer": "Gregory"
+    },
+    {
+      "question": "Ki Oláh Gergő, szintén énekes unokatestvére?",
+      "answers": [
+        "Radics Gigi",
+        "Danics Dóra",
+        "Rúzsa Magdi"
+      ],
+      "correct_answer": "Radics Gigi"
+    },
+    {
+      "question": "Mi Kiki, az Első Emelet frontemberének eredeti neve?",
+      "answers": [
+        "Patkó Béla",
+        "Kovács Zoltán",
+        "Patkó László"
+      ],
+      "correct_answer": "Patkó Béla"
+    },
+    {
+      "question": "Minek tanult Kiki?",
+      "answers": [
+        "autószerelőnek",
+        "géplakatosnak",
+        "péknek"
+      ],
+      "correct_answer": "autószerelőnek"
+    },
+    {
+      "question": "Milyen diplomája van Hajós Andrásnak?",
+      "answers": [
+        "szociológiai",
+        "jogi",
+        "orvosi"
+      ],
+      "correct_answer": "szociológiai"
+    },
+    {
+      "question": "Ki Pásztor Anna édesapja?",
+      "answers": [
+        "Bereményi Géza",
+        "Cserhalmi György",
+        "Cseh Tamás"
+      ],
+      "correct_answer": "Bereményi Géza"
+    },
+    {
+      "question": "Ki volt Koltai Róbert felesége?",
+      "answers": [
+        "Pogány Judit",
+        "Eszergályos Cecília",
+        "Básti Juli"
+      ],
+      "correct_answer": "Pogány Judit"
+    },
+    {
+      "question": "Mi Osvárt Andrea színésznő beceneve?",
+      "answers": [
+        "Andu",
+        "Andri",
+        "Andelku"
+      ],
+      "correct_answer": "Andu"
+    },
+    {
+      "question": "Ki Jordán Tamás színművész lánya?",
+      "answers": [
+        "Jordán Adél",
+        "Jordán Krisztina",
+        "Jordán Anett"
+      ],
+      "correct_answer": "Jordán Adél"
+    },
+    {
+      "question": "Melyik Tv-filmben nem szerepelt Ábel Anita?",
+      "answers": [
+        "Angyalbőrben",
+        "Linda",
+        "Szomszédok"
+      ],
+      "correct_answer": "Angyalbőrben"
+    },
+    {
+      "question": "Melyik külföldi színész állandó magyar hangja Kern András?",
+      "answers": [
+        "Woody Allen",
+        "Robert de Niro",
+        "Nicolas Cage"
+      ],
+      "correct_answer": "Woody Allen"
+    },
+    {
+      "question": "Ki volt Bodrogi Gyula első felesége?",
+      "answers": [
+        "Törőcsik Mari",
+        "Voith Ági",
+        "Csala Zsuzsa"
+      ],
+      "correct_answer": "Törőcsik Mari"
+    },
+    {
+      "question": "Mi volt Ambrus Kyri táncdalénekesnő eredeti keresztneve?",
+      "answers": [
+        "Margit",
+        "Mária",
+        "Borbála"
+      ],
+      "correct_answer": "Margit"
+    },
+    {
+      "question": "A Megasztár hanyadik szériájának volt Caramel a győztese?",
+      "answers": [
+        "második",
+        "harmadik",
+        "ötödik"
+      ],
+      "correct_answer": "második"
+    },
+    {
+      "question": "Ki Pély Barna felesége?",
+      "answers": [
+        "Galambos Dorina",
+        "Kozma Orsolya",
+        "Dér Heni"
+      ],
+      "correct_answer": "Galambos Dorina"
+    },
+    {
+      "question": "Mi Judy, a Groovehouse együttes énekesének születési neve?",
+      "answers": [
+        "Kis Judit",
+        "Nagy Judit",
+        "Kis Júlia"
+      ],
+      "correct_answer": "Kis Judit"
+    },
+    {
+      "question": "Hány testvére van Soma Mamagésának?",
+      "answers": [
+        "négy",
+        "három",
+        "egy"
+      ],
+      "correct_answer": "négy"
+    },
+    {
+      "question": "Ki Hegyi Barbara színésznő férje?",
+      "answers": [
+        "Sztevanovity Zorán",
+        "Tordy Géza",
+        "Bródy János"
+      ],
+      "correct_answer": "Sztevanovity Zorán"
+    },
+    {
+      "question": "Hány évig élt házasságban Jennifer Aniston és Brad Pitt ?",
+      "answers": [
+        "5",
+        "10",
+        "8"
+      ],
+      "correct_answer": "5"
+    },
+    {
+      "question": "Ki nem volt Johnny Depp élettársa?",
+      "answers": [
+        "Gwyneth Paltrow",
+        "Winona Ryder",
+        "Vanessa Paradis"
+      ],
+      "correct_answer": "Gwyneth Paltrow"
+    },
+    {
+      "question": "Hány gyermeke van Angelina Jolie-nak és Brad Pittnek?",
+      "answers": [
+        "6",
+        "4",
+        "3"
+      ],
+      "correct_answer": "6"
+    },
+    {
+      "question": "Hanyadik életévét töltötte be szeptember 9-én Adam Sandler színész?",
+      "answers": [
+        "50.",
+        "40.",
+        "45."
+      ],
+      "correct_answer": "50."
+    },
+    {
+      "question": "Mi a beceneve Camaron Diaz színésznőnek?",
+      "answers": [
+        "Cami",
+        "Camira",
+        "Cam"
+      ],
+      "correct_answer": "Cami"
+    },
+    {
+      "question": "Ki Flipper Öcsi, szintén énekes féltestvére?",
+      "answers": [
+        "Marót Viki",
+        "Lábas Viki",
+        "Pintácsi Viki"
+      ],
+      "correct_answer": "Marót Viki"
+    },
+    {
+      "question": "Mi Bereczki Zoltán kislányának a keresztneve?",
+      "answers": [
+        "Zora",
+        "Zoé",
+        "Zita"
+      ],
+      "correct_answer": "Zora"
+    },
+    {
+      "question": "Ki Liza Minelli édesanyja?",
+      "answers": [
+        "Judy Garland",
+        "Katharine Hepburn",
+        "Elizabeth Taylor"
+      ],
+      "correct_answer": "Judy Garland"
+    },
+    {
+      "question": "Mi Richard Clayderman születéskori keresztneve?",
+      "answers": [
+        "Philippe",
+        "George",
+        "Peter"
+      ],
+      "correct_answer": "Philippe"
+    },
+    {
+      "question": "Hány gyermeke van Demi Moore-nak?",
+      "answers": [
+        "három",
+        "kettő",
+        "hat"
+      ],
+      "correct_answer": "három"
+    },
+    {
+      "question": "Ki Dombóvári István?",
+      "answers": [
+        "humorista",
+        "színész",
+        "újságíró"
+      ],
+      "correct_answer": "humorista"
+    },
+    {
+      "question": "Melyik évben volt a Sláger és a Danubius Rádió utolsó adásnapja?",
+      "answers": [
+        "2009-ben",
+        "2010-ben",
+        "2011-ben"
+      ],
+      "correct_answer": "2009-ben"
+    },
+    {
+      "question": "Hány gyermeke van Jon Bon Jovinak?",
+      "answers": [
+        "4",
+        "5",
+        "6"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "question": "Mi Tereskova, festő és énekesnő születési neve?",
+      "answers": [
+        "Nagy Kriszta",
+        "Nagy Terézia",
+        "Kovács Borbála"
+      ],
+      "correct_answer": "Nagy Kriszta"
+    },
+    {
+      "question": "Ki Beyonce férje?",
+      "answers": [
+        "Jay-Z",
+        "Kanye West",
+        "50 Cent"
+      ],
+      "correct_answer": "Jay-Z"
+    },
+    {
+      "question": "Mi Pink, amerikai énekes születési neve?",
+      "answers": [
+        "Alecia Moore",
+        "Jean Moore",
+        "Kelly Jackson"
+      ],
+      "correct_answer": "Alecia Moore"
+    },
+    {
+      "question": "Mi Gábor Zsazsa eredeti neve?",
+      "answers": [
+        "Gábor Sári",
+        "Gábor Mari",
+        "Gábor Zsuzsi"
+      ],
+      "correct_answer": "Gábor Sári"
+    },
+    {
+      "question": "Ki Justin Timberlake felesége?",
+      "answers": [
+        "Jessica Biel",
+        "Jessica Alba",
+        "Sarah Jessica Parker"
+      ],
+      "correct_answer": "Jessica Biel"
+    },
+    {
+      "question": "Ki Ganxsta (\"Döglégy\") Zolee édesanyja?",
+      "answers": [
+        "Kassai Ilona",
+        "Lórán Lenke",
+        "Pásztor Erzsi"
+      ],
+      "correct_answer": "Kassai Ilona"
+    },
+    {
+      "question": "Milyen néven született Uri Geller?",
+      "answers": [
+        "Gellér György",
+        "Gellér Gyula",
+        "Gellér Ágoston"
+      ],
+      "correct_answer": "Gellér György"
+    },
+    {
+      "question": "Ki Jane Fonda unokahúga?",
+      "answers": [
+        "Bridget Fonda",
+        "Faye Dunaway",
+        "Emma Stone"
+      ],
+      "correct_answer": "Bridget Fonda"
+    },
+    {
+      "question": "Melyik színésznő Garas Dezső menye?",
+      "answers": [
+        "Balla Eszter",
+        "Schell Judit",
+        "Földes Eszter"
+      ],
+      "correct_answer": "Balla Eszter"
+    },
+    {
+      "question": "Ki Carrie Fisher, szintén színésznő édesanyja?",
+      "answers": [
+        "Debbie Reynolds",
+        "Faye Dunaway",
+        "Grace Kelly"
+      ],
+      "correct_answer": "Debbie Reynolds"
+    },
+    {
+      "question": "Hány gyermeke van Erős Antóniának?",
+      "answers": [
+        "kettő",
+        "egy",
+        "négy"
+      ],
+      "correct_answer": "kettő"
+    },
+    {
+      "question": "Milyen származású Kim Kardashian?",
+      "answers": [
+        "örmény",
+        "ukrán",
+        "svéd"
+      ],
+      "correct_answer": "örmény"
+    },
+    {
+      "question": "Hány gyermeke van Ábel Anitának?",
+      "answers": [
+        "egy",
+        "kettő",
+        "három"
+      ],
+      "correct_answer": "egy"
+    },
+    {
+      "question": "Mi Péter Szabó Szilvia kislányának a neve?",
+      "answers": [
+        "Emma",
+        "Hanna",
+        "Emília"
+      ],
+      "correct_answer": "Emma"
+    },
+    {
+      "question": "Mi Dobó Kata színésznő születési neve?",
+      "answers": [
+        "Kovács Katalin",
+        "Szabó Katalin",
+        "Király Dorottya"
+      ],
+      "correct_answer": "Kovács Katalin"
+    },
+    {
+      "question": "Hány gyermeke van Mel Gibsonnak?",
+      "answers": [
+        "9",
+        "7",
+        "3"
+      ],
+      "correct_answer": "9"
+    },
+    {
+      "question": "Hol született Ördög Nóra?",
+      "answers": [
+        "Szegeden",
+        "Debrecenben",
+        "Egerben"
+      ],
+      "correct_answer": "Szegeden"
+    },
+    {
+      "question": "Hány évesen nyerte meg Sharon Stone a Miss Pennsylvania szépségversenyt?",
+      "answers": [
+        "17",
+        "18",
+        "22"
+      ],
+      "correct_answer": "17"
+    },
+    {
+      "question": "Hány gyermeke van Kovács Ákos, zenész-énekesnek?",
+      "answers": [
+        "4",
+        "3",
+        "6"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "question": "Milyen sportot űzött Sebestyén Balázs?",
+      "answers": [
+        "birkózott",
+        "bokszolt",
+        "focizott"
+      ],
+      "correct_answer": "birkózott"
+    },
+    {
+      "question": "Milyen néven született \"Soma Mamagésa\"?",
+      "answers": [
+        "Somogyi Gyöngyi",
+        "Lázár Margit",
+        "Kovács Ilona"
+      ],
+      "correct_answer": "Somogyi Gyöngyi"
+    },
+    {
+      "question": "Ki Bangó Margit veje?",
+      "answers": [
+        "Emilió",
+        "Kasza Tibi",
+        "Pápai Joci"
+      ],
+      "correct_answer": "Emilió"
+    },
+    {
+      "question": "Ki Heilig Gábor zenész felesége?",
+      "answers": [
+        "Eszményi Viktória",
+        "Udvaros Dorottya",
+        "Karda Beáta"
+      ],
+      "correct_answer": "Eszményi Viktória"
+    },
+    {
+      "question": "Ki Szörényi Levente felesége?",
+      "answers": [
+        "Kovács Zsuzsa",
+        "Pelsőczy Réka",
+        "Balázsovits Edit"
+      ],
+      "correct_answer": "Kovács Zsuzsa"
+    },
+    {
+      "question": "Melyik évben volt az esküvője Vilmos hercegnek és Kate Middletonnak?",
+      "answers": [
+        "2011-ben",
+        "2012-ben",
+        "2014-ben"
+      ],
+      "correct_answer": "2011-ben"
+    },
+    {
+      "question": "Ki volt a felesége Bereczki Zoltánnak?",
+      "answers": [
+        "Szinetár Dóra",
+        "Ábel Anita",
+        "Náray Erika"
+      ],
+      "correct_answer": "Szinetár Dóra"
+    },
+    {
+      "question": "Melyik magyar modellnek van gyermeke?",
+      "answers": [
+        "Ebergényi Réka",
+        "Axente Vanessa",
+        "Mihalik Enikő"
+      ],
+      "correct_answer": "Ebergényi Réka"
+    },
+    {
+      "question": "Mi volt Zámbó Jimmy eredeti keresztneve?",
+      "answers": [
+        "Imre",
+        "József",
+        "Béla"
+      ],
+      "correct_answer": "Imre"
+    },
+    {
+      "question": "Mi Dolly eredeti neve?",
+      "answers": [
+        "Penczi Mária",
+        "Kovács Margit",
+        "Novai Dorottya"
+      ],
+      "correct_answer": "Penczi Mária"
+    },
+    {
+      "question": "Hány gyermeke volt Roger Moore-nek?",
+      "answers": [
+        "három",
+        "egy",
+        "öt"
+      ],
+      "correct_answer": "három"
+    },
+    {
+      "question": "Ki Jennifer Aniston keresztapja?",
+      "answers": [
+        "Telly Savalas",
+        "Woody Allen",
+        "Dustin Hoffman"
+      ],
+      "correct_answer": "Telly Savalas"
+    },
+    {
+      "question": "Milyen származású Kim Kardashian?",
+      "answers": [
+        "örmény",
+        "ukrán",
+        "svéd"
+      ],
+      "correct_answer": "örmény"
+    },
+    {
+      "question": "Hol született Rihanna?",
+      "answers": [
+        "Barbadoson",
+        "Mexikóban",
+        "Jamaicában"
+      ],
+      "correct_answer": "Barbadoson"
+    },
+    {
+      "question": "Mi Edvin Marton születési neve?",
+      "answers": [
+        "Csűry Lajos",
+        "Jeszenszky Béla",
+        "Zuber Krisztián"
+      ],
+      "correct_answer": "Csűry Lajos"
+    },
+    {
+      "question": "Mi Dobó Kata színésznő születési neve?",
+      "answers": [
+        "Kovács Katalin",
+        "Szabó Katalin",
+        "Király Dorottya"
+      ],
+      "correct_answer": "Kovács Katalin"
+    },
+    {
+      "question": "Melyik színésznő lánya Tarján Zsófia, a Honeybeast énekesnője?",
+      "answers": [
+        "Hernádi Judit",
+        "Udvaros Dorottya",
+        "Ábrahám Edit"
+      ],
+      "correct_answer": "Hernádi Judit"
+    },
+    {
+      "question": "Ki Ganxsta(\"Döglégy\")Zolee édesanyja?",
+      "answers": [
+        "Kassai Ilona",
+        "Lórán Lenke",
+        "Pásztor Erzsi"
+      ],
+      "correct_answer": "Kassai Ilona"
+    },
+    {
+      "question": "Ki Miller Zoltán színész felesége?",
+      "answers": [
+        "Ullmann Mónika",
+        "Schell Judit",
+        "Ábel Anita"
+      ],
+      "correct_answer": "Ullmann Mónika"
+    },
+    {
+      "question": "Hány fia van Till Attilának?",
+      "answers": [
+        "három",
+        "kettő",
+        "öt"
+      ],
+      "correct_answer": "három"
+    },
+    {
+      "question": "Melyik színésznő Szinetár Dóra édesanyja?",
+      "answers": [
+        "Hámori Ildikó",
+        "Bánsági Ildikó",
+        "Pécsi Ildikó"
+      ],
+      "correct_answer": "Hámori Ildikó"
+    },
+    {
+      "question": "Milyen származású Selena Gomez?",
+      "answers": [
+        "mexikói",
+        "argentin",
+        "angol"
+      ],
+      "correct_answer": "mexikói"
+    },
+    {
+      "question": "Ki Enrique Iglesias édesapja?",
+      "answers": [
+        "Julio Iglesias",
+        "Miguel Iglesias",
+        "Antonio Iglesias"
+      ],
+      "correct_answer": "Julio Iglesias"
+    },
+    {
+      "question": "Mi Sting valódi neve?",
+      "answers": [
+        "Gordon Sumner",
+        "Joe Sumner",
+        "Mickey Sumner"
+      ],
+      "correct_answer": "Gordon Sumner"
+    },
+    {
+      "question": "Mi Chuck Norris eredeti neve?",
+      "answers": [
+        "Carlos Ray Norris",
+        "Mike Norris",
+        "Dakota Alan Norris"
+      ],
+      "correct_answer": "Carlos Ray Norris"
+    },
+    {
+      "question": "Melyik híres énekes hunyt el 2016.dec.25-én?",
+      "answers": [
+        "George Michael",
+        "Michael Jackson",
+        "Ray Charles"
+      ],
+      "correct_answer": "George Michael"
+    },
+    {
+      "question": "Melyik műsort nem vezette Ördög Nóra?",
+      "answers": [
+        "50 milliós játszma",
+        "Vigyázat, gyerekkel vagyok!",
+        "Kismenők"
+      ],
+      "correct_answer": "50 milliós játszma"
+    },
+    {
+      "question": "Milyen sportot űzött versenyszerűen Bud Spencer?",
+      "answers": [
+        "úszott",
+        "teniszezett",
+        "birkózott"
+      ],
+      "correct_answer": "úszott"
+    },
+    {
+      "question": "Ki Korda György felesége?",
+      "answers": [
+        "Balázs Klári",
+        "Katona Klári",
+        "Karda Beáta"
+      ],
+      "correct_answer": "Balázs Klári"
+    },
+    {
+      "question": "Mi volt David Bowie eredeti neve?",
+      "answers": [
+        "David Robert Jones",
+        "Farrokh Bulsara",
+        "Duncan Jones"
+      ],
+      "correct_answer": "David Robert Jones"
+    },
+    {
+      "question": "Mi a keresztneve Vastag Csaba szintén énekes testvérének?",
+      "answers": [
+        "Tamás",
+        "András",
+        "Kornél"
+      ],
+      "correct_answer": "Tamás"
+    },
+    {
+      "question": "Mi Bíró Ica születéskori neve?",
+      "answers": [
+        "Borúzs Ilona",
+        "Berkes Ilona",
+        "Kovács Ildikó"
+      ],
+      "correct_answer": "Borúzs Ilona"
+    },
+    {
+      "question": "Milyen nemzetiségű volt Casanova?",
+      "answers": [
+        "velencei",
+        "firenzei",
+        "nápolyi"
+      ],
+      "correct_answer": "velencei"
+    },
+    {
+      "question": "Ki nem volt soha a Hungária együttes tagja?",
+      "answers": [
+        "Kiki",
+        "Dolly",
+        "Szikora Róbert"
+      ],
+      "correct_answer": "Kiki"
+    },
+    {
+      "question": "Mi Pink amerikai énekes születéskori neve?",
+      "answers": [
+        "Alecia Beth Moore",
+        "Mya Marie Harrison",
+        "Ashley Allen Roberts"
+      ],
+      "correct_answer": "Alecia Beth Moore"
+    },
+    {
+      "question": "Ki nem Zámbó Jimmy testvére?",
+      "answers": [
+        "József",
+        "Árpád",
+        "Marietta"
+      ],
+      "correct_answer": "József"
+    }
+  ]
+}

@@ -1,0 +1,1643 @@
+{
+    "theme": "Ünnepek",
+    "questions": [
+        {
+            "question": "Mikor van Sándor névnap?",
+            "answers": [
+                "március 18",
+                "március 21",
+                "március 26"
+            ],
+            "correct_answer": "március 18"
+        },
+        {
+            "question": "Mikor van Katalin névnap?",
+            "answers": [
+                "november 25-én",
+                "november 22-én",
+                "október 4-én"
+            ],
+            "correct_answer": "november 25-én"
+        },
+        {
+            "question": "Mikor van az Államalapítás ünnepe?",
+            "answers": [
+                "augusztus 20-án",
+                "május 1-én",
+                "október 23-án"
+            ],
+            "correct_answer": "augusztus 20-án"
+        },
+        {
+            "question": "Mikor van Gábor névnap?",
+            "answers": [
+                "március 24",
+                "március 11",
+                "október 22"
+            ],
+            "correct_answer": "március 24"
+        },
+        {
+            "question": "Mikor van Adrienn névnap?",
+            "answers": [
+                "október 21-én",
+                "szeptember 15-én",
+                "szeptember 8-án"
+            ],
+            "correct_answer": "szeptember 8-án"
+        },
+        {
+            "question": "Mikor van József névnap?",
+            "answers": [
+                "március 4-én",
+                "április 13-án",
+                "március 19-én"
+            ],
+            "correct_answer": "március 19-én"
+        },
+        {
+            "question": "Mikor van a Béke világnapja?",
+            "answers": [
+                "január 1-én",
+                "január 21-én",
+                "március 15-én"
+            ],
+            "correct_answer": "január 1-én"
+        },
+        {
+            "question": "Mikor van Róbert névnap?",
+            "answers": [
+                "május 21-én",
+                "június 7-én",
+                "április 18-án"
+            ],
+            "correct_answer": "június 7-én"
+        },
+        {
+            "question": "Mikor van Anna névnap?",
+            "answers": [
+                "július 26-án",
+                "július 12-én",
+                "július 18-án"
+            ],
+            "correct_answer": "július 26-án"
+        },
+        {
+            "question": "Új-Zélandon mikor ünneplik a munka ünnepét?",
+            "answers": [
+                "október 4-én",
+                "május 1-én",
+                "november 18-án"
+            ],
+            "correct_answer": "október 4-én"
+        },
+        {
+            "question": "Mikor van Lajos névnap?",
+            "answers": [
+                "július 19-én",
+                "augusztus 25-én",
+                "november 22-én"
+            ],
+            "correct_answer": "augusztus 25-én"
+        },
+        {
+            "question": "Milyen névnap van augusztus 20-án?",
+            "answers": [
+                "István",
+                "József",
+                "János"
+            ],
+            "correct_answer": "István"
+        },
+        {
+            "question": "Melyik királyunk emlékünnepe augusztus 20-a?",
+            "answers": [
+                "Szent István",
+                "Mátyás",
+                "IV. Béla"
+            ],
+            "correct_answer": "Szent István"
+        },
+        {
+            "question": "Minek az ünnepe még augusztus 20-a?",
+            "answers": [
+                "zene",
+                "környezetvédelem",
+                "új kenyér"
+            ],
+            "correct_answer": "új kenyér"
+        },
+        {
+            "question": "Mit szokott lenni városszerte augusztus 20-án?",
+            "answers": [
+                "felvonulás",
+                "tüzijáték",
+                "faültetés"
+            ],
+            "correct_answer": "tüzijáték"
+        },
+        {
+            "question": "Milyen névnap van október 4-én?",
+            "answers": [
+                "Ferenc",
+                "Aurél",
+                "Gábor"
+            ],
+            "correct_answer": "Ferenc"
+        },
+        {
+            "question": "Mikor van az állatok világnapja?",
+            "answers": [
+                "október 4-én",
+                "március 15-én",
+                "augusztus 16-án"
+            ],
+            "correct_answer": "október 4-én"
+        },
+        {
+            "question": "Mit ünneplünk október 23-án?",
+            "answers": [
+                "Magyar Köztársaság kikiáltását",
+                "Államalapítást",
+                "Munka ünnepét"
+            ],
+            "correct_answer": "Magyar Köztársaság kikiáltását"
+        },
+        {
+            "question": "Milyen névnap van október 23-án?",
+            "answers": [
+                "Gyöngyi",
+                "György",
+                "Gyula"
+            ],
+            "correct_answer": "Gyöngyi"
+        },
+        {
+            "question": "Kiknek a napja van november 1-jén?",
+            "answers": [
+                "mindenszentek",
+                "gyerekek",
+                "tűzoltók"
+            ],
+            "correct_answer": "mindenszentek"
+        },
+        {
+            "question": "Milyen névnap van november 1-én?",
+            "answers": [
+                "Marianna",
+                "Mária",
+                "Mónika"
+            ],
+            "correct_answer": "Marianna"
+        },
+        {
+            "question": "Mi a halloween szó jelentése magyarul?",
+            "answers": [
+                "szent ember",
+                "démonok harca",
+                "boszorkányok üldözése"
+            ],
+            "correct_answer": "szent ember"
+        },
+        {
+            "question": "Milyen országokban tartották eredetileg a halloweent?",
+            "answers": [
+                "angolszász",
+                "skandináv",
+                "ázsiai"
+            ],
+            "correct_answer": "angolszász"
+        },
+        {
+            "question": "Mikor van halottak napja?",
+            "answers": [
+                "november 2-án",
+                "november 1-én",
+                "október 31-én"
+            ],
+            "correct_answer": "november 2-án"
+        },
+        {
+            "question": "Minek a napja van november 3-án?",
+            "answers": [
+                "a magyar tudomány",
+                "a költészet",
+                "a televízió"
+            ],
+            "correct_answer": "a magyar tudomány"
+        },
+        {
+            "question": "Milyen névnap van november 7-én?",
+            "answers": [
+                "Rezső",
+                "Géza",
+                "Nimród"
+            ],
+            "correct_answer": "Rezső"
+        },
+        {
+            "question": "Melyik magyar zeneszerző született november 7-én?",
+            "answers": [
+                "Erkel Ferenc",
+                "Liszt Ferenc",
+                "Kodály Zoltán"
+            ],
+            "correct_answer": "Erkel Ferenc"
+        },
+        {
+            "question": "Mi a Róbert keresztnév jelentése?",
+            "answers": [
+                "fényes hírnév",
+                "vakmerő hős",
+                "erős fejedelem"
+            ],
+            "correct_answer": "fényes hírnév"
+        },
+        {
+            "question": "Minek van a világnapja november 14-én?",
+            "answers": [
+                "cukorbetegség",
+                "látás",
+                "csontritkulás"
+            ],
+            "correct_answer": "cukorbetegség"
+        },
+        {
+            "question": "Minek a napja van november 16-án?",
+            "answers": [
+                "tolerancia",
+                "család",
+                "költészet"
+            ],
+            "correct_answer": "tolerancia"
+        },
+        {
+            "question": "Milyen névnap van november 18-án?",
+            "answers": [
+                "Jenő",
+                "Dezső",
+                "Vilmos"
+            ],
+            "correct_answer": "Jenő"
+        },
+        {
+            "question": "Mikor van Erzsébet névnap?",
+            "answers": [
+                "november 19-én",
+                "november 26-án",
+                "december 14-én"
+            ],
+            "correct_answer": "november 19-én"
+        },
+        {
+            "question": "Minek a napja van november 21-én?",
+            "answers": [
+                "televíziózás",
+                "rádiózás",
+                "zene"
+            ],
+            "correct_answer": "televíziózás"
+        },
+        {
+            "question": "Minek a napja van november 22-én?",
+            "answers": [
+                "a magyar közoktatás",
+                "a magyar kultúra",
+                "a magyar véradók"
+            ],
+            "correct_answer": "a magyar közoktatás"
+        },
+        {
+            "question": "Milyen névnap van november 25-én?",
+            "answers": [
+                "Katalin",
+                "Rozália",
+                "Borbála"
+            ],
+            "correct_answer": "Katalin"
+        },
+        {
+            "question": "Mit jelent az advent szó?",
+            "answers": [
+                "eljövetel",
+                "várakozás",
+                "betlehemezés"
+            ],
+            "correct_answer": "eljövetel"
+        },
+        {
+            "question": "Milyen névnap van november 30-án?",
+            "answers": [
+                "András",
+                "Ferenc",
+                "Antal"
+            ],
+            "correct_answer": "András"
+        },
+        {
+            "question": "Minek a világnapja van december 2-án?",
+            "answers": [
+                "a rabszolgaság megszüntetésének",
+                "a fogyatékos emberek",
+                "az emberi jogok"
+            ],
+            "correct_answer": "a rabszolgaság megszüntetésének"
+        },
+        {
+            "question": "Meddig tart az Advent időszak?",
+            "answers": [
+                "Karácsonyig",
+                "Újévig",
+                "Húsvétig"
+            ],
+            "correct_answer": "Karácsonyig"
+        },
+        {
+            "question": "Ki volt Jézus édesanyja?",
+            "answers": [
+                "Szűz Mária",
+                "Szűz Anna",
+                "Szűz Borbála"
+            ],
+            "correct_answer": "Szűz Mária"
+        },
+        {
+            "question": "Kiknek a napja van december 5-én?",
+            "answers": [
+                "az önkéntesek",
+                "a bányászok",
+                "a zenészek"
+            ],
+            "correct_answer": "az önkéntesek"
+        },
+        {
+            "question": "Milyen névnap van december 6-án?",
+            "answers": [
+                "Miklós",
+                "Sándor",
+                "István"
+            ],
+            "correct_answer": "Miklós"
+        },
+        {
+            "question": "Hol él a Mikulás?",
+            "answers": [
+                "Lappföldön",
+                "Grönlandon",
+                "Mexikóban"
+            ],
+            "correct_answer": "Lappföldön"
+        },
+        {
+            "question": "Mi a neve a finn Mikulásnak?",
+            "answers": [
+                "Joulupukki",
+                "Santa Claus",
+                "Nikolaus"
+            ],
+            "correct_answer": "Joulupukki"
+        },
+        {
+            "question": "Melyik országban hívják a Mikulást, Black Peternek?",
+            "answers": [
+                "Marokkóban",
+                "Olaszországban",
+                "Lengyelországban"
+            ],
+            "correct_answer": "Marokkóban"
+        },
+        {
+            "question": "Mi a neve a Mikulás gonosz kísérőjének?",
+            "answers": [
+                "Krampusz",
+                "Rudolf",
+                "Kerge"
+            ],
+            "correct_answer": "Krampusz"
+        },
+        {
+            "question": "Hány rénszarvas húzza a Mikulás szánját?",
+            "answers": [
+                "9",
+                "6",
+                "12"
+            ],
+            "correct_answer": "9"
+        },
+        {
+            "question": "Melyik városunk védőszentje Szent Miklós?",
+            "answers": [
+                "Kecskemét",
+                "Szeged",
+                "Szekszárd"
+            ],
+            "correct_answer": "Kecskemét"
+        },
+        {
+            "question": "Mikor kezdtek csokoládé-Mikulásokat gyártani Magyarországon?",
+            "answers": [
+                "1934-ben",
+                "1967-ben",
+                "1878-ban"
+            ],
+            "correct_answer": "1934-ben"
+        },
+        {
+            "question": "Melyik országban van a függetlenség napja december 6-án?",
+            "answers": [
+                "Finnországban",
+                "Svédországban",
+                "Norvégiában"
+            ],
+            "correct_answer": "Finnországban"
+        },
+        {
+            "question": "Milyen származású a Mikulás szó?",
+            "answers": [
+                "cseh",
+                "német",
+                "orosz"
+            ],
+            "correct_answer": "cseh"
+        },
+        {
+            "question": "Milyen névnap van december 10-én?",
+            "answers": [
+                "Judit",
+                "Emőke",
+                "Edit"
+            ],
+            "correct_answer": "Judit"
+        },
+        {
+            "question": "Minek a világnapja van december 10-én?",
+            "answers": [
+                "az emberi jogok",
+                "a balkezesek",
+                "a magyar véradók"
+            ],
+            "correct_answer": "az emberi jogok"
+        },
+        {
+            "question": "Milyen bútort készítenek december 13-án a hagyomány szerint?",
+            "answers": [
+                "Luca-széket",
+                "Luca-asztalt",
+                "Luca-ágyat"
+            ],
+            "correct_answer": "Luca-széket"
+        },
+        {
+            "question": "Melyik magyar énekesnő született december 14-én?",
+            "answers": [
+                "Zalatnay Sarolta",
+                "Kovács Kati",
+                "Rúzsa Magdolna"
+            ],
+            "correct_answer": "Zalatnay Sarolta"
+        },
+        {
+            "question": "Melyik énekes nem dec. 16-án született?",
+            "answers": [
+                "Kovács Ákos",
+                "Szikora Róbert",
+                "Puskás Péter"
+            ],
+            "correct_answer": "Kovács Ákos"
+        },
+        {
+            "question": "Melyik magyar énekesnő ünnepli december 17-én a szülinapját?",
+            "answers": [
+                "Szinetár Dóra",
+                "Kozma Orsi",
+                "Zséda"
+            ],
+            "correct_answer": "Szinetár Dóra"
+        },
+        {
+            "question": "Milyen névnap van december 21-én?",
+            "answers": [
+                "Tamás",
+                "Zsolt",
+                "Béla"
+            ],
+            "correct_answer": "Tamás"
+        },
+        {
+            "question": "Milyen ünnep van december 22-én Indonéziában?",
+            "answers": [
+                "Anyák napja",
+                "Nőnap",
+                "Gyereknap"
+            ],
+            "correct_answer": "Anyák napja"
+        },
+        {
+            "question": "Mikor van Viktória névnap?",
+            "answers": [
+                "december 23-án",
+                "december 24-én",
+                "december 27-én"
+            ],
+            "correct_answer": "december 23-án"
+        },
+        {
+            "question": "Mit ünnepelünk Karácsonykor?",
+            "answers": [
+                "Jézus Krisztus születését",
+                "Jézus Krisztus feltámadását",
+                "Szűz Mária születését"
+            ],
+            "correct_answer": "Jézus Krisztus születését"
+        },
+        {
+            "question": "Melyik országban diszítettek fel először karácsonyfát?",
+            "answers": [
+                "Németországban",
+                "Dániában",
+                "Franciaországban"
+            ],
+            "correct_answer": "Németországban"
+        },
+        {
+            "question": "A magyar hagyomány szerint mikor állítjuk fel a karácsonyfát?",
+            "answers": [
+                "december 24-én",
+                "december 8-án",
+                "december 26-án"
+            ],
+            "correct_answer": "december 24-én"
+        },
+        {
+            "question": "Hol született Jézus a Biblia szerint?",
+            "answers": [
+                "istállóban",
+                "kamrában",
+                "konyhában"
+            ],
+            "correct_answer": "istállóban"
+        },
+        {
+            "question": "Melyik ételt nem esszük Karácsonykor?",
+            "answers": [
+                "paprikás krumpli",
+                "halászlé",
+                "mákos guba"
+            ],
+            "correct_answer": "paprikás krumpli"
+        },
+        {
+            "question": "Az Egyesült Királyságban melyik hónapban kezdődik meg a karácsonyi készülődés?",
+            "answers": [
+                "októberben",
+                "novemberben",
+                "szeptemberben"
+            ],
+            "correct_answer": "októberben"
+        },
+        {
+            "question": "Mi a nevük a napkeleti bölcseknek?",
+            "answers": [
+                "Gáspár, Menyhért, Boldizsár",
+                "Sándor, József, Benedek",
+                "Pongrác, Szervác, Bonifác"
+            ],
+            "correct_answer": "Gáspár, Menyhért, Boldizsár"
+        },
+        {
+            "question": "Milyen eredetű a karácsony szó?",
+            "answers": [
+                "szláv",
+                "görög",
+                "latin"
+            ],
+            "correct_answer": "szláv"
+        },
+        {
+            "question": "Milyen ünnep alkalmával kerül halászlé az asztalra?",
+            "answers": [
+                "Karácsony",
+                "Szilveszter",
+                "Húsvét"
+            ],
+            "correct_answer": "Karácsony"
+        },
+        {
+            "question": "Ki állított fel először karácsonyfát Magyarországon?",
+            "answers": [
+                "Brunszvik Teréz",
+                "Kossuth Zsuzsanna",
+                "Teleki Blanka"
+            ],
+            "correct_answer": "Brunszvik Teréz"
+        },
+        {
+            "question": "Melyik apostol ünnepe van december 27-én?",
+            "answers": [
+                "Szent János",
+                "Szent Péter",
+                "Szent Jakab"
+            ],
+            "correct_answer": "Szent János"
+        },
+        {
+            "question": "Minek az emléknapja van december 28-án?",
+            "answers": [
+                "aprószentek",
+                "a trianoni békeszerződés",
+                "az 1956-os forradalom mártírjainak"
+            ],
+            "correct_answer": "aprószentek"
+        },
+        {
+            "question": "Kik ünneplik december 30-án a névnapjukat?",
+            "answers": [
+                "Dávidok",
+                "Jánosok",
+                "Istvánok"
+            ],
+            "correct_answer": "Dávidok"
+        },
+        {
+            "question": "December 30-án minek a napja van Madakaszkáron?",
+            "answers": [
+                "köztársaság",
+                "házasság",
+                "víz"
+            ],
+            "correct_answer": "köztársaság"
+        },
+        {
+            "question": "Melyik pápa emléknapja december 31-e?",
+            "answers": [
+                "Szent I. Szilveszter",
+                "Szent Márk",
+                "Szent Libériusz"
+            ],
+            "correct_answer": "Szent I. Szilveszter"
+        },
+        {
+            "question": "Minek a világnapja van január 1-én?",
+            "answers": [
+                "béke",
+                "betegek",
+                "házasság"
+            ],
+            "correct_answer": "béke"
+        },
+        {
+            "question": "Mi újév napjának népies neve?",
+            "answers": [
+                "kiskarácsony",
+                "nagykarácsony",
+                "kisszilveszter"
+            ],
+            "correct_answer": "kiskarácsony"
+        },
+        {
+            "question": "Melyik híres költőnk született január 1-én?",
+            "answers": [
+                "Petőfi Sándor",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Petőfi Sándor"
+        },
+        {
+            "question": "Az újévi jóslás szerint ha olvadni kezd, mi terem sok?",
+            "answers": [
+                "bor",
+                "búza",
+                "bab"
+            ],
+            "correct_answer": "bor"
+        },
+        {
+            "question": "Minek a napja van december 6-án?",
+            "answers": [
+                "vízkereszt",
+                "költészet",
+                "madarak"
+            ],
+            "correct_answer": "vízkereszt"
+        },
+        {
+            "question": "Minek a kezdete Vízkereszt?",
+            "answers": [
+                "farsang",
+                "húsvét",
+                "karácsony"
+            ],
+            "correct_answer": "farsang"
+        },
+        {
+            "question": "Milyen névnap van január 7-én?",
+            "answers": [
+                "Attila",
+                "Jenő",
+                "Oszkár"
+            ],
+            "correct_answer": "Attila"
+        },
+        {
+            "question": "Melyik magyar énekesnő ünnepli február 15-én a születésnapját?",
+            "answers": [
+                "Zoltán Erika",
+                "Csepregi Éva",
+                "Tóth Gabi"
+            ],
+            "correct_answer": "Zoltán Erika"
+        },
+        {
+            "question": "Hogy nevezik a 30. házassági évfordulót?",
+            "answers": [
+                "gyöngylakodalom",
+                "kristálylakodalom",
+                "rubinlakodalom"
+            ],
+            "correct_answer": "gyöngylakodalom"
+        },
+        {
+            "question": "Milyen névnap van február 24-én?",
+            "answers": [
+                "Mátyás",
+                "Miklós",
+                "Mihály"
+            ],
+            "correct_answer": "Mátyás"
+        },
+        {
+            "question": "Minek a világnapja február második vasárnapja?",
+            "answers": [
+                "házasság",
+                "betegek",
+                "alvás"
+            ],
+            "correct_answer": "házasság"
+        },
+        {
+            "question": "Melyik magyar énekes született március 2-án?",
+            "answers": [
+                "Balázs Fecó",
+                "Demjén Ferenc",
+                "Hevesi Tamás"
+            ],
+            "correct_answer": "Balázs Fecó"
+        },
+        {
+            "question": "Mikor adják át a Kossuth-díjat?",
+            "answers": [
+                "március 15-én",
+                "május 1-én",
+                "október 23-án"
+            ],
+            "correct_answer": "március 15-én"
+        },
+        {
+            "question": "Mi a Regina név jelentése?",
+            "answers": [
+                "királynő",
+                "újjászületik",
+                "tenger leánya"
+            ],
+            "correct_answer": "királynő"
+        },
+        {
+            "question": "Milyen világnap van március 6-án?",
+            "answers": [
+                "Energiatakarékossági világnap",
+                "A víz világnapja",
+                "Az egészség világnapja"
+            ],
+            "correct_answer": "Energiatakarékossági világnap"
+        },
+        {
+            "question": "Melyik magyar énekesnő ünnepli március 7-én a születésnapját?",
+            "answers": [
+                "Koncz Zsuzsa",
+                "Kovács Kati",
+                "Tóth Gabi"
+            ],
+            "correct_answer": "Koncz Zsuzsa"
+        },
+        {
+            "question": "Milyen névnap van március 8-án?",
+            "answers": [
+                "Zoltán",
+                "Gábor",
+                "Kristóf"
+            ],
+            "correct_answer": "Zoltán"
+        },
+        {
+            "question": "Milyen ünnep van március 8-án?",
+            "answers": [
+                "nőnap",
+                "anyák napja",
+                "férfinap"
+            ],
+            "correct_answer": "nőnap"
+        },
+        {
+            "question": "Hogy nevezzük másként március 15-ét?",
+            "answers": [
+                "Március idusa",
+                "A tavasz kezdete",
+                "Márciusi ünnep"
+            ],
+            "correct_answer": "Március idusa"
+        },
+        {
+            "question": "Mit ünnepelnek az írek március 17-én?",
+            "answers": [
+                "Szent Patrik napját",
+                "Anyák napját",
+                "Szent István napját"
+            ],
+            "correct_answer": "Szent Patrik napját"
+        },
+        {
+            "question": "Mi ünnepelnek március 19-én Spanyolországban és Olaszországban?",
+            "answers": [
+                "apák napját",
+                "anyák napját",
+                "gyereknapot"
+            ],
+            "correct_answer": "apák napját"
+        },
+        {
+            "question": "Minek a világnapja van március 20-án?",
+            "answers": [
+                "a boldogság",
+                "az egészség",
+                "a csillagászat"
+            ],
+            "correct_answer": "a boldogság"
+        },
+        {
+            "question": "Minek a világnapja van március 21-én?",
+            "answers": [
+                "költészet",
+                "Föld",
+                "zene"
+            ],
+            "correct_answer": "költészet"
+        },
+        {
+            "question": "Minek a világnapja van március 22-én?",
+            "answers": [
+                "víz",
+                "zene",
+                "csillagászat"
+            ],
+            "correct_answer": "víz"
+        },
+        {
+            "question": "Kik ünneplik névnapjukat március 23-án?",
+            "answers": [
+                "Emőkék",
+                "Enikők",
+                "Emíliák"
+            ],
+            "correct_answer": "Emőkék"
+        },
+        {
+            "question": "Hanyadik házassági évforduló a rózsalakodalom?",
+            "answers": [
+                "10.",
+                "20.",
+                "50."
+            ],
+            "correct_answer": "10."
+        },
+        {
+            "question": "Melyik fejedelem emléknapja van március 27-én?",
+            "answers": [
+                "II. Rákóczi Ferenc",
+                "Thököly Imre",
+                "Bethlen Gábor"
+            ],
+            "correct_answer": "II. Rákóczi Ferenc"
+        },
+        {
+            "question": "Melyik amerikai énekesnő született március 28-án?",
+            "answers": [
+                "Lady Gaga",
+                "Beyonce",
+                "Christina Aguilera"
+            ],
+            "correct_answer": "Lady Gaga"
+        },
+        {
+            "question": "Kiknek a napja április 1-je?",
+            "answers": [
+                "bolondok",
+                "rendőrök",
+                "zenészek"
+            ],
+            "correct_answer": "bolondok"
+        },
+        {
+            "question": "1950-1989 között minek az ünnepe volt április 4-e?",
+            "answers": [
+                "Felszabadulás ünnepe",
+                "Munka ünnepe",
+                "Államalapítás"
+            ],
+            "correct_answer": "Felszabadulás ünnepe"
+        },
+        {
+            "question": "Minek a világnapja van április 7-én?",
+            "answers": [
+                "egészség",
+                "méhek",
+                "csillagászat"
+            ],
+            "correct_answer": "egészség"
+        },
+        {
+            "question": "Milyen névnap van április 10-én?",
+            "answers": [
+                "Zsolt",
+                "Dávid",
+                "Gergő"
+            ],
+            "correct_answer": "Zsolt"
+        },
+        {
+            "question": "Mikor van a magyar költészet napja?",
+            "answers": [
+                "április 11-én",
+                "április 21-én",
+                "április 24-én"
+            ],
+            "correct_answer": "április 11-én"
+        },
+        {
+            "question": "Melyik ünnepet előzi meg a nagypéntek?",
+            "answers": [
+                "Húsvétot",
+                "Karácsonyt",
+                "Államalapítás ünnepét"
+            ],
+            "correct_answer": "Húsvétot"
+        },
+        {
+            "question": "Mi nem lehet annak fogyaszatni aki nagypénteken böjtöl?",
+            "answers": [
+                "húst",
+                "krumplit",
+                "édességet"
+            ],
+            "correct_answer": "húst"
+        },
+        {
+            "question": "Mit ünneplünk Húsvétkor?",
+            "answers": [
+                "Jézus feltámadását",
+                "Jézus születésnapját",
+                "a nyár kezdetét"
+            ],
+            "correct_answer": "Jézus feltámadását"
+        },
+        {
+            "question": "Melyik ételt nem Húsvétkor fogyasztjuk?",
+            "answers": [
+                "beigli",
+                "tojás",
+                "sonka"
+            ],
+            "correct_answer": "beigli"
+        },
+        {
+            "question": "Hány napig tart a Húsvétot megelőző böjt?",
+            "answers": [
+                "negyven",
+                "ötven",
+                "hatvan"
+            ],
+            "correct_answer": "negyven"
+        },
+        {
+            "question": "Hogy nevezzük a Húsvét előtti vasárnapot?",
+            "answers": [
+                "virágvasárnap",
+                "fehérvasárnap",
+                "vidámvasárnap"
+            ],
+            "correct_answer": "virágvasárnap"
+        },
+        {
+            "question": "Honnan ered a húsvéti nyúl jelképe?",
+            "answers": [
+                "Németországból",
+                "Olaszországból",
+                "Svédországból"
+            ],
+            "correct_answer": "Németországból"
+        },
+        {
+            "question": "Mit nem lehetett csinálni Húsvétvasárnap?",
+            "answers": [
+                "dolgozni",
+                "enni",
+                "táncolni"
+            ],
+            "correct_answer": "dolgozni"
+        },
+        {
+            "question": "A pénteki keresztre feszítés után hanyadik napon támadt fel Jézus?",
+            "answers": [
+                "harmadik",
+                "tizedik",
+                "hetedik"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Meddig tart a húsvéti ünnepkör?",
+            "answers": [
+                "pünkösdvasárnapig",
+                "karácsonyig",
+                "mindenszentekig"
+            ],
+            "correct_answer": "pünkösdvasárnapig"
+        },
+        {
+            "question": "Milyen népszokás van Húsvéthétfőn?",
+            "answers": [
+                "locsolkodás",
+                "busójárás",
+                "esőtánc"
+            ],
+            "correct_answer": "locsolkodás"
+        },
+        {
+            "question": "Mit kapnak a fiúk a lányoktól a locsolkodásért?",
+            "answers": [
+                "piros tojást",
+                "cipót",
+                "zöld almát"
+            ],
+            "correct_answer": "piros tojást"
+        },
+        {
+            "question": "Általában mivel locsolkodnak a fiúk?",
+            "answers": [
+                "kölnivízzel",
+                "narancslével",
+                "tejeskávéval"
+            ],
+            "correct_answer": "kölnivízzel"
+        },
+        {
+            "question": "Minek a szimbóluma a tojás piros színe?",
+            "answers": [
+                "Krisztus vérének",
+                "a vidámság",
+                "a tűz"
+            ],
+            "correct_answer": "Krisztus vérének"
+        },
+        {
+            "question": "Kik ünneplik ma a névnapjukat?",
+            "answers": [
+                "Andreák",
+                "Andrások",
+                "Alexandrák"
+            ],
+            "correct_answer": "Andreák"
+        },
+        {
+            "question": "Milyen növény világnapja van április 19-én?",
+            "answers": [
+                "fokhagyma",
+                "lilahagyma",
+                "vöröshagyma"
+            ],
+            "correct_answer": "fokhagyma"
+        },
+        {
+            "question": "Mióta rendezik meg a Riói karnevált?",
+            "answers": [
+                "1928 óta",
+                "1946 óta",
+                "1978 óta"
+            ],
+            "correct_answer": "1928 óta"
+        },
+        {
+            "question": "Minek a napját ünnepeljük ma?",
+            "answers": [
+                "Föld",
+                "Vénusz",
+                "Hold"
+            ],
+            "correct_answer": "Föld"
+        },
+        {
+            "question": "Melyik állatok napja van ma?",
+            "answers": [
+                "méhek",
+                "hangyák",
+                "katicabogarak"
+            ],
+            "correct_answer": "méhek"
+        },
+        {
+            "question": "Minek az ünnepe van május 1-én?",
+            "answers": [
+                "munka",
+                "egészség",
+                "államalapítás"
+            ],
+            "correct_answer": "munka"
+        },
+        {
+            "question": "Melyik országban nem május 1-én tartják a munka ünnepét?",
+            "answers": [
+                "USA-ban",
+                "Spanyolországban",
+                "Brazíliában"
+            ],
+            "correct_answer": "USA-ban"
+        },
+        {
+            "question": "Milyen fát állítanak május 1-én?",
+            "answers": [
+                "májusfát",
+                "nyárfát",
+                "fügefát"
+            ],
+            "correct_answer": "májusfát"
+        },
+        {
+            "question": "Melyik év május 1-én avatták boldoggá II. János Pál pápát?",
+            "answers": [
+                "2011",
+                "2012",
+                "2010"
+            ],
+            "correct_answer": "2011"
+        },
+        {
+            "question": "Minek a napja van május 3-án?",
+            "answers": [
+                "Nap",
+                "Hold",
+                "Föld"
+            ],
+            "correct_answer": "Nap"
+        },
+        {
+            "question": "Melyik sportoló ünnepli május 3-án a születésnapját?",
+            "answers": [
+                "Hosszú Katinka",
+                "Kovács Katalin",
+                "Lipcsei Péter"
+            ],
+            "correct_answer": "Hosszú Katinka"
+        },
+        {
+            "question": "Mikor tartják a film rajongói a Star Wars-napot?",
+            "answers": [
+                "május 4-én",
+                "május 6-án",
+                "május 2-án"
+            ],
+            "correct_answer": "május 4-én"
+        },
+        {
+            "question": "Minek a napja van május 8-án?",
+            "answers": [
+                "Nemzetközi Vöröskereszt",
+                "Mentők",
+                "Európai Unió"
+            ],
+            "correct_answer": "Nemzetközi Vöröskereszt"
+        },
+        {
+            "question": "Melyik város ünnepnapja van május 11-én?",
+            "answers": [
+                "Miskolc",
+                "Debrecen",
+                "Győr"
+            ],
+            "correct_answer": "Miskolc"
+        },
+        {
+            "question": "Kiknek a napja van május 12-én?",
+            "answers": [
+                "ápolók",
+                "tűzoltók",
+                "gyerekek"
+            ],
+            "correct_answer": "ápolók"
+        },
+        {
+            "question": "Milyen fesztivál kezdődik május 12-én Szegeden?",
+            "answers": [
+                "borfesztivál",
+                "sörfesztivál",
+                "Deja Vu Fesztivál"
+            ],
+            "correct_answer": "borfesztivál"
+        },
+        {
+            "question": "Minek a világnapját ünnepeljük május 18-án?",
+            "answers": [
+                "internet",
+                "egészség",
+                "család"
+            ],
+            "correct_answer": "internet"
+        },
+        {
+            "question": "Kik ünneplik május 18-án a névnapjukat?",
+            "answers": [
+                "Alexandrák",
+                "Emíliák",
+                "Andreák"
+            ],
+            "correct_answer": "Alexandrák"
+        },
+        {
+            "question": "Melyik városunk napja van május 21-én?",
+            "answers": [
+                "Szeged",
+                "Győr",
+                "Kaposvár"
+            ],
+            "correct_answer": "Szeged"
+        },
+        {
+            "question": "Kik ünneplik május 22-én a névnapjukat?",
+            "answers": [
+                "Júliák",
+                "Máriák",
+                "Zsuzsannák"
+            ],
+            "correct_answer": "Júliák"
+        },
+        {
+            "question": "Melyik kontinens napja van május 25-én?",
+            "answers": [
+                "Afrika",
+                "Ázsia",
+                "Európa"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Melyik szent ünnepét tartják május 25-én?",
+            "answers": [
+                "Szent Orbán",
+                "Szent János",
+                "Szent György"
+            ],
+            "correct_answer": "Szent Orbán"
+        },
+        {
+            "question": "Melyik híres színészünk született május 26-án?",
+            "answers": [
+                "Gálvölgyi János",
+                "Kulka János",
+                "Körmendi János"
+            ],
+            "correct_answer": "Gálvölgyi János"
+        },
+        {
+            "question": "Mikor van gyermeknap?",
+            "answers": [
+                "május utolsó vasárnapján",
+                "május első vasárnapján",
+                "mindig május 28-án"
+            ],
+            "correct_answer": "május utolsó vasárnapján"
+        },
+        {
+            "question": "Honnan ered a gyereknap megünneplése?",
+            "answers": [
+                "Törökországból",
+                "Németországból",
+                "Amerikából"
+            ],
+            "correct_answer": "Törökországból"
+        },
+        {
+            "question": "Mikor van az Államalapítás ünnepe?",
+            "answers": [
+                "Augusztus 20-án",
+                "Május 1-én",
+                "Október 23-án"
+            ],
+            "correct_answer": "Augusztus 20-án"
+        },
+        {
+            "question": "Melyik napokon kell meggyújtani az adventi gyertyákat?",
+            "answers": [
+                "vasárnaponként",
+                "szombatonként",
+                "szerdánként"
+            ],
+            "correct_answer": "vasárnaponként"
+        },
+        {
+            "question": "Mi a Mikulás neve Németországban?",
+            "answers": [
+                "Nikolaus",
+                "Santa Claus",
+                "Papa Noel"
+            ],
+            "correct_answer": "Nikolaus"
+        },
+        {
+            "question": "Milyen állatok húzzák a Mikulás szánját?",
+            "answers": [
+                "rénszarvasok",
+                "farkasok",
+                "szánhúzó kutyák"
+            ],
+            "correct_answer": "rénszarvasok"
+        },
+        {
+            "question": "Ki a Mikulás segítője?",
+            "answers": [
+                "Krampusz",
+                "Aranyhaj",
+                "Csingiling"
+            ],
+            "correct_answer": "Krampusz"
+        },
+        {
+            "question": "Milyen színű a Mikulás ruhája?",
+            "answers": [
+                "piros",
+                "kék",
+                "zöld"
+            ],
+            "correct_answer": "piros"
+        },
+        {
+            "question": "Hova rakja az ajándékokat a Mikulás?",
+            "answers": [
+                "csizmába",
+                "az ágy alá",
+                "a postaládába"
+            ],
+            "correct_answer": "csizmába"
+        },
+        {
+            "question": "Mi az amit a rossz gyerekek kapnak dec. 6-án?",
+            "answers": [
+                "virgács",
+                "porzsák",
+                "savanyúcukor"
+            ],
+            "correct_answer": "virgács"
+        },
+        {
+            "question": "Hol él a Mikulás?",
+            "answers": [
+                "Lappföldön",
+                "Erdélyben",
+                "Indiában"
+            ],
+            "correct_answer": "Lappföldön"
+        },
+        {
+            "question": "Milyen névnap van december 10-én?",
+            "answers": [
+                "Judit",
+                "Sára",
+                "Magdolna"
+            ],
+            "correct_answer": "Judit"
+        },
+        {
+            "question": "Kik ünneplik december 13-án a névnapjukat?",
+            "answers": [
+                "Lucák",
+                "Hannák",
+                "Emmák"
+            ],
+            "correct_answer": "Lucák"
+        },
+        {
+            "question": "Mit faragtak Luca napján a népszokás szerint?",
+            "answers": [
+                "széket",
+                "ágyat",
+                "tököt"
+            ],
+            "correct_answer": "széket"
+        },
+        {
+            "question": "Hány napig faragták a Luca széket?",
+            "answers": [
+                "13",
+                "31",
+                "26"
+            ],
+            "correct_answer": "13"
+        },
+        {
+            "question": "Melyik szent ünnepnapja van december 13-án?",
+            "answers": [
+                "Szent Lúcia",
+                "Szent Anna",
+                "Szent Miklós"
+            ],
+            "correct_answer": "Szent Lúcia"
+        },
+        {
+            "question": "Milyen névnap van december 21-én?",
+            "answers": [
+                "Tamás",
+                "József",
+                "András"
+            ],
+            "correct_answer": "Tamás"
+        },
+        {
+            "question": "Mit ünneplünk Karácsonykor?",
+            "answers": [
+                "Jézus Krisztus születését",
+                "Jézus Krisztus feltámadását",
+                "Szűz Mária születését"
+            ],
+            "correct_answer": "Jézus Krisztus születését"
+        },
+        {
+            "question": "Milyen ételeket nem eszünk Karácsonykor?",
+            "answers": [
+                "hamburger",
+                "töltött káposzta",
+                "mákos beigli"
+            ],
+            "correct_answer": "hamburger"
+        },
+        {
+            "question": "Mi volt a nevük a napkeleti bölcseknek?",
+            "answers": [
+                "Gáspár, Menyhért, Boldizsár",
+                "Sándor, József, Benedek",
+                "Pongrác, Szervác, Bonifác"
+            ],
+            "correct_answer": "Gáspár, Menyhért, Boldizsár"
+        },
+        {
+            "question": "Melyik népszokás kapcsolódik a Karácsonyhoz?",
+            "answers": [
+                "betlehemezés",
+                "locsolkodás",
+                "esőtánc"
+            ],
+            "correct_answer": "betlehemezés"
+        },
+        {
+            "question": "Milyen cukorral díszítjük a karácsonyfát?",
+            "answers": [
+                "szaloncukorral",
+                "vattacukorral",
+                "gumicukorral"
+            ],
+            "correct_answer": "szaloncukorral"
+        },
+        {
+            "question": "Milyen névnap van december 27-én?",
+            "answers": [
+                "János",
+                "István",
+                "Kristóf"
+            ],
+            "correct_answer": "János"
+        },
+        {
+            "question": "Mit nem szabad enni újévkor?",
+            "answers": [
+                "szárnyast",
+                "disznót",
+                "gyümölcsöt"
+            ],
+            "correct_answer": "szárnyast"
+        },
+        {
+            "question": "Olaszországban mit kell enni éjfélkor?",
+            "answers": [
+                "szőlőszemet",
+                "rizst",
+                "csokoládét"
+            ],
+            "correct_answer": "szőlőszemet"
+        },
+        {
+            "question": "Milyen itallal szoktak koccintani éjfélkor?",
+            "answers": [
+                "pezsgővel",
+                "borral",
+                "narancslével"
+            ],
+            "correct_answer": "pezsgővel"
+        },
+        {
+            "question": "Minek a világnapja van január 1-én?",
+            "answers": [
+                "béke",
+                "alvás",
+                "csillagászat"
+            ],
+            "correct_answer": "béke"
+        },
+        {
+            "question": "Melyik európai fővárosban szokták megtartani az újévi koncertet?",
+            "answers": [
+                "Bécsben",
+                "Madridban",
+                "Párizsban"
+            ],
+            "correct_answer": "Bécsben"
+        },
+        {
+            "question": "Mivel ünneplik az újév napját?",
+            "answers": [
+                "tüzijátékkal",
+                "esőtánccal",
+                "tojásdobálással"
+            ],
+            "correct_answer": "tüzijátékkal"
+        },
+        {
+            "question": "Minek a fogyasztása hoz sok pénzt a házba?",
+            "answers": [
+                "lencse",
+                "paradicsom",
+                "hal"
+            ],
+            "correct_answer": "lencse"
+        },
+        {
+            "question": "Mikor kezdődik a farsang időszaka?",
+            "answers": [
+                "január 6-án",
+                "február 6-án",
+                "január 26-án"
+            ],
+            "correct_answer": "január 6-án"
+        },
+        {
+            "question": "Milyen szokás volt vízkereszt napján?",
+            "answers": [
+                "házszentelés",
+                "regölés",
+                "borszentelés"
+            ],
+            "correct_answer": "házszentelés"
+        },
+        {
+            "question": "Hogy nevezik a 75. házassági évfordulót?",
+            "answers": [
+                "koronaékszer lakodalom",
+                "gyémántlakodalom",
+                "smaragdlakodalom"
+            ],
+            "correct_answer": "koronaékszer lakodalom"
+        },
+        {
+            "question": "Milyen névnap van január 17-én?",
+            "answers": [
+                "Antal",
+                "András",
+                "Árpád"
+            ],
+            "correct_answer": "Antal"
+        },
+        {
+            "question": "Melyik város napja van január 23-án?",
+            "answers": [
+                "Kaposvár",
+                "Győr",
+                "Békéscsaba"
+            ],
+            "correct_answer": "Kaposvár"
+        },
+        {
+            "question": "Minek a napja van február 1-én?",
+            "answers": [
+                "köztársaság",
+                "házasság",
+                "barátság"
+            ],
+            "correct_answer": "köztársaság"
+        },
+        {
+            "question": "Kik ünneplik február 3-án a névnapjukat?",
+            "answers": [
+                "Balázsok",
+                "Kristófok",
+                "Ádámok"
+            ],
+            "correct_answer": "Balázsok"
+        }
+    ]
+}

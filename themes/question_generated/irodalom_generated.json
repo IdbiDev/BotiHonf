@@ -1,0 +1,2228 @@
+{
+    "theme": "Irodalom",
+    "questions": [
+        {
+            "question": "Melyik költő verse a Héja-nász az avaron?",
+            "answers": [
+                "Ady Endre",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Ady Endre"
+        },
+        {
+            "question": "Hány kötetből áll a Harry Potter?",
+            "answers": [
+                "hét",
+                "nyolc",
+                "három"
+            ],
+            "correct_answer": "hét"
+        },
+        {
+            "question": "Hol született Petőfi Sándor?",
+            "answers": [
+                "Kiskőrösön",
+                "Nagykőrösön",
+                "Nagyszalontán"
+            ],
+            "correct_answer": "Kiskőrösön"
+        },
+        {
+            "question": "2002-ben ki kapott irodalmi Nobel-díjat?",
+            "answers": [
+                "Kertész Imre",
+                "Eszterházy Péter",
+                "Spiró György"
+            ],
+            "correct_answer": "Kertész Imre"
+        },
+        {
+            "question": "Mi volt a Harry Potter első kötetének a címe?",
+            "answers": [
+                "Harry Potter és a bölcsek köve",
+                "Harry Potter és a Titkok Kamrája",
+                "Harry Potter és az azkabani fogoly"
+            ],
+            "correct_answer": "Harry Potter és a bölcsek köve"
+        },
+        {
+            "question": "Ki írta a Holt Vidék c. verset?",
+            "answers": [
+                "József Attila",
+                "Ady Endre",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "József Attila"
+        },
+        {
+            "question": "Ki volt Gandalf, A Gyűrűk Ura trilógiában?",
+            "answers": [
+                "mágus",
+                "hobbit",
+                "törp"
+            ],
+            "correct_answer": "mágus"
+        },
+        {
+            "question": "Hány köteltből áll a Twilight (Alkonyat) c. fantasyregény?",
+            "answers": [
+                "4",
+                "3",
+                "2"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Ki a főszereplője a Remény rabjai c. filmnek?",
+            "answers": [
+                "Tim Robbins",
+                "Tom Hanks",
+                "Thomas Jane"
+            ],
+            "correct_answer": "Tim Robbins"
+        },
+        {
+            "question": "Ki írta a A walesi bárdok c. verset?",
+            "answers": [
+                "Arany János",
+                "Ady Endre",
+                "Petőfi Sándor"
+            ],
+            "correct_answer": "Arany János"
+        },
+        {
+            "question": "Ki volt a nagy mesemondó?",
+            "answers": [
+                "Jókai Mór",
+                "Benedek Elek",
+                "Andersen"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Ki írta Az aranyember c. regényt?",
+            "answers": [
+                "Jókai Mór",
+                "Móricz Zsigmond",
+                "Mikszáth Kálmán"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Hogy hívták János Vitézt a mű elején?",
+            "answers": [
+                "Kukorica Jancsi",
+                "Rigó Jancsi",
+                "Macska Jancsi"
+            ],
+            "correct_answer": "Kukorica Jancsi"
+        },
+        {
+            "question": "Ki írta a Vanitatum Vanitas c. verset?",
+            "answers": [
+                "Kölcsey Ferenc",
+                "Ady Endre",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "Kölcsey Ferenc"
+        },
+        {
+            "question": "Hogy hívták Don Quijote lovát?",
+            "answers": [
+                "Rocinante",
+                "Sancho",
+                "Dulcinea"
+            ],
+            "correct_answer": "Rocinante"
+        },
+        {
+            "question": "Ki Harry Potter?",
+            "answers": [
+                "kobold",
+                "mugli",
+                "varázsló"
+            ],
+            "correct_answer": "varázsló"
+        },
+        {
+            "question": "Kinek a regénye az Isten rabjai?",
+            "answers": [
+                "Móra Ferenc",
+                "Jókai Mór",
+                "Gárdonyi Géza"
+            ],
+            "correct_answer": "Gárdonyi Géza"
+        },
+        {
+            "question": "Ki volt Esterházy Péter az író, édesapja?",
+            "answers": [
+                "gróf Esterházy Mátyás",
+                "gróf Esterházy Móric",
+                "gróf Esterházy Miklós"
+            ],
+            "correct_answer": "gróf Esterházy Mátyás"
+        },
+        {
+            "question": "Kinek a műve a Háry János?",
+            "answers": [
+                "Bartók Béla",
+                "Kodály Zoltán",
+                "Liszt Ferenc"
+            ],
+            "correct_answer": "Kodály Zoltán"
+        },
+        {
+            "question": "Milyen fajtájú kutya volt Niki, Déry Tibor kisregényében?",
+            "answers": [
+                "tacskó",
+                "kuvasz",
+                "beagle"
+            ],
+            "correct_answer": "tacskó"
+        },
+        {
+            "question": "Ki írta az Énekek éneke c. verset?",
+            "answers": [
+                "Csokonai Vizéz Mihály",
+                "Kosztolányi Dezső",
+                "Balassi Bálint"
+            ],
+            "correct_answer": "Kosztolányi Dezső"
+        },
+        {
+            "question": "Kinek a műveiben szerepel Fülig Jimmy?",
+            "answers": [
+                "Csáth Géza",
+                "Karinthy Frigyes",
+                "Rejtő Jenő"
+            ],
+            "correct_answer": "Rejtő Jenő"
+        },
+        {
+            "question": "Ki volt Ady Endre házastársa?",
+            "answers": [
+                "Boncza Berta",
+                "Ercsey Julianna",
+                "Brüll Adél"
+            ],
+            "correct_answer": "Boncza Berta"
+        },
+        {
+            "question": "Kinek a regénye Az öreg halász és a tenger?",
+            "answers": [
+                "Jack London",
+                "Ernest Hemingway",
+                "William Faulkner"
+            ],
+            "correct_answer": "Ernest Hemingway"
+        },
+        {
+            "question": "Melyik nem a három nővér egyike Csehov drámájában?",
+            "answers": [
+                "Natasa",
+                "Irina",
+                "Olga"
+            ],
+            "correct_answer": "Natasa"
+        },
+        {
+            "question": "Mi a műfaja Szophoklész művének, az Antigonénak?",
+            "answers": [
+                "ballada",
+                "tragédia",
+                "regény"
+            ],
+            "correct_answer": "tragédia"
+        },
+        {
+            "question": "Melyk író álneve volt a P.Howard?",
+            "answers": [
+                "Rejtő Jenő",
+                "Kosztolányi Dezső",
+                "Bródy Sándor"
+            ],
+            "correct_answer": "Rejtő Jenő"
+        },
+        {
+            "question": "Milyen jelzővel illették Romhányi József írót?",
+            "answers": [
+                "a hóhányó",
+                "a rímhányó",
+                "a ritmushányó"
+            ],
+            "correct_answer": "a rímhányó"
+        },
+        {
+            "question": "Melyik olasz városba játszódik a Rómeó és Júlia?",
+            "answers": [
+                "Veronában",
+                "Firenzében",
+                "Palermoban"
+            ],
+            "correct_answer": "Veronában"
+        },
+        {
+            "question": "Melyik stílus legnagyobb alakja volt Vörösmarty Mihály?",
+            "answers": [
+                "reneszánsz",
+                "realizmus",
+                "romantika"
+            ],
+            "correct_answer": "romantika"
+        },
+        {
+            "question": "Ki írta a Tartozkodó kérelem c. verset?",
+            "answers": [
+                "Csokonai Vitéz Mihály",
+                "Babits Mihály",
+                "Vajda János"
+            ],
+            "correct_answer": "Csokonai Vitéz Mihály"
+        },
+        {
+            "question": "Milyen nemzetiségű regény A kis herceg?",
+            "answers": [
+                "francia",
+                "olasz",
+                "spanyol"
+            ],
+            "correct_answer": "francia"
+        },
+        {
+            "question": "Kinek a műve a Liliomfi?",
+            "answers": [
+                "Szigligeti Ede",
+                "Örkény István",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Szigligeti Ede"
+        },
+        {
+            "question": "Kinek a regénye A gólyakalifa?",
+            "answers": [
+                "Babits Mihály",
+                "Csokonai Vitéz Mihály",
+                "Fazekas Mihály"
+            ],
+            "correct_answer": "Babits Mihály"
+        },
+        {
+            "question": "Hányszoros Kossuth-díjas Illyés Gyula?",
+            "answers": [
+                "háromszoros",
+                "kétszeres",
+                "ötszörös"
+            ],
+            "correct_answer": "háromszoros"
+        },
+        {
+            "question": "Hol született Jókai Mór?",
+            "answers": [
+                "Komáromban",
+                "Pozsonyban",
+                "Kassán"
+            ],
+            "correct_answer": "Komáromban"
+        },
+        {
+            "question": "Melyik költőnk volt szegedi?",
+            "answers": [
+                "Juhász Gyula",
+                "József Attila",
+                "Illyés Gyula"
+            ],
+            "correct_answer": "Juhász Gyula"
+        },
+        {
+            "question": "Kinek a regénye A Da Vinci-kód?",
+            "answers": [
+                "Dan Brown",
+                "Mary Higgins Clark",
+                "James Fenimore Cooper"
+            ],
+            "correct_answer": "Dan Brown"
+        },
+        {
+            "question": "Melyik írónk volt bridzsversenyző?",
+            "answers": [
+                "Ottlik Géza",
+                "Kosztolányi Dezső",
+                "Illyés Gyula"
+            ],
+            "correct_answer": "Ottlik Géza"
+        },
+        {
+            "question": "Melyik nem William Shakespeare műve?",
+            "answers": [
+                "Doctor Faustus",
+                "Szentivánéji álom",
+                "A makrancos hölgy"
+            ],
+            "correct_answer": "Doctor Faustus"
+        },
+        {
+            "question": "Ki Hamlet, Shakespeare tragédiájában?",
+            "answers": [
+                "dán királyfi",
+                "svéd királyfi",
+                "osztrák császár"
+            ],
+            "correct_answer": "dán királyfi"
+        },
+        {
+            "question": "Ki írta a Toldit?",
+            "answers": [
+                "Arany János",
+                "Petőfi Sándor",
+                "József Attila"
+            ],
+            "correct_answer": "Arany János"
+        },
+        {
+            "question": "Kinek a műve A kaukázusi krétakör?",
+            "answers": [
+                "Bertolt Brecht",
+                "George Bernard Shaw",
+                "Federico García Lorca"
+            ],
+            "correct_answer": "Bertolt Brecht"
+        },
+        {
+            "question": "Melyik nem Gorkij drámája?",
+            "answers": [
+                "Candida",
+                "Kispolgárok",
+                "Éjjeli menedékhely"
+            ],
+            "correct_answer": "Candida"
+        },
+        {
+            "question": "Milyen nemzetiségű volt George Bernard Shaw?",
+            "answers": [
+                "ír",
+                "norvég",
+                "dán"
+            ],
+            "correct_answer": "ír"
+        },
+        {
+            "question": "Milyen állat Vuk, Fekete István regényében?",
+            "answers": [
+                "róka",
+                "farkas",
+                "nyúl"
+            ],
+            "correct_answer": "róka"
+        },
+        {
+            "question": "Kinek a műve a Nemo kapitány?",
+            "answers": [
+                "Jules Verne",
+                "Emile Zola",
+                "Honore de Balzac"
+            ],
+            "correct_answer": "Jules Verne"
+        },
+        {
+            "question": "Ki írta A kőszívű ember fiai c. regényt?",
+            "answers": [
+                "Jókai Mór",
+                "Gárdonyi Géza",
+                "Fekete István"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Ki írta a Himnuszt?",
+            "answers": [
+                "Kölcsey Ferenc",
+                "Radnóti Miklós",
+                "Petőfi Sándor"
+            ],
+            "correct_answer": "Kölcsey Ferenc"
+        },
+        {
+            "question": "Ki zenésítette meg a Szózatot?",
+            "answers": [
+                "Egressy Béni",
+                "Erkel Ferenc",
+                "Liszt Ferenc"
+            ],
+            "correct_answer": "Egressy Béni"
+        },
+        {
+            "question": "Milyen sportot űzött Erkel Ferenc?",
+            "answers": [
+                "sakkozott",
+                "teniszezett",
+                "úszott"
+            ],
+            "correct_answer": "sakkozott"
+        },
+        {
+            "question": "Melyik királyról nem írt drámát William Shakespeare?",
+            "answers": [
+                "VII. Henrik",
+                "III. Richárd",
+                "IV. Henrik"
+            ],
+            "correct_answer": "VII. Henrik"
+        },
+        {
+            "question": "Hol játszódik a Szentivánéji álom, Shakespeare vígjátéka?",
+            "answers": [
+                "Athénban",
+                "Rodoszon",
+                "Krétán"
+            ],
+            "correct_answer": "Athénban"
+        },
+        {
+            "question": "Mi volt a foglalkozása az íráson kívül Örkény Istvánnak?",
+            "answers": [
+                "gyógyszerész",
+                "orvos",
+                "ügyvéd"
+            ],
+            "correct_answer": "gyógyszerész"
+        },
+        {
+            "question": "Hogy hívták Harry édesapját a Harry Potter c. regénysorozatban?",
+            "answers": [
+                "James Potter",
+                "Ronald Potter",
+                "George Potter"
+            ],
+            "correct_answer": "James Potter"
+        },
+        {
+            "question": "Milyen mágus Sirius Black, Harry keresztapja?",
+            "answers": [
+                "animágus",
+                "metamorfmágus",
+                "trimágus"
+            ],
+            "correct_answer": "animágus"
+        },
+        {
+            "question": "Ki írta az Abigél c. regényt?",
+            "answers": [
+                "Szabó Magda",
+                "Kertész Imre",
+                "Móra Ferenc"
+            ],
+            "correct_answer": "Szabó Magda"
+        },
+        {
+            "question": "Melyik író Kosztolányi Dezső unokatesvére?",
+            "answers": [
+                "Csáth Géza",
+                "Balázs Béla",
+                "Zelk Zoltán"
+            ],
+            "correct_answer": "Csáth Géza"
+        },
+        {
+            "question": "Mi Csáth Géza eredeti neve?",
+            "answers": [
+                "Brenner József",
+                "Boros József",
+                "Csáth Béla"
+            ],
+            "correct_answer": "Brenner József"
+        },
+        {
+            "question": "Mikor alakult a Kisfaludy Társaság?",
+            "answers": [
+                "1836-ban",
+                "1876-ban",
+                "1943-ban"
+            ],
+            "correct_answer": "1836-ban"
+        },
+        {
+            "question": "Milyen Nobel-díjat kapott az idén Bob Dylan?",
+            "answers": [
+                "irodalmi",
+                "orvosi",
+                "kémiai"
+            ],
+            "correct_answer": "irodalmi"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Alfred Nobel?",
+            "answers": [
+                "svéd",
+                "dán",
+                "norvég"
+            ],
+            "correct_answer": "svéd"
+        },
+        {
+            "question": "Kik kapják a Pulitzer-díjat?",
+            "answers": [
+                "újságírók",
+                "színészek",
+                "énekesek"
+            ],
+            "correct_answer": "újságírók"
+        },
+        {
+            "question": "Hol született Paulo Coelho, író?",
+            "answers": [
+                "Rio de Janeiroban",
+                "Athénban",
+                "Salvadorban"
+            ],
+            "correct_answer": "Rio de Janeiroban"
+        },
+        {
+            "question": "Ki Dumbledore a Harry Potter c. regényben?",
+            "answers": [
+                "professzor",
+                "gonosz varázsló",
+                "Harry keresztapja"
+            ],
+            "correct_answer": "professzor"
+        },
+        {
+            "question": "Mi a neve Harry barátnőjének a Harry Potterben?",
+            "answers": [
+                "Ginny",
+                "Hermione",
+                "Marge"
+            ],
+            "correct_answer": "Ginny"
+        },
+        {
+            "question": "Kinek a műve \"A funtineli boszorkány\"?",
+            "answers": [
+                "Wass Albert",
+                "Kosztolányi Dezső",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Wass Albert"
+        },
+        {
+            "question": "Kinek a műve az Egyperces novellák?",
+            "answers": [
+                "Örkény István",
+                "Kosztolányi Dezső",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "Örkény István"
+        },
+        {
+            "question": "Melyik király léptet fakó lován Arany balladájában?",
+            "answers": [
+                "Edward király",
+                "Edgár király",
+                "Richárd király"
+            ],
+            "correct_answer": "Edward király"
+        },
+        {
+            "question": "Hol halt meg Wass Albert, erdélyi magyar író?",
+            "answers": [
+                "Floridában",
+                "Londonban",
+                "Hamburgban"
+            ],
+            "correct_answer": "Floridában"
+        },
+        {
+            "question": "Kinek a műve a Pál utcai fiúk c. regény?",
+            "answers": [
+                "Molnár Ferenc",
+                "Jókai Mór",
+                "Tolnai Lajos"
+            ],
+            "correct_answer": "Molnár Ferenc"
+        },
+        {
+            "question": "Ki írta az Abigélt?",
+            "answers": [
+                "Szabó Magda",
+                "Bálint Ágnes",
+                "Szepes Mária"
+            ],
+            "correct_answer": "Szabó Magda"
+        },
+        {
+            "question": "Ki nem kapott Nobel-békedíjat?",
+            "answers": [
+                "Mahátma Gandhi",
+                "Albert Schweitzer",
+                "Theodore Roosevelt"
+            ],
+            "correct_answer": "Mahátma Gandhi"
+        },
+        {
+            "question": "Ki Gina osztályfőnöke az Abigél c. regényben?",
+            "answers": [
+                "Kalmár Péter",
+                "Torma Gedeon",
+                "Kőnig"
+            ],
+            "correct_answer": "Kalmár Péter"
+        },
+        {
+            "question": "Ki a főszereplője a Légy jó mindhalálig c. regénynek?",
+            "answers": [
+                "Nyilas Misi",
+                "Nyulas Misi",
+                "Nyilas Miki"
+            ],
+            "correct_answer": "Nyilas Misi"
+        },
+        {
+            "question": "Melyik nem Jules Verne műve?",
+            "answers": [
+                "A nyomorultak",
+                "Kétévi vakáció",
+                "Nemo kapitány"
+            ],
+            "correct_answer": "A nyomorultak"
+        },
+        {
+            "question": "Melyik országban játszódik \"A nyomorultak\" c. regény cselekménye?",
+            "answers": [
+                "Franciaországban",
+                "Olaszországban",
+                "Svédországban"
+            ],
+            "correct_answer": "Franciaországban"
+        },
+        {
+            "question": "Ki volt Gombaszögi Ella?",
+            "answers": [
+                "színésznő",
+                "énekesnő",
+                "politikus"
+            ],
+            "correct_answer": "színésznő"
+        },
+        {
+            "question": "Melyik kontinens legdélebbi pontja a Horn-fok?",
+            "answers": [
+                "Amerika",
+                "Afrika",
+                "Ázsia"
+            ],
+            "correct_answer": "Amerika"
+        },
+        {
+            "question": "Melyik író alkotása a Beszterce ostroma c. regény?",
+            "answers": [
+                "Mikszáth Kálmán",
+                "Móricz Zsigmond",
+                "Jókai Mór"
+            ],
+            "correct_answer": "Mikszáth Kálmán"
+        },
+        {
+            "question": "Kinek a műve az Anna Karenina?",
+            "answers": [
+                "Lev Nyikolajevics Tolsztoj",
+                "Makszim Gorkij",
+                "Anton Pavlovics Csehov"
+            ],
+            "correct_answer": "Lev Nyikolajevics Tolsztoj"
+        },
+        {
+            "question": "Melyik regényben szerepel Öreg Názó?",
+            "answers": [
+                "Légy jó mindhalálig",
+                "Egri csillagok",
+                "Beszterce ostroma"
+            ],
+            "correct_answer": "Légy jó mindhalálig"
+        },
+        {
+            "question": "Mi a neve az internátusnak az Abigél c. regényben?",
+            "answers": [
+                "Matula",
+                "Torma",
+                "Kukorica"
+            ],
+            "correct_answer": "Matula"
+        },
+        {
+            "question": "Kinek olvas fel Nyilas Misi a Légy jó mindhalálig c. regényben?",
+            "answers": [
+                "Pósalaky úrnak",
+                "János úrnak",
+                "Doroghy úrnak"
+            ],
+            "correct_answer": "Pósalaky úrnak"
+        },
+        {
+            "question": "Melyik regényben szerepel Szentirmay Katinka?",
+            "answers": [
+                "Kárpáthy Zoltán",
+                "Légy jó mindhalálig",
+                "Beszterce ostroma"
+            ],
+            "correct_answer": "Kárpáthy Zoltán"
+        },
+        {
+            "question": "Kinek a műve a Kárpáthy Zoltán?",
+            "answers": [
+                "Jókai Mór",
+                "Örkény István",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Kinek a regénye az Árvácska?",
+            "answers": [
+                "Móricz Zsigmond",
+                "Jókai Mór",
+                "Mikszáth Kálmán"
+            ],
+            "correct_answer": "Móricz Zsigmond"
+        },
+        {
+            "question": "Kinek a regénye \"A Mester és Margarita\"?",
+            "answers": [
+                "Mihail Bulgakov",
+                "Lev Tolsztoj",
+                "Ivan Turgenyev"
+            ],
+            "correct_answer": "Mihail Bulgakov"
+        },
+        {
+            "question": "Melyik műben szerepel Kutuzov herceg?",
+            "answers": [
+                "Háború és béke",
+                "Anna Karenina",
+                "Ivan Iljics halála"
+            ],
+            "correct_answer": "Háború és béke"
+        },
+        {
+            "question": "Melyik városban játszódik Az ember tragédiája VI. színe?",
+            "answers": [
+                "Rómában",
+                "Prágában",
+                "Egyiptomban"
+            ],
+            "correct_answer": "Rómában"
+        },
+        {
+            "question": "Kinek a regénye az Aranykoporsó?",
+            "answers": [
+                "Móra Ferenc",
+                "Jókai Mór",
+                "Molnár Ferenc"
+            ],
+            "correct_answer": "Móra Ferenc"
+        },
+        {
+            "question": "Melyik városban hunyt el Móra Ferenc?",
+            "answers": [
+                "Szegeden",
+                "Kecskeméten",
+                "Kiskunfélegyházán"
+            ],
+            "correct_answer": "Szegeden"
+        },
+        {
+            "question": "Kinek a műve a Csongor és Tünde?",
+            "answers": [
+                "Vörösmarty Mihály",
+                "Kosztolányi Dezső",
+                "Jókai Mór"
+            ],
+            "correct_answer": "Vörösmarty Mihály"
+        },
+        {
+            "question": "Melyik regényben szerepel Mimó néni?",
+            "answers": [
+                "Abigél",
+                "Az aranyember",
+                "Tüskevár"
+            ],
+            "correct_answer": "Abigél"
+        },
+        {
+            "question": "Melyik regény szereplője Bicebóca?",
+            "answers": [
+                "Kincskereső kisködmön",
+                "Tüskevár",
+                "Légy jó mindhalálig"
+            ],
+            "correct_answer": "Kincskereső kisködmön"
+        },
+        {
+            "question": "Milyen iskolában játszódik Ottlik Géza: Iskola a határon c. műve?",
+            "answers": [
+                "katonai",
+                "zene",
+                "képzőművészeti"
+            ],
+            "correct_answer": "katonai"
+        },
+        {
+            "question": "Melyik regényben szerepel Kacsuka Imre?",
+            "answers": [
+                "Az aranyember",
+                "Egri csillagok",
+                "Abigél"
+            ],
+            "correct_answer": "Az aranyember"
+        },
+        {
+            "question": "Mi a neve a Kincskereső kisködmön c. regény főhősének?",
+            "answers": [
+                "Gergő",
+                "Balázs",
+                "Bence"
+            ],
+            "correct_answer": "Gergő"
+        },
+        {
+            "question": "Kinek a műve a Harmat és vér c. novella?",
+            "answers": [
+                "Tamási Áron",
+                "Örkény István",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Tamási Áron"
+        },
+        {
+            "question": "Mi volt Gárdonyi Géza eredeti családneve?",
+            "answers": [
+                "Ziegler",
+                "Brunner",
+                "Kovács"
+            ],
+            "correct_answer": "Ziegler"
+        },
+        {
+            "question": "Melyik regényben szerepel Balogh Csaba, festő?",
+            "answers": [
+                "Ida regénye",
+                "Egri csillagok",
+                "Légy jó mindhalálig"
+            ],
+            "correct_answer": "Ida regénye"
+        },
+        {
+            "question": "Melyik Gárdonyi regényben szerepelt Jumurdzsák?",
+            "answers": [
+                "Egri csillagok",
+                "Ida regénye",
+                "A láthatatlan ember"
+            ],
+            "correct_answer": "Egri csillagok"
+        },
+        {
+            "question": "Mi a neve \"A láthatatlan ember\" c. regény főszereplőjének?",
+            "answers": [
+                "Zéta",
+                "Méta",
+                "Alfa"
+            ],
+            "correct_answer": "Zéta"
+        },
+        {
+            "question": "Kinek a műve a Búzavirágok és kalászok?",
+            "answers": [
+                "Fáy András",
+                "Vörösmarty Mihály",
+                "Kisfaludy Károly"
+            ],
+            "correct_answer": "Fáy András"
+        },
+        {
+            "question": "Hol született Mikszáth Kálmán?",
+            "answers": [
+                "Szklabonyán",
+                "Szabadkán",
+                "Györkönyön"
+            ],
+            "correct_answer": "Szklabonyán"
+        },
+        {
+            "question": "Melyik mű szereplője Egérkirály?",
+            "answers": [
+                "A diótörő",
+                "A hattyúk tava",
+                "Csipkerózsika"
+            ],
+            "correct_answer": "A diótörő"
+        },
+        {
+            "question": "Melyik költőnk verse a Szeptember végén?",
+            "answers": [
+                "Petőfi Sándor",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Petőfi Sándor"
+        },
+        {
+            "question": "Mi volt Petőfi Sándor édesapjának foglalkozása?",
+            "answers": [
+                "mészáros",
+                "asztalos",
+                "ács"
+            ],
+            "correct_answer": "mészáros"
+        },
+        {
+            "question": "Melyik város kollégiumában játszódik a Légy jó mindhalálig c. regény?",
+            "answers": [
+                "debreceni",
+                "szegedi",
+                "győri"
+            ],
+            "correct_answer": "debreceni"
+        },
+        {
+            "question": "Mi volt Gergő apjának foglalkozása a Kincskereső kisködmön c. regényben?",
+            "answers": [
+                "szűcs",
+                "kádár",
+                "pék"
+            ],
+            "correct_answer": "szűcs"
+        },
+        {
+            "question": "Kinek a regénye a Hannibál tanár úr?",
+            "answers": [
+                "Móra Ferenc",
+                "Jókai Mór",
+                "Gárdonyi Géza"
+            ],
+            "correct_answer": "Móra Ferenc"
+        },
+        {
+            "question": "Melyik regény szereplője Zsabapolka?",
+            "answers": [
+                "Árvácska",
+                "Tüskevár",
+                "Abigél"
+            ],
+            "correct_answer": "Árvácska"
+        },
+        {
+            "question": "Ki írta \"A koppányi aga testamentuma\" c. regényt?",
+            "answers": [
+                "Fekete István",
+                "Móra Ferenc",
+                "Jókai Mór"
+            ],
+            "correct_answer": "Fekete István"
+        },
+        {
+            "question": "Melyik regény folytatása volt a Téli berek?",
+            "answers": [
+                "Tüskevár",
+                "Indul a bakterház",
+                "Iskola a határon"
+            ],
+            "correct_answer": "Tüskevár"
+        },
+        {
+            "question": "Ki írta a Jadvida párnája c. regényt?",
+            "answers": [
+                "Závada Pál",
+                "Esterházy Péter",
+                "Kosztolányi Dezső"
+            ],
+            "correct_answer": "Závada Pál"
+        },
+        {
+            "question": "Melyik regény szereplője Pondoray Béla?",
+            "answers": [
+                "Tüskevár",
+                "Egri csillagok",
+                "A gólyakalifa"
+            ],
+            "correct_answer": "Tüskevár"
+        },
+        {
+            "question": "Kinek a regénye az Utas és holdvilág?",
+            "answers": [
+                "Szerb Antal",
+                "Örkény István",
+                "Faludy György"
+            ],
+            "correct_answer": "Szerb Antal"
+        },
+        {
+            "question": "Melyik mű szereplője Biberach?",
+            "answers": [
+                "Bánk bán",
+                "Az ember tragédiája",
+                "Rómeó és Júlia"
+            ],
+            "correct_answer": "Bánk bán"
+        },
+        {
+            "question": "Kinek a kötete volt a Zuzmara a rózsafán?",
+            "answers": [
+                "Zelk Zoltán",
+                "Arany János",
+                "Vörösmarty Mihály"
+            ],
+            "correct_answer": "Zelk Zoltán"
+        },
+        {
+            "question": "Kinek a regénye a Gergő és az álomfogók?",
+            "answers": [
+                "Böszörményi Gyula",
+                "Esterházy Péter",
+                "Karinthy Frigyes"
+            ],
+            "correct_answer": "Böszörményi Gyula"
+        },
+        {
+            "question": "Hogy hívták János vitéz szerelmét?",
+            "answers": [
+                "Iluska",
+                "Ilonka",
+                "Boriska"
+            ],
+            "correct_answer": "Iluska"
+        },
+        {
+            "question": "Kinek a műve a Galamb és béka?",
+            "answers": [
+                "Végh Antal",
+                "Ottlik Géza",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Végh Antal"
+        },
+        {
+            "question": "Mi az alcíme a Beszterce ostroma c. Mikszáth regénynek?",
+            "answers": [
+                "Egy különc ember története",
+                "Nem kell a dráma",
+                "Egy hajóban evezünk"
+            ],
+            "correct_answer": "Egy különc ember története"
+        },
+        {
+            "question": "Melyik regény szereplője Bátky János?",
+            "answers": [
+                "A Pendragon legenda",
+                "Utas és holdvilág",
+                "Egy magyar nábob"
+            ],
+            "correct_answer": "A Pendragon legenda"
+        },
+        {
+            "question": "Hány éves korában kezdett verseket írni Petőfi Sándor?",
+            "answers": [
+                "18",
+                "12",
+                "8"
+            ],
+            "correct_answer": "18"
+        },
+        {
+            "question": "Melyik irodalmi mű szereplője Csicsó?",
+            "answers": [
+                "Légy jó mindhalálig",
+                "Tüskevár",
+                "Pál utcai fiúk"
+            ],
+            "correct_answer": "Légy jó mindhalálig"
+        },
+        {
+            "question": "Mi Mark Twain eredeti keresztneve?",
+            "answers": [
+                "Samuel",
+                "John",
+                "Henry"
+            ],
+            "correct_answer": "Samuel"
+        },
+        {
+            "question": "Kinek a kötete volt a Csutak és a szürke ló?",
+            "answers": [
+                "Mándy Iván",
+                "Szerb Antal",
+                "Esterházy Péter"
+            ],
+            "correct_answer": "Mándy Iván"
+        },
+        {
+            "question": "Kinek a regénye \"Az öreg halász és a tenger\"?",
+            "answers": [
+                "Ernest Hemingway",
+                "Mark Twain",
+                "Jack London"
+            ],
+            "correct_answer": "Ernest Hemingway"
+        },
+        {
+            "question": "Melyik költő verse a Száncsengő?",
+            "answers": [
+                "Weöres Sándor",
+                "Zelk Zoltán",
+                "József Attila"
+            ],
+            "correct_answer": "Weöres Sándor"
+        },
+        {
+            "question": "Milyen csillag állt felettünk József Attila: Betlehemi királyok c. versében?",
+            "answers": [
+                "lángos",
+                "fényes",
+                "hulló"
+            ],
+            "correct_answer": "lángos"
+        },
+        {
+            "question": "Melyik az Újszövetség első könyve?",
+            "answers": [
+                "Máté evangéliuma",
+                "Lukács evangéliuma",
+                "János evangéliuma"
+            ],
+            "correct_answer": "Máté evangéliuma"
+        },
+        {
+            "question": "Kinek a műve \" A katedrális\"?",
+            "answers": [
+                "Ken Follett",
+                "Warren Ellis",
+                "Edward Bond"
+            ],
+            "correct_answer": "Ken Follett"
+        },
+        {
+            "question": "Kinek a regénye \"A fekete kolostor\"?",
+            "answers": [
+                "Kuncz Aladár",
+                "Kosztolányi Dezső",
+                "Szerb Antal"
+            ],
+            "correct_answer": "Kuncz Aladár"
+        },
+        {
+            "question": "Melyik költő verse az Újévi köszöntő?",
+            "answers": [
+                "Weöres Sándor",
+                "Szabó Lőrinc",
+                "Zelk Zoltán"
+            ],
+            "correct_answer": "Weöres Sándor"
+        },
+        {
+            "question": "Melyik regény szereplője Torma Gedeon?",
+            "answers": [
+                "Abigél",
+                "Légy jó mindhalálig",
+                "Egri csillagok"
+            ],
+            "correct_answer": "Abigél"
+        },
+        {
+            "question": "Mi volt Fekete István első regénye?",
+            "answers": [
+                "A koppányi aga testamentuma",
+                "Tüskevár",
+                "Vuk"
+            ],
+            "correct_answer": "A koppányi aga testamentuma"
+        },
+        {
+            "question": "Melyik a Harry Potter regénysorozat első könyve?",
+            "answers": [
+                "Harry Potter és a bölcsek köve",
+                "Harry Potter és a Titkok Kamrája",
+                "Harry Potter és a Félvér Herceg"
+            ],
+            "correct_answer": "Harry Potter és a bölcsek köve"
+        },
+        {
+            "question": "Ki a Harry Potter sorozat főgonosza?",
+            "answers": [
+                "Voldemort nagyúr",
+                "Albus Dumbledore",
+                "Perselus Piton"
+            ],
+            "correct_answer": "Voldemort nagyúr"
+        },
+        {
+            "question": "Ki játssza az irodalomtanárt a \"Holt költők társasága\" c. filmben?",
+            "answers": [
+                "Robin Williams",
+                "Ethan Hawke",
+                "Robert Sean Leonard"
+            ],
+            "correct_answer": "Robin Williams"
+        },
+        {
+            "question": "Melyk író álneve volt a P.Howard?",
+            "answers": [
+                "Rejtő Jenő",
+                "Kosztolányi Dezső",
+                "Bródy Sándor"
+            ],
+            "correct_answer": "Rejtő Jenő"
+        },
+        {
+            "question": "Hány karátos autó szerepel Rejtő Jenő művének címében?",
+            "answers": [
+                "14",
+                "12",
+                "10"
+            ],
+            "correct_answer": "14"
+        },
+        {
+            "question": "Kinek a műve a Zsivago doktor?",
+            "answers": [
+                "Borisz Paszternak",
+                "Fjodor Dosztojevszkij",
+                "Lev Tolsztoj"
+            ],
+            "correct_answer": "Borisz Paszternak"
+        },
+        {
+            "question": "Ki nem Rejtő Jenő műveiben szerepel?",
+            "answers": [
+                "Zsákos Frodó",
+                "Gorcsev Iván",
+                "Piszkos Fred"
+            ],
+            "correct_answer": "Zsákos Frodó"
+        },
+        {
+            "question": "Kinek a műve a Pendragon legenda?",
+            "answers": [
+                "Szerb Antal",
+                "Csáth Géza",
+                "Kosztolányi Dezső"
+            ],
+            "correct_answer": "Szerb Antal"
+        },
+        {
+            "question": "Melyik francia költő verse az Őszi chanson?",
+            "answers": [
+                "Paul Verlaine",
+                "Arthur Rimbaud",
+                "Charles Baudelaire"
+            ],
+            "correct_answer": "Paul Verlaine"
+        },
+        {
+            "question": "Melyik Shakespeare dráma szereplője Orsino herceg?",
+            "answers": [
+                "Vízkereszt, vagy amit akartok",
+                "Sok hűhó semmiért",
+                "A vihar"
+            ],
+            "correct_answer": "Vízkereszt, vagy amit akartok"
+        },
+        {
+            "question": "Ki írta a Szent Péter esernyője c. regényt?",
+            "answers": [
+                "Mikszáth Kálmán",
+                "Móricz Zsigmond",
+                "Móra Ferenc"
+            ],
+            "correct_answer": "Mikszáth Kálmán"
+        },
+        {
+            "question": "Hol játszódik \"Az ember tragédiájának\" V. színe?",
+            "answers": [
+                "Athénban",
+                "Prágában",
+                "Párizsban"
+            ],
+            "correct_answer": "Athénban"
+        },
+        {
+            "question": "Melyik volt Stephen King első, 1974-ben megjelent regénye?",
+            "answers": [
+                "Carrie",
+                "Cujo",
+                "Dolores"
+            ],
+            "correct_answer": "Carrie"
+        },
+        {
+            "question": "Kinek a műve \"A 6-os számú kórterem\"?",
+            "answers": [
+                "Csehov",
+                "Gogol",
+                "Tolsztoj"
+            ],
+            "correct_answer": "Csehov"
+        },
+        {
+            "question": "Melyik regény főszereplője Tábory Elemér?",
+            "answers": [
+                "A gólyakalifa",
+                "A Pál utcai fiúk",
+                "A kőszívű ember fiai"
+            ],
+            "correct_answer": "A gólyakalifa"
+        },
+        {
+            "question": "Melyik amerikai író műve az \"Otthon, édes otthon\"?",
+            "answers": [
+                "Mary Higgins Clark",
+                "Tom Clancy",
+                "Joseph Heller"
+            ],
+            "correct_answer": "Mary Higgins Clark"
+        },
+        {
+            "question": "Melyik író műve az \"Így szerettek ők\"?",
+            "answers": [
+                "Nyáry Krisztián",
+                "Kálmán Gábor",
+                "Darvasi Ferenc"
+            ],
+            "correct_answer": "Nyáry Krisztián"
+        },
+        {
+            "question": "Mi volt \"A Pendragon legenda\", Szerb Antal regényének eredeti címe?",
+            "answers": [
+                "Rózsakereszt",
+                "Pásztortűz",
+                "A rózsa neve"
+            ],
+            "correct_answer": "Rózsakereszt"
+        },
+        {
+            "question": "Mi az alliteráció?",
+            "answers": [
+                "betűrím",
+                "keresztrím",
+                "bokorrím"
+            ],
+            "correct_answer": "betűrím"
+        },
+        {
+            "question": "Milyen fajtájú kutya Bogáncs, Fekete István regényében?",
+            "answers": [
+                "pumi",
+                "puli",
+                "beagle"
+            ],
+            "correct_answer": "pumi"
+        },
+        {
+            "question": "Kinek a regénye a Macska a galambok között?",
+            "answers": [
+                "Agatha Christie",
+                "Ken Folett",
+                "Ruth Rendell"
+            ],
+            "correct_answer": "Agatha Christie"
+        },
+        {
+            "question": "Mi a Kalevala?",
+            "answers": [
+                "finn nemzeti eposz",
+                "svéd verskötet",
+                "osztrák költők novellái"
+            ],
+            "correct_answer": "finn nemzeti eposz"
+        },
+        {
+            "question": "Kinek a regénye a Goriot apó?",
+            "answers": [
+                "Honoré de Balzac",
+                "Albert Camus",
+                "Victor Hugo"
+            ],
+            "correct_answer": "Honoré de Balzac"
+        },
+        {
+            "question": "Kinek a regénye a \"A rettegés arénája\"?",
+            "answers": [
+                "Tom Clancy",
+                "Benjamin Franklin",
+                "Joseph Heller"
+            ],
+            "correct_answer": "Tom Clancy"
+        },
+        {
+            "question": "Milyen sportot nem űzött Ernest Hemingway, amerikai író?",
+            "answers": [
+                "tenisz",
+                "futball",
+                "boksz"
+            ],
+            "correct_answer": "tenisz"
+        },
+        {
+            "question": "Mi volt a Richard Sharpe-regények első kötete?",
+            "answers": [
+                "Sharpe tigrise",
+                "Sharpe diadala",
+                "Sharpe menekülése"
+            ],
+            "correct_answer": "Sharpe tigrise"
+        },
+        {
+            "question": "Mi volt Fejős Éva író, első műve?",
+            "answers": [
+                "Holtodiglan",
+                "Cuba Libre",
+                "Nápolyi vakáció"
+            ],
+            "correct_answer": "Holtodiglan"
+        },
+        {
+            "question": "Kinek a regénye az 1984?",
+            "answers": [
+                "George Orwell",
+                "George Byron",
+                "George Eliot"
+            ],
+            "correct_answer": "George Orwell"
+        },
+        {
+            "question": "Kinek a regénye \"A párizsi Notre-Dame\"?",
+            "answers": [
+                "Victor Hugo",
+                "Albert Camus",
+                "Denis Diderot"
+            ],
+            "correct_answer": "Victor Hugo"
+        },
+        {
+            "question": "Hány tagja van a Gyűrű szövetségének \"A Gyűrűk urai\" c. regényben?",
+            "answers": [
+                "9",
+                "12",
+                "16"
+            ],
+            "correct_answer": "9"
+        },
+        {
+            "question": "Ki írta Für Elise c. regényt?",
+            "answers": [
+                "Szabó Magda",
+                "Kertész Imre",
+                "Kaffka Margit"
+            ],
+            "correct_answer": "Szabó Magda"
+        },
+        {
+            "question": "Hol született Petőfi Sándor?",
+            "answers": [
+                "Kiskőrösön",
+                "Nagykőrösön",
+                "Nagyszalontán"
+            ],
+            "correct_answer": "Kiskőrösön"
+        },
+        {
+            "question": "Ki Thomas Mann \"A varázshegy\" c. regényének főhőse?",
+            "answers": [
+                "Hans Castorp",
+                "Lodovico Settembrini",
+                "Mynheer Peeperkorn"
+            ],
+            "correct_answer": "Hans Castorp"
+        },
+        {
+            "question": "Mi az eposz?",
+            "answers": [
+                "irodalmi műfaj",
+                "hangszer",
+                "táncfajta"
+            ],
+            "correct_answer": "irodalmi műfaj"
+        },
+        {
+            "question": "Melyik együttes dolgozta fel Radnóti Miklós:Bájoló c. versét?",
+            "answers": [
+                "Szabó Balázs Band",
+                "Belmondo",
+                "Magashegyi Underground"
+            ],
+            "correct_answer": "Szabó Balázs Band"
+        },
+        {
+            "question": "Milyen nemzetiségű Stieg Larsson író?",
+            "answers": [
+                "svéd",
+                "dán",
+                "ír"
+            ],
+            "correct_answer": "svéd"
+        },
+        {
+            "question": "Ki a főszeplője az \" Indul a bakterház\" c. regénynek?",
+            "answers": [
+                "Regős Bendegúz",
+                "Fülig Jimmy",
+                "Zsákos Frodó"
+            ],
+            "correct_answer": "Regős Bendegúz"
+        },
+        {
+            "question": "Hogy folytatódik a nyelvtörő? \"Fekete bikapata kopog......\"",
+            "answers": [
+                "a pepita patikaköveken.",
+                "a fekete macskaköveken.",
+                "a meredek hegyeken."
+            ],
+            "correct_answer": "a pepita patikaköveken."
+        },
+        {
+            "question": "Kinek a regénye a \"Büszkeség és balítélet\"?",
+            "answers": [
+                "Jane Austen",
+                "Christopher Marlowe",
+                "Emily Bronté"
+            ],
+            "correct_answer": "Jane Austen"
+        },
+        {
+            "question": "Mi volt Charles Dickens első regénye?",
+            "answers": [
+                "A Pickwick klub",
+                "Twist Olivér",
+                "Copperfield Dávid"
+            ],
+            "correct_answer": "A Pickwick klub"
+        },
+        {
+            "question": "Hány kötetből áll J. F. Cooper Nagy Indiánkönyve?",
+            "answers": [
+                "5",
+                "6",
+                "3"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Melyik amerikai író műve a Macska a forró bádogtetőn?",
+            "answers": [
+                "Tennessee Williams",
+                "Jack London",
+                "Mark Twain"
+            ],
+            "correct_answer": "Tennessee Williams"
+        },
+        {
+            "question": "Mikor született József Attila?",
+            "answers": [
+                "1905. április 11-én",
+                "1910. április 11-én",
+                "1934. április 21-én"
+            ],
+            "correct_answer": "1905. április 11-én"
+        },
+        {
+            "question": "Hogy folytatódik József Attila verse? \"Nincsen apám, se anyám,\"",
+            "answers": [
+                "se istenem, se hazám.",
+                "se csókom, se babám.",
+                "se bölcsőm, se hazám."
+            ],
+            "correct_answer": "se istenem, se hazám."
+        },
+        {
+            "question": "Kinek a műve a János vitéz?",
+            "answers": [
+                "Petőfi Sándor",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Petőfi Sándor"
+        },
+        {
+            "question": "Mi volt a neve Don Quijote lovának?",
+            "answers": [
+                "Rocinante",
+                "Dulcinea",
+                "Sancho Panza"
+            ],
+            "correct_answer": "Rocinante"
+        },
+        {
+            "question": "Melyik regényben jelenik meg a Héttorony?",
+            "answers": [
+                "Egri csillagok",
+                "Az arany ember",
+                "A kőszívű ember fiai"
+            ],
+            "correct_answer": "Egri csillagok"
+        },
+        {
+            "question": "Hány részből áll a trilógia?",
+            "answers": [
+                "három",
+                "hat",
+                "kilenc"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Hogy folytatódik a locsolóvers? \"Rózsavíz a kezembe,..\"",
+            "answers": [
+                "Hadd öntsem a fejedre!",
+                "Szép a hajad Gizike.",
+                "Elszállt már a gerlice."
+            ],
+            "correct_answer": "Hadd öntsem a fejedre!"
+        },
+        {
+            "question": "Milyen állat nem volt \"A brémai muzsikusok\" között?",
+            "answers": [
+                "nyúl",
+                "kakas",
+                "csacsi"
+            ],
+            "correct_answer": "nyúl"
+        },
+        {
+            "question": "Mi a neve az erdőnek ahol Micimackó élt?",
+            "answers": [
+                "Százholdas Pagony",
+                "Farkaserdő",
+                "Ezerholdas Vadon"
+            ],
+            "correct_answer": "Százholdas Pagony"
+        },
+        {
+            "question": "Melyik Shakespeare dráma szereplői Claudius és Ophelia?",
+            "answers": [
+                "Hamlet",
+                "Othello",
+                "Lear király"
+            ],
+            "correct_answer": "Hamlet"
+        },
+        {
+            "question": "Ki volt a Pál utcai fiúk c. regényben az áruló?",
+            "answers": [
+                "Geréb Dezső",
+                "Boka János",
+                "Áts Feri"
+            ],
+            "correct_answer": "Geréb Dezső"
+        },
+        {
+            "question": "Milyen labdajátékot űz Harry Potter?",
+            "answers": [
+                "kviddics",
+                "kvaddics",
+                "karavics"
+            ],
+            "correct_answer": "kviddics"
+        },
+        {
+            "question": "Kinek a műve \"A Szent Johanna gimi\" sorozat?",
+            "answers": [
+                "Leiner Laura",
+                "Csobánka Zsuzsa",
+                "Szvoren Edina"
+            ],
+            "correct_answer": "Leiner Laura"
+        },
+        {
+            "question": "Ki Kosztolányi Dezső unokatesvére?",
+            "answers": [
+                "Csáth Géza",
+                "Balázs Béla",
+                "Zelk Zoltán"
+            ],
+            "correct_answer": "Csáth Géza"
+        },
+        {
+            "question": "Hány kőműves építette Déva várát a népballadában?",
+            "answers": [
+                "12",
+                "7",
+                "9"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Melyik nem Paulo Coelho műve?",
+            "answers": [
+                "Az éjszaka pásztorai",
+                "Tizenegy perc",
+                "Az alkimista"
+            ],
+            "correct_answer": "Az éjszaka pásztorai"
+        },
+        {
+            "question": "Kinek a regénye a Szegény gazdagok és a Fekete gyémántok?",
+            "answers": [
+                "Jókai Mór",
+                "Kosztolányi Dezső",
+                "Gárdonyi Géza"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Milyen állata volt Harry Potternek?",
+            "answers": [
+                "baglya",
+                "kutyája",
+                "papagája"
+            ],
+            "correct_answer": "baglya"
+        },
+        {
+            "question": "Kinek a regénye \"A Gyűrűk Ura\"?",
+            "answers": [
+                "J.R.R. Tolkien",
+                "J.K. Rowling",
+                "Stephen King"
+            ],
+            "correct_answer": "J.R.R. Tolkien"
+        },
+        {
+            "question": "Mi volt Harry Potter első kötetének a címe?",
+            "answers": [
+                "Harry Potter és a bölcsek köve",
+                "Harry Potter és a Titkok Kamrája",
+                "Harry Potter és az azkabani fogoly"
+            ],
+            "correct_answer": "Harry Potter és a bölcsek köve"
+        },
+        {
+            "question": "Kinek a műve a Tartuffe?",
+            "answers": [
+                "Moliére",
+                "Balzac",
+                "Dumas"
+            ],
+            "correct_answer": "Moliére"
+        },
+        {
+            "question": "Melyik költő verse a Héja-nász az avaron?",
+            "answers": [
+                "Ady Endre",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Ady Endre"
+        },
+        {
+            "question": "Hány évet töltött Robinson Crusoe egy szigeten?",
+            "answers": [
+                "28",
+                "42",
+                "16"
+            ],
+            "correct_answer": "28"
+        },
+        {
+            "question": "Hány köteltből áll a Twilight (Alkonyat) c. fantasyregény?",
+            "answers": [
+                "4",
+                "3",
+                "7"
+            ],
+            "correct_answer": "4"
+        },
+        {
+            "question": "Melyik írónk született Érdmindszenten?",
+            "answers": [
+                "Ady Endre",
+                "Arany János",
+                "József Attila"
+            ],
+            "correct_answer": "Ady Endre"
+        },
+        {
+            "question": "Kinek a drámája az Éjjeli menedékhely?",
+            "answers": [
+                "Gorkíj",
+                "Gogol",
+                "G.B. Shaw"
+            ],
+            "correct_answer": "Gorkíj"
+        },
+        {
+            "question": "Melyk író álneve volt P.Howard?",
+            "answers": [
+                "Rejtő Jenő",
+                "Kosztolányi Dezső",
+                "Bródy Sándor"
+            ],
+            "correct_answer": "Rejtő Jenő"
+        },
+        {
+            "question": "Ki Grecsó Krisztián?",
+            "answers": [
+                "író",
+                "balettművész",
+                "tornász"
+            ],
+            "correct_answer": "író"
+        },
+        {
+            "question": "Kinek a műve \"A 6-os számú kórterem\"?",
+            "answers": [
+                "Csehov",
+                "Gogol",
+                "Tolsztoj"
+            ],
+            "correct_answer": "Csehov"
+        },
+        {
+            "question": "Hány karátos autó szerepel Rejtő Jenő művének címében?",
+            "answers": [
+                "14",
+                "12",
+                "10"
+            ],
+            "correct_answer": "14"
+        },
+        {
+            "question": "Mi a Douglas Adams regény címének befejezése? \"Galaxis útikalauz....\"",
+            "answers": [
+                "stopposoknak",
+                "kamionosoknak",
+                "űrhajósoknak"
+            ],
+            "correct_answer": "stopposoknak"
+        },
+        {
+            "question": "Kinek a regénye \"Az öreg halász és a tenger\"?",
+            "answers": [
+                "Ernest Hemingway",
+                "Jack London",
+                "William Faulkner"
+            ],
+            "correct_answer": "Ernest Hemingway"
+        },
+        {
+            "question": "Melyik regény főszereplője Tábory Elemér?",
+            "answers": [
+                "A gólyakalifa",
+                "A Pál utcai fiúk",
+                "A kőszívű ember fiai"
+            ],
+            "correct_answer": "A gólyakalifa"
+        },
+        {
+            "question": "Kinek a műve a Pendragon legenda?",
+            "answers": [
+                "Szerb Antal",
+                "Csáth Géza",
+                "Kosztolányi Dezső"
+            ],
+            "correct_answer": "Szerb Antal"
+        },
+        {
+            "question": "Mi volt \"A Pendragon legenda\", Szerb Antal regényének eredeti címe?",
+            "answers": [
+                "Rózsakereszt",
+                "Pásztortűz",
+                "A rózsa neve"
+            ],
+            "correct_answer": "Rózsakereszt"
+        },
+        {
+            "question": "Ki irta a \"A walesi bárdok\" c. verset?",
+            "answers": [
+                "Arany János",
+                "Ady Endre",
+                "Petőfi Sándor"
+            ],
+            "correct_answer": "Arany János"
+        },
+        {
+            "question": "Hol született Paulo Coelho, író?",
+            "answers": [
+                "Rio de Janeiroban",
+                "Sao Pauloban",
+                "Buenos Airesben"
+            ],
+            "correct_answer": "Rio de Janeiroban"
+        },
+        {
+            "question": "Hol született Arany János?",
+            "answers": [
+                "Nagyszalontán",
+                "Nagykőrösön",
+                "Nagyatádon"
+            ],
+            "correct_answer": "Nagyszalontán"
+        },
+        {
+            "question": "Kinek a műve a Kárpáthy Zoltán?",
+            "answers": [
+                "Jókai Mór",
+                "Örkény István",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "Jókai Mór"
+        },
+        {
+            "question": "Melyik nem William Shakespeare drámája?",
+            "answers": [
+                "Doctor Faustus",
+                "Sok hűhó semmiért",
+                "Vízkereszt, vagy amit akartok"
+            ],
+            "correct_answer": "Doctor Faustus"
+        },
+        {
+            "question": "Melyik francia író műve \"A párizsi Notre-Dame\"?",
+            "answers": [
+                "Victor Hugo",
+                "Albert Camus",
+                "Honoré de Balzac"
+            ],
+            "correct_answer": "Victor Hugo"
+        },
+        {
+            "question": "Milyen szelek a címe Emily Bronte regényének?",
+            "answers": [
+                "üvöltő",
+                "ordító",
+                "rikoltó"
+            ],
+            "correct_answer": "üvöltő"
+        },
+        {
+            "question": "Ki írt könyvet a Rolling Stones zenekarról?",
+            "answers": [
+                "Földes László (Hobo)",
+                "Deák Bill Gyula",
+                "Balázs Fecó"
+            ],
+            "correct_answer": "Földes László (Hobo)"
+        },
+        {
+            "question": "Melyik író regényei a \"Beszterce ostroma\" és \"A fekete város\"?",
+            "answers": [
+                "Mikszáth Kálmán",
+                "Móricz Zsigmond",
+                "Kosztolányi Dezső"
+            ],
+            "correct_answer": "Mikszáth Kálmán"
+        },
+        {
+            "question": "Melyik Rejtő Jenő hős mondta:\" Uram! A késemért jöttem!\"?",
+            "answers": [
+                "Fülig Jimmy",
+                "Piszkos Fred",
+                "Senki Alfonz"
+            ],
+            "correct_answer": "Fülig Jimmy"
+        },
+        {
+            "question": "Melyik költő verse a \"Kis, karácsonyi ének\"?",
+            "answers": [
+                "Ady Endre",
+                "Kosztolányi Dezső",
+                "Weöres Sándor"
+            ],
+            "correct_answer": "Ady Endre"
+        },
+        {
+            "question": "Ki írta a Holt Vidék c. verset?",
+            "answers": [
+                "József Attila",
+                "Ady Endre",
+                "Móricz Zsigmond"
+            ],
+            "correct_answer": "József Attila"
+        },
+        {
+            "question": "Mi volt a Harry Potter első kötetének a címe?",
+            "answers": [
+                "Harry Potter és a bölcsek köve",
+                "Harry Potter és a Titkok Kamrája",
+                "Harry Potter és az azkabani fogoly"
+            ],
+            "correct_answer": "Harry Potter és a bölcsek köve"
+        },
+        {
+            "question": "Milyen állat szerepel \"A kis herceg\"c. regényben?",
+            "answers": [
+                "róka",
+                "farkas",
+                "macska"
+            ],
+            "correct_answer": "róka"
+        },
+        {
+            "question": "Mikor született Petőfi Sándor?",
+            "answers": [
+                "1823. január 1-én",
+                "1832. január 11-én",
+                "1823. január 21-én"
+            ],
+            "correct_answer": "1823. január 1-én"
+        },
+        {
+            "question": "Ki írt Mary Westmacott álnéven?",
+            "answers": [
+                "Agatha Christie",
+                "Jane Austen",
+                "Danielle Steel"
+            ],
+            "correct_answer": "Agatha Christie"
+        },
+        {
+            "question": "Csehov melyik művében szerepel Arkagyina?",
+            "answers": [
+                "Sirály",
+                "Három nővér",
+                "Cseresznyéskert"
+            ],
+            "correct_answer": "Sirály"
+        },
+        {
+            "question": "Melyik író műve az \"Egyperces novellák\"?",
+            "answers": [
+                "Örkény István",
+                "Kosztolányi Dezső",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Örkény István"
+        },
+        {
+            "question": "Mi a görög abc utolsó betűje?",
+            "answers": [
+                "omega",
+                "szigma",
+                "kappa"
+            ],
+            "correct_answer": "omega"
+        },
+        {
+            "question": "Ki írta a \"Kaukázusi krétakör\" c. drámát?",
+            "answers": [
+                "Bertolt Brecht",
+                "Thomas Mann",
+                "Friedrich Schiller"
+            ],
+            "correct_answer": "Bertolt Brecht"
+        },
+        {
+            "question": "Hány süntestvér volt Csukás István \"Sün Balázs\" c. versében?",
+            "answers": [
+                "hét",
+                "öt",
+                "három"
+            ],
+            "correct_answer": "hét"
+        },
+        {
+            "question": "Mi volt Lédának, Ady Endre múzsájának a születéskori neve?",
+            "answers": [
+                "Brüll Adél",
+                "Boncza Berta",
+                "Dénes Zsófia"
+            ],
+            "correct_answer": "Brüll Adél"
+        },
+        {
+            "question": "Mikor született Zsákos Frodó \"A Gyűrűk Ura\" c. regényben?",
+            "answers": [
+                "2968-ban",
+                "2456-ban",
+                "2019-ben"
+            ],
+            "correct_answer": "2968-ban"
+        },
+        {
+            "question": "Kinek a költeményei voltak a Iliasz és az Odüsszeia?",
+            "answers": [
+                "Homérosz",
+                "Szophoklész",
+                "Szapphó"
+            ],
+            "correct_answer": "Homérosz"
+        },
+        {
+            "question": "Mikor írta Kölcsey Ferenc a Himnuszt?",
+            "answers": [
+                "1823-ban",
+                "1867-ben",
+                "1845-ben"
+            ],
+            "correct_answer": "1823-ban"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Andersen a meseíró?",
+            "answers": [
+                "dán",
+                "svéd",
+                "ír"
+            ],
+            "correct_answer": "dán"
+        },
+        {
+            "question": "Ki kapta 2018-ban a Kölcsey-emlékpakettet a magyar kultúra napjának alkalmából?",
+            "answers": [
+                "Szörényi Levente",
+                "Bródy János",
+                "Balázs Fecó"
+            ],
+            "correct_answer": "Szörényi Levente"
+        },
+        {
+            "question": "Milyen regények szerzője Mary Higgins Clark?",
+            "answers": [
+                "bűnügyi",
+                "család",
+                "kaland"
+            ],
+            "correct_answer": "bűnügyi"
+        },
+        {
+            "question": "Melyik író műve \" A félkegyelmű\"?",
+            "answers": [
+                "Dosztojevszkij",
+                "Tolsztoj",
+                "Gogol"
+            ],
+            "correct_answer": "Dosztojevszkij"
+        },
+        {
+            "question": "Mi volt József Attila édesanyjának a foglalkozása?",
+            "answers": [
+                "mosónő",
+                "varrónő",
+                "szakácsnő"
+            ],
+            "correct_answer": "mosónő"
+        },
+        {
+            "question": "Ki tervezte a Kölcsey-emlékplakettet?",
+            "answers": [
+                "Melocco Miklós",
+                "Mikus Sándor",
+                "Murányi Gyula"
+            ],
+            "correct_answer": "Melocco Miklós"
+        },
+        {
+            "question": "Milyen állat őrzi az álmát Bóbitának, Weöres Sándor versében?",
+            "answers": [
+                "csiga",
+                "malac",
+                "kecske"
+            ],
+            "correct_answer": "csiga"
+        },
+        {
+            "question": "Melyik vasútállomáson halt meg József Attila?",
+            "answers": [
+                "balatonszárszói",
+                "balatonföldvári",
+                "csobánkai"
+            ],
+            "correct_answer": "balatonszárszói"
+        }
+    ]
+}

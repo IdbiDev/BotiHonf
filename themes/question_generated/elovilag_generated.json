@@ -1,0 +1,3218 @@
+{
+    "theme": "Elővilág",
+    "questions": [
+        {
+            "question": "A csigák melyik törzsbe tartoznak?",
+            "answers": [
+                "puhatestűek",
+                "ízeltlábúak",
+                "gerinchúrosok"
+            ],
+            "correct_answer": "puhatestűek"
+        },
+        {
+            "question": "Hol élnek a pingvinek?",
+            "answers": [
+                "a déli sarkon",
+                "az északi sarkon",
+                "Afrikában"
+            ],
+            "correct_answer": "a déli sarkon"
+        },
+        {
+            "question": "Melyik családba tartozik a paradicsom?",
+            "answers": [
+                "burgonyafélék",
+                "tökfélék",
+                "pillangósvirágúak"
+            ],
+            "correct_answer": "burgonyafélék"
+        },
+        {
+            "question": "Mivel lélegeznek a madarak?",
+            "answers": [
+                "tüdővel",
+                "kopoltyúval",
+                "bőrön keresztül"
+            ],
+            "correct_answer": "tüdővel"
+        },
+        {
+            "question": "Az erdei pajzsika melyik rendszertani osztályba tartozik?",
+            "answers": [
+                "valódi páfrányok",
+                "őspáfrányok",
+                "zsurlók"
+            ],
+            "correct_answer": "valódi páfrányok"
+        },
+        {
+            "question": "Mi az állkapocscsont latin neve?",
+            "answers": [
+                "mandibula",
+                "maxilla",
+                "clavicula"
+            ],
+            "correct_answer": "mandibula"
+        },
+        {
+            "question": "Melyik vitamin hiánya okozza az angolkórt?",
+            "answers": [
+                "D-vitamin",
+                "A-vitamin",
+                "E-vitamin"
+            ],
+            "correct_answer": "D-vitamin"
+        },
+        {
+            "question": "Melyik nem a kukorica népies neve?",
+            "answers": [
+                "pityóka",
+                "tengeri",
+                "törökbúza"
+            ],
+            "correct_answer": "pityóka"
+        },
+        {
+            "question": "Mi alapján tájékozódik a delfin?",
+            "answers": [
+                "visszhang",
+                "ultrahang",
+                "mágneses tér"
+            ],
+            "correct_answer": "visszhang"
+        },
+        {
+            "question": "Melyik nem a gólya népi elnevezése?",
+            "answers": [
+                "cepe",
+                "gilice",
+                "gagó"
+            ],
+            "correct_answer": "cepe"
+        },
+        {
+            "question": "Mennyi az elefántok vemhességi ideje?",
+            "answers": [
+                "22 hónap",
+                "12 hónap",
+                "9 hónap"
+            ],
+            "correct_answer": "22 hónap"
+        },
+        {
+            "question": "Hány csigolyából áll a zsiráf nyaka?",
+            "answers": [
+                "7",
+                "17",
+                "27"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Milyen magasra nőhet az erdeifenyő?",
+            "answers": [
+                "5-10 m",
+                "20-35 m",
+                "50-65 m"
+            ],
+            "correct_answer": "20-35 m"
+        },
+        {
+            "question": "Milyen belük nincs a medvéknek?",
+            "answers": [
+                "patkóbelük",
+                "végbelük",
+                "vakbelük"
+            ],
+            "correct_answer": "vakbelük"
+        },
+        {
+            "question": "Hány kg súlyú volt a legnagyobb, vadon élt oroszlán?",
+            "answers": [
+                "313 kg",
+                "287 kg",
+                "186 kg"
+            ],
+            "correct_answer": "313 kg"
+        },
+        {
+            "question": "Mi a szegycsont latin neve?",
+            "answers": [
+                "scapula",
+                "clavicula",
+                "sternum"
+            ],
+            "correct_answer": "sternum"
+        },
+        {
+            "question": "Melyik növény a sörfőzés alapanyaga?",
+            "answers": [
+                "árpa",
+                "lucerna",
+                "búza"
+            ],
+            "correct_answer": "árpa"
+        },
+        {
+            "question": "Melyik törzsbe tartozik a búza?",
+            "answers": [
+                "nyitvatermők",
+                "mohák",
+                "zárvatermők"
+            ],
+            "correct_answer": "zárvatermők"
+        },
+        {
+            "question": "Mivel táplálkozik a lajhár?",
+            "answers": [
+                "gyümölcsökkel",
+                "levelekkel",
+                "fűvel"
+            ],
+            "correct_answer": "levelekkel"
+        },
+        {
+            "question": "Melyik a burgonya népies neve?",
+            "answers": [
+                "pityóka",
+                "málé",
+                "tengeri"
+            ],
+            "correct_answer": "pityóka"
+        },
+        {
+            "question": "Melyik a Föld legnagyobb méretű rovara?",
+            "answers": [
+                "óriás szöcske",
+                "óriás botsáska",
+                "alföldi szitakötő"
+            ],
+            "correct_answer": "óriás botsáska"
+        },
+        {
+            "question": "Mi a vakond fő tápláléka?",
+            "answers": [
+                "giliszta",
+                "rovarok",
+                "gyümölcsök"
+            ],
+            "correct_answer": "giliszta"
+        },
+        {
+            "question": "A görögdinnye melyik családba tartozik?",
+            "answers": [
+                "dinnyefafélék",
+                "szőlőfélék",
+                "tökfélék"
+            ],
+            "correct_answer": "tökfélék"
+        },
+        {
+            "question": "Hogyan szaporodik az amőba?",
+            "answers": [
+                "mirtózissal",
+                "mitózissal",
+                "mintózissal"
+            ],
+            "correct_answer": "mitózissal"
+        },
+        {
+            "question": "Hol él a koala?",
+            "answers": [
+                "Afrikában",
+                "Ausztráliában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Ausztráliában"
+        },
+        {
+            "question": "Mi a deres tapló?",
+            "answers": [
+                "műveletlen ember",
+                "rovarféle",
+                "gombafajta"
+            ],
+            "correct_answer": "gombafajta"
+        },
+        {
+            "question": "Melyik a természetben előforduló legkeményebb ásvány?",
+            "answers": [
+                "ametiszt",
+                "gyémánt",
+                "gránát"
+            ],
+            "correct_answer": "gyémánt"
+        },
+        {
+            "question": "Minek az energiáját használják fel az élőlények fotoszintéziskor?",
+            "answers": [
+                "napfény",
+                "szél",
+                "hő"
+            ],
+            "correct_answer": "napfény"
+        },
+        {
+            "question": "Hány lába van a póknak?",
+            "answers": [
+                "8",
+                "6",
+                "4"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik törzsbe tartoznak a tengericsillagok?",
+            "answers": [
+                "előgerinchúrosok",
+                "tüskésbőrűek",
+                "csalánozók"
+            ],
+            "correct_answer": "tüskésbőrűek"
+        },
+        {
+            "question": "Mit vizsgálnak az EEG-vel?",
+            "answers": [
+                "agyat",
+                "szívet",
+                "vesét"
+            ],
+            "correct_answer": "agyat"
+        },
+        {
+            "question": "Milyen állat a bonobó?",
+            "answers": [
+                "majomfaj",
+                "madárfaj",
+                "hüllőfaj"
+            ],
+            "correct_answer": "majomfaj"
+        },
+        {
+            "question": "Melyik országban népszerű a rambután nevű gyümölcs?",
+            "answers": [
+                "Indiában",
+                "Indonéziában",
+                "Brazíliában"
+            ],
+            "correct_answer": "Indonéziában"
+        },
+        {
+            "question": "Hol található az orsócsont?",
+            "answers": [
+                "kéztőben",
+                "alkarban",
+                "felkarban"
+            ],
+            "correct_answer": "alkarban"
+        },
+        {
+            "question": "Hány évig élhet egy óriásteknős?",
+            "answers": [
+                "150-200 évig",
+                "200-250 évig",
+                "100-150 évig"
+            ],
+            "correct_answer": "150-200 évig"
+        },
+        {
+            "question": "Mitől narancssárga a répa?",
+            "answers": [
+                "alfa karotintól",
+                "béta karontintól",
+                "gamma karotintól"
+            ],
+            "correct_answer": "béta karontintól"
+        },
+        {
+            "question": "Hányszor erősebb a cápák szemlencséje az embernél?",
+            "answers": [
+                "3x",
+                "10x",
+                "7x"
+            ],
+            "correct_answer": "7x"
+        },
+        {
+            "question": "Mit jelent a tv szó, a tv paprikában?",
+            "answers": [
+                "televízió",
+                "tölteni való",
+                "télire való"
+            ],
+            "correct_answer": "tölteni való"
+        },
+        {
+            "question": "Mennyi a görögdinnye víztartalma?",
+            "answers": [
+                "90-95 %",
+                "80-85 %",
+                "50-60 %"
+            ],
+            "correct_answer": "90-95 %"
+        },
+        {
+            "question": "Hogy hívják az őz nőstényét?",
+            "answers": [
+                "suta",
+                "tehén",
+                "szuka"
+            ],
+            "correct_answer": "suta"
+        },
+        {
+            "question": "Honnan származik a napraforgó?",
+            "answers": [
+                "Afrikából",
+                "Dél-Amerikából",
+                "Észak-Amerikából"
+            ],
+            "correct_answer": "Észak-Amerikából"
+        },
+        {
+            "question": "Milyen állat a gangeszi gaviál?",
+            "answers": [
+                "hüllő",
+                "hal",
+                "madár"
+            ],
+            "correct_answer": "hüllő"
+        },
+        {
+            "question": "Melyik ország a világ legnagyobb banánexportőre?",
+            "answers": [
+                "Peru",
+                "Ecuador",
+                "Venezuela"
+            ],
+            "correct_answer": "Ecuador"
+        },
+        {
+            "question": "Mennyi ideig tart az európai mókus vemhessége?",
+            "answers": [
+                "56 nap",
+                "90 nap",
+                "38 nap"
+            ],
+            "correct_answer": "38 nap"
+        },
+        {
+            "question": "Mi a neve a hím kecskének?",
+            "answers": [
+                "bak",
+                "kan",
+                "kos"
+            ],
+            "correct_answer": "bak"
+        },
+        {
+            "question": "Melyik nem körtefajta?",
+            "answers": [
+                "Piros Vilmos",
+                "Téli esperes",
+                "Vista Bella"
+            ],
+            "correct_answer": "Vista Bella"
+        },
+        {
+            "question": "Kik a lajhárok legközelebbi rokonai?",
+            "answers": [
+                "ormányosok",
+                "övesállatok",
+                "hangyászok"
+            ],
+            "correct_answer": "hangyászok"
+        },
+        {
+            "question": "Mi a padlizsán másik elnevezése?",
+            "answers": [
+                "tojásgyümölcs",
+                "csillagtök",
+                "laskatök"
+            ],
+            "correct_answer": "tojásgyümölcs"
+        },
+        {
+            "question": "Melyik megyénkben termesztik a legtöbb sütőtököt?",
+            "answers": [
+                "Szabolcs-Szatmár-Bereg",
+                "Győr-Moson-Sopron",
+                "Borsod-Abaúj-Zemplén"
+            ],
+            "correct_answer": "Szabolcs-Szatmár-Bereg"
+        },
+        {
+            "question": "Hány méter hosszú a nagy ámbráscet?",
+            "answers": [
+                "20 m",
+                "10 m",
+                "50 m"
+            ],
+            "correct_answer": "20 m"
+        },
+        {
+            "question": "Melyik országban tisztelték szent növényként a fokhagymát?",
+            "answers": [
+                "Indiában",
+                "Egyiptomban",
+                "Kenyában"
+            ],
+            "correct_answer": "Egyiptomban"
+        },
+        {
+            "question": "Mi a fenyőpereszke?",
+            "answers": [
+                "fenyőfajta",
+                "gombafajta",
+                "paprikafajta"
+            ],
+            "correct_answer": "gombafajta"
+        },
+        {
+            "question": "Mekkora egy mosómedve?",
+            "answers": [
+                "40-55 cm",
+                "60-95 cm",
+                "120-140 cm"
+            ],
+            "correct_answer": "60-95 cm"
+        },
+        {
+            "question": "Melyik zöldség nem a brokkoli rokonai közé tartozik?",
+            "answers": [
+                "karalábé",
+                "karfiol",
+                "spárga"
+            ],
+            "correct_answer": "spárga"
+        },
+        {
+            "question": "Mi a rozsomák népies neve?",
+            "answers": [
+                "torkosnyúl",
+                "torkosborz",
+                "torkospocok"
+            ],
+            "correct_answer": "torkosborz"
+        },
+        {
+            "question": "Hány évig él egy szivárványos pisztráng?",
+            "answers": [
+                "4",
+                "12",
+                "7"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Milyen állat a süvöltő?",
+            "answers": [
+                "kétéltű",
+                "madárféle",
+                "farkasféle"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "Melyik családba tartozik a galagonya?",
+            "answers": [
+                "rózsafélék",
+                "szömörcefélék",
+                "mályvafélék"
+            ],
+            "correct_answer": "rózsafélék"
+        },
+        {
+            "question": "Mi a gyurgyalag másik elnevezése?",
+            "answers": [
+                "királymadár",
+                "méhészmadár",
+                "tüzesmadár"
+            ],
+            "correct_answer": "méhészmadár"
+        },
+        {
+            "question": "Mi Belgium hivatalos madara?",
+            "answers": [
+                "búbos banka",
+                "bajszos sármány",
+                "vörös vércse"
+            ],
+            "correct_answer": "vörös vércse"
+        },
+        {
+            "question": "Melyik madár volt 2000-ben Az év madara?",
+            "answers": [
+                "kerecsensólyom",
+                "parlagi sas",
+                "kanalasgém"
+            ],
+            "correct_answer": "kerecsensólyom"
+        },
+        {
+            "question": "Milyen állat a haris?",
+            "answers": [
+                "madárféle",
+                "halféle",
+                "rovarféle"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "A haris melyik évben volt Az év madara?",
+            "answers": [
+                "2016-ban",
+                "2013-ban",
+                "2010-ben"
+            ],
+            "correct_answer": "2016-ban"
+        },
+        {
+            "question": "Mi a búbos banka népies neve?",
+            "answers": [
+                "fostos bugybóka",
+                "fostos banka",
+                "fostos búbonyka"
+            ],
+            "correct_answer": "fostos bugybóka"
+        },
+        {
+            "question": "Melyik nem a bölömbika régi neve?",
+            "answers": [
+                "tavi bika",
+                "vízi bika",
+                "ökörbika"
+            ],
+            "correct_answer": "tavi bika"
+        },
+        {
+            "question": "Mi a tiszavirág?",
+            "answers": [
+                "rovar",
+                "növény",
+                "hüllő"
+            ],
+            "correct_answer": "rovar"
+        },
+        {
+            "question": "Hol található az ékcsont?",
+            "answers": [
+                "agykoponyában",
+                "alsó végtagon",
+                "fülben(hallócsont)"
+            ],
+            "correct_answer": "agykoponyában"
+        },
+        {
+            "question": "Melyik nem belső elválasztású mirigy?",
+            "answers": [
+                "nyálmirigy",
+                "hasnyálmirigy",
+                "pajzsmirigy"
+            ],
+            "correct_answer": "nyálmirigy"
+        },
+        {
+            "question": "Hány gramm átlagosan a szív súlya?",
+            "answers": [
+                "250-350 g",
+                "100-200 g",
+                "450-600 g"
+            ],
+            "correct_answer": "250-350 g"
+        },
+        {
+            "question": "Hány db nyaki csigolyánk van?",
+            "answers": [
+                "7",
+                "8",
+                "6"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Mi az óriáspöfeteg?",
+            "answers": [
+                "gombafajta",
+                "kigyófajta",
+                "madárfajta"
+            ],
+            "correct_answer": "gombafajta"
+        },
+        {
+            "question": "Mi a szegfűszeg őshazája?",
+            "answers": [
+                "Maluku-szigetek",
+                "Fülöp-szigetek",
+                "Malayzia"
+            ],
+            "correct_answer": "Maluku-szigetek"
+        },
+        {
+            "question": "Melyik növény a Bermuda-fű?",
+            "answers": [
+                "csillagpázsit",
+                "orvosi székfű",
+                "magyar sóvirág"
+            ],
+            "correct_answer": "csillagpázsit"
+        },
+        {
+            "question": "Melyik nem a kamilla másik elnevezése?",
+            "answers": [
+                "egérfarkfű",
+                "szikfű",
+                "bubulyka"
+            ],
+            "correct_answer": "egérfarkfű"
+        },
+        {
+            "question": "Melyik kontinensen él a jaguár?",
+            "answers": [
+                "Amerika",
+                "Afrika",
+                "Ausztrália"
+            ],
+            "correct_answer": "Amerika"
+        },
+        {
+            "question": "Hány karjuk van a polipoknak?",
+            "answers": [
+                "8",
+                "12",
+                "6"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik nem egy növényfaj?",
+            "answers": [
+                "gyurgyalag",
+                "borzas vértő",
+                "henye boroszlán"
+            ],
+            "correct_answer": "gyurgyalag"
+        },
+        {
+            "question": "Mi a gejzír?",
+            "answers": [
+                "melegvizes forrás",
+                "hidegvizes forrás",
+                "felszíni vízfolyás"
+            ],
+            "correct_answer": "melegvizes forrás"
+        },
+        {
+            "question": "Mi a szegycsont latin elnevezése?",
+            "answers": [
+                "sternum",
+                "costae",
+                "femur"
+            ],
+            "correct_answer": "sternum"
+        },
+        {
+            "question": "Milyen csont a holdascsont?",
+            "answers": [
+                "kéztő",
+                "kézközép",
+                "lábtő"
+            ],
+            "correct_answer": "kéztő"
+        },
+        {
+            "question": "Hova juttatják hormonjaikat a belső elválasztású mirigyek?",
+            "answers": [
+                "vérbe",
+                "bőrbe",
+                "nyálkahártyára"
+            ],
+            "correct_answer": "vérbe"
+        },
+        {
+            "question": "Melyik mirigy termeli az oxitocint?",
+            "answers": [
+                "agyalapi mirigy",
+                "pajzsmirigy",
+                "hasnyálmirigy"
+            ],
+            "correct_answer": "agyalapi mirigy"
+        },
+        {
+            "question": "Mi az izom latin elnevezése?",
+            "answers": [
+                "musculus",
+                "abdomen",
+                "hepar"
+            ],
+            "correct_answer": "musculus"
+        },
+        {
+            "question": "Melyik szerv betegsége a PTX?",
+            "answers": [
+                "tüdő",
+                "szív",
+                "agy"
+            ],
+            "correct_answer": "tüdő"
+        },
+        {
+            "question": "A gége melyik porcát nevezzük ádámcsutkának?",
+            "answers": [
+                "pajzsporcot",
+                "kannaporcot",
+                "gyűrűporcot"
+            ],
+            "correct_answer": "pajzsporcot"
+        },
+        {
+            "question": "Hány darab háti csigolyánk van?",
+            "answers": [
+                "12",
+                "10",
+                "15"
+            ],
+            "correct_answer": "12"
+        },
+        {
+            "question": "Hol helyezkedik el a gerincvelő?",
+            "answers": [
+                "gerinccsatornában",
+                "agyban",
+                "nyúltvelőben"
+            ],
+            "correct_answer": "gerinccsatornában"
+        },
+        {
+            "question": "Milyen színű a hóbagoly szeme?",
+            "answers": [
+                "sárga",
+                "zöld",
+                "barna"
+            ],
+            "correct_answer": "sárga"
+        },
+        {
+            "question": "Hány évig élhet egy királyalbatrosz?",
+            "answers": [
+                "58",
+                "16",
+                "44"
+            ],
+            "correct_answer": "58"
+        },
+        {
+            "question": "Apollón istennek mi volt a szent madara?",
+            "answers": [
+                "hattyú",
+                "gólya",
+                "galamb"
+            ],
+            "correct_answer": "hattyú"
+        },
+        {
+            "question": "Melyik kontinensen él a legtöbb kakadu?",
+            "answers": [
+                "Ausztrália",
+                "Afrika",
+                "Dél-Amerika"
+            ],
+            "correct_answer": "Ausztrália"
+        },
+        {
+            "question": "Melyik állatra hasonlít a nandu?",
+            "answers": [
+                "strucc",
+                "zebra",
+                "oroszlán"
+            ],
+            "correct_answer": "strucc"
+        },
+        {
+            "question": "Mi a kárókatona másik elnevezése?",
+            "answers": [
+                "kormorán",
+                "héja",
+                "flamingó"
+            ],
+            "correct_answer": "kormorán"
+        },
+        {
+            "question": "Mitől rózsaszín a flamingó?",
+            "answers": [
+                "garnélarákoktól",
+                "moszatoktól",
+                "piros algától"
+            ],
+            "correct_answer": "garnélarákoktól"
+        },
+        {
+            "question": "Milyen állat az őszapó?",
+            "answers": [
+                "madárféle",
+                "hüllő",
+                "rágcsáló"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "Hány tejfoga van egy embernek?",
+            "answers": [
+                "20",
+                "32",
+                "40"
+            ],
+            "correct_answer": "20"
+        },
+        {
+            "question": "Melyik állatot nevezik a tenger kaméleonjának?",
+            "answers": [
+                "tintahalat",
+                "polipot",
+                "rákot"
+            ],
+            "correct_answer": "tintahalat"
+        },
+        {
+            "question": "Hány tonna egy kék bálna?",
+            "answers": [
+                "173",
+                "125",
+                "98"
+            ],
+            "correct_answer": "173"
+        },
+        {
+            "question": "Mi a magyar természetvédelem címermadara?",
+            "answers": [
+                "nagy kócsag",
+                "gólya",
+                "fecske"
+            ],
+            "correct_answer": "nagy kócsag"
+        },
+        {
+            "question": "Mi a fülemüle másik elnevezése?",
+            "answers": [
+                "csalogány",
+                "cinege",
+                "pacsirta"
+            ],
+            "correct_answer": "csalogány"
+        },
+        {
+            "question": "Melyik madár rakja más fészkébe a tojását?",
+            "answers": [
+                "kakukk",
+                "csíz",
+                "fecske"
+            ],
+            "correct_answer": "kakukk"
+        },
+        {
+            "question": "Milyen állat terjeszti a sárgalázat?",
+            "answers": [
+                "szúnyog",
+                "cecelégy",
+                "darázs"
+            ],
+            "correct_answer": "szúnyog"
+        },
+        {
+            "question": "Mi a kromoszóma?",
+            "answers": [
+                "DNS molekula",
+                "betegség",
+                "emberi szerv"
+            ],
+            "correct_answer": "DNS molekula"
+        },
+        {
+            "question": "Hány vércsoport létezik?",
+            "answers": [
+                "négy",
+                "három",
+                "hat"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Milyen madárnak nevezik a csókát?",
+            "answers": [
+                "kéményseprő",
+                "hangutánzó",
+                "erdőkerülő"
+            ],
+            "correct_answer": "kéményseprő"
+        },
+        {
+            "question": "Milyen állat a barázdabillegető?",
+            "answers": [
+                "madár",
+                "hüllő",
+                "rovar"
+            ],
+            "correct_answer": "madár"
+        },
+        {
+            "question": "Mikor tört ki vulkán utoljára a Galápagos-szigeteken?",
+            "answers": [
+                "2005-ben",
+                "2010-ben",
+                "2001-ben"
+            ],
+            "correct_answer": "2005-ben"
+        },
+        {
+            "question": "Hány faja van a lótusznak?",
+            "answers": [
+                "kettő",
+                "tíz",
+                "harminc"
+            ],
+            "correct_answer": "kettő"
+        },
+        {
+            "question": "Mi a bengáli tigris másik elnevezése?",
+            "answers": [
+                "királytigris",
+                "tengeritigris",
+                "medvetigris"
+            ],
+            "correct_answer": "királytigris"
+        },
+        {
+            "question": "Milyen állat a gaur?",
+            "answers": [
+                "emlős",
+                "hüllő",
+                "madár"
+            ],
+            "correct_answer": "emlős"
+        },
+        {
+            "question": "Milyen hosszú egy százlábú?",
+            "answers": [
+                "30 cm",
+                "80 cm",
+                "10 cm"
+            ],
+            "correct_answer": "30 cm"
+        },
+        {
+            "question": "Mióta természetvédelmi terület a Fővárosi Állat- és Növénykert?",
+            "answers": [
+                "1986",
+                "1990",
+                "1993"
+            ],
+            "correct_answer": "1986"
+        },
+        {
+            "question": "Milyen állat a ratufa?",
+            "answers": [
+                "királymókus",
+                "házi egér",
+                "fokföldi nyúl"
+            ],
+            "correct_answer": "királymókus"
+        },
+        {
+            "question": "Mi a kedvenc tápláléka az erdei fülesbagolynak?",
+            "answers": [
+                "mezei pocok",
+                "házi patkány",
+                "nutria"
+            ],
+            "correct_answer": "mezei pocok"
+        },
+        {
+            "question": "Hol él a rozmár?",
+            "answers": [
+                "Északi-sarkon",
+                "Déli-sarkon",
+                "Amerikában"
+            ],
+            "correct_answer": "Északi-sarkon"
+        },
+        {
+            "question": "Hány méter hosszú a kék bálna?",
+            "answers": [
+                "30 m",
+                "100 m",
+                "45 m"
+            ],
+            "correct_answer": "30 m"
+        },
+        {
+            "question": "Mi a kardszárnyú delfin másik elnevezése?",
+            "answers": [
+                "orka",
+                "borka",
+                "rorka"
+            ],
+            "correct_answer": "orka"
+        },
+        {
+            "question": "Mennyi lehet a legnagyobb testsúlya egy barna medvének?",
+            "answers": [
+                "680 kg",
+                "230 kg",
+                "450 kg"
+            ],
+            "correct_answer": "680 kg"
+        },
+        {
+            "question": "Mi a jegesmedvék fő tápláléka?",
+            "answers": [
+                "fóka",
+                "halak",
+                "rozmár"
+            ],
+            "correct_answer": "fóka"
+        },
+        {
+            "question": "Hol honos a grizzly medve?",
+            "answers": [
+                "Észak-Amerikában",
+                "Dél-merikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Észak-Amerikában"
+        },
+        {
+            "question": "Mi a dromedár?",
+            "answers": [
+                "egypúpú teve",
+                "láma",
+                "alpaka"
+            ],
+            "correct_answer": "egypúpú teve"
+        },
+        {
+            "question": "Melyik a ma élő legnagyobb macskaféle?",
+            "answers": [
+                "tigris",
+                "oroszlán",
+                "jaguár"
+            ],
+            "correct_answer": "tigris"
+        },
+        {
+            "question": "Mi a fiatal ló elnevezése?",
+            "answers": [
+                "csikó",
+                "csődör",
+                "kanca"
+            ],
+            "correct_answer": "csikó"
+        },
+        {
+            "question": "Kiknek a jelképe a havasi gyopár?",
+            "answers": [
+                "női vadászok",
+                "női katonák",
+                "női hegymászók"
+            ],
+            "correct_answer": "női vadászok"
+        },
+        {
+            "question": "Hol honos az avokádó?",
+            "answers": [
+                "Közép-Amerikában",
+                "Dél-Amerikában",
+                "Afrikában"
+            ],
+            "correct_answer": "Közép-Amerikában"
+        },
+        {
+            "question": "Mi a lepketapló?",
+            "answers": [
+                "gombafaj",
+                "madárfaj",
+                "lepkefaj"
+            ],
+            "correct_answer": "gombafaj"
+        },
+        {
+            "question": "Hány gramm súlyú a lép?",
+            "answers": [
+                "150-200 g",
+                "400-500 g",
+                "350-400 g"
+            ],
+            "correct_answer": "150-200 g"
+        },
+        {
+            "question": "Milyen növényhez hasonlít a vese?",
+            "answers": [
+                "bab",
+                "borsó",
+                "brokkoli"
+            ],
+            "correct_answer": "bab"
+        },
+        {
+            "question": "Melyik kontinensen őshonos a bab?",
+            "answers": [
+                "Amerikában",
+                "Ázsiában",
+                "Afrikában"
+            ],
+            "correct_answer": "Amerikában"
+        },
+        {
+            "question": "Mi a csicseriborsó népies elnevezése?",
+            "answers": [
+                "bagolyborsó",
+                "királyborsó",
+                "darázsborsó"
+            ],
+            "correct_answer": "bagolyborsó"
+        },
+        {
+            "question": "Hány pár bordája van egy embernek?",
+            "answers": [
+                "12 pár",
+                "6 pár",
+                "8 pár"
+            ],
+            "correct_answer": "12 pár"
+        },
+        {
+            "question": "Milyen állat a szalamandra?",
+            "answers": [
+                "kétéltű",
+                "hüllő",
+                "hal"
+            ],
+            "correct_answer": "kétéltű"
+        },
+        {
+            "question": "Hány rétegből áll a bőr?",
+            "answers": [
+                "három",
+                "egy",
+                "négy"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Hány évig él egy lazac?",
+            "answers": [
+                "8-10",
+                "3-4",
+                "15-20"
+            ],
+            "correct_answer": "8-10"
+        },
+        {
+            "question": "Mi a Loch Ness-i szörny beceneve?",
+            "answers": [
+                "Nessie",
+                "Jessie",
+                "Loki"
+            ],
+            "correct_answer": "Nessie"
+        },
+        {
+            "question": "Hány évig élhet egy flamingó?",
+            "answers": [
+                "50",
+                "10",
+                "70"
+            ],
+            "correct_answer": "50"
+        },
+        {
+            "question": "Mi a pávafarkú salamonpecsét?",
+            "answers": [
+                "növényfaj",
+                "állatfaj",
+                "gombafaj"
+            ],
+            "correct_answer": "növényfaj"
+        },
+        {
+            "question": "Milyen színű a havasi cincér?",
+            "answers": [
+                "kék",
+                "sárga",
+                "vörös"
+            ],
+            "correct_answer": "kék"
+        },
+        {
+            "question": "Milyen állat a coboly?",
+            "answers": [
+                "menyétféle",
+                "hüllő",
+                "halfajta"
+            ],
+            "correct_answer": "menyétféle"
+        },
+        {
+            "question": "Milyen magas lehet egy olajfa?",
+            "answers": [
+                "8-15 m",
+                "3-5 m",
+                "20-30 m"
+            ],
+            "correct_answer": "8-15 m"
+        },
+        {
+            "question": "Mi a tasman ördög?",
+            "answers": [
+                "erszényes állat",
+                "hüllő",
+                "halfajta"
+            ],
+            "correct_answer": "erszényes állat"
+        },
+        {
+            "question": "Milyen állat a muréna?",
+            "answers": [
+                "halfajta",
+                "madárfajta",
+                "emlős"
+            ],
+            "correct_answer": "halfajta"
+        },
+        {
+            "question": "Mi a neve a nőstény lónak?",
+            "answers": [
+                "kanca",
+                "tehén",
+                "mén"
+            ],
+            "correct_answer": "kanca"
+        },
+        {
+            "question": "Mi a nadragulya?",
+            "answers": [
+                "mérgező növény",
+                "nadrág népiesen",
+                "állatok csoportja"
+            ],
+            "correct_answer": "mérgező növény"
+        },
+        {
+            "question": "Melyik kontinensen él a koala?",
+            "answers": [
+                "Ausztráliában",
+                "Ázsiában",
+                "Afrikában"
+            ],
+            "correct_answer": "Ausztráliában"
+        },
+        {
+            "question": "Mi a burgonya másik megnevezése a krumplin kívűl?",
+            "answers": [
+                "pityóka",
+                "makóka",
+                "pityike"
+            ],
+            "correct_answer": "pityóka"
+        },
+        {
+            "question": "Milyen gyümölcs a borfüge?",
+            "answers": [
+                "ribizli",
+                "málna",
+                "eper"
+            ],
+            "correct_answer": "ribizli"
+        },
+        {
+            "question": "Milyen madár a totojmász?",
+            "answers": [
+                "galamb",
+                "bagoly",
+                "gólya"
+            ],
+            "correct_answer": "galamb"
+        },
+        {
+            "question": "Hány madárfaj fordul elő Magyarországon?",
+            "answers": [
+                "400",
+                "5000",
+                "100"
+            ],
+            "correct_answer": "400"
+        },
+        {
+            "question": "Melyik kígyófélét nevezte régen a népnyelv kurta farkú kígyónak?",
+            "answers": [
+                "keresztes viperát",
+                "kockás pitont",
+                "nagy anakondát"
+            ],
+            "correct_answer": "keresztes viperát"
+        },
+        {
+            "question": "Honnan származik a sárgarépa?",
+            "answers": [
+                "Nyugat-Ázsiából",
+                "Dél-Amerikából",
+                "Európából"
+            ],
+            "correct_answer": "Nyugat-Ázsiából"
+        },
+        {
+            "question": "Mik okozzák a lisztharmatot?",
+            "answers": [
+                "gombák",
+                "baktériumok",
+                "vírusok"
+            ],
+            "correct_answer": "gombák"
+        },
+        {
+            "question": "Miknek a megnevezése az ázsiai tigrisek?",
+            "answers": [
+                "négy ázsiai állam",
+                "öt ázsiai folyó",
+                "hat ázsiai hegység"
+            ],
+            "correct_answer": "négy ázsiai állam"
+        },
+        {
+            "question": "Hol élnek az anakondák?",
+            "answers": [
+                "Dél-Amerikában",
+                "Dél-Afrikában",
+                "Ázsiában"
+            ],
+            "correct_answer": "Dél-Amerikában"
+        },
+        {
+            "question": "Mi a nőstény juh neve?",
+            "answers": [
+                "jerke",
+                "koca",
+                "tehén"
+            ],
+            "correct_answer": "jerke"
+        },
+        {
+            "question": "Mi a tengelic?",
+            "answers": [
+                "madárfaj",
+                "hüllőfaj",
+                "gombafaj"
+            ],
+            "correct_answer": "madárfaj"
+        },
+        {
+            "question": "Mi a korallok másik elnevezése?",
+            "answers": [
+                "virágállatok",
+                "bambuszállatok",
+                "királyállatok"
+            ],
+            "correct_answer": "virágállatok"
+        },
+        {
+            "question": "Milyen állat a petymeg?",
+            "answers": [
+                "emlős",
+                "kétéltű",
+                "madár"
+            ],
+            "correct_answer": "emlős"
+        },
+        {
+            "question": "A csüllő, melyik madárcsaládba tartozik?",
+            "answers": [
+                "sirályfélék",
+                "rigófélék",
+                "fecskefélék"
+            ],
+            "correct_answer": "sirályfélék"
+        },
+        {
+            "question": "Milyen növény a galagonya?",
+            "answers": [
+                "gyógynövény",
+                "mérgező növény",
+                "gyomnövény"
+            ],
+            "correct_answer": "gyógynövény"
+        },
+        {
+            "question": "Mi a rambután?",
+            "answers": [
+                "majomfaj",
+                "gyümölcs",
+                "hangszer"
+            ],
+            "correct_answer": "gyümölcs"
+        },
+        {
+            "question": "Hol él a puma?",
+            "answers": [
+                "Amerikában",
+                "Ausztráliában",
+                "Afrikában"
+            ],
+            "correct_answer": "Amerikában"
+        },
+        {
+            "question": "Melyik gyümölcs rokona a kökény?",
+            "answers": [
+                "szilva",
+                "eper",
+                "körte"
+            ],
+            "correct_answer": "szilva"
+        },
+        {
+            "question": "Honnan származik a naspolya?",
+            "answers": [
+                "Közép-Ázsiából",
+                "Közép-Amerikából",
+                "Ausztráliából"
+            ],
+            "correct_answer": "Közép-Ázsiából"
+        },
+        {
+            "question": "Mi a pomelo?",
+            "answers": [
+                "déligyümölcs",
+                "gyógynövény",
+                "emlősállat"
+            ],
+            "correct_answer": "déligyümölcs"
+        },
+        {
+            "question": "Milyen állat a folyami géb?",
+            "answers": [
+                "halfajta",
+                "hüllőfajta",
+                "kétéltű"
+            ],
+            "correct_answer": "halfajta"
+        },
+        {
+            "question": "Mekkora a leghosszabb uborka a Guinness Rekordok Könyvében?",
+            "answers": [
+                "119,38 cm",
+                "56,78 cm",
+                "234,56 cm"
+            ],
+            "correct_answer": "119,38 cm"
+        },
+        {
+            "question": "Melyik nem a puma másik elnevezése?",
+            "answers": [
+                "halászmacska",
+                "keguár",
+                "festett macska"
+            ],
+            "correct_answer": "halászmacska"
+        },
+        {
+            "question": "Melyik faj a rágcsálók legnagyobb képviselője?",
+            "answers": [
+                "vízidisznó",
+                "hód",
+                "mormota"
+            ],
+            "correct_answer": "vízidisznó"
+        },
+        {
+            "question": "Mi a gödény másik elnevezése?",
+            "answers": [
+                "pelikán",
+                "guvat",
+                "gulipán"
+            ],
+            "correct_answer": "pelikán"
+        },
+        {
+            "question": "Melyik faj nem a gyíkok alrendjébe tartozik?",
+            "answers": [
+                "vipera",
+                "agama",
+                "gekkó"
+            ],
+            "correct_answer": "vipera"
+        },
+        {
+            "question": "Milyen állat a lunda?",
+            "answers": [
+                "madár",
+                "emlős",
+                "kétéltű"
+            ],
+            "correct_answer": "madár"
+        },
+        {
+            "question": "Melyik növény másik elnevezése a földialma?",
+            "answers": [
+                "burgonya",
+                "tök",
+                "cukkini"
+            ],
+            "correct_answer": "burgonya"
+        },
+        {
+            "question": "Melyik gyümölcsre hasonlít a som?",
+            "answers": [
+                "szilva",
+                "szőlő",
+                "alma"
+            ],
+            "correct_answer": "szilva"
+        },
+        {
+            "question": "Milyen állat a bongó?",
+            "answers": [
+                "emlős",
+                "rovar",
+                "hal"
+            ],
+            "correct_answer": "emlős"
+        },
+        {
+            "question": "Hol élnek az oroszlánok?",
+            "answers": [
+                "Afrikában",
+                "Ausztráliában",
+                "Dél- Amerikában"
+            ],
+            "correct_answer": "Afrikában"
+        },
+        {
+            "question": "Kiről kapta nevét a Bonaparte-sirály?",
+            "answers": [
+                "egy ornitológusról",
+                "a francia császárról",
+                "egy városról"
+            ],
+            "correct_answer": "egy ornitológusról"
+        },
+        {
+            "question": "Melyik madár lett 2017-ben az „Az év madara”?",
+            "answers": [
+                "tengelic",
+                "gyurgyalag",
+                "sárgarigó"
+            ],
+            "correct_answer": "tengelic"
+        },
+        {
+            "question": "Mi a tengelic népi elnevezése?",
+            "answers": [
+                "stiglic",
+                "mézesmadár",
+                "királymadár"
+            ],
+            "correct_answer": "stiglic"
+        },
+        {
+            "question": "Mi volt 2008-ban az „Az év madara”?",
+            "answers": [
+                "kanalasgém",
+                "haris",
+                "széncinege"
+            ],
+            "correct_answer": "kanalasgém"
+        },
+        {
+            "question": "Milyen hosszú egy kacsacsőrű emlős?",
+            "answers": [
+                "50 cm",
+                "80 cm",
+                "20 cm"
+            ],
+            "correct_answer": "50 cm"
+        },
+        {
+            "question": "Mi a puma másik elnevezése?",
+            "answers": [
+                "hegyi oroszlán",
+                "hegyi tigris",
+                "barlangi oroszlán"
+            ],
+            "correct_answer": "hegyi oroszlán"
+        },
+        {
+            "question": "Milyen állat a szervál?",
+            "answers": [
+                "macskaféle",
+                "hüllő",
+                "madárféle"
+            ],
+            "correct_answer": "macskaféle"
+        },
+        {
+            "question": "Melyik állat lett 2017-ben az év emlőse?",
+            "answers": [
+                "mogyorós pele",
+                "keleti sün",
+                "ürge"
+            ],
+            "correct_answer": "mogyorós pele"
+        },
+        {
+            "question": "Melyik osztályba tartoznak a delfinek?",
+            "answers": [
+                "emlősök",
+                "porcos halak",
+                "csontos halak"
+            ],
+            "correct_answer": "emlősök"
+        },
+        {
+            "question": "Melyik gomba mérgező?",
+            "answers": [
+                "légyölő galóca",
+                "fenyőpereszke",
+                "erdei szegfűgomba"
+            ],
+            "correct_answer": "légyölő galóca"
+        },
+        {
+            "question": "Mi az Egyesült Államok nemzeti állata?",
+            "answers": [
+                "fehérfejű rétisas",
+                "oroszlán",
+                "főnix"
+            ],
+            "correct_answer": "fehérfejű rétisas"
+        },
+        {
+            "question": "Melyik nem mérgező növény?",
+            "answers": [
+                "fehér üröm",
+                "borostyán",
+                "boroszlán"
+            ],
+            "correct_answer": "fehér üröm"
+        },
+        {
+            "question": "Hogy hívják faluhelyen a mókust?",
+            "answers": [
+                "evet",
+                "musi",
+                "veti"
+            ],
+            "correct_answer": "evet"
+        },
+        {
+            "question": "Milyen állat az arapaima?",
+            "answers": [
+                "halfajta",
+                "hüllőfaj",
+                "madárféle"
+            ],
+            "correct_answer": "halfajta"
+        },
+        {
+            "question": "Hány csontja van egy újszülöttnek?",
+            "answers": [
+                "270 db",
+                "220 db",
+                "300 db"
+            ],
+            "correct_answer": "270 db"
+        },
+        {
+            "question": "Mi volt Steve Irwin, ausztrál természettudós beceneve?",
+            "answers": [
+                "Krokodilvadász",
+                "Oroszlánvadász",
+                "Fókakutató"
+            ],
+            "correct_answer": "Krokodilvadász"
+        },
+        {
+            "question": "Mi volt a neve a világ első klónozott emlősének?",
+            "answers": [
+                "Dolly",
+                "Molly",
+                "Gina"
+            ],
+            "correct_answer": "Dolly"
+        },
+        {
+            "question": "Milyen alakú a gyöngybagoly arca?",
+            "answers": [
+                "szív",
+                "csillag",
+                "felhő"
+            ],
+            "correct_answer": "szív"
+        },
+        {
+            "question": "Milyen iker állatbébik születtek nemrég a budapesti állatkertben?",
+            "answers": [
+                "zsiráfok",
+                "zebrák",
+                "kenguruk"
+            ],
+            "correct_answer": "zsiráfok"
+        },
+        {
+            "question": "Melyik ország a legnagyobb burgonyafogyasztó a világon?",
+            "answers": [
+                "Kína",
+                "Oroszország",
+                "USA"
+            ],
+            "correct_answer": "Kína"
+        },
+        {
+            "question": "Melyik hal lett 2017-ben az év hala?",
+            "answers": [
+                "harcsa",
+                "ponty",
+                "csuka"
+            ],
+            "correct_answer": "harcsa"
+        },
+        {
+            "question": "Mióta védett növény a hóvirág?",
+            "answers": [
+                "2005 óta",
+                "2000 óta",
+                "2008 óta"
+            ],
+            "correct_answer": "2005 óta"
+        },
+        {
+            "question": "Mi a mangó őshazája?",
+            "answers": [
+                "India",
+                "Japán",
+                "Indonézia"
+            ],
+            "correct_answer": "India"
+        },
+        {
+            "question": "Mi a padlizsán másik elnevezése?",
+            "answers": [
+                "tojásgyümölcs",
+                "tojásparadicsom",
+                "lilagyümölcs"
+            ],
+            "correct_answer": "tojásgyümölcs"
+        },
+        {
+            "question": "Mi Magyarország nemzeti állata?",
+            "answers": [
+                "Turul",
+                "Gólya",
+                "Gímszarvas"
+            ],
+            "correct_answer": "Turul"
+        },
+        {
+            "question": "Mivel táplálkozik a kék bálna?",
+            "answers": [
+                "rákokkal",
+                "csak halakkal",
+                "moszatokkal, algákkal"
+            ],
+            "correct_answer": "rákokkal"
+        },
+        {
+            "question": "Mi a neve a fekete gólyának, amely elsőként megérkezett a Gemenci erdőbe?",
+            "answers": [
+                "Tóbiás",
+                "Kele",
+                "Szigfrid"
+            ],
+            "correct_answer": "Tóbiás"
+        },
+        {
+            "question": "Mi a tárnics, vagy encián?",
+            "answers": [
+                "növényfajta",
+                "madárféle",
+                "déligyümölcs"
+            ],
+            "correct_answer": "növényfajta"
+        },
+        {
+            "question": "Melyik évszakban virágzik a tulipán?",
+            "answers": [
+                "tavasszal",
+                "nyáron",
+                "ősszel"
+            ],
+            "correct_answer": "tavasszal"
+        },
+        {
+            "question": "Melyik a legnagyobb méretű élő cápafaj?",
+            "answers": [
+                "cetcápa",
+                "tigriscápa",
+                "rókacápa"
+            ],
+            "correct_answer": "cetcápa"
+        },
+        {
+            "question": "Melyik szervünkre van jó hatással a galagonya?",
+            "answers": [
+                "szív",
+                "máj",
+                "vese"
+            ],
+            "correct_answer": "szív"
+        },
+        {
+            "question": "Hány gramm testömegű egy fekete gólya?",
+            "answers": [
+                "3000",
+                "2000",
+                "5000"
+            ],
+            "correct_answer": "3000"
+        },
+        {
+            "question": "Hány méter magas egy narancsfa?",
+            "answers": [
+                "8 m",
+                "16 m",
+                "23 m"
+            ],
+            "correct_answer": "8 m"
+        },
+        {
+            "question": "Hány db csontból áll az agykoponya?",
+            "answers": [
+                "8",
+                "12",
+                "4"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik állatrendszertani osztályba tartozik a tengeri macska?",
+            "answers": [
+                "porcos halak",
+                "emlősök",
+                "hüllők"
+            ],
+            "correct_answer": "porcos halak"
+        },
+        {
+            "question": "Mikor alakult meg a Neoton együttes?",
+            "answers": [
+                "1965-ben",
+                "1973-ban",
+                "1968-ban"
+            ],
+            "correct_answer": "1965-ben"
+        },
+        {
+            "question": "Mi csillaggyümölcs másik neve?",
+            "answers": [
+                "karambola",
+                "avokádó",
+                "jujuba"
+            ],
+            "correct_answer": "karambola"
+        },
+        {
+            "question": "Meddig élhet egy flamingó?",
+            "answers": [
+                "20-30 évig",
+                "60-70 évig",
+                "5-6 évig"
+            ],
+            "correct_answer": "20-30 évig"
+        },
+        {
+            "question": "Mi a kakukkfű népies neve?",
+            "answers": [
+                "balzsamfű",
+                "ezerjófű",
+                "édesfű"
+            ],
+            "correct_answer": "balzsamfű"
+        },
+        {
+            "question": "Mi lett az év vadvirága 2017-ben?",
+            "answers": [
+                "hóvirág",
+                "mocsári kockásliliom",
+                "szibériai nőszirom"
+            ],
+            "correct_answer": "hóvirág"
+        },
+        {
+            "question": "Melyik a legkisebb medvefaj?",
+            "answers": [
+                "maláj medve",
+                "fekete medve",
+                "örvös medve"
+            ],
+            "correct_answer": "maláj medve"
+        },
+        {
+            "question": "Milyen fajtájú volt Kincsem, a versenyló?",
+            "answers": [
+                "angol telivér",
+                "musztáng",
+                "lipicai ló"
+            ],
+            "correct_answer": "angol telivér"
+        },
+        {
+            "question": "Milyen hosszú egy pápaszemes kobra?",
+            "answers": [
+                "1,9 méter",
+                "2,6 méter",
+                "3,7 méter"
+            ],
+            "correct_answer": "1,9 méter"
+        },
+        {
+            "question": "Milyen állat a pakarána?",
+            "answers": [
+                "rágcsáló",
+                "hüllő",
+                "madár"
+            ],
+            "correct_answer": "rágcsáló"
+        },
+        {
+            "question": "Mi Brazília nemzeti állata?",
+            "answers": [
+                "arapapagáj",
+                "bengáli tigris",
+                "királykobra"
+            ],
+            "correct_answer": "arapapagáj"
+        },
+        {
+            "question": "Melyik a legnagyobb termetű gyíkfaj?",
+            "answers": [
+                "komodói varánusz",
+                "homoki gyík",
+                "telepes agáma"
+            ],
+            "correct_answer": "komodói varánusz"
+        },
+        {
+            "question": "Kb. hány éves a világ legidősebb élőlénye a Matuzsálem-fa?",
+            "answers": [
+                "4843-4844",
+                "3243-3244",
+                "5678-5679"
+            ],
+            "correct_answer": "4843-4844"
+        },
+        {
+            "question": "Melyik a világ legkisebb madara?",
+            "answers": [
+                "méhkolibri",
+                "bölömbika",
+                "ökörszem-cinege"
+            ],
+            "correct_answer": "méhkolibri"
+        },
+        {
+            "question": "Mikor született Kincsem a „csodakanca”?",
+            "answers": [
+                "1874. március 17-én",
+                "1897. március 17-én",
+                "1923. március 17-én"
+            ],
+            "correct_answer": "1874. március 17-én"
+        },
+        {
+            "question": "Ki volt Kincsem tulajdonosa?",
+            "answers": [
+                "Blaskovich Ernő",
+                "Blaskovich Bertalan",
+                "Hesp Róbert"
+            ],
+            "correct_answer": "Blaskovich Ernő"
+        },
+        {
+            "question": "Mi a magnólia?",
+            "answers": [
+                "liliomfa",
+                "déligyümölcs",
+                "pengetős hangszer"
+            ],
+            "correct_answer": "liliomfa"
+        },
+        {
+            "question": "Milyen állat az addax?",
+            "answers": [
+                "antilop",
+                "krokodil",
+                "jaguár"
+            ],
+            "correct_answer": "antilop"
+        },
+        {
+            "question": "Mi a medvehagyma népies neve?",
+            "answers": [
+                "kígyóhagyma",
+                "disznóhagyma",
+                "majomhagyma"
+            ],
+            "correct_answer": "kígyóhagyma"
+        },
+        {
+            "question": "Milyen állat a szkunk?",
+            "answers": [
+                "bűzösborz",
+                "mormota",
+                "hód"
+            ],
+            "correct_answer": "bűzösborz"
+        },
+        {
+            "question": "A csigák melyik törzsbe tartoznak?",
+            "answers": [
+                "puhatestűek",
+                "ízeltlábúak",
+                "gerinchúrosok"
+            ],
+            "correct_answer": "puhatestűek"
+        },
+        {
+            "question": "Melyek a nílusi víziló legközelebbi rokonai?",
+            "answers": [
+                "cetek",
+                "lovak",
+                "disznók"
+            ],
+            "correct_answer": "cetek"
+        },
+        {
+            "question": "Milyen állat a tarajos sül?",
+            "answers": [
+                "rágcsáló",
+                "hüllő",
+                "madár"
+            ],
+            "correct_answer": "rágcsáló"
+        },
+        {
+            "question": "Milyen állat a halfarkas?",
+            "answers": [
+                "madár",
+                "csontos hal",
+                "emlős"
+            ],
+            "correct_answer": "madár"
+        },
+        {
+            "question": "Melyik állat dorombol még a macskán kívűl?",
+            "answers": [
+                "gepárd",
+                "leopárd",
+                "jaguár"
+            ],
+            "correct_answer": "gepárd"
+        },
+        {
+            "question": "Hány lába van a szúnyognak?",
+            "answers": [
+                "6",
+                "8",
+                "12"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Hol találhatók a Langerhans-szigetek?",
+            "answers": [
+                "az emberi testben",
+                "a Csendes-óceánban",
+                "a Földközi-tengerben"
+            ],
+            "correct_answer": "az emberi testben"
+        },
+        {
+            "question": "Mi a jujuba?",
+            "answers": [
+                "kínai datolya",
+                "feketeribizli",
+                "sárkánygyümölcs"
+            ],
+            "correct_answer": "kínai datolya"
+        },
+        {
+            "question": "Mi a szurikáta szó jelentése?",
+            "answers": [
+                "\"szirti macska\"",
+                "\"erdei macska\"",
+                "\"mezei mongúz\""
+            ],
+            "correct_answer": "\"szirti macska\""
+        },
+        {
+            "question": "Milyen állat a languszta?",
+            "answers": [
+                "rák",
+                "kagyló",
+                "csiga"
+            ],
+            "correct_answer": "rák"
+        },
+        {
+            "question": "Mi a sárgarigó régies elnevezése?",
+            "answers": [
+                "aranymálinkó",
+                "csalogány",
+                "méhészmadár"
+            ],
+            "correct_answer": "aranymálinkó"
+        },
+        {
+            "question": "Melyik a legnagyobb testű madárfaj?",
+            "answers": [
+                "strucc",
+                "pulyka",
+                "sas"
+            ],
+            "correct_answer": "strucc"
+        },
+        {
+            "question": "Hol található a csarnokvíz?",
+            "answers": [
+                "a szemben",
+                "az uszodában",
+                "a tengerben"
+            ],
+            "correct_answer": "a szemben"
+        },
+        {
+            "question": "Melyik állat a katta?",
+            "answers": [
+                "gyűrűsfarkú maki",
+                "cerkófmajom",
+                "fekete kajmán"
+            ],
+            "correct_answer": "gyűrűsfarkú maki"
+        },
+        {
+            "question": "Melyik kontinens zöldsége az okra?",
+            "answers": [
+                "Afrika",
+                "Amerika",
+                "Ázsia"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Melyik egy létező nyúlfajta?",
+            "answers": [
+                "hócipős nyúl",
+                "pókerarcú nyúl",
+                "pápaszemes nyúl"
+            ],
+            "correct_answer": "hócipős nyúl"
+        },
+        {
+            "question": "Milyen állat a fürge cselle?",
+            "answers": [
+                "pontyféle",
+                "békaféle",
+                "gyíkféle"
+            ],
+            "correct_answer": "pontyféle"
+        },
+        {
+            "question": "Mi a hipertónia?",
+            "answers": [
+                "magas vérnyomás",
+                "alacsony vérnyomás",
+                "viselkedési zavar"
+            ],
+            "correct_answer": "magas vérnyomás"
+        },
+        {
+            "question": "Mi a párducmacska másik neve?",
+            "answers": [
+                "ocelot",
+                "oncilla",
+                "szervál"
+            ],
+            "correct_answer": "ocelot"
+        },
+        {
+            "question": "Melyik bogarat hívjuk bumbumbácsinak?",
+            "answers": [
+                "hétpettyes katicabogarat",
+                "szarvasbogarat",
+                "óriáscsibort"
+            ],
+            "correct_answer": "hétpettyes katicabogarat"
+        },
+        {
+            "question": "Melyik családba tartozik a hiúz?",
+            "answers": [
+                "macskafélék",
+                "hiénafélék",
+                "medvefélék"
+            ],
+            "correct_answer": "macskafélék"
+        },
+        {
+            "question": "Mi az óriáspanda másik elnevezése?",
+            "answers": [
+                "bambuszmedve",
+                "pápaszemes medve",
+                "farkasmedve"
+            ],
+            "correct_answer": "bambuszmedve"
+        },
+        {
+            "question": "Mi a kacsafarkú szender?",
+            "answers": [
+                "lepkefaj",
+                "madárfaj",
+                "gyíkfaj"
+            ],
+            "correct_answer": "lepkefaj"
+        },
+        {
+            "question": "Melyik nem egy létező teknősfaj?",
+            "answers": [
+                "nyúlfülű teknős",
+                "malacképű teknős",
+                "merevmellű sisakteknős"
+            ],
+            "correct_answer": "nyúlfülű teknős"
+        },
+        {
+            "question": "Melyik nem egy almafajta?",
+            "answers": [
+                "laska",
+                "rubinola",
+                "starking"
+            ],
+            "correct_answer": "laska"
+        },
+        {
+            "question": "Milyen állat a zöld acsa?",
+            "answers": [
+                "szitakötő",
+                "pillangó",
+                "gyík"
+            ],
+            "correct_answer": "szitakötő"
+        },
+        {
+            "question": "Hány liter vére van átlagosan egy embernek?",
+            "answers": [
+                "5 liter",
+                "8 liter",
+                "3 liter"
+            ],
+            "correct_answer": "5 liter"
+        },
+        {
+            "question": "Milyen állat a szárcsa?",
+            "answers": [
+                "madárféle",
+                "halféle",
+                "emlős"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "Melyik mirigy termeli az inzulint?",
+            "answers": [
+                "hasnyálmirigy",
+                "pajzsmirigy",
+                "agyalapi mirigy"
+            ],
+            "correct_answer": "hasnyálmirigy"
+        },
+        {
+            "question": "Milyen fűszernövény kerül az asztalra Húsvétkor?",
+            "answers": [
+                "torma",
+                "gyömbér",
+                "kapor"
+            ],
+            "correct_answer": "torma"
+        },
+        {
+            "question": "Milyen állatokat őrzött a kondás?",
+            "answers": [
+                "disznót",
+                "juhokat",
+                "marhát"
+            ],
+            "correct_answer": "disznót"
+        },
+        {
+            "question": "Melyik nem a sárkánygyümölcs másik neve?",
+            "answers": [
+                "csillaggyümölcs",
+                "kaktuszgyümölcs",
+                "pitaja"
+            ],
+            "correct_answer": "csillaggyümölcs"
+        },
+        {
+            "question": "Milyen állat a bongó?",
+            "answers": [
+                "párosujjú patás",
+                "hüllő",
+                "rágcsáló"
+            ],
+            "correct_answer": "párosujjú patás"
+        },
+        {
+            "question": "Melyik a ma élő legnagyobb macskaféle?",
+            "answers": [
+                "tigris",
+                "oroszlán",
+                "jaguár"
+            ],
+            "correct_answer": "tigris"
+        },
+        {
+            "question": "Mivel lehet összetéveszteni a medvehagymát?",
+            "answers": [
+                "gyöngyvirággal",
+                "berkenyével",
+                "körömvirággal"
+            ],
+            "correct_answer": "gyöngyvirággal"
+        },
+        {
+            "question": "Hány csontból áll az emberi test?",
+            "answers": [
+                "206",
+                "146",
+                "187"
+            ],
+            "correct_answer": "206"
+        },
+        {
+            "question": "Mi a jukka másik elnevezése?",
+            "answers": [
+                "pálmaliliom",
+                "fügefa",
+                "datolyapálma"
+            ],
+            "correct_answer": "pálmaliliom"
+        },
+        {
+            "question": "Hány karjuk van a polipoknak?",
+            "answers": [
+                "8",
+                "12",
+                "6"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik szerv betegsége a PTX?",
+            "answers": [
+                "tüdő",
+                "szív",
+                "agy"
+            ],
+            "correct_answer": "tüdő"
+        },
+        {
+            "question": "Melyik növény a vadfokhagyma?",
+            "answers": [
+                "medvehagyma",
+                "spárga",
+                "gyöngyhagyma"
+            ],
+            "correct_answer": "medvehagyma"
+        },
+        {
+            "question": "Milyen állat az aranykezű tamarin?",
+            "answers": [
+                "majomféle",
+                "párosujjú patás",
+                "kétéltű"
+            ],
+            "correct_answer": "majomféle"
+        },
+        {
+            "question": "Mennyi a normális vércukorszint?",
+            "answers": [
+                "3,9-6,1 mmol/l",
+                "7,8-11,0 mmol/l",
+                "6-8 mmol/l"
+            ],
+            "correct_answer": "3,9-6,1 mmol/l"
+        },
+        {
+            "question": "Hol található a karaj a sertésen?",
+            "answers": [
+                "gerincén",
+                "combján",
+                "fején"
+            ],
+            "correct_answer": "gerincén"
+        },
+        {
+            "question": "Milyen állat a fokföldi szula?",
+            "answers": [
+                "madárféle",
+                "emlős",
+                "hüllő"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "Hány üregű az emberi szív?",
+            "answers": [
+                "négy",
+                "három",
+                "kettő"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Melyik egy létező delfinfaj?",
+            "answers": [
+                "pápaszemes disznódelfin",
+                "kacsacsőrű delfin",
+                "barázdás disznódelfin"
+            ],
+            "correct_answer": "pápaszemes disznódelfin"
+        },
+        {
+            "question": "Melyik kémiai elemnek a legnagyobb a tömege?",
+            "answers": [
+                "higany",
+                "platina",
+                "cink"
+            ],
+            "correct_answer": "higany"
+        },
+        {
+            "question": "Hány pár bordája van egy embernek?",
+            "answers": [
+                "12 pár",
+                "6 pár",
+                "9 pár"
+            ],
+            "correct_answer": "12 pár"
+        },
+        {
+            "question": "Hány csontja van egy újszülöttnek?",
+            "answers": [
+                "270",
+                "210",
+                "160"
+            ],
+            "correct_answer": "270"
+        },
+        {
+            "question": "Melyik növénycsaládba tartozik a paradicsom?",
+            "answers": [
+                "burgonyafélék",
+                "tökfélék",
+                "pillangósvirágúak"
+            ],
+            "correct_answer": "burgonyafélék"
+        },
+        {
+            "question": "Melyik állat terjeszti a sárgalázat?",
+            "answers": [
+                "szúnyog",
+                "cecelégy",
+                "darázs"
+            ],
+            "correct_answer": "szúnyog"
+        },
+        {
+            "question": "Mennyi az elefántok vemhességi ideje?",
+            "answers": [
+                "22 hónap",
+                "12 hónap",
+                "9 hónap"
+            ],
+            "correct_answer": "22 hónap"
+        },
+        {
+            "question": "Melyik vitamin hiánya okozza az angolkórt?",
+            "answers": [
+                "D-vitamin",
+                "C-vitamin",
+                "E-vitamin"
+            ],
+            "correct_answer": "D-vitamin"
+        },
+        {
+            "question": "Milyen állat a pálmatolvaj?",
+            "answers": [
+                "rákféle",
+                "majomféle",
+                "madárféle"
+            ],
+            "correct_answer": "rákféle"
+        },
+        {
+            "question": "Mi a szegfűszeg őshazája?",
+            "answers": [
+                "Maluku-szigetek",
+                "Fülöp-szigetek",
+                "Malayzia"
+            ],
+            "correct_answer": "Maluku-szigetek"
+        },
+        {
+            "question": "Milyen csont a holdascsont?",
+            "answers": [
+                "kéztő",
+                "kézközép",
+                "lábtő"
+            ],
+            "correct_answer": "kéztő"
+        },
+        {
+            "question": "Melyik kontinensen él a legtöbb kakadu?",
+            "answers": [
+                "Ausztrália",
+                "Afrika",
+                "Dél-Amerika"
+            ],
+            "correct_answer": "Ausztrália"
+        },
+        {
+            "question": "Melyik hal lett 2017-ben az év hala?",
+            "answers": [
+                "harcsa",
+                "ponty",
+                "csuka"
+            ],
+            "correct_answer": "harcsa"
+        },
+        {
+            "question": "Mit vizsgálnak az EEG-vel?",
+            "answers": [
+                "agyat",
+                "szívet",
+                "vesét"
+            ],
+            "correct_answer": "agyat"
+        },
+        {
+            "question": "Hány cm testhosszú lehet egy fehér gólya?",
+            "answers": [
+                "100-115 cm",
+                "145-150 cm",
+                "125-140 cm"
+            ],
+            "correct_answer": "100-115 cm"
+        },
+        {
+            "question": "Mi a puma másik elnevezése?",
+            "answers": [
+                "hegyi oroszlán",
+                "hegyi tigris",
+                "barlangi oroszlán"
+            ],
+            "correct_answer": "hegyi oroszlán"
+        },
+        {
+            "question": "Mi Magyarország nemzeti állata?",
+            "answers": [
+                "Turul",
+                "Gólya",
+                "Gímszarvas"
+            ],
+            "correct_answer": "Turul"
+        },
+        {
+            "question": "Mi volt a neve a világ első klónozott emlősének?",
+            "answers": [
+                "Dolly",
+                "Molly",
+                "Gina"
+            ],
+            "correct_answer": "Dolly"
+        },
+        {
+            "question": "Mit jelent a tv a tv paprikában?",
+            "answers": [
+                "tölteni való",
+                "televízió",
+                "télire való"
+            ],
+            "correct_answer": "tölteni való"
+        },
+        {
+            "question": "Milyen állat van Grönland címerén?",
+            "answers": [
+                "jegesmedve",
+                "fóka",
+                "delfin"
+            ],
+            "correct_answer": "jegesmedve"
+        },
+        {
+            "question": "Milyen állat a petymeg?",
+            "answers": [
+                "emlős",
+                "kétéltű",
+                "madár"
+            ],
+            "correct_answer": "emlős"
+        },
+        {
+            "question": "Melyik főzelékbe kell babérlevelet rakni?",
+            "answers": [
+                "krumpli",
+                "tök",
+                "zöldbab"
+            ],
+            "correct_answer": "krumpli"
+        },
+        {
+            "question": "Milyen állat a süvöltő?",
+            "answers": [
+                "madárféle",
+                "kétéltű",
+                "farkasféle"
+            ],
+            "correct_answer": "madárféle"
+        },
+        {
+            "question": "Melyik nem mérgező növény?",
+            "answers": [
+                "fehér üröm",
+                "borostyán",
+                "boroszlán"
+            ],
+            "correct_answer": "fehér üröm"
+        },
+        {
+            "question": "Milyen állat az arapaima?",
+            "answers": [
+                "hal",
+                "hüllő",
+                "madár"
+            ],
+            "correct_answer": "hal"
+        },
+        {
+            "question": "Milyen állat a bodorka?",
+            "answers": [
+                "hal",
+                "hüllő",
+                "madár"
+            ],
+            "correct_answer": "hal"
+        },
+        {
+            "question": "Melyik állat régi magyar elnevezése a tevepárduc?",
+            "answers": [
+                "zsiráf",
+                "tigris",
+                "zebra"
+            ],
+            "correct_answer": "zsiráf"
+        },
+        {
+            "question": "Hol található a tobozmirigy az emberi testben?",
+            "answers": [
+                "az agyban",
+                "a mellkasban",
+                "a vese fölött"
+            ],
+            "correct_answer": "az agyban"
+        },
+        {
+            "question": "Melyik nem egy lófajta?",
+            "answers": [
+                "akita",
+                "nóniusz",
+                "musztáng"
+            ],
+            "correct_answer": "akita"
+        },
+        {
+            "question": "Hol honos a hópárduc?",
+            "answers": [
+                "Közép-Ázsiában",
+                "Afrikában",
+                "Dél-Amerikában"
+            ],
+            "correct_answer": "Közép-Ázsiában"
+        },
+        {
+            "question": "Mi volt 2017-ben az „Év madara”?",
+            "answers": [
+                "tengelic",
+                "gyurgyalag",
+                "széncinege"
+            ],
+            "correct_answer": "tengelic"
+        },
+        {
+            "question": "Hol található az emberi testben az ékcsont?",
+            "answers": [
+                "koponyában",
+                "mellkasban",
+                "combban"
+            ],
+            "correct_answer": "koponyában"
+        },
+        {
+            "question": "Milyen színű a maláj medve?",
+            "answers": [
+                "fekete",
+                "barna",
+                "fehér"
+            ],
+            "correct_answer": "fekete"
+        },
+        {
+            "question": "Milyen állat a közönséges rinya?",
+            "answers": [
+                "százlábú",
+                "madár",
+                "rágcsáló"
+            ],
+            "correct_answer": "százlábú"
+        },
+        {
+            "question": "Melyik osztályba tartozik a krokodil?",
+            "answers": [
+                "hüllők",
+                "kétéltűek",
+                "halak"
+            ],
+            "correct_answer": "hüllők"
+        },
+        {
+            "question": "Hol található a csecsemőmirigy az emberi testben?",
+            "answers": [
+                "mellkasban",
+                "nyakban",
+                "koponyában"
+            ],
+            "correct_answer": "mellkasban"
+        },
+        {
+            "question": "Megközelítőleg hány kígyófaj létezik a Földön?",
+            "answers": [
+                "2400",
+                "800",
+                "1600"
+            ],
+            "correct_answer": "2400"
+        },
+        {
+            "question": "Milyen élőlény a közönséges magyal?",
+            "answers": [
+                "növény",
+                "rovar",
+                "madár"
+            ],
+            "correct_answer": "növény"
+        },
+        {
+            "question": "Milyen állat a hermelin?",
+            "answers": [
+                "emlős",
+                "rovar",
+                "hüllő"
+            ],
+            "correct_answer": "emlős"
+        },
+        {
+            "question": "Hol élnek a rozmárok?",
+            "answers": [
+                "az Északi-sarkon",
+                "a Déli-sarkon",
+                "Dél-Amerikában"
+            ],
+            "correct_answer": "az Északi-sarkon"
+        },
+        {
+            "question": "Hány maradandó foga van egy kutyának?",
+            "answers": [
+                "42",
+                "38",
+                "36"
+            ],
+            "correct_answer": "42"
+        },
+        {
+            "question": "Hány liter vizet fogyaszt naponta egy afrikai elefánt?",
+            "answers": [
+                "300 liter",
+                "70 liter",
+                "160 liter"
+            ],
+            "correct_answer": "300 liter"
+        },
+        {
+            "question": "Melyik állat fluoreszkál ultraibolya fényben?",
+            "answers": [
+                "skorpió",
+                "szitakötő",
+                "szentjánosbogár"
+            ],
+            "correct_answer": "skorpió"
+        },
+        {
+            "question": "Melyik családba tartozik a paradicsom?",
+            "answers": [
+                "burgonyafélék",
+                "tökfélék",
+                "pillangósvirágúak"
+            ],
+            "correct_answer": "burgonyafélék"
+        },
+        {
+            "question": "Melyik a legnagyobb bogárfaj?",
+            "answers": [
+                "óriáscincér",
+                "szentjánosbogár",
+                "csótány"
+            ],
+            "correct_answer": "óriáscincér"
+        },
+        {
+            "question": "Mi január virága?",
+            "answers": [
+                "hóvirág",
+                "árvácska",
+                "írisz"
+            ],
+            "correct_answer": "hóvirág"
+        },
+        {
+            "question": "Mi a borbolya?",
+            "answers": [
+                "növényféle",
+                "halféle",
+                "emlősállat"
+            ],
+            "correct_answer": "növényféle"
+        },
+        {
+            "question": "Milyen állatfajta a mangalica?",
+            "answers": [
+                "disznó",
+                "kacsa",
+                "ló"
+            ],
+            "correct_answer": "disznó"
+        },
+        {
+            "question": "Hol található az emberi testben a deltaizom?",
+            "answers": [
+                "vállban",
+                "nyakban",
+                "fülben"
+            ],
+            "correct_answer": "vállban"
+        },
+        {
+            "question": "Melyik madarat választották 2018-ban az \"Év madarának\"?",
+            "answers": [
+                "vándorsólyom",
+                "kanalasgém",
+                "gyurgyalag"
+            ],
+            "correct_answer": "vándorsólyom"
+        },
+        {
+            "question": "Hány méterre nőhet egy erdeifenyő?",
+            "answers": [
+                "40 m",
+                "100 m",
+                "80 m"
+            ],
+            "correct_answer": "40 m"
+        },
+        {
+            "question": "Melyik az emberi test leghosszabb izma?",
+            "answers": [
+                "szabóizom",
+                "rekeszizom",
+                "trapézizom"
+            ],
+            "correct_answer": "szabóizom"
+        },
+        {
+            "question": "Hányféle vércsoport létezik?",
+            "answers": [
+                "négy",
+                "öt",
+                "három"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Mi az artéria?",
+            "answers": [
+                "verőér",
+                "gyüjtőér",
+                "hajszálér"
+            ],
+            "correct_answer": "verőér"
+        },
+        {
+            "question": "Melyik állatok gyűjtik be a mézet?",
+            "answers": [
+                "méhek",
+                "hangyák",
+                "darazsak"
+            ],
+            "correct_answer": "méhek"
+        },
+        {
+            "question": "Milyen élőlény a vízi rucaöröm?",
+            "answers": [
+                "páfrányféle",
+                "halféle",
+                "kétéltű állat"
+            ],
+            "correct_answer": "páfrányféle"
+        },
+        {
+            "question": "Mi nem kell a lencsefőzelék elkészítéséhez?",
+            "answers": [
+                "tojás",
+                "tejföl",
+                "babérlevél"
+            ],
+            "correct_answer": "tojás"
+        },
+        {
+            "question": "Mi a mangosztán?",
+            "answers": [
+                "gyümölcs",
+                "gombafaj",
+                "vízi állat"
+            ],
+            "correct_answer": "gyümölcs"
+        },
+        {
+            "question": "Milyen állatokat őrzött a gulyás?",
+            "answers": [
+                "marhákat",
+                "disznókat",
+                "juhokat"
+            ],
+            "correct_answer": "marhákat"
+        },
+        {
+            "question": "Mit vizsgálnak az EEG-vel?",
+            "answers": [
+                "agyat",
+                "szívet",
+                "vesét"
+            ],
+            "correct_answer": "agyat"
+        },
+        {
+            "question": "Mikor születtek a Z generáció tagjai?",
+            "answers": [
+                "2000 után",
+                "1960 és 1979 között",
+                "1980 és 1999 között"
+            ],
+            "correct_answer": "2000 után"
+        },
+        {
+            "question": "Melyik egy létező teknősfaj?",
+            "answers": [
+                "Hamilton-teknős",
+                "Alonso-teknős",
+                "Ricardo-teknős"
+            ],
+            "correct_answer": "Hamilton-teknős"
+        },
+        {
+            "question": "Milyen madarak voltak a dodók?",
+            "answers": [
+                "galambfélék",
+                "sirályfélék",
+                "harkályfélék"
+            ],
+            "correct_answer": "galambfélék"
+        },
+        {
+            "question": "Milyen élőlény a békatutaj?",
+            "answers": [
+                "növény",
+                "kétéltű állat",
+                "halféle"
+            ],
+            "correct_answer": "növény"
+        },
+        {
+            "question": "Milyen állat Moby Dick?",
+            "answers": [
+                "bálna",
+                "oroszlán",
+                "gorilla"
+            ],
+            "correct_answer": "bálna"
+        },
+        {
+            "question": "Milyen élőlény a kakapó?",
+            "answers": [
+                "madár",
+                "gyógynövény",
+                "rágcsáló"
+            ],
+            "correct_answer": "madár"
+        },
+        {
+            "question": "Mi nem kell a túrós csusza elkészítéséhez?",
+            "answers": [
+                "tojás",
+                "tejföl",
+                "túró"
+            ],
+            "correct_answer": "tojás"
+        },
+        {
+            "question": "Milyen vegyület rövidítése az MSM?",
+            "answers": [
+                "metil-szulfonil metán",
+                "szén-monoszulfid",
+                "trikarbon-dioxid"
+            ],
+            "correct_answer": "metil-szulfonil metán"
+        },
+        {
+            "question": "Milyen állatfajta a barbet?",
+            "answers": [
+                "kutya",
+                "ló",
+                "farkas"
+            ],
+            "correct_answer": "kutya"
+        },
+        {
+            "question": "Milyen élőlény a libapimpó?",
+            "answers": [
+                "növényfaj",
+                "madárfaj",
+                "hüllőfaj"
+            ],
+            "correct_answer": "növényfaj"
+        },
+        {
+            "question": "Hány cm hosszú egy hering?",
+            "answers": [
+                "30 cm",
+                "60 cm",
+                "120 cm"
+            ],
+            "correct_answer": "30 cm"
+        },
+        {
+            "question": "Melyik gyógynövény másik neve szentivánpipitér?",
+            "answers": [
+                "kamilla",
+                "zsálya",
+                "kakukkfű"
+            ],
+            "correct_answer": "kamilla"
+        },
+        {
+            "question": "Milyen élőlény a bimbós pöfeteg?",
+            "answers": [
+                "gombafajta",
+                "gyógynövény",
+                "madárfaj"
+            ],
+            "correct_answer": "gombafajta"
+        },
+        {
+            "question": "Melyik ízt érezzük a nyelvünk hegyén?",
+            "answers": [
+                "édeset",
+                "sósat",
+                "savanyút"
+            ],
+            "correct_answer": "édeset"
+        },
+        {
+            "question": "Milyen állattól fél aki kiroptofóbiás?",
+            "answers": [
+                "denevértől",
+                "patkánytól",
+                "kígyótól"
+            ],
+            "correct_answer": "denevértől"
+        },
+        {
+            "question": "Melyik egy létező rókafaj?",
+            "answers": [
+                "pusztai róka",
+                "erdei róka",
+                "japán róka"
+            ],
+            "correct_answer": "pusztai róka"
+        },
+        {
+            "question": "Melyik egy létező fafajta?",
+            "answers": [
+                "kolbászfa",
+                "csülökfa",
+                "virslifa"
+            ],
+            "correct_answer": "kolbászfa"
+        },
+        {
+            "question": "Mi lett 2018 gyógynövénye?",
+            "answers": [
+                "levendula",
+                "fodormenta",
+                "közönséges cickafark"
+            ],
+            "correct_answer": "levendula"
+        },
+        {
+            "question": "Hány évig élhet egy strucc természetes élőhelyén?",
+            "answers": [
+                "40 évig",
+                "20 évig",
+                "80 évig"
+            ],
+            "correct_answer": "40 évig"
+        },
+        {
+            "question": "Mik a korallok?",
+            "answers": [
+                "tengeri élőlények",
+                "mérgező növények",
+                "gombafajták"
+            ],
+            "correct_answer": "tengeri élőlények"
+        },
+        {
+            "question": "Mi Hollandia nemzeti állata?",
+            "answers": [
+                "oroszlán",
+                "királykobra",
+                "jaguár"
+            ],
+            "correct_answer": "oroszlán"
+        },
+        {
+            "question": "Melyik egy szilvafajta?",
+            "answers": [
+                "President",
+                "Kadarka",
+                "Otello"
+            ],
+            "correct_answer": "President"
+        }
+    ]
+}

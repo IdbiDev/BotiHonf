@@ -1,0 +1,4532 @@
+{
+    "theme": "Zene",
+    "questions": [
+        {
+            "question": "Melyik együttes dala a Késő már?",
+            "answers": [
+                "Wellhello",
+                "Punnany Massif",
+                "Halott Pénz"
+            ],
+            "correct_answer": "Wellhello"
+        },
+        {
+            "question": "A 2016. jún. 8-án megrendezett Fonogram díjátadó gálán ki nyert életműdíjat?",
+            "answers": [
+                "Frenreisz Károly",
+                "Dés László",
+                "Pásztor László"
+            ],
+            "correct_answer": "Frenreisz Károly"
+        },
+        {
+            "question": "Melyik musical dala \"A zene az kell\"?",
+            "answers": [
+                "Valahol Európában",
+                "Macskák",
+                "Mozart"
+            ],
+            "correct_answer": "Valahol Európában"
+        },
+        {
+            "question": "Melyik együttes dala a Lámpát ha gyújtok?",
+            "answers": [
+                "Quimby",
+                "Honeybeast",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Ki képviselte hazánkat a 2016-os Eurovizíós dalfesztiválon?",
+            "answers": [
+                "Freddie",
+                "Boggie",
+                "Kállay Saunders András"
+            ],
+            "correct_answer": "Freddie"
+        },
+        {
+            "question": "Hol kerül megrendezésre a 2016-os Volt fesztivál?",
+            "answers": [
+                "Sopronban",
+                "Budapesten",
+                "Zamárdiban"
+            ],
+            "correct_answer": "Sopronban"
+        },
+        {
+            "question": "Ki kapott életműdíjat a 2016-os Fonogram díjátadáson?",
+            "answers": [
+                "Frenreisz Károly",
+                "Dés László",
+                "Jakab György"
+            ],
+            "correct_answer": "Frenreisz Károly"
+        },
+        {
+            "question": "Ki a Hooligans együttes frontembere?",
+            "answers": [
+                "Csipa",
+                "Endi",
+                "Hozsó"
+            ],
+            "correct_answer": "Csipa"
+        },
+        {
+            "question": "A kasztanyett milyen hangszer?",
+            "answers": [
+                "ütő",
+                "fúvós",
+                "húros"
+            ],
+            "correct_answer": "ütő"
+        },
+        {
+            "question": "Melyik országból származik a szamba tánc?",
+            "answers": [
+                "Brazília",
+                "Spanyolország",
+                "Kuba"
+            ],
+            "correct_answer": "Brazília"
+        },
+        {
+            "question": "Melyik együttes dala a Ha volna két életem?",
+            "answers": [
+                "Piramis",
+                "LGT",
+                "Illés"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Kinek az operája A Varázsfuvola?",
+            "answers": [
+                "Mozart",
+                "Verdi",
+                "Puccini"
+            ],
+            "correct_answer": "Mozart"
+        },
+        {
+            "question": "Melyik énekes dala az Elzárt övezet?",
+            "answers": [
+                "Caramel",
+                "Gáspár Laci",
+                "Király Viktor"
+            ],
+            "correct_answer": "Caramel"
+        },
+        {
+            "question": "Mikor rendezték meg az első Petőfi zenei díjátadót?",
+            "answers": [
+                "2016. június 28-án",
+                "2016. június 29-én",
+                "2016. június 27-én"
+            ],
+            "correct_answer": "2016. június 28-án"
+        },
+        {
+            "question": "Melyik együttes dala a Holnap hajnalig?",
+            "answers": [
+                "Neoton família",
+                "R-GO",
+                "Dolly Roll"
+            ],
+            "correct_answer": "Neoton família"
+        },
+        {
+            "question": "Mi volt Zámbó Jimmy eredeti keresztneve?",
+            "answers": [
+                "Imre",
+                "Alex",
+                "Béla"
+            ],
+            "correct_answer": "Imre"
+        },
+        {
+            "question": "Melyik együttes dala az Emese?",
+            "answers": [
+                "Kispál és a borz",
+                "Pál utcai fiúk",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Kispál és a borz"
+        },
+        {
+            "question": "Ki nyerte az első X-faktort?",
+            "answers": [
+                "Vastag Csaba",
+                "Takács Nikolas",
+                "Kocsis Tibor"
+            ],
+            "correct_answer": "Vastag Csaba"
+        },
+        {
+            "question": "Hol kerül megrendezésre a Balaton Sound?",
+            "answers": [
+                "Zamárdiban",
+                "Keszthelyen",
+                "Siófokon"
+            ],
+            "correct_answer": "Zamárdiban"
+        },
+        {
+            "question": "Melyik színésznő lánya Tarján Zsófia, a Honeybest énekesnője?",
+            "answers": [
+                "Hernádi Judit",
+                "Udvaros Dorottya",
+                "Ábrahám Edit"
+            ],
+            "correct_answer": "Hernádi Judit"
+        },
+        {
+            "question": "Ki nyert az év együttese kategóriában a Petőfi zenei díjátadón?",
+            "answers": [
+                "Halott Pénz",
+                "Punnany Massif",
+                "Wellhello"
+            ],
+            "correct_answer": "Halott Pénz"
+        },
+        {
+            "question": "Ki a Zanzibár együttes énekese?",
+            "answers": [
+                "Terecskei Rita",
+                "Kollányi Zsuzsi",
+                "Tarján Zsófia"
+            ],
+            "correct_answer": "Terecskei Rita"
+        },
+        {
+            "question": "Ki a Zanzibár együttes énekese?",
+            "answers": [
+                "Terecskei Rita",
+                "Kollányi Zsuzsi",
+                "Tarján Zsófia"
+            ],
+            "correct_answer": "Terecskei Rita"
+        },
+        {
+            "question": "1974-ben melyik együttes nyerte meg az Eurovízios Dalfesztivált?",
+            "answers": [
+                "ABBA",
+                "Ottawan",
+                "Boney-M"
+            ],
+            "correct_answer": "ABBA"
+        },
+        {
+            "question": "Ki nyerte meg a 2015-ös Rising Start?",
+            "answers": [
+                "Czibi Norbi",
+                "Várhegyi Lucas Palmira",
+                "Peter Shramek"
+            ],
+            "correct_answer": "Várhegyi Lucas Palmira"
+        },
+        {
+            "question": "Melyik tehetségkutatóban tűnt fel elöszőr Zorán?",
+            "answers": [
+                "Ki mit tud?",
+                "Csillag születik",
+                "Táncdalfesztivál"
+            ],
+            "correct_answer": "Ki mit tud?"
+        },
+        {
+            "question": "Melyik együttesnek nincs Vágyom Rád c. száma?",
+            "answers": [
+                "Quimby",
+                "Zanzibár",
+                "Romantic"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Kinek az operája a Carmen?",
+            "answers": [
+                "Georges Bizet",
+                "Giacomo Puccini",
+                "Ludwig van Beethoven"
+            ],
+            "correct_answer": "Georges Bizet"
+        },
+        {
+            "question": "Kinek az operettje a Csárdáskirálynő?",
+            "answers": [
+                "Kálmán Imre",
+                "Farkas Ferenc",
+                "Huszka Jenő"
+            ],
+            "correct_answer": "Kálmán Imre"
+        },
+        {
+            "question": "Melyik együttes dala A film forog tovább?",
+            "answers": [
+                "Dolly Roll",
+                "Első Emelet",
+                "R-Go"
+            ],
+            "correct_answer": "Első Emelet"
+        },
+        {
+            "question": "Kinek az operája a Pillangókisasszony?",
+            "answers": [
+                "Wolfgang Amadeus Mozart",
+                "Giacomo Puccini",
+                "Richard Wagner"
+            ],
+            "correct_answer": "Giacomo Puccini"
+        },
+        {
+            "question": "Folytasd az EDDA dalt: Ment a hűtlen nehéz fejjel...",
+            "answers": [
+                "nem gondolta, hogy ő már nem kell",
+                "tudja már, hogy ő már nem kell",
+                "visszamenne, de ő már nem kell"
+            ],
+            "correct_answer": "visszamenne, de ő már nem kell"
+        },
+        {
+            "question": "Melyik musicalben hallható a Fényév távolság c. dal?",
+            "answers": [
+                "Macskák",
+                "Evita",
+                "Padlás"
+            ],
+            "correct_answer": "Padlás"
+        },
+        {
+            "question": "Melyik együttes dala a Ballag a katona?",
+            "answers": [
+                "R-Go",
+                "Hungária",
+                "Első Emelet"
+            ],
+            "correct_answer": "R-Go"
+        },
+        {
+            "question": "Hol született Bartók Béla?",
+            "answers": [
+                "Nagyszalontán",
+                "Nagyszentmiklóson",
+                "Nagymegyeren"
+            ],
+            "correct_answer": "Nagyszentmiklóson"
+        },
+        {
+            "question": "Kivel énekelte Hofi Géza a Macska duettet?",
+            "answers": [
+                "Korda Györggyel",
+                "Aradszky Lászlóval",
+                "Koós Jánossal"
+            ],
+            "correct_answer": "Koós Jánossal"
+        },
+        {
+            "question": "Mikor alapították a Wellhello nevű zenekart?",
+            "answers": [
+                "2013-ban",
+                "2014-ben",
+                "2010-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Melyik magyar énekes beceneve \"Rózsi\"?",
+            "answers": [
+                "Demjén Ferenc",
+                "Fenyő Miklós",
+                "Koós János"
+            ],
+            "correct_answer": "Demjén Ferenc"
+        },
+        {
+            "question": "Mikor alakult a Tankcsapda együttes?",
+            "answers": [
+                "1990-ben",
+                "1986-ban",
+                "1989-ben"
+            ],
+            "correct_answer": "1989-ben"
+        },
+        {
+            "question": "Milyen hangszer művésze volt Liszt Ferenc?",
+            "answers": [
+                "orgona",
+                "hegedű",
+                "zongora"
+            ],
+            "correct_answer": "zongora"
+        },
+        {
+            "question": "Mikor alakult az Irie Maffia együttes?",
+            "answers": [
+                "2005-ben",
+                "2006-ban",
+                "2000-ben"
+            ],
+            "correct_answer": "2005-ben"
+        },
+        {
+            "question": "Somló Tamás az LGT-n kívül melyik együttesnek volt még a tagja?",
+            "answers": [
+                "Omega",
+                "Illés",
+                "Metro"
+            ],
+            "correct_answer": "Omega"
+        },
+        {
+            "question": "Melyik Honeybeast dalból idézünk:\"És fuss el véle, ez a vége.\"",
+            "answers": [
+                "Maradok",
+                "Bódottá",
+                "Hetes"
+            ],
+            "correct_answer": "Bódottá"
+        },
+        {
+            "question": "Mi Dolly eredeti neve?",
+            "answers": [
+                "Penczi Mária",
+                "Kocsor Mária",
+                "Szabó Margit"
+            ],
+            "correct_answer": "Penczi Mária"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Beethoven?",
+            "answers": [
+                "német",
+                "svéd",
+                "angol"
+            ],
+            "correct_answer": "német"
+        },
+        {
+            "question": "Mi a címe a Neoton musical-nak?",
+            "answers": [
+                "Holnap hajnalig",
+                "Szép nyári nap",
+                "Santa Maria"
+            ],
+            "correct_answer": "Szép nyári nap"
+        },
+        {
+            "question": "Ki az Anna and The Barbies énekesnője?",
+            "answers": [
+                "Fehér Anna",
+                "Pásztor Anna",
+                "Kozma Orsi"
+            ],
+            "correct_answer": "Pásztor Anna"
+        },
+        {
+            "question": "Melyik nem Andrew Lloyd Webber musical?",
+            "answers": [
+                "Mozart",
+                "Evita",
+                "Macskák"
+            ],
+            "correct_answer": "Mozart"
+        },
+        {
+            "question": "Melyik együttes dala a Te meg én?",
+            "answers": [
+                "Compact Disco",
+                "Magna Cum Laude",
+                "New Level Empire"
+            ],
+            "correct_answer": "Compact Disco"
+        },
+        {
+            "question": "Kinek az operettje a Leányvásár?",
+            "answers": [
+                "Jacobi Viktor",
+                "Kálmán Imre",
+                "Huszka Jenő"
+            ],
+            "correct_answer": "Jacobi Viktor"
+        },
+        {
+            "question": "Mikor hunyt el Cserháti Zsuzsa?",
+            "answers": [
+                "2005-ben",
+                "2003-ban",
+                "2000-ben"
+            ],
+            "correct_answer": "2003-ban"
+        },
+        {
+            "question": "Kinek a dala a Zene nélkül mit érek én?",
+            "answers": [
+                "Aradszky László",
+                "Koós János",
+                "Máté Péter"
+            ],
+            "correct_answer": "Máté Péter"
+        },
+        {
+            "question": "Milyen hangszer az okarina?",
+            "answers": [
+                "fúvós",
+                "ütős",
+                "vonós"
+            ],
+            "correct_answer": "fúvós"
+        },
+        {
+            "question": "Ki volt a Queen együttes frontembere?",
+            "answers": [
+                "Roger Taylor",
+                "Brian May",
+                "Freddie Mercury"
+            ],
+            "correct_answer": "Freddie Mercury"
+        },
+        {
+            "question": "Melyik együttes dala a Hello lányok?",
+            "answers": [
+                "Punnany Massif",
+                "Halott Pénz",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Halott Pénz"
+        },
+        {
+            "question": "Ki a Gypo Circus együttes énekese?",
+            "answers": [
+                "Hegyesi András",
+                "Muhel Zoltán",
+                "Kecskeméti Sanyi"
+            ],
+            "correct_answer": "Hegyesi András"
+        },
+        {
+            "question": "Kinek a műve a Tosca?",
+            "answers": [
+                "Verdi",
+                "Puccini",
+                "Mozart"
+            ],
+            "correct_answer": "Puccini"
+        },
+        {
+            "question": "Melyik együttes dalai hangzanak el a Mamma Mia! c. filmben?",
+            "answers": [
+                "Abba",
+                "Beatles",
+                "Bee Gees"
+            ],
+            "correct_answer": "Abba"
+        },
+        {
+            "question": "Mikor vált világszerte ismertté az Abba együttes?",
+            "answers": [
+                "1976-ban",
+                "1975-ben",
+                "1974-ben"
+            ],
+            "correct_answer": "1974-ben"
+        },
+        {
+            "question": "Melyik együttes dala az Erdő közepében?",
+            "answers": [
+                "Republic",
+                "Első emelet",
+                "Kozmix"
+            ],
+            "correct_answer": "Republic"
+        },
+        {
+            "question": "Melyik R-Go számot dolgozta fel a Kozmix?",
+            "answers": [
+                "Rég várok valakire",
+                "Bombázó",
+                "Létezem"
+            ],
+            "correct_answer": "Létezem"
+        },
+        {
+            "question": "Hány évesen hunyt el John Lennon?",
+            "answers": [
+                "40",
+                "35",
+                "46"
+            ],
+            "correct_answer": "40"
+        },
+        {
+            "question": "Mióta rendezik meg az Eurovíziós Dalfesztivált?",
+            "answers": [
+                "1956",
+                "1976",
+                "1966"
+            ],
+            "correct_answer": "1956"
+        },
+        {
+            "question": "Szörényi Levente melyik együttes tagja volt?",
+            "answers": [
+                "Illés",
+                "Omega",
+                "Metro"
+            ],
+            "correct_answer": "Illés"
+        },
+        {
+            "question": "Hányadik helyen végzett Freddie a Rising Starban?",
+            "answers": [
+                "negyedik",
+                "első",
+                "második"
+            ],
+            "correct_answer": "negyedik"
+        },
+        {
+            "question": "Mi volt Freddie első saját dala?",
+            "answers": [
+                "Pioneer",
+                "Neked nem kell",
+                "Mary Joe"
+            ],
+            "correct_answer": "Mary Joe"
+        },
+        {
+            "question": "Hányadik szülinapját ünnepelte júliusban a Punnany Massif?",
+            "answers": [
+                "13.",
+                "10.",
+                "11."
+            ],
+            "correct_answer": "13."
+        },
+        {
+            "question": "Melyik együttes dala a Hétköznapi Hősök?",
+            "answers": [
+                "Halott Pénz",
+                "Hősök",
+                "Punnany Massif"
+            ],
+            "correct_answer": "Punnany Massif"
+        },
+        {
+            "question": "Ki nyerte meg a Megasztár első szériáját?",
+            "answers": [
+                "Tóth Vera",
+                "Tóth Gabi",
+                "Oláh Ibolya"
+            ],
+            "correct_answer": "Tóth Vera"
+        },
+        {
+            "question": "Milyen hangszeren játszott Laux József?",
+            "answers": [
+                "zongorán",
+                "basszusgitáron",
+                "dobon"
+            ],
+            "correct_answer": "dobon"
+        },
+        {
+            "question": "Melyik együttes híres dalai a Cheri Cheri Lady és a Brother Louie?",
+            "answers": [
+                "Alphaville",
+                "Modern Talking",
+                "Blue System"
+            ],
+            "correct_answer": "Modern Talking"
+        },
+        {
+            "question": "Ki az Alphaville együttes énekese?",
+            "answers": [
+                "Marian Gold",
+                "Thomas Anders",
+                "Morten Harket"
+            ],
+            "correct_answer": "Marian Gold"
+        },
+        {
+            "question": "Mikor volt az ősbemutatója A padlás c. musicalnek?",
+            "answers": [
+                "1988. január 27-én",
+                "1989. február 18-án",
+                "1988. január 22-én"
+            ],
+            "correct_answer": "1988. január 27-én"
+        },
+        {
+            "question": "Mikor alakult a Magna Cum Laude együttes?",
+            "answers": [
+                "2001-ben",
+                "1999-ben",
+                "1997-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Mikor kezdődött 2016-ban a Sziget fesztivál?",
+            "answers": [
+                "augusztus 10-én",
+                "augusztus 8-án",
+                "augusztus 11-én"
+            ],
+            "correct_answer": "augusztus 10-én"
+        },
+        {
+            "question": "Hány éves korában hunyt el Máté Péter?",
+            "answers": [
+                "37",
+                "40",
+                "28"
+            ],
+            "correct_answer": "37"
+        },
+        {
+            "question": "Melyik együttes dala a Tegnap láttalak?",
+            "answers": [
+                "Children of Distance",
+                "Compact Disco",
+                "Superstereo"
+            ],
+            "correct_answer": "Children of Distance"
+        },
+        {
+            "question": "Melyik együttes dala a Varázsszavak?",
+            "answers": [
+                "Hooligans",
+                "Kowalsky meg a Vega",
+                "Tankcsapda"
+            ],
+            "correct_answer": "Kowalsky meg a Vega"
+        },
+        {
+            "question": "Melyik együttes énekelt a Gyöngyhajú lányról?",
+            "answers": [
+                "Omega",
+                "Bergendy",
+                "LGT"
+            ],
+            "correct_answer": "Omega"
+        },
+        {
+            "question": "Melyik együttes dala a Pálinka dal?",
+            "answers": [
+                "Hooligans",
+                "Magna Cum Laude",
+                "Tankcsapda"
+            ],
+            "correct_answer": "Magna Cum Laude"
+        },
+        {
+            "question": "Kinek az operája A kékszakállú herceg vára?",
+            "answers": [
+                "Kodály Zoltán",
+                "Bartók Béla",
+                "Liszt Ferenc"
+            ],
+            "correct_answer": "Bartók Béla"
+        },
+        {
+            "question": "Ki a \"Pop királynője\"?",
+            "answers": [
+                "Madonna",
+                "Beyonce",
+                "Rihanna"
+            ],
+            "correct_answer": "Madonna"
+        },
+        {
+            "question": "Mikor született Rihanna?",
+            "answers": [
+                "1988-ban",
+                "1989-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1988-ban"
+        },
+        {
+            "question": "Melyik zenei műfaj képviselője volt Bob Marley?",
+            "answers": [
+                "blues",
+                "soul",
+                "reggae"
+            ],
+            "correct_answer": "reggae"
+        },
+        {
+            "question": "Melyik együttes tagja volt Beyonce?",
+            "answers": [
+                "Spice Girls",
+                "Destiny's Child",
+                "Sugababes"
+            ],
+            "correct_answer": "Destiny's Child"
+        },
+        {
+            "question": "Kinek a slágere volt a Purple Rain?",
+            "answers": [
+                "Michael Jackson",
+                "Prince",
+                "Tina Turner"
+            ],
+            "correct_answer": "Prince"
+        },
+        {
+            "question": "Melyik magyar énekesnő dala hangzik el Az angol beteg c. filmben?",
+            "answers": [
+                "Szalóki Ági",
+                "Péter-Szabó Szilvia",
+                "Sebestyén Márta"
+            ],
+            "correct_answer": "Sebestyén Márta"
+        },
+        {
+            "question": "Melyik együttes tagja volt Balázs Fecó?",
+            "answers": [
+                "Omega",
+                "Korál",
+                "Illés"
+            ],
+            "correct_answer": "Korál"
+        },
+        {
+            "question": "Melyik énekesnő slágere az Ólomkatona c. dal?",
+            "answers": [
+                "Zalatnay Sarolta",
+                "Katona Klári",
+                "Koncz Zsuzsa"
+            ],
+            "correct_answer": "Katona Klári"
+        },
+        {
+            "question": "Melyik együttest hívták a magyar Scooternek is?",
+            "answers": [
+                "Kozmix",
+                "Happy Gang",
+                "TNT"
+            ],
+            "correct_answer": "Kozmix"
+        },
+        {
+            "question": "Milyen nemzetiségű a Roxette együttes?",
+            "answers": [
+                "svéd",
+                "dán",
+                "norvég"
+            ],
+            "correct_answer": "svéd"
+        },
+        {
+            "question": "Melyik együttes dala a Szomorú alkalom?",
+            "answers": [
+                "Unique",
+                "Desperado",
+                "Unisex"
+            ],
+            "correct_answer": "Desperado"
+        },
+        {
+            "question": "Melyik dal nem United sláger?",
+            "answers": [
+                "Cocktail",
+                "Keserű méz",
+                "Angyal"
+            ],
+            "correct_answer": "Angyal"
+        },
+        {
+            "question": "Kinek a műve a Kék Duna keringő?",
+            "answers": [
+                "ifj. Johann Strauss",
+                "Brahms",
+                "Offenbach"
+            ],
+            "correct_answer": "ifj. Johann Strauss"
+        },
+        {
+            "question": "Melyik énekesnő dala a Most kéne abbahagyni?",
+            "answers": [
+                "Kovács Kati",
+                "Koncz Zsuzsa",
+                "Zalatnay Sarolta"
+            ],
+            "correct_answer": "Kovács Kati"
+        },
+        {
+            "question": "Ki énekelte gyerekkorában a Vuk c. dalt?",
+            "answers": [
+                "Wolf Kati",
+                "Szandi",
+                "Szinetár Dóra"
+            ],
+            "correct_answer": "Wolf Kati"
+        },
+        {
+            "question": "Ki nem volt a Cotton Club Singers tagja?",
+            "answers": [
+                "Szekeres Adrien",
+                "Kozma Orsi",
+                "Zséda"
+            ],
+            "correct_answer": "Szekeres Adrien"
+        },
+        {
+            "question": "Ki volt egykor a Bonanza Banzai énekese?",
+            "answers": [
+                "Kovács Ákos",
+                "Hauber Zsolt",
+                "Menczel Gábor"
+            ],
+            "correct_answer": "Kovács Ákos"
+        },
+        {
+            "question": "Kivel nem énekelt duettet Ákos?",
+            "answers": [
+                "Tolvai Renátával",
+                "Rúzsa Magdival",
+                "Janicsák Vecával"
+            ],
+            "correct_answer": "Tolvai Renátával"
+        },
+        {
+            "question": "Kivel énekli Szekeres Adrien a Híd a folyót c. számot?",
+            "answers": [
+                "Dobrády Ákossal",
+                "Caramellel",
+                "Gáspár Lacival"
+            ],
+            "correct_answer": "Dobrády Ákossal"
+        },
+        {
+            "question": "Melyik együttes tagja volt Hevesi Tamás?",
+            "answers": [
+                "Névtelen Nulla",
+                "Piramis",
+                "LGT"
+            ],
+            "correct_answer": "Névtelen Nulla"
+        },
+        {
+            "question": "Melyik énekes a \"nemzet csótánya\"?",
+            "answers": [
+                "Nagy Feró",
+                "Hobo",
+                "Deák Bill Gyula"
+            ],
+            "correct_answer": "Nagy Feró"
+        },
+        {
+            "question": "Melyik amerikai énekessel lépett fel 1984-ben Deák Bill Gyula?",
+            "answers": [
+                "Chuck Berryvel",
+                "Buddy Hollyval",
+                "Jerry Lee Lewisszal"
+            ],
+            "correct_answer": "Chuck Berryvel"
+        },
+        {
+            "question": "Mi a beceneve Bródy Jánosnak?",
+            "answers": [
+                "Tini",
+                "Pici",
+                "Gini"
+            ],
+            "correct_answer": "Tini"
+        },
+        {
+            "question": "Melyik együttesnek nem volt tagja Presser Gábor?",
+            "answers": [
+                "Illés",
+                "Omega",
+                "LGT"
+            ],
+            "correct_answer": "Illés"
+        },
+        {
+            "question": "Melyik színészünk féltestvére volt Frenreisz Károly?",
+            "answers": [
+                "Latinovits Zoltán",
+                "Márkus László",
+                "Sinkovits Imre"
+            ],
+            "correct_answer": "Latinovits Zoltán"
+        },
+        {
+            "question": "Melyik együttes dala a Királylány?",
+            "answers": [
+                "Hooligans",
+                "Tankcsapda",
+                "Margaret Island"
+            ],
+            "correct_answer": "Hooligans"
+        },
+        {
+            "question": "Ki a Margaret Island énekesnője?",
+            "answers": [
+                "Lábas Viki",
+                "Marót Viki",
+                "Tarján Zsófia"
+            ],
+            "correct_answer": "Lábas Viki"
+        },
+        {
+            "question": "Melyik együttes énekesnője Judy?",
+            "answers": [
+                "Groovehouse",
+                "Unique",
+                "Desperado"
+            ],
+            "correct_answer": "Groovehouse"
+        },
+        {
+            "question": "Ki nem az Animal Cannibals tagja?",
+            "answers": [
+                "Herbie",
+                "Qka MC",
+                "Ricsipí"
+            ],
+            "correct_answer": "Herbie"
+        },
+        {
+            "question": "Melyik énekesnő dala az Árva fiú?",
+            "answers": [
+                "Cserháti Zsuzsa",
+                "Kovács Kati",
+                "Koncz Zsuzsa"
+            ],
+            "correct_answer": "Cserháti Zsuzsa"
+        },
+        {
+            "question": "Ki szerezte Az István, a király zenéjét?",
+            "answers": [
+                "Szörényi Levente",
+                "Bródy János",
+                "Varga Miklós"
+            ],
+            "correct_answer": "Szörényi Levente"
+        },
+        {
+            "question": "Mikor mutatták be először Az István, a királyt?",
+            "answers": [
+                "1983-ban",
+                "1985-ben",
+                "1998-ban"
+            ],
+            "correct_answer": "1983-ban"
+        },
+        {
+            "question": "Melyik együttes tagja volt Sting?",
+            "answers": [
+                "The Police",
+                "Aerosmith",
+                "The Doors"
+            ],
+            "correct_answer": "The Police"
+        },
+        {
+            "question": "Melyik évben alakult meg a The Doors együttes?",
+            "answers": [
+                "1965-ben",
+                "1966-ban",
+                "1972-ben"
+            ],
+            "correct_answer": "1965-ben"
+        },
+        {
+            "question": "Ki az énekese a Metallica együttesnek?",
+            "answers": [
+                "James Hetfield",
+                "Kirk Hammett",
+                "Robert Trujillo"
+            ],
+            "correct_answer": "James Hetfield"
+        },
+        {
+            "question": "Melyik együttes dala a November Rain?",
+            "answers": [
+                "Guns N’ Roses",
+                "Metallica",
+                "Mötley Crüe"
+            ],
+            "correct_answer": "Guns N’ Roses"
+        },
+        {
+            "question": "Milyen nemzetiségű Emili Sandé énekesnő?",
+            "answers": [
+                "brit",
+                "amerikai",
+                "német"
+            ],
+            "correct_answer": "brit"
+        },
+        {
+            "question": "Ki Alicia Keys példaképe?",
+            "answers": [
+                "Stevie Wonder",
+                "Madonna",
+                "Lionel Richie"
+            ],
+            "correct_answer": "Stevie Wonder"
+        },
+        {
+            "question": "Melyik évben lett a brit X-faktor győztese James Arthur?",
+            "answers": [
+                "2012-ben",
+                "2013-ban",
+                "2014-ben"
+            ],
+            "correct_answer": "2012-ben"
+        },
+        {
+            "question": "Mi volt régebben Susan Boyle foglalkozása?",
+            "answers": [
+                "szociális munkás",
+                "ápolónő",
+                "védőnő"
+            ],
+            "correct_answer": "szociális munkás"
+        },
+        {
+            "question": "Hány testvére volt Michael Jacksonnak?",
+            "answers": [
+                "6",
+                "7",
+                "8"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Mi Lana Del Rey eredeti keresztneve?",
+            "answers": [
+                "Elizabeth",
+                "Julia",
+                "Laura"
+            ],
+            "correct_answer": "Elizabeth"
+        },
+        {
+            "question": "Ki a \"Pop hercegnője\" ?",
+            "answers": [
+                "Britney Spears",
+                "Beyonce",
+                "Rihanna"
+            ],
+            "correct_answer": "Britney Spears"
+        },
+        {
+            "question": "Mi Lady Gaga eredeti neve?",
+            "answers": [
+                "Stefani Germanotta",
+                "Rose Sebert",
+                "Robyn Fenty"
+            ],
+            "correct_answer": "Stefani Germanotta"
+        },
+        {
+            "question": "Melyik magyar városból származtak Kesha dédszülei?",
+            "answers": [
+                "Szentes",
+                "Szeged",
+                "Szolnok"
+            ],
+            "correct_answer": "Szentes"
+        },
+        {
+            "question": "Melyik együttes frontembere volt Justin Timberlake?",
+            "answers": [
+                "N Sync",
+                "Backstreet Boys",
+                "New Kids on the Block"
+            ],
+            "correct_answer": "N Sync"
+        },
+        {
+            "question": "Melyik hangszer művésze Horgas Eszter?",
+            "answers": [
+                "fuvola",
+                "furulya",
+                "hegedű"
+            ],
+            "correct_answer": "fuvola"
+        },
+        {
+            "question": "Milyen hangszer a mandolin?",
+            "answers": [
+                "pengetős",
+                "fúvós",
+                "billentyűs"
+            ],
+            "correct_answer": "pengetős"
+        },
+        {
+            "question": "Melyik nép hangszere a balalajka?",
+            "answers": [
+                "orosz",
+                "szerb",
+                "román"
+            ],
+            "correct_answer": "orosz"
+        },
+        {
+            "question": "Melyik hangszercsaládba tartozik a buzuki?",
+            "answers": [
+                "lantfélék",
+                "citerafélék",
+                "hegedűfélék"
+            ],
+            "correct_answer": "lantfélék"
+        },
+        {
+            "question": "Mi a basszuskulcs?",
+            "answers": [
+                "zenei kulcs",
+                "kéziszerszám",
+                "slusszkulcs"
+            ],
+            "correct_answer": "zenei kulcs"
+        },
+        {
+            "question": "Mi a marimba?",
+            "answers": [
+                "ütőhangszer",
+                "latin tánc",
+                "édesség"
+            ],
+            "correct_answer": "ütőhangszer"
+        },
+        {
+            "question": "Hol született Palya Bea népdalénekes?",
+            "answers": [
+                "Makón",
+                "Szegeden",
+                "Szolnokon"
+            ],
+            "correct_answer": "Makón"
+        },
+        {
+            "question": "Ki a Quimby együttes frontembere?",
+            "answers": [
+                "Kiss Tibor",
+                "Varga Lívius",
+                "Balanyi Szilárd"
+            ],
+            "correct_answer": "Kiss Tibor"
+        },
+        {
+            "question": "Ki Heilig Gábor zenész felesége?",
+            "answers": [
+                "Eszményi Viktória",
+                "Udvaros Dorottya",
+                "Karda Beáta"
+            ],
+            "correct_answer": "Eszményi Viktória"
+        },
+        {
+            "question": "Mi szeretett volna lenni Marót Viki?",
+            "answers": [
+                "apáca",
+                "képzőművész",
+                "színésznő"
+            ],
+            "correct_answer": "apáca"
+        },
+        {
+            "question": "Ki volt az énekese az Anti Fitness Club zenekarnak?",
+            "answers": [
+                "Molnár Tamás",
+                "Rácz Gergő",
+                "Ádok Zoli"
+            ],
+            "correct_answer": "Molnár Tamás"
+        },
+        {
+            "question": "Melyik évben képviselte Magyarországot ByeAlex az Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "2013-ban",
+                "2014-ben",
+                "2015-ben"
+            ],
+            "correct_answer": "2013-ban"
+        },
+        {
+            "question": "Melyik musical zenéjét szerezte Dés László?",
+            "answers": [
+                "Valahol Európában",
+                "A padlás",
+                "Légy jó mindhalálig"
+            ],
+            "correct_answer": "Valahol Európában"
+        },
+        {
+            "question": "Ki írta A dzsungel könyve c. musical dalszövegét?",
+            "answers": [
+                "Geszti Péter",
+                "Miklós Tibor",
+                "Bródy János"
+            ],
+            "correct_answer": "Geszti Péter"
+        },
+        {
+            "question": "Hol játszódik a Szép nyári nap c. musical?",
+            "answers": [
+                "építőtáborban",
+                "úttörőtáborban",
+                "gyerekotthonban"
+            ],
+            "correct_answer": "építőtáborban"
+        },
+        {
+            "question": "Mi a ska?",
+            "answers": [
+                "zenei stílus",
+                "gyerekjáték",
+                "édesség"
+            ],
+            "correct_answer": "zenei stílus"
+        },
+        {
+            "question": "Hanyadik helyezést ért el Tóth Gabi a 2004-es Megasztárban?",
+            "answers": [
+                "harmadik",
+                "második",
+                "első"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Melyik együttes dala a Rég várok valakire?",
+            "answers": [
+                "R-go",
+                "Hungária",
+                "Első Emelet"
+            ],
+            "correct_answer": "R-go"
+        },
+        {
+            "question": "Melyik városba élt egy évig Wolf Kati?",
+            "answers": [
+                "Honkongban",
+                "Berlinben",
+                "Wellingtonban"
+            ],
+            "correct_answer": "Honkongban"
+        },
+        {
+            "question": "Ki nem a három tenor egyike?",
+            "answers": [
+                "Andrea Bocelli",
+                "Placido Domingo",
+                "Jose Carreras"
+            ],
+            "correct_answer": "Andrea Bocelli"
+        },
+        {
+            "question": "Mijét vesztette el 12 éves korában Andrea Bocelli?",
+            "answers": [
+                "látását",
+                "hallását",
+                "karját"
+            ],
+            "correct_answer": "látását"
+        },
+        {
+            "question": "Melyik olasz városban született és hunyt el Luciano Pavarotti?",
+            "answers": [
+                "Modenában",
+                "Nápolyban",
+                "Palermoban"
+            ],
+            "correct_answer": "Modenában"
+        },
+        {
+            "question": "Kinek az operája a Tosca?",
+            "answers": [
+                "Puccini",
+                "Verdi",
+                "Mascagni"
+            ],
+            "correct_answer": "Puccini"
+        },
+        {
+            "question": "Melyik regény alapján készült a Traviata c. opera?",
+            "answers": [
+                "Dumas: A kaméliás hölgy",
+                "Zola: Nana",
+                "Stendhal:Vörös és fekete"
+            ],
+            "correct_answer": "Dumas: A kaméliás hölgy"
+        },
+        {
+            "question": "Ki Aida, Verdi operájában?",
+            "answers": [
+                "rabnő",
+                "utcalány",
+                "királylány"
+            ],
+            "correct_answer": "rabnő"
+        },
+        {
+            "question": "Mikor hozta létre a Magyar Rádió az eMeRTon-díjat?",
+            "answers": [
+                "1986-ban",
+                "1987-ben",
+                "1994-ben"
+            ],
+            "correct_answer": "1986-ban"
+        },
+        {
+            "question": "Mikor van a zene világnapja?",
+            "answers": [
+                "október 1-én",
+                "január 22-én",
+                "április 12-én"
+            ],
+            "correct_answer": "október 1-én"
+        },
+        {
+            "question": "Mi a balafon?",
+            "answers": [
+                "hangszer",
+                "madárfaj",
+                "ruhadarab"
+            ],
+            "correct_answer": "hangszer"
+        },
+        {
+            "question": "Milyen hangszeren játszanak a Princess együttes tagjai?",
+            "answers": [
+                "hegedűn",
+                "zongorán",
+                "szaxofonon"
+            ],
+            "correct_answer": "hegedűn"
+        },
+        {
+            "question": "Mi volt Buddy Holly eredeti keresztneve?",
+            "answers": [
+                "Charles",
+                "James",
+                "George"
+            ],
+            "correct_answer": "Charles"
+        },
+        {
+            "question": "Mikor hunyt el Elvis Presley?",
+            "answers": [
+                "1977-ben",
+                "1987-ben",
+                "1974-ben"
+            ],
+            "correct_answer": "1977-ben"
+        },
+        {
+            "question": "Mit neveztek el Bill Haley-ről?",
+            "answers": [
+                "kisbolygót",
+                "várost",
+                "tavat"
+            ],
+            "correct_answer": "kisbolygót"
+        },
+        {
+            "question": "Melyik krimisorozatban szerepelt Little Richard?",
+            "answers": [
+                "Columbo",
+                "Poirot",
+                "Derrick"
+            ],
+            "correct_answer": "Columbo"
+        },
+        {
+            "question": "Mi Jerry Lee Lewis beceneve?",
+            "answers": [
+                "Gyilkos",
+                "Atom",
+                "Cápa"
+            ],
+            "correct_answer": "Gyilkos"
+        },
+        {
+            "question": "Milyen járása vált védjegyévé Chuck Berrynek?",
+            "answers": [
+                "kacsa",
+                "medve",
+                "gepárd"
+            ],
+            "correct_answer": "kacsa"
+        },
+        {
+            "question": "Milyen nemzetiségű az AC/DC rockzenekar?",
+            "answers": [
+                "ausztrál",
+                "amerikai",
+                "angol"
+            ],
+            "correct_answer": "ausztrál"
+        },
+        {
+            "question": "Melyik városban születtek a The Beatles együttes tagjai?",
+            "answers": [
+                "Liverpoolban",
+                "Brightonban",
+                "Manchesterben"
+            ],
+            "correct_answer": "Liverpoolban"
+        },
+        {
+            "question": "Hogy halt meg John Lennon?",
+            "answers": [
+                "lelőtték",
+                "betegségben",
+                "öngyilkos lett"
+            ],
+            "correct_answer": "lelőtték"
+        },
+        {
+            "question": "Melyik együttes dala a Stayin Alive?",
+            "answers": [
+                "Bee Gees",
+                "The Beatles",
+                "Village People"
+            ],
+            "correct_answer": "Bee Gees"
+        },
+        {
+            "question": "Melyik évben tűnt fel Sztevanovity Zorán a \"Ki mit tud?\" műsorában?",
+            "answers": [
+                "1963-ban",
+                "1965-ben",
+                "1972-ben"
+            ],
+            "correct_answer": "1963-ban"
+        },
+        {
+            "question": "Milyen származású Maria Callas opera-énekesnő?",
+            "answers": [
+                "görög",
+                "olasz",
+                "francia"
+            ],
+            "correct_answer": "görög"
+        },
+        {
+            "question": "Ki a Margaret Island énekesnője?",
+            "answers": [
+                "Lábas Viki",
+                "Tarján Zsófia",
+                "Pásztor Anna"
+            ],
+            "correct_answer": "Lábas Viki"
+        },
+        {
+            "question": "Melyik korosztályban népszerű az Alma együttes?",
+            "answers": [
+                "gyerekek",
+                "tinédzserek",
+                "idősek"
+            ],
+            "correct_answer": "gyerekek"
+        },
+        {
+            "question": "Melyik együttesben énekelt Kasza Tibor 2010-ig?",
+            "answers": [
+                "Crystal",
+                "Gypo Circus",
+                "Budapest Bár"
+            ],
+            "correct_answer": "Crystal"
+        },
+        {
+            "question": "Ki alapította a Belmondo zenekart?",
+            "answers": [
+                "Czutor Zoltán",
+                "Beck Zoltán",
+                "Ádok Zoltán"
+            ],
+            "correct_answer": "Czutor Zoltán"
+        },
+        {
+            "question": "Melyik háború az alapja a Miss Saigon c. musicalnek?",
+            "answers": [
+                "vietnami háború",
+                "második világháború",
+                "koreai háború"
+            ],
+            "correct_answer": "vietnami háború"
+        },
+        {
+            "question": "Melyik együttes dala a Szemben a nappal?",
+            "answers": [
+                "Vad Fruttik",
+                "Halott Pénz",
+                "Punnany Massif"
+            ],
+            "correct_answer": "Vad Fruttik"
+        },
+        {
+            "question": "Mi a Vágtázó Csodaszarvas?",
+            "answers": [
+                "magyar együttes neve",
+                "film címe",
+                "festmény címe"
+            ],
+            "correct_answer": "magyar együttes neve"
+        },
+        {
+            "question": "Miven néven született Bangó Margit előadóművész?",
+            "answers": [
+                "Szabó Margit",
+                "Kovács Margit",
+                "Tóth Margit"
+            ],
+            "correct_answer": "Szabó Margit"
+        },
+        {
+            "question": "Hányszoros Grammy-díjas Paul Simon?",
+            "answers": [
+                "tizenkétszeres",
+                "tízszeres",
+                "nyolcszoros"
+            ],
+            "correct_answer": "tizenkétszeres"
+        },
+        {
+            "question": "Mi volt Flipper Öcsi születéskori neve?",
+            "answers": [
+                "Jeszenszky Béla",
+                "Nagymihály Géza",
+                "Erdődi János"
+            ],
+            "correct_answer": "Jeszenszky Béla"
+        },
+        {
+            "question": "Milyen származású Jamie Winchester?",
+            "answers": [
+                "ír",
+                "svéd",
+                "norvég"
+            ],
+            "correct_answer": "ír"
+        },
+        {
+            "question": "Hol született Mező Misi, a Magna Cum Laude zenekar énekese?",
+            "answers": [
+                "Gyulán",
+                "Békéscsabán",
+                "Szegeden"
+            ],
+            "correct_answer": "Gyulán"
+        },
+        {
+            "question": "Ki a Tankcsapda rockegyüttes énekese?",
+            "answers": [
+                "Lukács László",
+                "Sidlovits Gábor",
+                "Fejes Tamás"
+            ],
+            "correct_answer": "Lukács László"
+        },
+        {
+            "question": "Minek a neve a Vágtázó Halottkémek?",
+            "answers": [
+                "magyar együttes",
+                "film címe",
+                "vers címe"
+            ],
+            "correct_answer": "magyar együttes"
+        },
+        {
+            "question": "Mi volt Bódi László, a Republic együttes énekesének beceneve?",
+            "answers": [
+                "Cipő",
+                "Nadrág",
+                "Cápa"
+            ],
+            "correct_answer": "Cipő"
+        },
+        {
+            "question": "Ki jelenleg az énekese a Republic együttesnek?",
+            "answers": [
+                "Boros Csaba",
+                "Tóth Zoltán",
+                "Sipos F. Tamás"
+            ],
+            "correct_answer": "Boros Csaba"
+        },
+        {
+            "question": "Mikor alakult a Pa-dö-dő együttes?",
+            "answers": [
+                "1988-ban",
+                "1986-ban",
+                "1985-ben"
+            ],
+            "correct_answer": "1988-ban"
+        },
+        {
+            "question": "Melyik \"Ki mit tud?\" felfedezettje volt Harangozó Teri?",
+            "answers": [
+                "1965-ös",
+                "1963-as",
+                "1972-es"
+            ],
+            "correct_answer": "1965-ös"
+        },
+        {
+            "question": "Melyik rockmusical készült az 56-os forradalom emlékére?",
+            "answers": [
+                "56 csepp vér",
+                "Itt élned, halnod kell",
+                "István, a király"
+            ],
+            "correct_answer": "56 csepp vér"
+        },
+        {
+            "question": "Milyen hangszer a baglama?",
+            "answers": [
+                "pengetős",
+                "vonós",
+                "húros"
+            ],
+            "correct_answer": "pengetős"
+        },
+        {
+            "question": "Mi a vuvuzela másik elnevezése?",
+            "answers": [
+                "darázskürt",
+                "medvekürt",
+                "farkaskürt"
+            ],
+            "correct_answer": "darázskürt"
+        },
+        {
+            "question": "Hány éve hunyt el október 27-én Gregor József operaénekes?",
+            "answers": [
+                "10",
+                "15",
+                "20"
+            ],
+            "correct_answer": "10"
+        },
+        {
+            "question": "Melyik énekesnő slágere a \"Nem leszek a játékszered\"?",
+            "answers": [
+                "Kovács Kati",
+                "Koncz Zsuzsa",
+                "Zalatnay Sarolta"
+            ],
+            "correct_answer": "Kovács Kati"
+        },
+        {
+            "question": "Melyik zenekarnak csinált videoklipet Antal Nimród?",
+            "answers": [
+                "Quimby",
+                "Magna Cum Laude",
+                "Tankcsapda"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Hol született Pál Dénes énekes?",
+            "answers": [
+                "Miskolcon",
+                "Egerben",
+                "Pécsen"
+            ],
+            "correct_answer": "Miskolcon"
+        },
+        {
+            "question": "Melyik hangszer kimagasló művésze volt Liszt Ferenc?",
+            "answers": [
+                "zongora",
+                "hegedű",
+                "gitár"
+            ],
+            "correct_answer": "zongora"
+        },
+        {
+            "question": "Mi 50 Cent, amerikai rapper születéskori neve?",
+            "answers": [
+                "Curtis Jackson",
+                "Peter Jackson",
+                "George Jackson"
+            ],
+            "correct_answer": "Curtis Jackson"
+        },
+        {
+            "question": "Melyik együttes dala a \"Szállj fel magasra!\"?",
+            "answers": [
+                "Piramis",
+                "Omega",
+                "LGT"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Melyik magyar musical betétdala az \"Örökre szépek\"?",
+            "answers": [
+                "A padlás",
+                "Valahol Európában",
+                "A dzsungel könyve"
+            ],
+            "correct_answer": "A padlás"
+        },
+        {
+            "question": "Ki a zeneszerzője a \"Valahol Európában\" c. musicalnek?",
+            "answers": [
+                "Dés László",
+                "Presser Gábor",
+                "Szörényi Levente"
+            ],
+            "correct_answer": "Dés László"
+        },
+        {
+            "question": "Ki \"A dzsungel könyve\" c. musical szövegírója?",
+            "answers": [
+                "Geszti Péter",
+                "Bródy János",
+                "Miklós Tibor"
+            ],
+            "correct_answer": "Geszti Péter"
+        },
+        {
+            "question": "Melyik hangszer Oklamoha jelképe?",
+            "answers": [
+                "dob",
+                "gitár",
+                "cselló"
+            ],
+            "correct_answer": "dob"
+        },
+        {
+            "question": "Ki írta a Macskafogó musical zenéjét?",
+            "answers": [
+                "Szikora Róbert",
+                "Fenyő Miklós",
+                "Szörényi Levente"
+            ],
+            "correct_answer": "Szikora Róbert"
+        },
+        {
+            "question": "Melyik együttes dalaiból áll össze a Szép nyári nap c. musical?",
+            "answers": [
+                "Neoton Família",
+                "Hungária",
+                "R-Go"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Ki játszotta Hüvelyk Matyit \" A Játékkészítő\" c. musicalben?",
+            "answers": [
+                "Bereczki Zoltán",
+                "Hajdu Steve",
+                "Nagy Feró"
+            ],
+            "correct_answer": "Bereczki Zoltán"
+        },
+        {
+            "question": "Mi DJ. Sterbinszky keresztneve?",
+            "answers": [
+                "Károly",
+                "Zoltán",
+                "János"
+            ],
+            "correct_answer": "Károly"
+        },
+        {
+            "question": "Milyen nemzetiségű volt Leonard Cohen?",
+            "answers": [
+                "kanadai",
+                "mexikói",
+                "angol"
+            ],
+            "correct_answer": "kanadai"
+        },
+        {
+            "question": "Melyik Zorán dal volt a legismertebb Cohen-feldolgozás?",
+            "answers": [
+                "Volt egy tánc",
+                "Apám hitte",
+                "Kell ott fenn egy ország"
+            ],
+            "correct_answer": "Volt egy tánc"
+        },
+        {
+            "question": "Ki énekli a Várj, míg felkel majd a nap c. slágert?",
+            "answers": [
+                "Demjén Ferenc",
+                "Révész Sándor",
+                "Hevesi Tamás"
+            ],
+            "correct_answer": "Demjén Ferenc"
+        },
+        {
+            "question": "Melyik együttes tagjaként kezdte pályafutását Balázs Fecó?",
+            "answers": [
+                "Neoton Família",
+                "Piramis",
+                "LGT"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Melyik énekesnővel énekelt duettet Balázs Fecó?",
+            "answers": [
+                "Szűcs Judith",
+                "Koncz Zsuzsa",
+                "Zalatnay Sarolta"
+            ],
+            "correct_answer": "Szűcs Judith"
+        },
+        {
+            "question": "Hány éves korában kezdett el zongorázni Kocsis Zoltán?",
+            "answers": [
+                "3 éves",
+                "6 éves",
+                "12 éves"
+            ],
+            "correct_answer": "3 éves"
+        },
+        {
+            "question": "Mit jelent az allegro zenei utasítás?",
+            "answers": [
+                "gyorsan",
+                "lassan",
+                "érzelmesen"
+            ],
+            "correct_answer": "gyorsan"
+        },
+        {
+            "question": "Kinek az operája a Don Carlos?",
+            "answers": [
+                "Giuseppe Verdi",
+                "Wolfgang Amadeus Mozart",
+                "Giacomo Puccini"
+            ],
+            "correct_answer": "Giuseppe Verdi"
+        },
+        {
+            "question": "Melyik énekesnő dala a Ha én rózsa volnék?",
+            "answers": [
+                "Koncz Zsuzsa",
+                "Kovács Kati",
+                "Zséda"
+            ],
+            "correct_answer": "Koncz Zsuzsa"
+        },
+        {
+            "question": "Mit jelent a moderato zenei utasítás?",
+            "answers": [
+                "mérsékelten",
+                "pengetve",
+                "határozottan"
+            ],
+            "correct_answer": "mérsékelten"
+        },
+        {
+            "question": "Melyik énekes dala az \"Ugyanúgy\"?",
+            "answers": [
+                "Ákos",
+                "Charlie",
+                "Caramel"
+            ],
+            "correct_answer": "Ákos"
+        },
+        {
+            "question": "Melyik énekes dala a Fekete vonat?",
+            "answers": [
+                "Poór Péter",
+                "Máté Péter",
+                "Szécsi Pál"
+            ],
+            "correct_answer": "Poór Péter"
+        },
+        {
+            "question": "Kitől ered az operett elnevezés?",
+            "answers": [
+                "Mozart",
+                "Verdi",
+                "Beethoven"
+            ],
+            "correct_answer": "Mozart"
+        },
+        {
+            "question": "Melyik nem Andrew Lloyd Webber musicalje?",
+            "answers": [
+                "Elisabeth",
+                "Evita",
+                "Az Operaház Fantomja"
+            ],
+            "correct_answer": "Elisabeth"
+        },
+        {
+            "question": "Melyik városban alakult a Fool Moon nevű együttes?",
+            "answers": [
+                "Szeged",
+                "Pécs",
+                "Debrecen"
+            ],
+            "correct_answer": "Szeged"
+        },
+        {
+            "question": "Mit jelent az amoroso zenei utasítás?",
+            "answers": [
+                "szerelmesen",
+                "nyugodtan",
+                "izgatottan"
+            ],
+            "correct_answer": "szerelmesen"
+        },
+        {
+            "question": "Melyik együttes dala a \"Ma van a szülinapom!\"?",
+            "answers": [
+                "Alma",
+                "Körte",
+                "Áfonya"
+            ],
+            "correct_answer": "Alma"
+        },
+        {
+            "question": "Mi volt a Simon and Garfunkel duo kezdeti neve?",
+            "answers": [
+                "Tom és Jerry",
+                "Peter és Pan",
+                "Bonnie és Clyde"
+            ],
+            "correct_answer": "Tom és Jerry"
+        },
+        {
+            "question": "Ki nem énekelt a \"We Are the World\" c. dalban?",
+            "answers": [
+                "Prince",
+                "Tina Turner",
+                "Lionel Richie"
+            ],
+            "correct_answer": "Prince"
+        },
+        {
+            "question": "Milyen hangszer a kokjú?",
+            "answers": [
+                "vonós",
+                "ütős",
+                "pengetős"
+            ],
+            "correct_answer": "vonós"
+        },
+        {
+            "question": "Ki lett az év női előadója a Comet 2016 díjátadón?",
+            "answers": [
+                "Rúzsa Magdi",
+                "Tóth Gabi",
+                "Radics Gigi"
+            ],
+            "correct_answer": "Rúzsa Magdi"
+        },
+        {
+            "question": "Melyik évben hunyt el Máté Péter?",
+            "answers": [
+                "1984-ben",
+                "1986-ban",
+                "1995-ben"
+            ],
+            "correct_answer": "1984-ben"
+        },
+        {
+            "question": "Kinek a műve a Carmina Burana?",
+            "answers": [
+                "Carl Orff",
+                "Georges Bizet",
+                "Frederic Chopin"
+            ],
+            "correct_answer": "Carl Orff"
+        },
+        {
+            "question": "Mit jelent a piano zenei utasítás?",
+            "answers": [
+                "halkan",
+                "gyorsan",
+                "szelíden"
+            ],
+            "correct_answer": "halkan"
+        },
+        {
+            "question": "Kinek a musicalje \"Az Operaház fantomja\"?",
+            "answers": [
+                "Andrew Lloyd Webber",
+                "Lévay Szilveszter",
+                "Udo Jürgens"
+            ],
+            "correct_answer": "Andrew Lloyd Webber"
+        },
+        {
+            "question": "Kinek a műve a Pillangókisasszony?",
+            "answers": [
+                "Giacomo Puccini",
+                "Giuseppe Verdi",
+                "Gaetano Donizetti"
+            ],
+            "correct_answer": "Giacomo Puccini"
+        },
+        {
+            "question": "Kivel énekelte Eros Ramazzotti a Cose della vita c. számot?",
+            "answers": [
+                "Tina Turnerrel",
+                "Madonnával",
+                "Diana Rossal"
+            ],
+            "correct_answer": "Tina Turnerrel"
+        },
+        {
+            "question": "Hány cm magas Anastacia, amerikai énekesnő?",
+            "answers": [
+                "157 cm",
+                "175 cm",
+                "168 cm"
+            ],
+            "correct_answer": "157 cm"
+        },
+        {
+            "question": "Ki volt Niccolo Paganini?",
+            "answers": [
+                "hegedűvirtuóz",
+                "festőművész",
+                "szobrászművész"
+            ],
+            "correct_answer": "hegedűvirtuóz"
+        },
+        {
+            "question": "Melyik együttes nagy slágere volt a \"The Wall\"?",
+            "answers": [
+                "Pink Floyd",
+                "Beatles",
+                "The Doors"
+            ],
+            "correct_answer": "Pink Floyd"
+        },
+        {
+            "question": "Ki a Beatrice együttes frontembere?",
+            "answers": [
+                "Nagy Feró",
+                "D. Nagy Lajos",
+                "Ganxsta Zolee"
+            ],
+            "correct_answer": "Nagy Feró"
+        },
+        {
+            "question": "Mi Ganxsta (\"Döglégy\") Zolee születési neve?",
+            "answers": [
+                "Zana Zoltán",
+                "Nagy Zoltán",
+                "Eszenyi Zoltán"
+            ],
+            "correct_answer": "Zana Zoltán"
+        },
+        {
+            "question": "Kivel nem duettezett Eros Ramazotti?",
+            "answers": [
+                "Beyonceval",
+                "Luciano Pavarottival",
+                "Ricky Martinnal"
+            ],
+            "correct_answer": "Beyonceval"
+        },
+        {
+            "question": "Milyen származású Sean Paul?",
+            "answers": [
+                "jamaicai",
+                "mexikói",
+                "kubai"
+            ],
+            "correct_answer": "jamaicai"
+        },
+        {
+            "question": "Melyik együttes dala a Rakpart?",
+            "answers": [
+                "Wellhello",
+                "Halott Pénz",
+                "Punnany Massif"
+            ],
+            "correct_answer": "Wellhello"
+        },
+        {
+            "question": "Ki nem volt a The Beatles együttes tagja?",
+            "answers": [
+                "Robin Gibb",
+                "George Harrison",
+                "Ringo Starr"
+            ],
+            "correct_answer": "Robin Gibb"
+        },
+        {
+            "question": "Melyik énekesnő albuma az Ördögi angyal?",
+            "answers": [
+                "Rúzsa Magdolna",
+                "Tóth Gabi",
+                "Zséda"
+            ],
+            "correct_answer": "Rúzsa Magdolna"
+        },
+        {
+            "question": "Milyen beosztásban dolgozott Csepregi Éva 1973-ban?",
+            "answers": [
+                "titkárnő",
+                "könyvelő",
+                "orvos"
+            ],
+            "correct_answer": "titkárnő"
+        },
+        {
+            "question": "Milyen nemzetiségű Sia, énekesnő és zeneszerző?",
+            "answers": [
+                "ausztrál",
+                "amerikai",
+                "angol"
+            ],
+            "correct_answer": "ausztrál"
+        },
+        {
+            "question": "Mi volt Freedie Mercury születéskori neve?",
+            "answers": [
+                "Farrokh Bulsara",
+                "John Deacon",
+                "Eddie Van Halen"
+            ],
+            "correct_answer": "Farrokh Bulsara"
+        },
+        {
+            "question": "Ki Montserrat Caballé?",
+            "answers": [
+                "opera-énekesnő",
+                "képzőművész",
+                "balettművész"
+            ],
+            "correct_answer": "opera-énekesnő"
+        },
+        {
+            "question": "Milyen hangszer a timpani?",
+            "answers": [
+                "üstdob",
+                "csörgődob",
+                "pergődob"
+            ],
+            "correct_answer": "üstdob"
+        },
+        {
+            "question": "Kinek az operája a Turandot?",
+            "answers": [
+                "Puccini",
+                "Verdi",
+                "Bach"
+            ],
+            "correct_answer": "Puccini"
+        },
+        {
+            "question": "Melyik opera szereplője Ping, Pang és Pong?",
+            "answers": [
+                "Turandot",
+                "Tosca",
+                "Carmen"
+            ],
+            "correct_answer": "Turandot"
+        },
+        {
+            "question": "Minek készült eredetileg Jose Carreras operaénekes?",
+            "answers": [
+                "vegyésznek",
+                "tanárnak",
+                "ügyvédnek"
+            ],
+            "correct_answer": "vegyésznek"
+        },
+        {
+            "question": "Melyik magyar operaénekes lépett fel a New Yorki Metropolitan Operaházban?",
+            "answers": [
+                "Gregor József",
+                "Pitti Katalin",
+                "Szvétek László"
+            ],
+            "correct_answer": "Gregor József"
+        },
+        {
+            "question": "Melyik együttes büszkélkedhet a legtöbb Grammy-díjjal?",
+            "answers": [
+                "U2",
+                "AC/DC",
+                "Metallica"
+            ],
+            "correct_answer": "U2"
+        },
+        {
+            "question": "Ki volt Kacsóh Pongrác?",
+            "answers": [
+                "zeneszerző",
+                "énekes",
+                "színész"
+            ],
+            "correct_answer": "zeneszerző"
+        },
+        {
+            "question": "Kinek az operája a Trisztán és Izolda?",
+            "answers": [
+                "Wagner",
+                "Verdi",
+                "Puccini"
+            ],
+            "correct_answer": "Wagner"
+        },
+        {
+            "question": "Melyik együttes tagja Neil Tennant?",
+            "answers": [
+                "Pet Shop Boys",
+                "Rolling Stones",
+                "Green day"
+            ],
+            "correct_answer": "Pet Shop Boys"
+        },
+        {
+            "question": "Milyen nemzetiségű Bob Geldof?",
+            "answers": [
+                "ír",
+                "svéd",
+                "angol"
+            ],
+            "correct_answer": "ír"
+        },
+        {
+            "question": "Melyik együttes dala a Közeli helyeken?",
+            "answers": [
+                "Bikini",
+                "Első Emelet",
+                "Rapülők"
+            ],
+            "correct_answer": "Bikini"
+        },
+        {
+            "question": "Mit jelent a vivo zenei uatsítás?",
+            "answers": [
+                "élénken",
+                "érzéssel",
+                "szelíden"
+            ],
+            "correct_answer": "élénken"
+        },
+        {
+            "question": "Ki \"A Játékkészítő\" c. zenés mese zeneszerzője?",
+            "answers": [
+                "Rakonczai Viktor",
+                "Dés László",
+                "Szörényi Levente"
+            ],
+            "correct_answer": "Rakonczai Viktor"
+        },
+        {
+            "question": "Melyik városban alakult az Ocho Macho együttes?",
+            "answers": [
+                "Kőszegen",
+                "Gyöngyösön",
+                "Hódmezővásárhelyen"
+            ],
+            "correct_answer": "Kőszegen"
+        },
+        {
+            "question": "Melyik együttesből alakult a Péterfy Bori és Love Band?",
+            "answers": [
+                "Amorf Ördögök",
+                "Amorf Lovagok",
+                "A Kutya Vacsorája"
+            ],
+            "correct_answer": "Amorf Ördögök"
+        },
+        {
+            "question": "Hány befejezett szimfóniája van Beethovennek?",
+            "answers": [
+                "9",
+                "13",
+                "6"
+            ],
+            "correct_answer": "9"
+        },
+        {
+            "question": "Mi volt Beethoven egyetlen operája?",
+            "answers": [
+                "Fidelio",
+                "Carmen",
+                "Tosca"
+            ],
+            "correct_answer": "Fidelio"
+        },
+        {
+            "question": "Melyik együttes dala a \"Ha elmúlik karácsony\"?",
+            "answers": [
+                "Neoton Família",
+                "Dolly Roll",
+                "R-go"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Melyik együttes dala a \"Kívánj igazi ünnepet\"?",
+            "answers": [
+                "Piramis",
+                "Edda",
+                "LGT"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Melyik együttes dala a Fehér karácsony?",
+            "answers": [
+                "TNT",
+                "Happy Gang",
+                "Első Emelet"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Melyik nem karácsonyi dal?",
+            "answers": [
+                "Tavaszi szél",
+                "Csendes éj",
+                "Mennyből az angyal"
+            ],
+            "correct_answer": "Tavaszi szél"
+        },
+        {
+            "question": "Hol született George Michael?",
+            "answers": [
+                "Angliában",
+                "USA-ban",
+                "Mexikóban"
+            ],
+            "correct_answer": "Angliában"
+        },
+        {
+            "question": "Mi volt a Wham együttes leghíresebb dala?",
+            "answers": [
+                "Last Christmas",
+                "Freedom",
+                "The Edge of Heaven"
+            ],
+            "correct_answer": "Last Christmas"
+        },
+        {
+            "question": "Hány évig tartott George Michael \"25 Live\" c. turnéja?",
+            "answers": [
+                "3 évig",
+                "1 évig",
+                "6 évig"
+            ],
+            "correct_answer": "3 évig"
+        },
+        {
+            "question": "Mi volt George Michael édesapjának foglalkozása?",
+            "answers": [
+                "restaurátor",
+                "színész",
+                "újságíró"
+            ],
+            "correct_answer": "restaurátor"
+        },
+        {
+            "question": "Hányszoros Grammy-díjas Aretha Franklin?",
+            "answers": [
+                "16x",
+                "12x",
+                "6x"
+            ],
+            "correct_answer": "16x"
+        },
+        {
+            "question": "Hány éves korában kezdett gitározni Carlos Santana?",
+            "answers": [
+                "15",
+                "8",
+                "12"
+            ],
+            "correct_answer": "15"
+        },
+        {
+            "question": "Hány gyermeke volt Bob Marleynek?",
+            "answers": [
+                "13",
+                "6",
+                "9"
+            ],
+            "correct_answer": "13"
+        },
+        {
+            "question": "Ki Homonyik Sándor?",
+            "answers": [
+                "énekes",
+                "festő",
+                "sportoló"
+            ],
+            "correct_answer": "énekes"
+        },
+        {
+            "question": "Mi a kasztanyetta?",
+            "answers": [
+                "ütőhangszer",
+                "régi fejfedő",
+                "gyerekjáték"
+            ],
+            "correct_answer": "ütőhangszer"
+        },
+        {
+            "question": "Milyen tantárgyat tanított Cseh Tamás?",
+            "answers": [
+                "rajz",
+                "irodalom",
+                "testnevelés"
+            ],
+            "correct_answer": "rajz"
+        },
+        {
+            "question": "Minek készült eredetileg Charlie?",
+            "answers": [
+                "balett-táncosnak",
+                "filozófusnak",
+                "politikusnak"
+            ],
+            "correct_answer": "balett-táncosnak"
+        },
+        {
+            "question": "Mikor bomlott fel a Beatles?",
+            "answers": [
+                "1971-ben",
+                "1974-ben",
+                "1972-ben"
+            ],
+            "correct_answer": "1971-ben"
+        },
+        {
+            "question": "Hol született Wolfgang Amadeus Mozart?",
+            "answers": [
+                "Salzburgban",
+                "Bécsben",
+                "Linzben"
+            ],
+            "correct_answer": "Salzburgban"
+        },
+        {
+            "question": "Melyik együttes dala a Happy New Year?",
+            "answers": [
+                "ABBA",
+                "Boney M",
+                "Ottawan"
+            ],
+            "correct_answer": "ABBA"
+        },
+        {
+            "question": "Melyik évben hunyt el január 2-án Zámbó Jimmy?",
+            "answers": [
+                "2001-ben",
+                "2000-ben",
+                "2005-ben"
+            ],
+            "correct_answer": "2001-ben"
+        },
+        {
+            "question": "Melyik együttes tagja volt Vikidál Gyula?",
+            "answers": [
+                "P-mobil",
+                "LGT",
+                "Metro"
+            ],
+            "correct_answer": "P-mobil"
+        },
+        {
+            "question": "Mi Hobo eredeti neve?",
+            "answers": [
+                "Földes László",
+                "Földes Gyula",
+                "Závodi János"
+            ],
+            "correct_answer": "Földes László"
+        },
+        {
+            "question": "Kivel énekelte Hofi Géza a Macska duettet?",
+            "answers": [
+                "Koós Jánossal",
+                "Aradszky Lászlóval",
+                "Ihász Gáborral"
+            ],
+            "correct_answer": "Koós Jánossal"
+        },
+        {
+            "question": "Hol mutatták be először Az Operaház fantomja c. musicalt?",
+            "answers": [
+                "Londonban",
+                "Milánóban",
+                "Párizsban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Mi Lana Del Rey eredeti keresztneve?",
+            "answers": [
+                "Elizabeth",
+                "Julia",
+                "Laura"
+            ],
+            "correct_answer": "Elizabeth"
+        },
+        {
+            "question": "Melyik opera főszereplője Cso-cso-szán?",
+            "answers": [
+                "Pillangókisasszony",
+                "Carmen",
+                "Aida"
+            ],
+            "correct_answer": "Pillangókisasszony"
+        },
+        {
+            "question": "Melyik együttesben zenélt Szűcs Judith ?",
+            "answers": [
+                "Beatrice",
+                "Neoton Família",
+                "Hungária"
+            ],
+            "correct_answer": "Beatrice"
+        },
+        {
+            "question": "Mi Horus polgári neve a Children of Distance együttesből?",
+            "answers": [
+                "Somogyi Péter",
+                "Nyári Roland",
+                "Ács Róbert"
+            ],
+            "correct_answer": "Somogyi Péter"
+        },
+        {
+            "question": "Mi Marge énekesnő eredeti neve?",
+            "answers": [
+                "Batta Zsuzsanna",
+                "Bata Adrienn",
+                "Kovács Mariann"
+            ],
+            "correct_answer": "Batta Zsuzsanna"
+        },
+        {
+            "question": "Milyen Júliáról énekelt Zorán?",
+            "answers": [
+                "szép",
+                "makrancos",
+                "szőke"
+            ],
+            "correct_answer": "szép"
+        },
+        {
+            "question": "Melyik énekesnő dala az Április?",
+            "answers": [
+                "Rúzsa Magdolna",
+                "Tóth Vera",
+                "Boggie"
+            ],
+            "correct_answer": "Rúzsa Magdolna"
+        },
+        {
+            "question": "Melyik énekes a legidősebb?",
+            "answers": [
+                "Zorán",
+                "Balázs Fecó",
+                "Demjén Ferenc"
+            ],
+            "correct_answer": "Zorán"
+        },
+        {
+            "question": "Ki nyerte a 2016-os X-faktort?",
+            "answers": [
+                "Opitz Barbara",
+                "Mata Ricsi",
+                "Gorbunov Dmitrij"
+            ],
+            "correct_answer": "Opitz Barbara"
+        },
+        {
+            "question": "Mikor alakult meg a Magna Cum Laude zenekar?",
+            "answers": [
+                "1999-ben",
+                "2002-ben",
+                "1997-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Melyik dal képviseli hazánkat az Eurovíziós Dalfesztiválon Kijevben?",
+            "answers": [
+                "Pápai Joci-Origo",
+                "Radics Gigi-See It Through",
+                "Tóth Gabi-Hosszú idők"
+            ],
+            "correct_answer": "Pápai Joci-Origo"
+        },
+        {
+            "question": "Hol született Rihanna?",
+            "answers": [
+                "Barbadoson",
+                "Mexikóban",
+                "Jamaicában"
+            ],
+            "correct_answer": "Barbadoson"
+        },
+        {
+            "question": "2016-ban ki képviselte hazánkat az Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "Freddie",
+                "Kállay-Saunders András",
+                "Wolf Kati"
+            ],
+            "correct_answer": "Freddie"
+        },
+        {
+            "question": "Mi Edvin Marton születési neve?",
+            "answers": [
+                "Csűry Lajos",
+                "Jeszenszky Béla",
+                "Zuber Krisztián"
+            ],
+            "correct_answer": "Csűry Lajos"
+        },
+        {
+            "question": "Ki \"A padlás\" c. musical zeneszerzője?",
+            "answers": [
+                "Presser Gábor",
+                "Szörényi Levente",
+                "Dés László"
+            ],
+            "correct_answer": "Presser Gábor"
+        },
+        {
+            "question": "Mi volt a The Beatles együttes 1970-ben megjelent albumának a címe?",
+            "answers": [
+                "Let It Be",
+                "Yellow Submarine",
+                "Help!"
+            ],
+            "correct_answer": "Let It Be"
+        },
+        {
+            "question": "Kinek az operája a Nabucco?",
+            "answers": [
+                "Verdi",
+                "Puccini",
+                "Mozart"
+            ],
+            "correct_answer": "Verdi"
+        },
+        {
+            "question": "Mikor lesz a Fonogram Díjátadó?",
+            "answers": [
+                "2017.március 1-én",
+                "2017.március 15-én",
+                "2017.március 6-án"
+            ],
+            "correct_answer": "2017.március 1-én"
+        },
+        {
+            "question": "Melyik együttesnek nem volt tagja Varga Miklós?",
+            "answers": [
+                "Metró együttes",
+                "Boxer együttes",
+                "Pandoras Box együttes"
+            ],
+            "correct_answer": "Metró együttes"
+        },
+        {
+            "question": "Ki kapott életműdíjat a 2017-es Fonogram díjkiosztón?",
+            "answers": [
+                "Fenyő Miklós",
+                "Szikora Róbert",
+                "Nagy Feró"
+            ],
+            "correct_answer": "Fenyő Miklós"
+        },
+        {
+            "question": "Hol alakult meg az Első Emelet?",
+            "answers": [
+                "egy strandon",
+                "egy étteremben",
+                "egy fodrászüzletben"
+            ],
+            "correct_answer": "egy strandon"
+        },
+        {
+            "question": "Hol alakult meg a Quimby együttes?",
+            "answers": [
+                "Dunaújvárosban",
+                "Kőszegen",
+                "Miskolcon"
+            ],
+            "correct_answer": "Dunaújvárosban"
+        },
+        {
+            "question": "Cserháti Zsuzsának melyik lemeze jelent meg a halála után?",
+            "answers": [
+                "Életem zenéje",
+                "Add a kezed",
+                "Édes kisfiam"
+            ],
+            "correct_answer": "Életem zenéje"
+        },
+        {
+            "question": "Hol alapították a Soulwave együttest?",
+            "answers": [
+                "Körmenden",
+                "Várpalotán",
+                "Kőszegen"
+            ],
+            "correct_answer": "Körmenden"
+        },
+        {
+            "question": "Melyik musical betétdala a \"Ringasd el magad\"?",
+            "answers": [
+                "Képzelt riport egy amerikai popfesztiválról",
+                "Sztárcsinálók",
+                "Doctor Herz"
+            ],
+            "correct_answer": "Képzelt riport egy amerikai popfesztiválról"
+        },
+        {
+            "question": "Melyik együttes tagja volt Katona Klári?",
+            "answers": [
+                "Neoton",
+                "Illés",
+                "Hungária"
+            ],
+            "correct_answer": "Neoton"
+        },
+        {
+            "question": "Puccini melyik műve nem tartozik a Triptichonjai közé?",
+            "answers": [
+                "A Nyugat lánya",
+                "Angelica nővér",
+                "A köpeny"
+            ],
+            "correct_answer": "A Nyugat lánya"
+        },
+        {
+            "question": "Mikor kerül megrendezésre a 2017-es VOLT fesztivál?",
+            "answers": [
+                "Június 27-Július 1-ig",
+                "Július 4-8-ig",
+                "Június 29-Július 2-ig"
+            ],
+            "correct_answer": "Június 27-Július 1-ig"
+        },
+        {
+            "question": "Hol alakult meg a Metallica együttes?",
+            "answers": [
+                "Los Angelesben",
+                "Kanadában",
+                "Madridban"
+            ],
+            "correct_answer": "Los Angelesben"
+        },
+        {
+            "question": "Melyik együttes dala a \"Jó nekem\"?",
+            "answers": [
+                "Ocho Macho",
+                "Punnany Massif",
+                "Soulwave"
+            ],
+            "correct_answer": "Ocho Macho"
+        },
+        {
+            "question": "Melyik együttes dala a Mosoly?",
+            "answers": [
+                "Punnany Massif",
+                "Wellhello",
+                "Ocho Macho"
+            ],
+            "correct_answer": "Punnany Massif"
+        },
+        {
+            "question": "Melyik együttes adott koncertet 2010-ben a Puskás Ferenc Stadionban?",
+            "answers": [
+                "Metallica",
+                "Depeche Mode",
+                "U2"
+            ],
+            "correct_answer": "Metallica"
+        },
+        {
+            "question": "Hány éves korában hunyt el Edith Piaf?",
+            "answers": [
+                "47",
+                "36",
+                "24"
+            ],
+            "correct_answer": "47"
+        },
+        {
+            "question": "Melyik Táncdalfesztiválon lépett fel Ulmann Mónika gyerekként?",
+            "answers": [
+                "1981-es",
+                "1986-os",
+                "1988-as"
+            ],
+            "correct_answer": "1981-es"
+        },
+        {
+            "question": "Melyik énekes dala a \"Táncoló fekete lakkcipők\", ami egy könyv címéül is szolgált?",
+            "answers": [
+                "Komár László",
+                "Hobo",
+                "Korda György"
+            ],
+            "correct_answer": "Komár László"
+        },
+        {
+            "question": "Ki nem volt a Neoton együttes tagja?",
+            "answers": [
+                "Frenreisz Károly",
+                "Balázs Fecó",
+                "Som Lajos"
+            ],
+            "correct_answer": "Frenreisz Károly"
+        },
+        {
+            "question": "Hol tartotta 1992-ben a Locomotív GT a búcsúkoncertjeit?",
+            "answers": [
+                "a Nyugati pályaudvaron",
+                "a Papp László Budapest Sportarénában",
+                "a budapesti Sziget Fesztiválon"
+            ],
+            "correct_answer": "a Nyugati pályaudvaron"
+        },
+        {
+            "question": "Milyen származású Madonna?",
+            "answers": [
+                "olasz",
+                "spanyol",
+                "francia"
+            ],
+            "correct_answer": "olasz"
+        },
+        {
+            "question": "Milyen hangszeren játszott Chuck Berry?",
+            "answers": [
+                "gitár",
+                "zongora",
+                "szaxofon"
+            ],
+            "correct_answer": "gitár"
+        },
+        {
+            "question": "Minek tanult Gáspár Laci?",
+            "answers": [
+                "vízvezeték-szerelőnek",
+                "gázszerelőnek",
+                "villanyszerelőnek"
+            ],
+            "correct_answer": "vízvezeték-szerelőnek"
+        },
+        {
+            "question": "Melyik opera szereplője Escamillo?",
+            "answers": [
+                "Carmen",
+                "Aida",
+                "Pillangókisasszony"
+            ],
+            "correct_answer": "Carmen"
+        },
+        {
+            "question": "Melyik együttes dala volt eredetileg \"A zöld, a bíbor és a fekete\"?",
+            "answers": [
+                "P.Box",
+                "Deák Bill Blues Band",
+                "P.Mobil"
+            ],
+            "correct_answer": "P.Box"
+        },
+        {
+            "question": "Mi a polgári neve ByeAlexnek?",
+            "answers": [
+                "Márta Alex",
+                "Dénes Alex",
+                "Alex Gergely"
+            ],
+            "correct_answer": "Márta Alex"
+        },
+        {
+            "question": "Melyik együttes tagja volt Robbie Williams?",
+            "answers": [
+                "Thake That",
+                "Tokio Hotel",
+                "Pet Shop Boys"
+            ],
+            "correct_answer": "Thake That"
+        },
+        {
+            "question": "Melyik együttes albuma a Kaktuszliget?",
+            "answers": [
+                "Quimby",
+                "Honeybeast",
+                "Margaret Island"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Hol született Adele?",
+            "answers": [
+                "Londonban",
+                "Madridban",
+                "New Yorkban"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Mi Nena, német énekesnő keresztneve?",
+            "answers": [
+                "Gabriele",
+                "Sofia",
+                "Hannah"
+            ],
+            "correct_answer": "Gabriele"
+        },
+        {
+            "question": "Kivel énekelte Charlie a \"Száguldás, Porsche, Szerelem\" c. számot?",
+            "answers": [
+                "Cserháti Zsuzsával",
+                "Koncz Zsuzsával",
+                "Zalatnay Saroltával"
+            ],
+            "correct_answer": "Cserháti Zsuzsával"
+        },
+        {
+            "question": "Ki volt a Bikini frontembere a zenekar megalakulásakor?",
+            "answers": [
+                "Nagy Feró",
+                "Révész Sándor",
+                "Szörényi Levente"
+            ],
+            "correct_answer": "Nagy Feró"
+        },
+        {
+            "question": "Hogy folytatódik a Quimby dal? \" Most múlik pontosan....\"",
+            "answers": [
+                "engedem hadd menjen",
+                "nem vagy való nekem",
+                "miért kell hogy így legyen"
+            ],
+            "correct_answer": "engedem hadd menjen"
+        },
+        {
+            "question": "Melyik Quimby dalból idézünk? \"G dúrban zúgják a fákon a kabócák\"...?",
+            "answers": [
+                "Autó egy szerpentinen",
+                "Ajjajjaj",
+                "Sehol se talállak"
+            ],
+            "correct_answer": "Autó egy szerpentinen"
+        },
+        {
+            "question": "Mit jelent magyarul Luis Fonsi slágerének címe a Despasito?",
+            "answers": [
+                "lassan",
+                "gyorsan",
+                "táncolj"
+            ],
+            "correct_answer": "lassan"
+        },
+        {
+            "question": "Milyen származású Rita Ora énekes, színésznő?",
+            "answers": [
+                "albán",
+                "svéd",
+                "ír"
+            ],
+            "correct_answer": "albán"
+        },
+        {
+            "question": "Milyen hangszeren játszott Beethoven?",
+            "answers": [
+                "zongora",
+                "hegedű",
+                "fuvola"
+            ],
+            "correct_answer": "zongora"
+        },
+        {
+            "question": "Melyik énekes albuma az Ikon?",
+            "answers": [
+                "Ákos",
+                "Caramel",
+                "Gáspár Laci"
+            ],
+            "correct_answer": "Ákos"
+        },
+        {
+            "question": "Kinek az operája \"A Varázsfuvola\"?",
+            "answers": [
+                "Wolfgang Amadeus Mozart",
+                "Ludwig van Beethoven",
+                "Joseph Haydn"
+            ],
+            "correct_answer": "Wolfgang Amadeus Mozart"
+        },
+        {
+            "question": "Ki nyerte meg 2017-ben az X-faktort?",
+            "answers": [
+                "Ricco & Claudia",
+                "Serena Rigacci",
+                "Gulyás Roland"
+            ],
+            "correct_answer": "Ricco & Claudia"
+        },
+        {
+            "question": "Kinek a slágere a \"Homok a szélben\"?",
+            "answers": [
+                "Balázs Fecó",
+                "Varga Miklós",
+                "Zorán"
+            ],
+            "correct_answer": "Balázs Fecó"
+        },
+        {
+            "question": "Melyik énekesnő dala az \"Egyszer\"?",
+            "answers": [
+                "Rúzsa Magdi",
+                "Dér Heni",
+                "Tóth Gabi"
+            ],
+            "correct_answer": "Rúzsa Magdi"
+        },
+        {
+            "question": "Ki nem a \"Három Tenor\" egyike?",
+            "answers": [
+                "José Cura",
+                "José Carreras",
+                "Luciano Pavarotti"
+            ],
+            "correct_answer": "José Cura"
+        },
+        {
+            "question": "Melyik nem egy Máté Péter dal?",
+            "answers": [
+                "Kétforintos dal",
+                "Azért vannak a jó barátok",
+                "Zene nélkül mit érek én"
+            ],
+            "correct_answer": "Kétforintos dal"
+        },
+        {
+            "question": "Folytasd a gyerekdalt: \"Hull a pelyhes fehér hó.....\"",
+            "answers": [
+                "jöjj el kedves Télapó.",
+                "piros alma, mogyoró.",
+                "itt van már a Télapó."
+            ],
+            "correct_answer": "jöjj el kedves Télapó."
+        },
+        {
+            "question": "Melyik együttes énekese volt Kurt Cobain?",
+            "answers": [
+                "Nirvana",
+                "Def Leppard",
+                "Aerosmith"
+            ],
+            "correct_answer": "Nirvana"
+        },
+        {
+            "question": "Mi az oboa?",
+            "answers": [
+                "hangszer",
+                "fejfedő",
+                "játék"
+            ],
+            "correct_answer": "hangszer"
+        },
+        {
+            "question": "Melyik együttes dala a \"Közeli helyeken\"?",
+            "answers": [
+                "Bikini",
+                "Első Emelet",
+                "Rapülők"
+            ],
+            "correct_answer": "Bikini"
+        },
+        {
+            "question": "Ki nem volt soha az LGT együttes tagja?",
+            "answers": [
+                "Kóbor János",
+                "Somló Tamás",
+                "Karácsony János"
+            ],
+            "correct_answer": "Kóbor János"
+        },
+        {
+            "question": "Milyen színű a gyilkos galóca?",
+            "answers": [
+                "sárgászöld",
+                "piros",
+                "fehér"
+            ],
+            "correct_answer": "sárgászöld"
+        },
+        {
+            "question": "2017. dec. 8-án melyik együttes kapta a Comet gömböt a legjobb zenekar kategóriában?",
+            "answers": [
+                "Wellhello",
+                "Halott Pénz",
+                "Quimby"
+            ],
+            "correct_answer": "Wellhello"
+        },
+        {
+            "question": "Ki kapta az életműdíjat a 2017-es Comet-gálán?",
+            "answers": [
+                "Presser Gábor",
+                "Alföldi Róbert",
+                "Dés László"
+            ],
+            "correct_answer": "Presser Gábor"
+        },
+        {
+            "question": "Folytast a gyerekdalt: \"Virágéknál ég a világ.......\"?",
+            "answers": [
+                "sütik már a rántott békát.",
+                "kinyílott már ez a virág.",
+                "sütik már a rántott répát."
+            ],
+            "correct_answer": "sütik már a rántott békát."
+        },
+        {
+            "question": "Hány főből áll a Halott Pénz nevű zenekar?",
+            "answers": [
+                "7",
+                "6",
+                "3"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Melyik együttesben nem énekelt Kozma Orsi?",
+            "answers": [
+                "Groovehouse",
+                "Kimnowak",
+                "Jazz-Az"
+            ],
+            "correct_answer": "Groovehouse"
+        },
+        {
+            "question": "Melyik folyó zúg az orosz népdal szerint?",
+            "answers": [
+                "Volga",
+                "Léna",
+                "Szajna"
+            ],
+            "correct_answer": "Volga"
+        },
+        {
+            "question": "Mikor alakult meg a Wellhello együttes?",
+            "answers": [
+                "2014-ben",
+                "2013-ban",
+                "2010-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Mi a népdal címének a vége: A csitári....?",
+            "answers": [
+                "hegyek alatt",
+                "dombok fölött",
+                "fák tövében"
+            ],
+            "correct_answer": "hegyek alatt"
+        },
+        {
+            "question": "Melyik együttes dala a \"Rég várok valakire\"?",
+            "answers": [
+                "R-Go",
+                "Első Emelet",
+                "Omega"
+            ],
+            "correct_answer": "R-Go"
+        },
+        {
+            "question": "Melyik egy létező zenekar neve?",
+            "answers": [
+                "Ismerős Arcok",
+                "Ismerős Alakok",
+                "Ismeretlen Ismerősök"
+            ],
+            "correct_answer": "Ismerős Arcok"
+        },
+        {
+            "question": "Mit áraszt a tavaszi szél a népdal szerint?",
+            "answers": [
+                "vizet",
+                "szeretetet",
+                "fényt"
+            ],
+            "correct_answer": "vizet"
+        },
+        {
+            "question": "Melyik együttes albuma volt a Micsoda buli?",
+            "answers": [
+                "Hungária",
+                "Dolly Roll",
+                "Első Emelet"
+            ],
+            "correct_answer": "Hungária"
+        },
+        {
+            "question": "Mi a gordonka másik elnevezése?",
+            "answers": [
+                "cselló",
+                "nagybőgő",
+                "hegedű"
+            ],
+            "correct_answer": "cselló"
+        },
+        {
+            "question": "Melyik együttes dala a \"Vidéki sanzon\"?",
+            "answers": [
+                "Magna Cum Laude",
+                "Punnany Massif",
+                "Honeybeast"
+            ],
+            "correct_answer": "Magna Cum Laude"
+        },
+        {
+            "question": "Melyik Quimby dalban szerepel az almabor szó?",
+            "answers": [
+                "Most múlik pontosan",
+                "Autó egy szerpentinen",
+                "Magam adom"
+            ],
+            "correct_answer": "Most múlik pontosan"
+        },
+        {
+            "question": "Melyik csapat dala volt az 1993-ban megjelent Apa kocsit hajt?",
+            "answers": [
+                "Tudósok",
+                "Tudatlanok",
+                "Lúzerek"
+            ],
+            "correct_answer": "Tudósok"
+        },
+        {
+            "question": "Melyik együttes dala a Fehér karácsony?",
+            "answers": [
+                "TNT",
+                "Happy Gang",
+                "Első Emelet"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Honnan jön az angyal a karácsonyi dal szerint?",
+            "answers": [
+                "mennyből",
+                "édenkertből",
+                "égből"
+            ],
+            "correct_answer": "mennyből"
+        },
+        {
+            "question": "Melyik együttes dalában hangzik el \"A háza nagy, a férje béka\"?",
+            "answers": [
+                "Kispál és a Borz",
+                "Quimby",
+                "Hooligans"
+            ],
+            "correct_answer": "Kispál és a Borz"
+        },
+        {
+            "question": "Melyik együttes dala a \"Ha elmúlik karácsony\"?",
+            "answers": [
+                "Neoton Família",
+                "Dolly Roll",
+                "Első Emelet"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Melyik együttes dala az\" Engedd, hogy szabad legyek\"?",
+            "answers": [
+                "Margaret Island",
+                "Anna and the Barbies",
+                "Compact Disco"
+            ],
+            "correct_answer": "Margaret Island"
+        },
+        {
+            "question": "Hol kerül megrendezésre a 2018-as Eurovíziós Dalfesztivál?",
+            "answers": [
+                "Lisszabonban",
+                "Kijevben",
+                "Bécsben"
+            ],
+            "correct_answer": "Lisszabonban"
+        },
+        {
+            "question": "Melyik egy létező együttes neve?",
+            "answers": [
+                "Kerozin",
+                "Benzin",
+                "Petróleum"
+            ],
+            "correct_answer": "Kerozin"
+        },
+        {
+            "question": "Melyik musical dala \"A zene az kell\"?",
+            "answers": [
+                "Valahol Európában",
+                "Macskák",
+                "Mozart"
+            ],
+            "correct_answer": "Valahol Európában"
+        },
+        {
+            "question": "Melyik együttes dala a \"Ha volna két életem\"?",
+            "answers": [
+                "Piramis",
+                "LGT",
+                "Illés"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Ki a Hooligans együttes frontembere?",
+            "answers": [
+                "Csipa",
+                "Endi",
+                "Kiki"
+            ],
+            "correct_answer": "Csipa"
+        },
+        {
+            "question": "Hol és mikor alapították a Depeche Mode együttest?",
+            "answers": [
+                "1980-ban Angliában",
+                "1986-ban Los Angelesben",
+                "1985-ben Stockholmban"
+            ],
+            "correct_answer": "1980-ban Angliában"
+        },
+        {
+            "question": "Melyik énekesnő dala a \"Különös szilveszter\"?",
+            "answers": [
+                "Cserháti Zsuzsa",
+                "Kovács Kati",
+                "Koncz Zsuzsa"
+            ],
+            "correct_answer": "Cserháti Zsuzsa"
+        },
+        {
+            "question": "Melyik együttes dala a \"Belédfulladnék\"?",
+            "answers": [
+                "New Level Empire",
+                "Compact Disco",
+                "Anna and the Barbies"
+            ],
+            "correct_answer": "New Level Empire"
+        },
+        {
+            "question": "Melyik énekesnő dalai a \"Like a Virgin\" és a \"Material Girl\"?",
+            "answers": [
+                "Madonna",
+                "Mariah Carey",
+                "Selena Gomez"
+            ],
+            "correct_answer": "Madonna"
+        },
+        {
+            "question": "Hol kerül megrendezésre áprilisban a Coachella fesztivál?",
+            "answers": [
+                "Kaliforniában",
+                "New Yorkban",
+                "Texasban"
+            ],
+            "correct_answer": "Kaliforniában"
+        },
+        {
+            "question": "Melyik Oscar-díjas filmben énekelt Sebestyén Márta?",
+            "answers": [
+                "Az angol beteg",
+                "Titanic",
+                "Amerikai szépség"
+            ],
+            "correct_answer": "Az angol beteg"
+        },
+        {
+            "question": "Melyik együttes énekese Kóbor János?",
+            "answers": [
+                "Omega",
+                "LGT",
+                "Metro"
+            ],
+            "correct_answer": "Omega"
+        },
+        {
+            "question": "Hogy folytatódik az operettsláger \"Hajmási Péter, Hajmási Pál\"...?",
+            "answers": [
+                "a barométer esőre áll",
+                "a barométer erőre vár",
+                "a barométer nem diszponál"
+            ],
+            "correct_answer": "a barométer esőre áll"
+        },
+        {
+            "question": "Melyik együttes dalai a \"Dancing Queen\" és a \"Waterloo\"?",
+            "answers": [
+                "ABBA",
+                "Baccara",
+                "Hot Chocolate"
+            ],
+            "correct_answer": "ABBA"
+        },
+        {
+            "question": "Hány éves korában hunyt el Elvis Presley?",
+            "answers": [
+                "42",
+                "55",
+                "24"
+            ],
+            "correct_answer": "42"
+        },
+        {
+            "question": "Melyik nem vonós hangszer?",
+            "answers": [
+                "hárfa",
+                "gordonka",
+                "brácsa"
+            ],
+            "correct_answer": "hárfa"
+        },
+        {
+            "question": "Ki nem a Halott Pénz együttes tagja?",
+            "answers": [
+                "Felcser Máté",
+                "Járai Márk",
+                "Marsalkó Dávid"
+            ],
+            "correct_answer": "Felcser Máté"
+        },
+        {
+            "question": "Melyik együttes dalai a \"Hétköznapi Hősök\" és az \"Utolsó Tánc\"?",
+            "answers": [
+                "Punnany Massif",
+                "Margaret Island",
+                "The Biebers"
+            ],
+            "correct_answer": "Punnany Massif"
+        },
+        {
+            "question": "Kinek az operája volt a \"Don Carlos\"?",
+            "answers": [
+                "Verdi",
+                "Mozart",
+                "Donizetti"
+            ],
+            "correct_answer": "Verdi"
+        },
+        {
+            "question": "Melyik együttes dala a \"Highway Star\"?",
+            "answers": [
+                "Deep Purple",
+                "Led Zeppelin",
+                "Black Sabbath"
+            ],
+            "correct_answer": "Deep Purple"
+        },
+        {
+            "question": "Kiről kapta a nevét a budapesti zeneművészeti egyetem?",
+            "answers": [
+                "Liszt Ferenc",
+                "Kodály Zoltán",
+                "Erkel Ferenc"
+            ],
+            "correct_answer": "Liszt Ferenc"
+        },
+        {
+            "question": "Melyik magyar híresség lépett fel a Moulin Rouge-ban?",
+            "answers": [
+                "Medveczky Ilona",
+                "Gábor Zsazsa",
+                "Mary Zsuzsi"
+            ],
+            "correct_answer": "Medveczky Ilona"
+        },
+        {
+            "question": "Melyik énekesnő dala a \"Szerelemre születtem\"?",
+            "answers": [
+                "Zoltán Erika",
+                "Csepregi Éva",
+                "Szandi"
+            ],
+            "correct_answer": "Zoltán Erika"
+        },
+        {
+            "question": "Melyik együttesnek nem volt tagja Vikidál Gyula?",
+            "answers": [
+                "Piramis",
+                "P. Box",
+                "P. Mobil"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Kik a Wellhello együttes tagjai?",
+            "answers": [
+                "Fluor és Diaz",
+                "Oxigén és Kreon",
+                "SP és Fluor"
+            ],
+            "correct_answer": "Fluor és Diaz"
+        },
+        {
+            "question": "Melyik együttesnek van \"Elektormágnes\" című lemeze?",
+            "answers": [
+                "Tankcsapda",
+                "Magna Cum Laude",
+                "Kispál és a Borz"
+            ],
+            "correct_answer": "Tankcsapda"
+        },
+        {
+            "question": "Melyik amerikai énekes albumai a \"Bad\" és a \"Thriller\"?",
+            "answers": [
+                "Michael Jackson",
+                "Prince",
+                "Justin Timberlake"
+            ],
+            "correct_answer": "Michael Jackson"
+        },
+        {
+            "question": "Hány tagból áll az Irigy Hónaljmirigy együttes?",
+            "answers": [
+                "8",
+                "5",
+                "3"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Melyik együttes tagja volt Lerch István?",
+            "answers": [
+                "V Moto-Rock",
+                "LGT",
+                "Karthago"
+            ],
+            "correct_answer": "V Moto-Rock"
+        },
+        {
+            "question": "Mikor alakult meg a Karthago együttes?",
+            "answers": [
+                "1979-ben",
+                "1989-ben",
+                "1984-ben"
+            ],
+            "correct_answer": "1979-ben"
+        },
+        {
+            "question": "Hány húrja van egy hegedűnek?",
+            "answers": [
+                "négy",
+                "hat",
+                "nyolc"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Melyik énekes dalai a \"Maradj velem\" és az \"Érints meg\"?",
+            "answers": [
+                "Balázs Fecó",
+                "Demjén Ferenc",
+                "Varga Miklós"
+            ],
+            "correct_answer": "Balázs Fecó"
+        },
+        {
+            "question": "Kivel volt közös turnéja Rúzsa Magdinak \"Angyal mellettem\" címmel?",
+            "answers": [
+                "Presser Gáborral",
+                "Sztevanovity Zoránnal",
+                "Hobóval"
+            ],
+            "correct_answer": "Presser Gáborral"
+        },
+        {
+            "question": "Kinek az operája a Hunyadi László?",
+            "answers": [
+                "Erkel Ferenc",
+                "Liszt Ferenc",
+                "Bartók Béla"
+            ],
+            "correct_answer": "Erkel Ferenc"
+        },
+        {
+            "question": "Ki az új női zsűritagja \"A Dal 2018\"-nak?",
+            "answers": [
+                "Schell Judit",
+                "Liptai Klaudia",
+                "Oroszlán Szonja"
+            ],
+            "correct_answer": "Schell Judit"
+        },
+        {
+            "question": "Milyen vasárnap a címe Seress Rezső nagy slágerének?",
+            "answers": [
+                "szomorú",
+                "vidám",
+                "érdekes"
+            ],
+            "correct_answer": "szomorú"
+        },
+        {
+            "question": "Mi a Honeybeast 2017-ben megjelent albumának a címe?",
+            "answers": [
+                "Súlytalan",
+                "Halleluja",
+                "Igy játszom"
+            ],
+            "correct_answer": "Súlytalan"
+        },
+        {
+            "question": "Melyik énekesnő dala a \"Valahol egy lány\"?",
+            "answers": [
+                "Koncz Zsuzsa",
+                "Kovács Kati",
+                "Karda Bea"
+            ],
+            "correct_answer": "Koncz Zsuzsa"
+        },
+        {
+            "question": "Melyik Csonka András dala?",
+            "answers": [
+                "Ding-dong",
+                "Ping-pong",
+                "Csin-csong"
+            ],
+            "correct_answer": "Ding-dong"
+        },
+        {
+            "question": "Kivel nem volt duettje Kovács Ákosnak?",
+            "answers": [
+                "Wolf Katival",
+                "Zsédával",
+                "Janicsák Vecával"
+            ],
+            "correct_answer": "Wolf Katival"
+        },
+        {
+            "question": "Ki volt Rigoletto, Verdi operájában?",
+            "answers": [
+                "udvari bolond",
+                "herceg",
+                "egy nemes"
+            ],
+            "correct_answer": "udvari bolond"
+        },
+        {
+            "question": "Hány gigabájt és libamáj hangzik el a \"Vidéki sanzon\" c. Magna Cum Laude dalban?",
+            "answers": [
+                "öt",
+                "tíz",
+                "három"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Ki volt Otello felesége Verdi operájában?",
+            "answers": [
+                "Desdemona",
+                "Dulcinea",
+                "Abigél"
+            ],
+            "correct_answer": "Desdemona"
+        },
+        {
+            "question": "Hol használják a metronómot?",
+            "answers": [
+                "zenében",
+                "gasztronómiában",
+                "képzőművészetben"
+            ],
+            "correct_answer": "zenében"
+        },
+        {
+            "question": "Kinek az operája a Don Giovanni?",
+            "answers": [
+                "Mozart",
+                "Verdi",
+                "Donizetti"
+            ],
+            "correct_answer": "Mozart"
+        },
+        {
+            "question": "Melyik filmhez komponált zenét Vangelis?",
+            "answers": [
+                "Szárnyas fejvadász",
+                "Avatar",
+                "Hegylakó"
+            ],
+            "correct_answer": "Szárnyas fejvadász"
+        },
+        {
+            "question": "Hogy folytatódik a gyerekdal? \"Hull a szilva a fáról...\"",
+            "answers": [
+                "most jövök a tanyáról",
+                "most jövök a babámtól",
+                "most jövök a padlásról"
+            ],
+            "correct_answer": "most jövök a tanyáról"
+        },
+        {
+            "question": "Milyen rokoni kapcsolatban áll Csepregi Éva, zenekarának dobosával?",
+            "answers": [
+                "fia",
+                "unokaöccse",
+                "testvére"
+            ],
+            "correct_answer": "fia"
+        },
+        {
+            "question": "Ki jelenleg a Sugarloaf együttes énekese?",
+            "answers": [
+                "Nkuya Sonia",
+                "Dér Heni",
+                "Gubik Petra"
+            ],
+            "correct_answer": "Nkuya Sonia"
+        },
+        {
+            "question": "Melyik együttes tagjai Bauxit és Tokyo?",
+            "answers": [
+                "Belga",
+                "Children of Distance",
+                "New Level Empire"
+            ],
+            "correct_answer": "Belga"
+        },
+        {
+            "question": "Hányszor lépett fel Magyarországon Jean-Michel Jarre?",
+            "answers": [
+                "hatszor",
+                "háromszor",
+                "nyolcszor"
+            ],
+            "correct_answer": "hatszor"
+        },
+        {
+            "question": "Melyik zeneszerző műve a Nászinduló?",
+            "answers": [
+                "Mendelssohn",
+                "Mozart",
+                "Monteverdi"
+            ],
+            "correct_answer": "Mendelssohn"
+        },
+        {
+            "question": "Melyik hangszer művésze Havasi Balázs?",
+            "answers": [
+                "zongora",
+                "hegedű",
+                "nagybőgő"
+            ],
+            "correct_answer": "zongora"
+        },
+        {
+            "question": "Mi volt az egyetlen operája Beethovennek?",
+            "answers": [
+                "Fidelio",
+                "Tosca",
+                "Don Carlos"
+            ],
+            "correct_answer": "Fidelio"
+        },
+        {
+            "question": "Ki énekli a Kincsem c. film betétdalát?",
+            "answers": [
+                "Rúzsa Magdi",
+                "Tóth Gabi",
+                "Wolf Kati"
+            ],
+            "correct_answer": "Rúzsa Magdi"
+        },
+        {
+            "question": "Mi a basszuskulcs?",
+            "answers": [
+                "zenei kulcs",
+                "káromkodószó",
+                "a menyország kulcsa"
+            ],
+            "correct_answer": "zenei kulcs"
+        },
+        {
+            "question": "Kinek az operája a Rigoletto?",
+            "answers": [
+                "Verdi",
+                "Puccini",
+                "Mozart"
+            ],
+            "correct_answer": "Verdi"
+        },
+        {
+            "question": "Melyik énekes dala az \"Ölelj meg újra\"?",
+            "answers": [
+                "Ákos",
+                "Caramel",
+                "ByeAlex"
+            ],
+            "correct_answer": "Ákos"
+        },
+        {
+            "question": "Milyen nemzetiségű Jean-Michel Jarre zenész?",
+            "answers": [
+                "francia",
+                "olasz",
+                "svájci"
+            ],
+            "correct_answer": "francia"
+        },
+        {
+            "question": "Milyen térről énekel Kern András?",
+            "answers": [
+                "Lövölde",
+                "Bosnyák",
+                "Örs vezér"
+            ],
+            "correct_answer": "Lövölde"
+        },
+        {
+            "question": "Melyik együttes énekel Don Quijote-ról?",
+            "answers": [
+                "Neoton Família",
+                "Első Emelet",
+                "Hungária"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Hogy folyatódik a Magna Cum Laude dala? \"Színezd újra, színezd újra..\"",
+            "answers": [
+                "Az életet ha megfakulna.",
+                "A felhőket ha beborulna.",
+                "Az álmokat ha kifakulna."
+            ],
+            "correct_answer": "Az életet ha megfakulna."
+        },
+        {
+            "question": "Melyik együttes tagja volt Péter Szabó Szilvia?",
+            "answers": [
+                "NOX",
+                "FOX",
+                "BOX"
+            ],
+            "correct_answer": "NOX"
+        },
+        {
+            "question": "Melyik nem egy fiúegyüttes volt?",
+            "answers": [
+                "Fresh",
+                "Shygys",
+                "Picasso Branch"
+            ],
+            "correct_answer": "Fresh"
+        },
+        {
+            "question": "Melyik hangszer virtuóza a kínai Yo-Yo Ma?",
+            "answers": [
+                "cselló",
+                "hárfa",
+                "zongora"
+            ],
+            "correct_answer": "cselló"
+        },
+        {
+            "question": "Milyen zenét játszik a Csík zenekar?",
+            "answers": [
+                "magyar népzenét",
+                "blues zenét",
+                "country zenét"
+            ],
+            "correct_answer": "magyar népzenét"
+        },
+        {
+            "question": "Melyik énekesnek nincs Hello c. száma?",
+            "answers": [
+                "Cyndi Lauper",
+                "Lionel Richie",
+                "Adele"
+            ],
+            "correct_answer": "Cyndi Lauper"
+        },
+        {
+            "question": "Mi a beceneve a Hooligans együttes frontemberének?",
+            "answers": [
+                "Csipa",
+                "Maci",
+                "Cipő"
+            ],
+            "correct_answer": "Csipa"
+        },
+        {
+            "question": "Hány évada volt eddig a magyar X faktornak?",
+            "answers": [
+                "6",
+                "7",
+                "3"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Hogy folytatódik az Omega sláger?\" a régi csibészek...\"",
+            "answers": [
+                "nem ismernek engem meg.",
+                "mindig tovább engednek.",
+                "otthagytak és elmentek."
+            ],
+            "correct_answer": "nem ismernek engem meg."
+        },
+        {
+            "question": "Kinek a vígoperája a Don Pasquale?",
+            "answers": [
+                "Donizetti",
+                "Verdi",
+                "Puccini"
+            ],
+            "correct_answer": "Donizetti"
+        },
+        {
+            "question": "Mikor alakult meg a Rapülők együttes?",
+            "answers": [
+                "1992-ben",
+                "1999-ben",
+                "1996-ban"
+            ],
+            "correct_answer": "1992-ben"
+        },
+        {
+            "question": "Melyik énekesnő dala a Rohan az idő?",
+            "answers": [
+                "Koncz Zsuzsa",
+                "Cserháti Zsuzsa",
+                "Kovács Kati"
+            ],
+            "correct_answer": "Koncz Zsuzsa"
+        },
+        {
+            "question": "Mi Freedie Mercury születéskori neve?",
+            "answers": [
+                "Farrokh Bulsara",
+                "John Deacon",
+                "Eddie Van Halen"
+            ],
+            "correct_answer": "Farrokh Bulsara"
+        },
+        {
+            "question": "Ki Falusi Marianna társa a Pa-Dö-Dő együttesben?",
+            "answers": [
+                "Lang Györgyi",
+                "Szulák Andi",
+                "Dér Heni"
+            ],
+            "correct_answer": "Lang Györgyi"
+        },
+        {
+            "question": "Ki jelenleg a P-mobil együttes vezetője?",
+            "answers": [
+                "Schuster Lóránt",
+                "Vikidál Gyula",
+                "Sárvári Vilmos"
+            ],
+            "correct_answer": "Schuster Lóránt"
+        },
+        {
+            "question": "Hogy folytatódik az EDDA sláger? \"A kör közepén állok...\"",
+            "answers": [
+                "körbevesznek jó barátok",
+                "éles késsel rám vadásztok",
+                "egyszer majd odébbállok"
+            ],
+            "correct_answer": "körbevesznek jó barátok"
+        },
+        {
+            "question": "Ki a Tankcsapda együttes énekese?",
+            "answers": [
+                "Lukács László",
+                "Sidlovits Gábor",
+                "Fejes Tamás"
+            ],
+            "correct_answer": "Lukács László"
+        },
+        {
+            "question": "Ki nem énekelt a We Are the World c. dalban?",
+            "answers": [
+                "Prince",
+                "Tina Turner",
+                "Lionel Richie"
+            ],
+            "correct_answer": "Prince"
+        },
+        {
+            "question": "Hány éves korában hunyt el Elvis Presley?",
+            "answers": [
+                "42",
+                "56",
+                "68"
+            ],
+            "correct_answer": "42"
+        },
+        {
+            "question": "Kik a V-Tech együttes tagjai?",
+            "answers": [
+                "Kefír és Szamóca",
+                "Joghurt és Málna",
+                "Túró és Mazsola"
+            ],
+            "correct_answer": "Kefír és Szamóca"
+        },
+        {
+            "question": "Mi Dopeman valódi neve?",
+            "answers": [
+                "Pityinger László",
+                "Kozák László",
+                "Széki Attila"
+            ],
+            "correct_answer": "Pityinger László"
+        },
+        {
+            "question": "Melyik együttes dala a \"Gyere őrült\"?",
+            "answers": [
+                "Edda",
+                "P-Mobil",
+                "Piramis"
+            ],
+            "correct_answer": "Edda"
+        },
+        {
+            "question": "Melyik együttes dalai a Kicsi gesztenye és a Tiltott perc?",
+            "answers": [
+                "TNT",
+                "Kozmix",
+                "Kerozin"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Melyik együttes dalai a Kicsi gesztenye és a Tiltott perc?",
+            "answers": [
+                "TNT",
+                "Kozmix",
+                "Kerozin"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Ki énekelte az \"Egy szál harangvirág\" c. dalt?",
+            "answers": [
+                "Szécsi Pál",
+                "Máté Péter",
+                "Poór Péter"
+            ],
+            "correct_answer": "Szécsi Pál"
+        },
+        {
+            "question": "Melyik együttes frontembere volt Mark Knopfler?",
+            "answers": [
+                "Dire Straits",
+                "Aerosmith",
+                "The Doors"
+            ],
+            "correct_answer": "Dire Straits"
+        },
+        {
+            "question": "Hogy folytatódik a Májusköszöntő dal? \" Itt van május elseje,....\"",
+            "answers": [
+                "Énekszó és tánc köszöntse!",
+                "Szállj csak, zeneszó, ének!",
+                "Ébresszed a magyar népet!"
+            ],
+            "correct_answer": "Énekszó és tánc köszöntse!"
+        },
+        {
+            "question": "Hol alakult meg a Hooligans együttes?",
+            "answers": [
+                "Szerencsen",
+                "Kaposváron",
+                "Kőszegen"
+            ],
+            "correct_answer": "Szerencsen"
+        },
+        {
+            "question": "Melyik együttes tagja Rendben Man?",
+            "answers": [
+                "Punnany Massif",
+                "Halott Pénz",
+                "Quimby"
+            ],
+            "correct_answer": "Punnany Massif"
+        },
+        {
+            "question": "Melyik együttes énekel sárga zsiguliról?",
+            "answers": [
+                "Vad Fruttik",
+                "Punnany Massif",
+                "Halott Pénz"
+            ],
+            "correct_answer": "Vad Fruttik"
+        },
+        {
+            "question": "Ki nem volt a Jackson 5 tagja?",
+            "answers": [
+                "Janet Jackson",
+                "Jermaine Jackson",
+                "Michael Jackson"
+            ],
+            "correct_answer": "Janet Jackson"
+        },
+        {
+            "question": "Hogy folytatódik a Hungária dal? \" Gyere, gyere Juli,... \"",
+            "answers": [
+                "Lesz egy remek buli",
+                "Lecsúszott a bugyi",
+                "Ez lesz ám a tuti"
+            ],
+            "correct_answer": "Lesz egy remek buli"
+        },
+        {
+            "question": "Honnan származik Rúzsa Magdi?",
+            "answers": [
+                "Vajdaságból",
+                "Erdélyből",
+                "Kárpátaljáról"
+            ],
+            "correct_answer": "Vajdaságból"
+        },
+        {
+            "question": "Mi a borbély neve Rossini: A sevillai borbély c. operájában?",
+            "answers": [
+                "Figaro",
+                "Fiorello",
+                "Fidelio"
+            ],
+            "correct_answer": "Figaro"
+        },
+        {
+            "question": "Melyik együttes dala a \"Lámpát ha gyújtok\"?",
+            "answers": [
+                "Quimby",
+                "Honeybeast",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Melyik egy rockegyüttes neve?",
+            "answers": [
+                "30Y",
+                "60X",
+                "40Z"
+            ],
+            "correct_answer": "30Y"
+        },
+        {
+            "question": "Ki alapította a Hiperkarma együttest?",
+            "answers": [
+                "Bérczesi Róbert",
+                "Hámori Benedek",
+                "Varga László"
+            ],
+            "correct_answer": "Bérczesi Róbert"
+        },
+        {
+            "question": "Melyik zeneszerző nem tartozik a bécsi klasszikusok közé?",
+            "answers": [
+                "Vivaldi",
+                "Beethoven",
+                "Haydn"
+            ],
+            "correct_answer": "Vivaldi"
+        },
+        {
+            "question": "Melyik ruhadarab egy együttes neve is?",
+            "answers": [
+                "Bikini",
+                "Szoknya",
+                "Sapka"
+            ],
+            "correct_answer": "Bikini"
+        },
+        {
+            "question": "Ki a Margaret Island énekesnője?",
+            "answers": [
+                "Lábas Viki",
+                "Tarján Zsófia",
+                "Pásztor Anna"
+            ],
+            "correct_answer": "Lábas Viki"
+        },
+        {
+            "question": "Kinek a dala volt a Children?",
+            "answers": [
+                "Robert Miles",
+                "Jean-Michel Jarre",
+                "David Guetta"
+            ],
+            "correct_answer": "Robert Miles"
+        },
+        {
+            "question": "Melyik együttes dala \"Ha volna két életem\"?",
+            "answers": [
+                "Piramis",
+                "LGT",
+                "Illés"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Kinek az operája a Szerelmi bájital?",
+            "answers": [
+                "Donizetti",
+                "Puccini",
+                "Verdi"
+            ],
+            "correct_answer": "Donizetti"
+        },
+        {
+            "question": "Melyik együttes dala az Emese?",
+            "answers": [
+                "Kispál és a borz",
+                "Pál utcai fiúk",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Kispál és a borz"
+        },
+        {
+            "question": "1974-ben melyik együttes nyerte meg az Eurovízios Dalfesztivált?",
+            "answers": [
+                "ABBA",
+                "Ottawan",
+                "Boney-M"
+            ],
+            "correct_answer": "ABBA"
+        },
+        {
+            "question": "Hogy folytatódik a Punnany M. sláger? \"Nem kérlek légy enyém örökké\"",
+            "answers": [
+                "mégis hozzád szól dalom",
+                "úgysem élhetünk örökké",
+                "egy percig lennék oltalom"
+            ],
+            "correct_answer": "mégis hozzád szól dalom"
+        },
+        {
+            "question": "Pápai Joci hanyadik helyen végzett a 62. Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "8.",
+                "12.",
+                "18."
+            ],
+            "correct_answer": "8."
+        },
+        {
+            "question": "Kinek az első nagylemeze a Tubular Bells?",
+            "answers": [
+                "Mike Oldfield",
+                "Jean-Michel Jarre",
+                "Ed Sheeran"
+            ],
+            "correct_answer": "Mike Oldfield"
+        },
+        {
+            "question": "Hány tagból áll a Halott Pénz nevű zenekar?",
+            "answers": [
+                "7",
+                "5",
+                "3"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Melyik ország énekese nyerte a 62. Eurovíziós Dalfesztivált?",
+            "answers": [
+                "Portugália",
+                "Bulgária",
+                "Franciaország"
+            ],
+            "correct_answer": "Portugália"
+        },
+        {
+            "question": "Ki a Magashegyi Underground énekese?",
+            "answers": [
+                "Bocskor Bíborka",
+                "Kozma Orsi",
+                "Dér Heni"
+            ],
+            "correct_answer": "Bocskor Bíborka"
+        },
+        {
+            "question": "Mi Kóbor János énekes beceneve?",
+            "answers": [
+                "Mecky",
+                "Próféta",
+                "Elefánt"
+            ],
+            "correct_answer": "Mecky"
+        },
+        {
+            "question": "Milyen nemzetiségű Enya?",
+            "answers": [
+                "ír",
+                "norvég",
+                "dán"
+            ],
+            "correct_answer": "ír"
+        },
+        {
+            "question": "2017-ben melyik napon adják át a Petőfi Zenei Díjakat?",
+            "answers": [
+                "június 26-án",
+                "június 27-én",
+                "június 30-án"
+            ],
+            "correct_answer": "június 26-án"
+        },
+        {
+            "question": "2017-ben mikor kezdődik a Sziget Fesztivál?",
+            "answers": [
+                "aug. 9-én",
+                "aug. 13-án",
+                "aug. 16-án"
+            ],
+            "correct_answer": "aug. 9-én"
+        },
+        {
+            "question": "Melyik városban alakult a Punnany Massif zenekar?",
+            "answers": [
+                "Pécsen",
+                "Sopronban",
+                "Dunaújvárosban"
+            ],
+            "correct_answer": "Pécsen"
+        },
+        {
+            "question": "Hol született Freddie Mercury?",
+            "answers": [
+                "Zanzibárban",
+                "Kenyában",
+                "Mongóliában"
+            ],
+            "correct_answer": "Zanzibárban"
+        },
+        {
+            "question": "Mi Horus polgári neve a Children of Distance együttesből?",
+            "answers": [
+                "Somogyi Péter",
+                "Nyári Roland",
+                "Ács Róbert"
+            ],
+            "correct_answer": "Somogyi Péter"
+        },
+        {
+            "question": "Mikor alakult meg a Magna Cum Laude zenekar?",
+            "answers": [
+                "1999-ben",
+                "2002-ben",
+                "1987-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Milyen hangszeren játszik Edvin Marton?",
+            "answers": [
+                "hegedűn",
+                "zongorán",
+                "nagybőgőn"
+            ],
+            "correct_answer": "hegedűn"
+        },
+        {
+            "question": "Hogy folytatódik a Wellhello slágere? \"Apu, vedd meg nekem a...\"",
+            "answers": [
+                "várost",
+                "lángost",
+                "táltost"
+            ],
+            "correct_answer": "várost"
+        },
+        {
+            "question": "Melyik külföldi együttes lép fel május 22-én a Groupama Arénában?",
+            "answers": [
+                "Depeche Mode",
+                "Metallica",
+                "The Doors"
+            ],
+            "correct_answer": "Depeche Mode"
+        },
+        {
+            "question": "Hol alakult meg a Depeche Mode együttes?",
+            "answers": [
+                "Angliában",
+                "Kanadában",
+                "New Yorkban"
+            ],
+            "correct_answer": "Angliában"
+        },
+        {
+            "question": "Mikor lesz a Nagyszínpad tehetségkutató döntője?",
+            "answers": [
+                "május 27-én",
+                "május 28-án",
+                "június 3-án"
+            ],
+            "correct_answer": "május 27-én"
+        },
+        {
+            "question": "Hol alakult meg az Első Emelet?",
+            "answers": [
+                "egy strandon",
+                "egy étteremben",
+                "egy fodrászüzletben"
+            ],
+            "correct_answer": "egy strandon"
+        },
+        {
+            "question": "Mikor hunyt el Cserháti Zsuzsa?",
+            "answers": [
+                "2003-ban",
+                "2005-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2003-ban"
+        },
+        {
+            "question": "Melyik együttest hívták a magyar Scooternek is?",
+            "answers": [
+                "Kozmix",
+                "Happy Gang",
+                "TNT"
+            ],
+            "correct_answer": "Kozmix"
+        },
+        {
+            "question": "2016-ban ki képviselte hazánkat az Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "Freddie",
+                "Kállay-Saunders András",
+                "Wolf Kati"
+            ],
+            "correct_answer": "Freddie"
+        },
+        {
+            "question": "Melyik zenekar nyerte a Nagyszínpad tehetségmutatót?",
+            "answers": [
+                "Lóci játszik",
+                "Konyha",
+                "Dope Calypso"
+            ],
+            "correct_answer": "Lóci játszik"
+        }
+    ]
+}

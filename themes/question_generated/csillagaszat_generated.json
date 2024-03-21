@@ -1,0 +1,626 @@
+{
+    "theme": "Csillagászat",
+    "questions": [
+        {
+            "question": "Mikor lesz Magyarországon legközelebb teljes napfogyatkozás?",
+            "answers": [
+                "2081.09.03",
+                "2091.09.11",
+                "2089.09.21"
+            ],
+            "correct_answer": "2081.09.03"
+        },
+        {
+            "question": "Melyik bolygó van a legközelebb a Naphoz?",
+            "answers": [
+                "Merkúr",
+                "Vénusz",
+                "Mars"
+            ],
+            "correct_answer": "Merkúr"
+        },
+        {
+            "question": "Aki január 25-én született, melyik állatövi jegybe tartozik?",
+            "answers": [
+                "vizöntő",
+                "halak",
+                "bak"
+            ],
+            "correct_answer": "vizöntő"
+        },
+        {
+            "question": "Aki november 25-én született, melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "nyilas",
+                "skorpió",
+                "mérleg"
+            ],
+            "correct_answer": "nyilas"
+        },
+        {
+            "question": "Melyik a legnagyobb bolygó a Naprendszerben?",
+            "answers": [
+                "Jupiter",
+                "Szaturnusz",
+                "Uránusz"
+            ],
+            "correct_answer": "Jupiter"
+        },
+        {
+            "question": "Mi a Vénusz bolygó másik elnevezése?",
+            "answers": [
+                "Esthajnalcsillag",
+                "Göncölszekér",
+                "Androméda"
+            ],
+            "correct_answer": "Esthajnalcsillag"
+        },
+        {
+            "question": "Aki szeptember 24-én született, melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "mérleg",
+                "skorpió",
+                "nyilas"
+            ],
+            "correct_answer": "mérleg"
+        },
+        {
+            "question": "Aki augusztus 25-én született, melyik csillagjegybe tartozik?",
+            "answers": [
+                "rák",
+                "oroszlán",
+                "szűz"
+            ],
+            "correct_answer": "szűz"
+        },
+        {
+            "question": "Melyik nem Föld-típusú bolygó?",
+            "answers": [
+                "Jupiter",
+                "Vénusz",
+                "Merkúr"
+            ],
+            "correct_answer": "Jupiter"
+        },
+        {
+            "question": "Melyik a Naptól számítva legkülső bolygó a Naprendszerben?",
+            "answers": [
+                "Neptunusz",
+                "Uránusz",
+                "Vénusz"
+            ],
+            "correct_answer": "Neptunusz"
+        },
+        {
+            "question": "Hány törpebolygó van a Naprendszerben?",
+            "answers": [
+                "hat",
+                "öt",
+                "nyolc"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Mi a meteor népies neve?",
+            "answers": [
+                "esticsillag",
+                "hajnalcsillag",
+                "hullócsillag"
+            ],
+            "correct_answer": "hullócsillag"
+        },
+        {
+            "question": "Aki szeptember 1-én született melyik csillagjegybe tartozik?",
+            "answers": [
+                "szűz",
+                "mérleg",
+                "oroszlán"
+            ],
+            "correct_answer": "szűz"
+        },
+        {
+            "question": "Hány fénymásodpercre van a Föld a Holdtól?",
+            "answers": [
+                "1,3",
+                "8,4",
+                "4,5"
+            ],
+            "correct_answer": "1,3"
+        },
+        {
+            "question": "Melyik nem óriásbolygó?",
+            "answers": [
+                "Vénusz",
+                "Szaturnusz",
+                "Jupiter"
+            ],
+            "correct_answer": "Vénusz"
+        },
+        {
+            "question": "Hány km távolságra van a Nap a Földtől?",
+            "answers": [
+                "150 millió km",
+                "260 millió km",
+                "40 millió km"
+            ],
+            "correct_answer": "150 millió km"
+        },
+        {
+            "question": "Mi körül kering az üstökös?",
+            "answers": [
+                "Nap",
+                "Föld",
+                "Hold"
+            ],
+            "correct_answer": "Nap"
+        },
+        {
+            "question": "Mi volt a neve az első űreszköznek amit a világűrbe juttattak?",
+            "answers": [
+                "Szputnyik–1",
+                "Voyager-1",
+                "Syncom–1"
+            ],
+            "correct_answer": "Szputnyik–1"
+        },
+        {
+            "question": "Mikor volt Magyarországon utoljára teljes napfogyatkozás?",
+            "answers": [
+                "1999.aug.11-én",
+                "2000.aug.21-én",
+                "1997.július 13-án"
+            ],
+            "correct_answer": "1999.aug.11-én"
+        },
+        {
+            "question": "Mit nevezünk Kék Holdnak?",
+            "answers": [
+                "egy adott hónapban kétszer van telihold",
+                "egy adott hónapban háromszor van telihold",
+                "egy adott hónapban nincs telihold"
+            ],
+            "correct_answer": "egy adott hónapban kétszer van telihold"
+        },
+        {
+            "question": "Mi az aszteroida?",
+            "answers": [
+                "kisbolygó",
+                "csillag",
+                "üstökös"
+            ],
+            "correct_answer": "kisbolygó"
+        },
+        {
+            "question": "Mi a Nap anyaga?",
+            "answers": [
+                "hidrogén és hélium",
+                "oxigén és nitrogén",
+                "hidrogén és oxigén"
+            ],
+            "correct_answer": "hidrogén és hélium"
+        },
+        {
+            "question": "Mi a Mars bolygó másik neve?",
+            "answers": [
+                "\"vörös bolygó\"",
+                "\"kék bolygó\"",
+                "\"sárga bolygó\""
+            ],
+            "correct_answer": "\"vörös bolygó\""
+        },
+        {
+            "question": "Mi a Föld legmélyebb pontja?",
+            "answers": [
+                "Mariana-árok",
+                "Tonga-árok",
+                "Japán-árok"
+            ],
+            "correct_answer": "Mariana-árok"
+        },
+        {
+            "question": "Mi a neve a mesterséges égitestnek?",
+            "answers": [
+                "műhold",
+                "műbolygó",
+                "műcsillag"
+            ],
+            "correct_answer": "műhold"
+        },
+        {
+            "question": "Mikor jelent meg utoljára a Halley-üstökös a naprendszerben?",
+            "answers": [
+                "1986-ban",
+                "1997-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "1986-ban"
+        },
+        {
+            "question": "Mi történik napfogyatkozáskor?",
+            "answers": [
+                "A Hold eltakarja a Napot",
+                "A Hold a Föld árnyékába kerül",
+                "A Mars eltakarja a Földet"
+            ],
+            "correct_answer": "A Hold eltakarja a Napot"
+        },
+        {
+            "question": "Aki november 7-én született, melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "skorpió",
+                "nyilas",
+                "mérleg"
+            ],
+            "correct_answer": "skorpió"
+        },
+        {
+            "question": "Mi történik holdfogyatkozáskor?",
+            "answers": [
+                "Hold a Föld árnyékába kerül",
+                "Nap eltakarja a Holdat",
+                "Hold eltakarja a Napot"
+            ],
+            "correct_answer": "Hold a Föld árnyékába kerül"
+        },
+        {
+            "question": "Milyen messze van a Föld a Naptól?",
+            "answers": [
+                "150 millió km",
+                "25 millió km",
+                "350 millió km"
+            ],
+            "correct_answer": "150 millió km"
+        },
+        {
+            "question": "Hány holdja van a Jupiternek?",
+            "answers": [
+                "67",
+                "98",
+                "34"
+            ],
+            "correct_answer": "67"
+        },
+        {
+            "question": "Mi körül kering a Nemzetközi Űrállomás?",
+            "answers": [
+                "Föld",
+                "Mars",
+                "Jupiter"
+            ],
+            "correct_answer": "Föld"
+        },
+        {
+            "question": "Hány percenként kerüli meg a Földet a Nemzetközi Űrállomás?",
+            "answers": [
+                "92",
+                "360",
+                "156"
+            ],
+            "correct_answer": "92"
+        },
+        {
+            "question": "Melyik országban van Bajkonur?",
+            "answers": [
+                "Kazahsztánban",
+                "Üzbegisztánban",
+                "Kínában"
+            ],
+            "correct_answer": "Kazahsztánban"
+        },
+        {
+            "question": "A Nemzetközi Űrállomás milyen magasságban van?",
+            "answers": [
+                "360 km",
+                "230 km",
+                "140 km"
+            ],
+            "correct_answer": "360 km"
+        },
+        {
+            "question": "Mikor lesz újra megfigyelhető a Halley-üstökös?",
+            "answers": [
+                "2061-ben",
+                "2081-ben",
+                "2045-ben"
+            ],
+            "correct_answer": "2061-ben"
+        },
+        {
+            "question": "A Naptól számítva hanyadik bolygó a Föld?",
+            "answers": [
+                "harmadik",
+                "ötödik",
+                "hatodik"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Hány milliárd évvel ezelőtt született a Nap?",
+            "answers": [
+                "4,6 milliárd",
+                "1,3 milliárd",
+                "3,6 milliárd"
+            ],
+            "correct_answer": "4,6 milliárd"
+        },
+        {
+            "question": "Melyik szobor kicsinyített mását vitte magával Farkas Bertalan a világűrbe?",
+            "answers": [
+                "Szabadság-szobor",
+                "Sárkányölő Szent György szobor",
+                "Hunyadi János szobor"
+            ],
+            "correct_answer": "Szabadság-szobor"
+        },
+        {
+            "question": "Mi a Mars bolygó másik elnevezése?",
+            "answers": [
+                "\"vörös bolygó\"",
+                "\"kék bolygó\"",
+                "\"sárga bolygó\""
+            ],
+            "correct_answer": "\"vörös bolygó\""
+        },
+        {
+            "question": "Mi lehet? bárány, fátyol, gomoly, párna...",
+            "answers": [
+                "felhő",
+                "szél",
+                "hold"
+            ],
+            "correct_answer": "felhő"
+        },
+        {
+            "question": "Aki április 11-én született melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "kos",
+                "bika",
+                "rák"
+            ],
+            "correct_answer": "kos"
+        },
+        {
+            "question": "Melyik nem egy csillagkép neve?",
+            "answers": [
+                "Anakonda",
+                "Kentaur",
+                "Vízöntő"
+            ],
+            "correct_answer": "Anakonda"
+        },
+        {
+            "question": "Mit jelent az atmoszféra szó?",
+            "answers": [
+                "légkör",
+                "világűr",
+                "bolygó"
+            ],
+            "correct_answer": "légkör"
+        },
+        {
+            "question": "Mi körül kering az üstökös?",
+            "answers": [
+                "Nap",
+                "Föld",
+                "Hold"
+            ],
+            "correct_answer": "Nap"
+        },
+        {
+            "question": "Melyik amerikai színésznőről neveztek el kisbolygót?",
+            "answers": [
+                "Jodie Foster",
+                "Natalie Portman",
+                "Meryl Streep"
+            ],
+            "correct_answer": "Jodie Foster"
+        },
+        {
+            "question": "Melyik állatövi jegyhez tartozik, aki május 7-én született?",
+            "answers": [
+                "bika",
+                "ikrek",
+                "kos"
+            ],
+            "correct_answer": "bika"
+        },
+        {
+            "question": "Mikor lesz Magyarországon legközelebb teljes napfogyatkozás?",
+            "answers": [
+                "2081.09.03-án",
+                "2091.09.11-én",
+                "2089.09.21-én"
+            ],
+            "correct_answer": "2081.09.03-án"
+        },
+        {
+            "question": "Melyik bolygó van legközelebb a Naphoz?",
+            "answers": [
+                "Merkúr",
+                "Vénusz",
+                "Mars"
+            ],
+            "correct_answer": "Merkúr"
+        },
+        {
+            "question": "Melyik nem kőzetbolygó?",
+            "answers": [
+                "Jupiter",
+                "Föld",
+                "Mars"
+            ],
+            "correct_answer": "Jupiter"
+        },
+        {
+            "question": "Melyik állatövi jegyhez tartozik aki május 31-én született?",
+            "answers": [
+                "Ikrek",
+                "Bika",
+                "Rák"
+            ],
+            "correct_answer": "Ikrek"
+        },
+        {
+            "question": "Ki lépett előszőr a Holdra?",
+            "answers": [
+                "Neil Armstrong",
+                "Jurij Gagarin",
+                "Louis Armstrong"
+            ],
+            "correct_answer": "Neil Armstrong"
+        },
+        {
+            "question": "Melyik nem óriásbolygó?",
+            "answers": [
+                "Vénusz",
+                "Szaturnusz",
+                "Jupiter"
+            ],
+            "correct_answer": "Vénusz"
+        },
+        {
+            "question": "Aki december 15-én született melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "nyilas",
+                "bak",
+                "skorpió"
+            ],
+            "correct_answer": "nyilas"
+        },
+        {
+            "question": "Mi körül keringenek a mesterséges bolygók?",
+            "answers": [
+                "Nap",
+                "Föld",
+                "Hold"
+            ],
+            "correct_answer": "Nap"
+        },
+        {
+            "question": "Hány csillag alkotja a Göncölszekeret?",
+            "answers": [
+                "hét",
+                "nyolc",
+                "tíz"
+            ],
+            "correct_answer": "hét"
+        },
+        {
+            "question": "Melyik bolygó van legközelebb a Naphoz?",
+            "answers": [
+                "Merkúr",
+                "Neptunusz",
+                "Mars"
+            ],
+            "correct_answer": "Merkúr"
+        },
+        {
+            "question": "Minek a hava január a népi kalendárium szerint?",
+            "answers": [
+                "Boldogasszony hava",
+                "Böjtelő hava",
+                "Kisasszony hava"
+            ],
+            "correct_answer": "Boldogasszony hava"
+        },
+        {
+            "question": "Aki január 1-én született melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "Bak",
+                "Nyilas",
+                "Vízöntő"
+            ],
+            "correct_answer": "Bak"
+        },
+        {
+            "question": "A Naptól számítva hanyadik bolygó a Föld?",
+            "answers": [
+                "harmadik",
+                "ötödik",
+                "első"
+            ],
+            "correct_answer": "harmadik"
+        },
+        {
+            "question": "Hány természetes holdja van a Marsnak?",
+            "answers": [
+                "2",
+                "16",
+                "53"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "question": "Melyik égitest istennője Artemisz?",
+            "answers": [
+                "Hold",
+                "Föld",
+                "Mars"
+            ],
+            "correct_answer": "Hold"
+        },
+        {
+            "question": "Melyik program keretén belül érték el először a Holdat?",
+            "answers": [
+                "Luna-program",
+                "Lunar Prospector",
+                "SMART–1"
+            ],
+            "correct_answer": "Luna-program"
+        },
+        {
+            "question": "Hány billió kilométer 1 fényév?",
+            "answers": [
+                "9.4",
+                "15.6",
+                "87.9"
+            ],
+            "correct_answer": "9,4"
+        },
+        {
+            "question": "Mi az atmoszféra?",
+            "answers": [
+                "légkör",
+                "bolygó",
+                "csillagkép"
+            ],
+            "correct_answer": "légkör"
+        },
+        {
+            "question": "Hány millió km távolságra van a Nap a Földtől?",
+            "answers": [
+                "150 millió",
+                "650 millió",
+                "12 millió"
+            ],
+            "correct_answer": "150 millió"
+        },
+        {
+            "question": "Aki január 20-án született melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "bak",
+                "vízöntő",
+                "halak"
+            ],
+            "correct_answer": "bak"
+        },
+        {
+            "question": "Mi volt a neve a 2012-ben útjára indított magyar műholdnak?",
+            "answers": [
+                "Masat-1",
+                "Szputnyik–1",
+                "Apollo 11"
+            ],
+            "correct_answer": "Masat-1"
+        },
+        {
+            "question": "Aki február 3-án született melyik állatövi jegyhez tartozik?",
+            "answers": [
+                "vízöntő",
+                "bak",
+                "halak"
+            ],
+            "correct_answer": "vízöntő"
+        }
+    ]
+}

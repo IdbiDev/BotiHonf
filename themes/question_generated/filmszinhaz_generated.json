@@ -1,0 +1,4847 @@
+{
+    "theme": "Film, színház",
+    "questions": [
+        {
+            "question": "Ki volt a Forrest Gump c. film főszereplője?",
+            "answers": [
+                "Tom Hanks",
+                "Tim Robbins",
+                "Mel Gibson"
+            ],
+            "correct_answer": "Tom Hanks"
+        },
+        {
+            "question": "1988-ban melyik film kapott Oscar-díjat?",
+            "answers": [
+                "Esőember",
+                "Veszedelmes viszonyok",
+                "Farkasokkal táncoló"
+            ],
+            "correct_answer": "Esőember"
+        },
+        {
+            "question": "Mi volt Bud Spencer eredeti neve?",
+            "answers": [
+                "Carlo Pedersoli",
+                "Mario Girotti",
+                "Carlo Girotti"
+            ],
+            "correct_answer": "Carlo Pedersoli"
+        },
+        {
+            "question": "Melyik évben kapott Oscar-díjat a Titanic c. film?",
+            "answers": [
+                "1997",
+                "1998",
+                "1999"
+            ],
+            "correct_answer": "1997"
+        },
+        {
+            "question": "Ki a Csillagok háborújának atyja?",
+            "answers": [
+                "George Lucas",
+                "Jake Lloyd",
+                "Ewan McGregor"
+            ],
+            "correct_answer": "George Lucas"
+        },
+        {
+            "question": "Hol kerül sor az Oscar-díj átadásra?",
+            "answers": [
+                "Hollywoodban",
+                "New Yorkban",
+                "Las Vegasban"
+            ],
+            "correct_answer": "Hollywoodban"
+        },
+        {
+            "question": "Ki volt Gálvölgyi János apósa?",
+            "answers": [
+                "Rodolfó",
+                "Alfonzó",
+                "Latabár Kálmán"
+            ],
+            "correct_answer": "Rodolfó"
+        },
+        {
+            "question": "Melyik filmben nyújtott alakításáért kapott Oscar-díjat Leonardo DiCaprio?",
+            "answers": [
+                "A visszatérő",
+                "Aviátor",
+                "A Wall Street farkasa"
+            ],
+            "correct_answer": "A visszatérő"
+        },
+        {
+            "question": "Ki Pocahontas a Walt Disney mesében?",
+            "answers": [
+                "indián hercegnő",
+                "hableány",
+                "császár leánya"
+            ],
+            "correct_answer": "indián hercegnő"
+        },
+        {
+            "question": "1956-ban melyik film nyert Oscar díjat?",
+            "answers": [
+                "80 nap alatt a Föld körül",
+                "Híd a Kwai folyón",
+                "West Side Story"
+            ],
+            "correct_answer": "80 nap alatt a Föld körül"
+        },
+        {
+            "question": "Hány cm magas volt Yoda a Star Wars szereplője?",
+            "answers": [
+                "140 cm",
+                "66 cm",
+                "97 cm"
+            ],
+            "correct_answer": "66 cm"
+        },
+        {
+            "question": "Mikor készült a Száll a kakukk fészkére c. film?",
+            "answers": [
+                "1970-ben",
+                "1976-ban",
+                "1975-ben"
+            ],
+            "correct_answer": "1975-ben"
+        },
+        {
+            "question": "Melyik években játszódik a Star Trek?",
+            "answers": [
+                "1960-as",
+                "1970-es",
+                "1950-es"
+            ],
+            "correct_answer": "1960-as"
+        },
+        {
+            "question": "Ki Mushu a Mulan c. Disney rajzfilmben?",
+            "answers": [
+                "házisárkány",
+                "kobold",
+                "hobbit"
+            ],
+            "correct_answer": "házisárkány"
+        },
+        {
+            "question": "Melyik országban rendezik meg a Locarnói Nemzetközi Filmfesztivált?",
+            "answers": [
+                "Franciaország",
+                "Olaszország",
+                "Svájc"
+            ],
+            "correct_answer": "Svájc"
+        },
+        {
+            "question": "Ki a főszereplője Az utolsó szamuráj c. filmnek?",
+            "answers": [
+                "Tom Cruise",
+                "Tom Hanks",
+                "Tom Welling"
+            ],
+            "correct_answer": "Tom Cruise"
+        },
+        {
+            "question": "Hányadik Golden Globe-gálát rendezték 2016-ban?",
+            "answers": [
+                "73.",
+                "74.",
+                "72."
+            ],
+            "correct_answer": "73."
+        },
+        {
+            "question": "A Madagaszkár c. animációs filmben mi a neve az oroszlánnak?",
+            "answers": [
+                "Alex",
+                "Gloria",
+                "Rico"
+            ],
+            "correct_answer": "Alex"
+        },
+        {
+            "question": "Mi volt a születési neve Ruttkai Évának?",
+            "answers": [
+                "Russ Éva",
+                "Szabó Éva",
+                "Robok Éva"
+            ],
+            "correct_answer": "Russ Éva"
+        },
+        {
+            "question": "Hol született Antonio Banderas?",
+            "answers": [
+                "Barcelonában",
+                "Sevillában",
+                "Malagában"
+            ],
+            "correct_answer": "Malagában"
+        },
+        {
+            "question": "Milyen anyagból készült Pinokkió?",
+            "answers": [
+                "műanyagból",
+                "fából",
+                "textilből"
+            ],
+            "correct_answer": "fából"
+        },
+        {
+            "question": "Hol kerül átadásra az Emmy-díj?",
+            "answers": [
+                "Los Angelesben",
+                "New Yorkban",
+                "Hollywoodban"
+            ],
+            "correct_answer": "Los Angelesben"
+        },
+        {
+            "question": "Hol született Páger Antal, Kossuth-díjas színész?",
+            "answers": [
+                "Makón",
+                "Debrecenben",
+                "Szegeden"
+            ],
+            "correct_answer": "Makón"
+        },
+        {
+            "question": "Hányszoros Golden Globe-díjas Robin Williams?",
+            "answers": [
+                "kétszeres",
+                "négyszeres",
+                "hatszoros"
+            ],
+            "correct_answer": "hatszoros"
+        },
+        {
+            "question": "Hol játszódik a Lucky Luke képregénysorozat?",
+            "answers": [
+                "a dzsungelben",
+                "a vadnyugaton",
+                "a sivatagban"
+            ],
+            "correct_answer": "a vadnyugaton"
+        },
+        {
+            "question": "Mi a neve a másik két mókusnak az Alvin és a mókusokban?",
+            "answers": [
+                "David és Ted",
+                "Simon és Theodore",
+                "Simon és David"
+            ],
+            "correct_answer": "Simon és Theodore"
+        },
+        {
+            "question": "Mi a neve a fekete párducnak A dzsungel könyvében?",
+            "answers": [
+                "Sir Kán",
+                "Bagira",
+                "Akela"
+            ],
+            "correct_answer": "Bagira"
+        },
+        {
+            "question": "Mikor mutatták be az Augusztus Oklahomában c. filmet?",
+            "answers": [
+                "2015-ben",
+                "2014-ben",
+                "2010-ben"
+            ],
+            "correct_answer": "2014-ben"
+        },
+        {
+            "question": "Ki játszotta Donna szerepét a Mamma Mia! c. filmben?",
+            "answers": [
+                "Meryl Streep",
+                "Sharon Stone",
+                "Nicole Kidman"
+            ],
+            "correct_answer": "Meryl Streep"
+        },
+        {
+            "question": "Milyen állat Garfield?",
+            "answers": [
+                "macska",
+                "mókus",
+                "kutya"
+            ],
+            "correct_answer": "macska"
+        },
+        {
+            "question": "Ki nem szerepelt az Alice csodaországban c. filmben?",
+            "answers": [
+                "Toto",
+                "Április bolondja",
+                "Kalapos"
+            ],
+            "correct_answer": "Toto"
+        },
+        {
+            "question": "Mi a neve a kaposvári színháznak?",
+            "answers": [
+                "Gárdonyi Géza Színház",
+                "Csiky Gergely Színház",
+                "Móricz Zsigmond Színház"
+            ],
+            "correct_answer": "Csiky Gergely Színház"
+        },
+        {
+            "question": "Hol játszódik a Halálsoron c. film?",
+            "answers": [
+                "az űrben",
+                "elmegyógyintézetben",
+                "börtönben"
+            ],
+            "correct_answer": "börtönben"
+        },
+        {
+            "question": "Mi a neve a vízilónak a Madagaszkár c. filmben?",
+            "answers": [
+                "Gloria",
+                "Alex",
+                "Melman"
+            ],
+            "correct_answer": "Gloria"
+        },
+        {
+            "question": "Melyik filmben nem játszott Kaszás Attila?",
+            "answers": [
+                "Kútfejek",
+                "Valami Amerika",
+                "Üvegtigris"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Melyik számokkal lett telitalálata Andrásnak a Valami Amerika c. filmben?",
+            "answers": [
+                "1,2,3,4,5",
+                "10,20,30,40,50",
+                "12,22,32,42,52"
+            ],
+            "correct_answer": "1,2,3,4,5"
+        },
+        {
+            "question": "Milyen állat Ted az amerikai vígjátékban?",
+            "answers": [
+                "mackó",
+                "elefánt",
+                "oroszlán"
+            ],
+            "correct_answer": "mackó"
+        },
+        {
+            "question": "Melyik filmben nem játszott Patrick Swayze?",
+            "answers": [
+                "Dirty Dancing",
+                "Ghost",
+                "Titanic"
+            ],
+            "correct_answer": "Titanic"
+        },
+        {
+            "question": "Ki énekelte a Titanic betétdalát?",
+            "answers": [
+                "Shania Twain",
+                "Celine Dion",
+                "Shakira"
+            ],
+            "correct_answer": "Celine Dion"
+        },
+        {
+            "question": "Ki rendezte A tanú c. filmet?",
+            "answers": [
+                "Bacsó Péter",
+                "Fábri Péter",
+                "Mészáros Péter"
+            ],
+            "correct_answer": "Bacsó Péter"
+        },
+        {
+            "question": "Melyik rajzfilm szereplője Grabowski?",
+            "answers": [
+                "Macskarisztokraták",
+                "Macskafogó",
+                "Tom és Jerry"
+            ],
+            "correct_answer": "Macskafogó"
+        },
+        {
+            "question": "Hány évesen tudja meg Harry Potter hogy varázsló?",
+            "answers": [
+                "tizennégy",
+                "tizenkettő",
+                "tizenegy"
+            ],
+            "correct_answer": "tizenegy"
+        },
+        {
+            "question": "Mi volt a születési neve Karády Katalinnak?",
+            "answers": [
+                "Kovács Katalin",
+                "Kanczler Katalin",
+                "Kerekes Katain"
+            ],
+            "correct_answer": "Kanczler Katalin"
+        },
+        {
+            "question": "Mi volt Tolnay Klári eredeti keresztneve?",
+            "answers": [
+                "Ilona",
+                "Rózsi",
+                "Bori"
+            ],
+            "correct_answer": "Rózsi"
+        },
+        {
+            "question": "Melyik tévéfilmben nem játszott Bajor Imre?",
+            "answers": [
+                "Linda",
+                "Kisváros",
+                "Angyalbőrben"
+            ],
+            "correct_answer": "Kisváros"
+        },
+        {
+            "question": "Az eredeti fekete-fehér Meseautó c. filmet mikor mutatták be?",
+            "answers": [
+                "1953-ban",
+                "1947-ben",
+                "1934-ben"
+            ],
+            "correct_answer": "1934-ben"
+        },
+        {
+            "question": "Hányszoros Oscar-díjas Robert De Niro?",
+            "answers": [
+                "négyszeres",
+                "kétszeres",
+                "ötszörös"
+            ],
+            "correct_answer": "kétszeres"
+        },
+        {
+            "question": "Melyik Marlon Brando legismertebb filmszerepe?",
+            "answers": [
+                "A Keresztapa",
+                "Julius Caesar",
+                "Don Juan DeMarco"
+            ],
+            "correct_answer": "A Keresztapa"
+        },
+        {
+            "question": "Ki rendezte A Keresztapa c. filmet?",
+            "answers": [
+                "Francis Ford Coppola",
+                "John Malkovich",
+                "Garry Marshall"
+            ],
+            "correct_answer": "Francis Ford Coppola"
+        },
+        {
+            "question": "Melyik filmben játszott Michael Jackson?",
+            "answers": [
+                "Men in Black",
+                "Men in Black II",
+                "A bárányok hallgatnak"
+            ],
+            "correct_answer": "Men in Black II"
+        },
+        {
+            "question": "Ki rendezte a Farkasokkal táncoló c. filmet?",
+            "answers": [
+                "Kevin Costner",
+                "Anthony Hopkins",
+                "Steven Spielberg"
+            ],
+            "correct_answer": "Kevin Costner"
+        },
+        {
+            "question": "Melyik filmben játszott Meat Loaf?",
+            "answers": [
+                "Hatodik érzék",
+                "Harcosok klubja",
+                "Amerikai szépség"
+            ],
+            "correct_answer": "Harcosok klubja"
+        },
+        {
+            "question": "Mikor mutatták be a Ryan közlegény megmentése c. filmet?",
+            "answers": [
+                "1998-ban",
+                "2000-ben",
+                "1989-ben"
+            ],
+            "correct_answer": "1998-ban"
+        },
+        {
+            "question": "Hány Oscar-díjat nyert Az angol beteg c. film?",
+            "answers": [
+                "9",
+                "5",
+                "10"
+            ],
+            "correct_answer": "9"
+        },
+        {
+            "question": "Melyik szinház igazgatója Mácsai Pál?",
+            "answers": [
+                "Örkény István Színház",
+                "Turay Ida Színház",
+                "Madách Színház"
+            ],
+            "correct_answer": "Örkény István Színház"
+        },
+        {
+            "question": "Melyik filmben nem játszott Alföldi Róbert?",
+            "answers": [
+                "Meseautó",
+                "Szerelem első vérig",
+                "Szerelem második vérig"
+            ],
+            "correct_answer": "Meseautó"
+        },
+        {
+            "question": "Melyik városban forgatták a Szerelem első és második vérig c. filmeket?",
+            "answers": [
+                "Szegeden",
+                "Sopronban",
+                "Kecskeméten"
+            ],
+            "correct_answer": "Szegeden"
+        },
+        {
+            "question": "Melyik évben játszódik a Dirty Dancing c. film?",
+            "answers": [
+                "1960-ban",
+                "1963-ban",
+                "1972-ben"
+            ],
+            "correct_answer": "1963-ban"
+        },
+        {
+            "question": "Melyik filmben hangzott el az Unchained Melody c. szám?",
+            "answers": [
+                "Ghost",
+                "Dirty Dancing",
+                "Országúti diszkó"
+            ],
+            "correct_answer": "Ghost"
+        },
+        {
+            "question": "Hány éves volt augusztus 18-án Robert Redford?",
+            "answers": [
+                "79",
+                "80",
+                "85"
+            ],
+            "correct_answer": "79"
+        },
+        {
+            "question": "Hány gyermeke van Robert Redfordnak?",
+            "answers": [
+                "négy",
+                "kettő",
+                "öt"
+            ],
+            "correct_answer": "négy"
+        },
+        {
+            "question": "Mi a foglalkozása Szinetár Miklósnak?",
+            "answers": [
+                "sportoló",
+                "rendező",
+                "színész"
+            ],
+            "correct_answer": "rendező"
+        },
+        {
+            "question": "Melyik évben játszódik a Szárnyas fejvadász c. film?",
+            "answers": [
+                "2019-ben",
+                "2020-ban",
+                "2013-ban"
+            ],
+            "correct_answer": "2019-ben"
+        },
+        {
+            "question": "Melyik filmben nem játszott Harisson Ford?",
+            "answers": [
+                "Paranoia",
+                "Atomcsapda",
+                "Gettómilliomos"
+            ],
+            "correct_answer": "Gettómilliomos"
+        },
+        {
+            "question": "Melyik tévévetélkedő szolgál alapjául a Gettómilliomos c. filmnek?",
+            "answers": [
+                "Leggyengébb láncszem",
+                "Legyen Ön is milliomos!",
+                "Egy szó, mint száz"
+            ],
+            "correct_answer": "Legyen Ön is milliomos!"
+        },
+        {
+            "question": "Melyik háború idején játszódik az Apokalipszis most c. film?",
+            "answers": [
+                "Vietnami háború",
+                "második világháború",
+                "százéves háború"
+            ],
+            "correct_answer": "Vietnami háború"
+        },
+        {
+            "question": "Pontosan hány évig tartott a százéves háború?",
+            "answers": [
+                "116",
+                "104",
+                "110"
+            ],
+            "correct_answer": "116"
+        },
+        {
+            "question": "Hány Oscar-díjat nyert a 12 év rabszolgaság c. film?",
+            "answers": [
+                "három",
+                "négy",
+                "egy"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Ki Az Argo-akció c. film főszereplője?",
+            "answers": [
+                "John Goodman",
+                "Ben Affleck",
+                "Alan Arkin"
+            ],
+            "correct_answer": "Ben Affleck"
+        },
+        {
+            "question": "Mikor mutatták be az Armageddon c. filmet?",
+            "answers": [
+                "1998-ban",
+                "1999-ben",
+                "2003-ban"
+            ],
+            "correct_answer": "1998-ban"
+        },
+        {
+            "question": "Melyik filmben nem játszott Bruce Willis?",
+            "answers": [
+                "Avatar",
+                "Az utolsó cserkész",
+                "Drágán add az életed!"
+            ],
+            "correct_answer": "Avatar"
+        },
+        {
+            "question": "Ki rendezte az Avatar c. filmet?",
+            "answers": [
+                "James Cameron",
+                "Francis Ford Coppola",
+                "John Hughes"
+            ],
+            "correct_answer": "James Cameron"
+        },
+        {
+            "question": "Ki a főszereplője a Terminátor c. filmnek?",
+            "answers": [
+                "Arnold Schwarzenegger",
+                "Sylvester Stallone",
+                "Jean-Claude Van Damme"
+            ],
+            "correct_answer": "Arnold Schwarzenegger"
+        },
+        {
+            "question": "Milyen nemzetiségű Jean-Claude Van Damme?",
+            "answers": [
+                "belga",
+                "svéd",
+                "amerikai"
+            ],
+            "correct_answer": "belga"
+        },
+        {
+            "question": "Melyik városunkban található a Vörösmarty Színház?",
+            "answers": [
+                "Székesfehérvár",
+                "Budapest",
+                "Pécs"
+            ],
+            "correct_answer": "Székesfehérvár"
+        },
+        {
+            "question": "Milyen állat Dumbó, Walt Disney rajzfilmjében?",
+            "answers": [
+                "kiselefánt",
+                "gólya",
+                "varjú"
+            ],
+            "correct_answer": "kiselefánt"
+        },
+        {
+            "question": "Mi volt Walt Disney első filmalkotása?",
+            "answers": [
+                "Hófehérke és a hét törpe",
+                "Hamupipőke",
+                "Bambi"
+            ],
+            "correct_answer": "Hófehérke és a hét törpe"
+        },
+        {
+            "question": "Melyik animációs film folytatása a Szenilla nyomában?",
+            "answers": [
+                "Némó nyomában",
+                "Agymanók",
+                "Jégvarázs"
+            ],
+            "correct_answer": "Némó nyomában"
+        },
+        {
+            "question": "Melyik mese alapján készült a Jégvarázs c. film?",
+            "answers": [
+                "A Hókirálynő",
+                "A rút kiskacsa",
+                "A kis gyufaárus lány"
+            ],
+            "correct_answer": "A Hókirálynő"
+        },
+        {
+            "question": "Melyik Walt Disney rajzfilm szereplője Hook kapitány?",
+            "answers": [
+                "Pán Péter",
+                "Robin Hood",
+                "Alice csodaországban"
+            ],
+            "correct_answer": "Pán Péter"
+        },
+        {
+            "question": "Milyen fajtájú kutya Susi, a Susi és Tekergő c. rajzfilmben?",
+            "answers": [
+                "spániel",
+                "skót terrier",
+                "csivava"
+            ],
+            "correct_answer": "spániel"
+        },
+        {
+            "question": "Mikor mutatták be az Aladdin c. rajzfilmet Magyarországon?",
+            "answers": [
+                "1993-ban",
+                "1995-ben",
+                "1998-ban"
+            ],
+            "correct_answer": "1993-ban"
+        },
+        {
+            "question": "Mi a neve Az oroszlánkirály c. rajzfim főszereplőjének?",
+            "answers": [
+                "Szimba",
+                "Zordon",
+                "Szerafina"
+            ],
+            "correct_answer": "Szimba"
+        },
+        {
+            "question": "Melyik erdőben játszódik a Micimackó?",
+            "answers": [
+                "Százholdas Pagonyban",
+                "Ezerholdas Vadonban",
+                "Száznapos Pagonyban"
+            ],
+            "correct_answer": "Százholdas Pagonyban"
+        },
+        {
+            "question": "Melyik név becézéséből ered a Micimackó név?",
+            "answers": [
+                "Emília",
+                "Enikő",
+                "Emese"
+            ],
+            "correct_answer": "Emília"
+        },
+        {
+            "question": "Ki rendezte A szakasz c. filmet?",
+            "answers": [
+                "Oliver Stone",
+                "George Lucas",
+                "Ridley Scott"
+            ],
+            "correct_answer": "Oliver Stone"
+        },
+        {
+            "question": "Hány Oscar-díjat nyert a Titanic c. film?",
+            "answers": [
+                "11",
+                "10",
+                "8"
+            ],
+            "correct_answer": "11"
+        },
+        {
+            "question": "Mikor készült a A bolygó neve: Halál c. film?",
+            "answers": [
+                "1986-ban",
+                "1988-ban",
+                "1978-ban"
+            ],
+            "correct_answer": "1986-ban"
+        },
+        {
+            "question": "Mi a neve a hableánynak, A kis hableány c. rajzfilmben?",
+            "answers": [
+                "Ariel",
+                "Bella",
+                "Adella"
+            ],
+            "correct_answer": "Ariel"
+        },
+        {
+            "question": "Mikor mutatták be Az oroszlánkirály c. rajzfilmet?",
+            "answers": [
+                "1994-ben",
+                "1996-ban",
+                "1992-ben"
+            ],
+            "correct_answer": "1994-ben"
+        },
+        {
+            "question": "Melyik színház tagja volt Csepregi Éva?",
+            "answers": [
+                "Ruttkai Éva Színház",
+                "Erkel Színház",
+                "Madách Színház"
+            ],
+            "correct_answer": "Ruttkai Éva Színház"
+        },
+        {
+            "question": "Ki játssza a címszereplőt a Hegylakó c. filmben?",
+            "answers": [
+                "Christopher Lambert",
+                "Sean Connery",
+                "Robert De Niro"
+            ],
+            "correct_answer": "Christopher Lambert"
+        },
+        {
+            "question": "Melyik fesztivál nagydíját nyerte el a Saula fia c. film?",
+            "answers": [
+                "cannes-i fesztivál",
+                "21. Szarajevói filmfesztivál",
+                "stockholmi nemzetközi filmfesztivál"
+            ],
+            "correct_answer": "cannes-i fesztivál"
+        },
+        {
+            "question": "Hányszoros Oscar-díjas színésznő Meryl Streep?",
+            "answers": [
+                "háromszoros",
+                "négyszeres",
+                "kétszeres"
+            ],
+            "correct_answer": "háromszoros"
+        },
+        {
+            "question": "Mikor mutatták be A szarvasvadász c. amerikai filmet?",
+            "answers": [
+                "1978-ban",
+                "1988-ban",
+                "1975-ben"
+            ],
+            "correct_answer": "1978-ban"
+        },
+        {
+            "question": "Ki a férfi főszereplője a Gravitáció c. filmnek?",
+            "answers": [
+                "George Clooney",
+                "Ben Affleck",
+                "Adrien Brody"
+            ],
+            "correct_answer": "George Clooney"
+        },
+        {
+            "question": "Ki rendezte az Annie Hall c. filmet?",
+            "answers": [
+                "Woody Allen",
+                "Francis Ford Coppola",
+                "Bryan Singer"
+            ],
+            "correct_answer": "Woody Allen"
+        },
+        {
+            "question": "Melyik filmben nem játszott Robert Pattinson?",
+            "answers": [
+                "Ocean’s Thirteen – A játszma folytatódik",
+                "Cosmopolis",
+                "Harry Potter és a Tűz Serlege"
+            ],
+            "correct_answer": "Ocean’s Thirteen – A játszma folytatódik"
+        },
+        {
+            "question": "Melyik színész játssza K. ügynököt a Men in Black c. vígjátékban?",
+            "answers": [
+                "Tommy Lee Jones",
+                "Tony Shalhoub",
+                "Rip Torn"
+            ],
+            "correct_answer": "Tommy Lee Jones"
+        },
+        {
+            "question": "Mikor alapították a Monty Python-csoportot?",
+            "answers": [
+                "1969-ben",
+                "1975-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1969-ben"
+        },
+        {
+            "question": "Milyen származású Sherlock Holmes?",
+            "answers": [
+                "skót",
+                "svéd",
+                "ír"
+            ],
+            "correct_answer": "skót"
+        },
+        {
+            "question": "Mikor mutatták be Magyarországon a Macskarisztokraták c. rajzfilmet?",
+            "answers": [
+                "1994-ben",
+                "1996-ban",
+                "1988-ban"
+            ],
+            "correct_answer": "1994-ben"
+        },
+        {
+            "question": "Hogy hívják a fiút, aki mackóvá változott, a Mackótestvér c. filmben?",
+            "answers": [
+                "Kenai",
+                "Koda",
+                "Denahi"
+            ],
+            "correct_answer": "Kenai"
+        },
+        {
+            "question": "Mi a neve a Verdák c. filmben a főszereplő autónak?",
+            "answers": [
+                "Villám McQueen",
+                "Sally Carrera",
+                "Doc Hudson"
+            ],
+            "correct_answer": "Villám McQueen"
+        },
+        {
+            "question": "Milyen halfajta Szenilla, a Szenilla nyomában c. filmben?",
+            "answers": [
+                "doktorhal",
+                "bohóchal",
+                "gömbhal"
+            ],
+            "correct_answer": "doktorhal"
+        },
+        {
+            "question": "Melyik TV-filmben nem szerepelt Cserhalmi György?",
+            "answers": [
+                "Szomszédok",
+                "Kisváros",
+                "Rózsa Sándor"
+            ],
+            "correct_answer": "Szomszédok"
+        },
+        {
+            "question": "Mikor mutatták be az Indul a bakterház c. vígjátékot?",
+            "answers": [
+                "1980-ban",
+                "1986-ban",
+                "1978-ban"
+            ],
+            "correct_answer": "1980-ban"
+        },
+        {
+            "question": "Mi a Sose halunk meg c. filmvígjáték betétdala?",
+            "answers": [
+                "Nagy utazás",
+                "Vigyázz rám",
+                "Olyan szépek voltunk"
+            ],
+            "correct_answer": "Nagy utazás"
+        },
+        {
+            "question": "Hogy hívták Vuk nagybátyját a rajzfilmben?",
+            "answers": [
+                "Karak",
+                "Kag",
+                "Kobak"
+            ],
+            "correct_answer": "Karak"
+        },
+        {
+            "question": "Melyik településen forgatták A legényanya c. fekete-fehér vígjátékot?",
+            "answers": [
+                "Dágon",
+                "Tardoson",
+                "Vértesszőlősön"
+            ],
+            "correct_answer": "Dágon"
+        },
+        {
+            "question": "Hány évet töltött Robinson Crusoe egy szigeten?",
+            "answers": [
+                "28",
+                "42",
+                "13"
+            ],
+            "correct_answer": "28"
+        },
+        {
+            "question": "Ki a férje Földes Eszter színésznőnek?",
+            "answers": [
+                "Lovasi András",
+                "Simon Kornél",
+                "Kamarás Iván"
+            ],
+            "correct_answer": "Lovasi András"
+        },
+        {
+            "question": "Melyik városban született Kamarás Iván?",
+            "answers": [
+                "Pécs",
+                "Miskolc",
+                "Szekszárd"
+            ],
+            "correct_answer": "Pécs"
+        },
+        {
+            "question": "Hogy hívták Paula fiatalkori udvarlóját, a Mézga család c. rajzfilmsorozatban?",
+            "answers": [
+                "Hufnágel Pisti",
+                "Döbrögi Dániel",
+                "Buga Jóska"
+            ],
+            "correct_answer": "Hufnágel Pisti"
+        },
+        {
+            "question": "Ki volt a főszereplője az Indul a bakterház c. vígjátéknak?",
+            "answers": [
+                "Regős Bendegúz",
+                "Tordai Imi",
+                "Gyagyás Tódi"
+            ],
+            "correct_answer": "Regős Bendegúz"
+        },
+        {
+            "question": "Mi az születéskori vezetékneve Bujtor Istvánnak?",
+            "answers": [
+                "Frenreisz",
+                "Gundel",
+                "Nagynemesi"
+            ],
+            "correct_answer": "Frenreisz"
+        },
+        {
+            "question": "Melyik rajzfilmbe szerepelnek dinoszauruszok?",
+            "answers": [
+                "Frédi és Béni",
+                "Mézga család",
+                "Frakk"
+            ],
+            "correct_answer": "Frédi és Béni"
+        },
+        {
+            "question": "Hányszoros Oscar-díjas Barbra Streisand?",
+            "answers": [
+                "kétszeres",
+                "háromszoros",
+                "ötszörös"
+            ],
+            "correct_answer": "kétszeres"
+        },
+        {
+            "question": "Mikor adták át először \"A Nemzet Színésze\" címet?",
+            "answers": [
+                "2000-ben",
+                "2002-ben",
+                "1997-ben"
+            ],
+            "correct_answer": "2000-ben"
+        },
+        {
+            "question": "2010-ben ki kapta meg \"A Nemzet Színésze\" díjat?",
+            "answers": [
+                "Haumann Péter",
+                "Bodrogi Gyula",
+                "Tordy Géza"
+            ],
+            "correct_answer": "Haumann Péter"
+        },
+        {
+            "question": "Mi az Üvegtigris a filmvígjátékban?",
+            "answers": [
+                "büfékocsi",
+                "üvegszobor",
+                "macska neve"
+            ],
+            "correct_answer": "büfékocsi"
+        },
+        {
+            "question": "Ki játszotta a főszerepet a Made in Hungaria c. filmben?",
+            "answers": [
+                "Szabó Kimmel Tamás",
+                "Simon Kornél",
+                "Csányi Sándor"
+            ],
+            "correct_answer": "Szabó Kimmel Tamás"
+        },
+        {
+            "question": "Melyik színház tagja Schell Judit?",
+            "answers": [
+                "Thália Színház",
+                "Vígszínház",
+                "Madách Színház"
+            ],
+            "correct_answer": "Thália Színház"
+        },
+        {
+            "question": "Melyik tévéfilmben nem játszott Ulmann Mónika?",
+            "answers": [
+                "Kisváros",
+                "Szomszédok",
+                "Barátok közt"
+            ],
+            "correct_answer": "Kisváros"
+        },
+        {
+            "question": "Melyik játékfilmben nem játszott Szerednyei Béla?",
+            "answers": [
+                "Egy szerelem három éjszakája",
+                "Kútfejek",
+                "Egy bolond százat csinál"
+            ],
+            "correct_answer": "Egy szerelem három éjszakája"
+        },
+        {
+            "question": "Ki játssza Ramirezt a Hegylakó c. amerikai filmben?",
+            "answers": [
+                "Sean Connery",
+                "Robert de Niro",
+                "Bruce Willis"
+            ],
+            "correct_answer": "Sean Connery"
+        },
+        {
+            "question": "Melyik filmben játszik jegyárust Sandra Bullock?",
+            "answers": [
+                "Aludj csak, én álmodom",
+                "Szerelmi bájital",
+                "Két hét múlva örökké"
+            ],
+            "correct_answer": "Aludj csak, én álmodom"
+        },
+        {
+            "question": "Mi a címe a Nagy Imre életéről készült filmnek?",
+            "answers": [
+                "A temetetlen halott",
+                "Sorstalanság",
+                "Saul fia"
+            ],
+            "correct_answer": "A temetetlen halott"
+        },
+        {
+            "question": "Ki játszotta Harry Pottert a filmben?",
+            "answers": [
+                "Daniel Radcliffe",
+                "Rupert Grint",
+                "Mark Williams"
+            ],
+            "correct_answer": "Daniel Radcliffe"
+        },
+        {
+            "question": "Kiket neveznek muglinak a Harry Potter c. filmben?",
+            "answers": [
+                "a hétköznapi embereket",
+                "a varázslókat",
+                "a boszorkányokat"
+            ],
+            "correct_answer": "a hétköznapi embereket"
+        },
+        {
+            "question": "Hány gyermeke született Harry Potternek?",
+            "answers": [
+                "három",
+                "egy",
+                "hat"
+            ],
+            "correct_answer": "három"
+        },
+        {
+            "question": "Melyik nem szerepel a Harry Potterben?",
+            "answers": [
+                "Zsákos Frodó",
+                "Véres Báró",
+                "Pufók Fráter"
+            ],
+            "correct_answer": "Zsákos Frodó"
+        },
+        {
+            "question": "Mi a labdajáték neve amit űz Harry Potter?",
+            "answers": [
+                "kviddics",
+                "kvaddics",
+                "karavics"
+            ],
+            "correct_answer": "kviddics"
+        },
+        {
+            "question": "Ki alakította Zsákos Frodót A Gyűrűk Urában?",
+            "answers": [
+                "Elijah Wood",
+                "Ian McKellen",
+                "Orlando Bloom"
+            ],
+            "correct_answer": "Elijah Wood"
+        },
+        {
+            "question": "Kik a hobbitok A Gyűrűk Urában?",
+            "answers": [
+                "félszerzetek",
+                "mágusok",
+                "törpök"
+            ],
+            "correct_answer": "félszerzetek"
+        },
+        {
+            "question": "Ki nem a Gyűrűk Ura szereplője?",
+            "answers": [
+                "Voldemort",
+                "Aragorn",
+                "Gandalf"
+            ],
+            "correct_answer": "Voldemort"
+        },
+        {
+            "question": "Melyik filmben nem szerepelt Jason Statham?",
+            "answers": [
+                "Nagyfiúk",
+                "Az olasz meló",
+                "A szállító"
+            ],
+            "correct_answer": "Nagyfiúk"
+        },
+        {
+            "question": "Melyik művészeti ágban jeleskedik Sylvester Stallone?",
+            "answers": [
+                "festészet",
+                "szobrászat",
+                "iparművészet"
+            ],
+            "correct_answer": "festészet"
+        },
+        {
+            "question": "Ki a női főszereplője a Csokoládé c. filmnek?",
+            "answers": [
+                "Juliette Binoche",
+                "Julia Roberts",
+                "Sandra Bullock"
+            ],
+            "correct_answer": "Juliette Binoche"
+        },
+        {
+            "question": "Milyen állat a főszereplője a Lecsó c. animációs filmnek?",
+            "answers": [
+                "patkány",
+                "nyúl",
+                "hörcsög"
+            ],
+            "correct_answer": "patkány"
+        },
+        {
+            "question": "Melyik TV-filmben szerepelt Garas Dezső?",
+            "answers": [
+                "Életképek",
+                "Szomszédok",
+                "Kisváros"
+            ],
+            "correct_answer": "Életképek"
+        },
+        {
+            "question": "Melyik TV filmben játszott Szulák Andrea?",
+            "answers": [
+                "Linda",
+                "Szomszédok",
+                "Kisváros"
+            ],
+            "correct_answer": "Linda"
+        },
+        {
+            "question": "Melyik színész játssza Linda apját, a Linda c. filmsorozatban?",
+            "answers": [
+                "Bodrogi Gyula",
+                "Harsányi Gábor",
+                "Balázs Péter"
+            ],
+            "correct_answer": "Bodrogi Gyula"
+        },
+        {
+            "question": "Ki játssza a rádióst a Jó reggelt, Vietnam! c. filmben?",
+            "answers": [
+                "Robin Williams",
+                "Kevin Costner",
+                "Robert de Niro"
+            ],
+            "correct_answer": "Robin Williams"
+        },
+        {
+            "question": "Mikor mutatták be a Híd a Kwai folyón c. filmet?",
+            "answers": [
+                "1957-ben",
+                "1967-ben",
+                "1973-ban"
+            ],
+            "correct_answer": "1957-ben"
+        },
+        {
+            "question": "Hány Oscar-díjat nyert A bárányok hallgatnak c. film?",
+            "answers": [
+                "5",
+                "3",
+                "6"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Melyik amerikai színésznőről neveztek el kisbolygót?",
+            "answers": [
+                "Jodie Foster",
+                "Natalie Portman",
+                "Meryl Streep"
+            ],
+            "correct_answer": "Jodie Foster"
+        },
+        {
+            "question": "Melyik amerikai színésznő cukorbeteg?",
+            "answers": [
+                "Halle Berry",
+                "Sharon Stone",
+                "Raquel Welch"
+            ],
+            "correct_answer": "Halle Berry"
+        },
+        {
+            "question": "Milyen származású Charlize Theron színésznő?",
+            "answers": [
+                "dél-afrikai",
+                "angliai",
+                "svéd"
+            ],
+            "correct_answer": "dél-afrikai"
+        },
+        {
+            "question": "Ki Kate Hudson, szintén színésznő édesanyja?",
+            "answers": [
+                "Goldie Hawn",
+                "Faye Dunaway",
+                "Jane Fonda"
+            ],
+            "correct_answer": "Goldie Hawn"
+        },
+        {
+            "question": "Melyik magyar film mutatja be az 1956-os eseményeket?",
+            "answers": [
+                "Szabadság, szerelem",
+                "Sose halunk meg",
+                "Szerelem első vérig"
+            ],
+            "correct_answer": "Szabadság, szerelem"
+        },
+        {
+            "question": "Ki játssza Szabó Károlyt a Szabadság, szerelem c. filmben?",
+            "answers": [
+                "Fenyő Iván",
+                "Csányi Sándor",
+                "Simon Kornél"
+            ],
+            "correct_answer": "Fenyő Iván"
+        },
+        {
+            "question": "Melyik magyar film játszódik az 56-os forrdalom alatt?",
+            "answers": [
+                "Szamárköhögés",
+                "Kontroll",
+                "Argo"
+            ],
+            "correct_answer": "Szamárköhögés"
+        },
+        {
+            "question": "Mikor született Connor MacLeod, a Hegylakó filmek címszereplője?",
+            "answers": [
+                "1518. január 1-jén",
+                "1821. január 1-jén",
+                "1678. január 1-jén"
+            ],
+            "correct_answer": "1518. január 1-jén"
+        },
+        {
+            "question": "Hány évesen hunyt el Marilyn Monroe?",
+            "answers": [
+                "36",
+                "43",
+                "28"
+            ],
+            "correct_answer": "36"
+        },
+        {
+            "question": "Hány gyermeke született Charlie Chaplinnek?",
+            "answers": [
+                "8",
+                "6",
+                "5"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Hol született Jack Lemmon?",
+            "answers": [
+                "liftben",
+                "taxiban",
+                "otthon"
+            ],
+            "correct_answer": "liftben"
+        },
+        {
+            "question": "Melyik filmben nem játszott Walter Matthau?",
+            "answers": [
+                "Van, aki forrón szereti",
+                "A szomszéd nője mindig zöldebb",
+                "Dennis, a komisz"
+            ],
+            "correct_answer": "Van, aki forrón szereti"
+        },
+        {
+            "question": "Melyik évben lett Eszenyi Enikő a Halhatatlanok Társulatának örökös tagja?",
+            "answers": [
+                "2013-ban",
+                "2010-ben",
+                "2009-ben"
+            ],
+            "correct_answer": "2013-ban"
+        },
+        {
+            "question": "Melyik film játszódik Las Vegasban?",
+            "answers": [
+                "Másnaposok",
+                "Nagyfiúk",
+                "Amerikai pite"
+            ],
+            "correct_answer": "Másnaposok"
+        },
+        {
+            "question": "Ki nem szerepel az Elvált nők klubja c. filmben?",
+            "answers": [
+                "Meryl Streep",
+                "Diane Keaton",
+                "Goldie Hawn"
+            ],
+            "correct_answer": "Meryl Streep"
+        },
+        {
+            "question": "Melyik filmben nem játszott Növényi Norbert?",
+            "answers": [
+                "Sose halunk meg",
+                "Magyar vándor",
+                "Papírkutyák"
+            ],
+            "correct_answer": "Sose halunk meg"
+        },
+        {
+            "question": "Ki játszotta Álmos szerepét a Magyar vándor c. filmben?",
+            "answers": [
+                "Gesztesi Károly",
+                "Csuja Imre",
+                "Scherer Péter"
+            ],
+            "correct_answer": "Gesztesi Károly"
+        },
+        {
+            "question": "Mikor alapították a Jászai Mari-díjat?",
+            "answers": [
+                "1953-ban",
+                "1983-ban",
+                "1967-ben"
+            ],
+            "correct_answer": "1953-ban"
+        },
+        {
+            "question": "Kit alakít Antal Nimród a Machete c. filmben?",
+            "answers": [
+                "testőrt",
+                "orvost",
+                "mesterlövészt"
+            ],
+            "correct_answer": "testőrt"
+        },
+        {
+            "question": "Kiknek az életét dolgozta fel a Kontroll c. magyar film?",
+            "answers": [
+                "metróellenőrök",
+                "metróvezetők",
+                "kalauzok"
+            ],
+            "correct_answer": "metróellenőrök"
+        },
+        {
+            "question": "Ki a főszereplője a Kontroll c. filmnek?",
+            "answers": [
+                "Csányi Sándor",
+                "Hujber Ferenc",
+                "Fenyő Iván"
+            ],
+            "correct_answer": "Csányi Sándor"
+        },
+        {
+            "question": "Hogy hívták a nyugdíjba készülő parkőrt az Égigérő fű c. filmben?",
+            "answers": [
+                "Poldi bácsi",
+                "Toldi bácsi",
+                "Géza bácsi"
+            ],
+            "correct_answer": "Poldi bácsi"
+        },
+        {
+            "question": "Melyik TV-filmben nem játszott Détár Enikő?",
+            "answers": [
+                "Szomszédok",
+                "Nyolc évszak",
+                "Linda"
+            ],
+            "correct_answer": "Szomszédok"
+        },
+        {
+            "question": "Melyik magyar filmben szerepelt Józsa Imre, Jászai-Mari díjas színművész?",
+            "answers": [
+                "Magyar vándor",
+                "Üvegtigris",
+                "Sose halunk meg"
+            ],
+            "correct_answer": "Magyar vándor"
+        },
+        {
+            "question": "Melyik színház tagja volt Józsa Imre?",
+            "answers": [
+                "József Attila Színház",
+                "Madách Színház",
+                "Turay Ida Színház"
+            ],
+            "correct_answer": "József Attila Színház"
+        },
+        {
+            "question": "Minek a rövidítése a MÜPA?",
+            "answers": [
+                "Művészetek palotája",
+                "Művészetek színháza",
+                "Műsorok tárháza"
+            ],
+            "correct_answer": "Művészetek palotája"
+        },
+        {
+            "question": "Melyik színház igazgatója Nemcsák Károly?",
+            "answers": [
+                "József Attila Színház",
+                "Thália Színház",
+                "Vígszínház"
+            ],
+            "correct_answer": "József Attila Színház"
+        },
+        {
+            "question": "Milyen fajtájú kutyák a főszereplői a 101 kiskutya c. rajzfilmnek?",
+            "answers": [
+                "dalmata",
+                "labrador",
+                "vizsla"
+            ],
+            "correct_answer": "dalmata"
+        },
+        {
+            "question": "Milyen nemzetiségű Greta Garbo színésznő?",
+            "answers": [
+                "svéd",
+                "dán",
+                "angol"
+            ],
+            "correct_answer": "svéd"
+        },
+        {
+            "question": "Melyik filmben játszik Natalie Portman balerinát?",
+            "answers": [
+                "Fekete hattyú",
+                "Hideghegy",
+                "Thor"
+            ],
+            "correct_answer": "Fekete hattyú"
+        },
+        {
+            "question": "Melyik évben mutatták be a Trainspotting c. filmet?",
+            "answers": [
+                "1996-ban",
+                "2000-ben",
+                "1987-ben"
+            ],
+            "correct_answer": "1996-ban"
+        },
+        {
+            "question": "Melyik városban játszódott a Ponyvaregény c. film?",
+            "answers": [
+                "Los Angelesben",
+                "San Diegoban",
+                "San Franciscoban"
+            ],
+            "correct_answer": "Los Angelesben"
+        },
+        {
+            "question": "Mit jelent magyarul a Mission: Impossible?",
+            "answers": [
+                "lehetetlen küldetés",
+                "megmagyarázhatatlan jelenségek",
+                "tökéletes katona"
+            ],
+            "correct_answer": "lehetetlen küldetés"
+        },
+        {
+            "question": "Ki volt a producere és a főszereplője is Mission: Impossible c. filmnek?",
+            "answers": [
+                "Tom Cruise",
+                "Brad Pitt",
+                "Ben Affleck"
+            ],
+            "correct_answer": "Tom Cruise"
+        },
+        {
+            "question": "Melyik filmben játszik titkos ügynököt Tom Cruise?",
+            "answers": [
+                "Kéjjel-nappal",
+                "A holnap határa",
+                "Világok harca"
+            ],
+            "correct_answer": "Kéjjel-nappal"
+        },
+        {
+            "question": "Ki volt a Volt egyszer egy Vadnyugat c. film zeneszerzője?",
+            "answers": [
+                "Ennio Morricone",
+                "Nino Rota",
+                "John Williams"
+            ],
+            "correct_answer": "Ennio Morricone"
+        },
+        {
+            "question": "Melyik színésznő játszotta Bonnie-t a Bonnie és Clyde c. filmben?",
+            "answers": [
+                "Faye Dunaway",
+                "Meryl Streep",
+                "Diane Keaton"
+            ],
+            "correct_answer": "Faye Dunaway"
+        },
+        {
+            "question": "Hányszor volt férjnél Diane Keaton, amerikai színésznő?",
+            "answers": [
+                "egyszer sem",
+                "kétszer",
+                "ötször"
+            ],
+            "correct_answer": "egyszer sem"
+        },
+        {
+            "question": "Melyik film szól a Watergate-botrányról?",
+            "answers": [
+                "Az elnök emberei",
+                "Az elnök végveszélyben",
+                "Az elnök különgépe"
+            ],
+            "correct_answer": "Az elnök emberei"
+        },
+        {
+            "question": "Ki volt Fedák Sári színésznő, író férje?",
+            "answers": [
+                "Molnár Ferenc",
+                "Jókai Mór",
+                "Babits Mihály"
+            ],
+            "correct_answer": "Molnár Ferenc"
+        },
+        {
+            "question": "Hol laknak a Tini Nindzsa Teknőcök?",
+            "answers": [
+                "csatornarendszerben",
+                "tengerben",
+                "barlangban"
+            ],
+            "correct_answer": "csatornarendszerben"
+        },
+        {
+            "question": "Ki játszotta Wesselényi Miklóst \"A Hídember\" c. filmben?",
+            "answers": [
+                "Cserhalmi György",
+                "Eperjes Károly",
+                "Sinkó László"
+            ],
+            "correct_answer": "Cserhalmi György"
+        },
+        {
+            "question": "Melyik Tv-filmben játszott Csongrádi Kata?",
+            "answers": [
+                "Robog az úthenger",
+                "Família Kft",
+                "Álombolt"
+            ],
+            "correct_answer": "Robog az úthenger"
+        },
+        {
+            "question": "Ki az Elrabolva c. film főszereplője?",
+            "answers": [
+                "Liam Neeson",
+                "Hugh Grant",
+                "Colin Firth"
+            ],
+            "correct_answer": "Liam Neeson"
+        },
+        {
+            "question": "Melyik regényben szerepel Valkay tanár úr?",
+            "answers": [
+                "Légy jó mindhalálig",
+                "Abigél",
+                "Egri csillagok"
+            ],
+            "correct_answer": "Légy jó mindhalálig"
+        },
+        {
+            "question": "Ki játszotta Donna szerepét a Mamma Mia! c. filmben?",
+            "answers": [
+                "Meryl Streep",
+                "Sharon Stone",
+                "Nicole Kidman"
+            ],
+            "correct_answer": "Meryl Streep"
+        },
+        {
+            "question": "Hol forgatták a Herkules c. amerikai kalandfilmet?",
+            "answers": [
+                "Magyarországon",
+                "Franciaországban",
+                "Kanadában"
+            ],
+            "correct_answer": "Magyarországon"
+        },
+        {
+            "question": "Ki játszotta Vitay Georginát az Abigél c. filmben?",
+            "answers": [
+                "Szerencsi Éva",
+                "Bánfalvy Ágnes",
+                "Egri Kati"
+            ],
+            "correct_answer": "Szerencsi Éva"
+        },
+        {
+            "question": "Melyik országban él Pán Péter?",
+            "answers": [
+                "Sohaországban",
+                "Hetedhét országban",
+                "Meseországban"
+            ],
+            "correct_answer": "Sohaországban"
+        },
+        {
+            "question": "Melyik film zenéjét nem Guido és Maurizio de Angelis testvérpár szerezte?",
+            "answers": [
+                "Volt egyszer egy vadnyugat",
+                "Sandokan",
+                "Zorro"
+            ],
+            "correct_answer": "Volt egyszer egy vadnyugat"
+        },
+        {
+            "question": "Ki a főszereplője \" A Jó, a Rossz és a Csúf\" c. olasz westernfilmnek?",
+            "answers": [
+                "Clint Eastwood",
+                "Robert de Niro",
+                "Alain Delon"
+            ],
+            "correct_answer": "Clint Eastwood"
+        },
+        {
+            "question": "Mikor mutatták be a Vissza a jövőbe c. filmet?",
+            "answers": [
+                "1985-ben",
+                "1989-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "1985-ben"
+        },
+        {
+            "question": "Ki volt Mészáros Márta filmrendező férje?",
+            "answers": [
+                "Jancsó Miklós",
+                "Hernádi Gyula",
+                "Szikora János"
+            ],
+            "correct_answer": "Jancsó Miklós"
+        },
+        {
+            "question": "Melyik színész nem alakította még James Bondot?",
+            "answers": [
+                "Tom Hanks",
+                "Sean Connery",
+                "Daniel Craig"
+            ],
+            "correct_answer": "Tom Hanks"
+        },
+        {
+            "question": "Hány Oscar-díjat nyert a Gladiátor c. film?",
+            "answers": [
+                "5",
+                "8",
+                "12"
+            ],
+            "correct_answer": "5"
+        },
+        {
+            "question": "Ki játssza a főszerepet a Mátrix c. filmben?",
+            "answers": [
+                "Keanu Reeves",
+                "Jeff Daniels",
+                "Tom Cruise"
+            ],
+            "correct_answer": "Keanu Reeves"
+        },
+        {
+            "question": "Melyik Disney rajzfilmben szerepel Jázmin hercegnő?",
+            "answers": [
+                "Aladdin",
+                "Pocahontas",
+                "Mulan"
+            ],
+            "correct_answer": "Aladdin"
+        },
+        {
+            "question": "Melyik film játszódott Los Angelesben?",
+            "answers": [
+                "Ponyvaregény",
+                "Aranyoskám",
+                "Tökéletes gyilkosság"
+            ],
+            "correct_answer": "Ponyvaregény"
+        },
+        {
+            "question": "Kinek a balettje \"A diótörő\"?",
+            "answers": [
+                "Csajkovszkij",
+                "Mozart",
+                "Beethoven"
+            ],
+            "correct_answer": "Csajkovszkij"
+        },
+        {
+            "question": "Hány név szerepel a Hollywoodi hírességek sétányán?",
+            "answers": [
+                "több mint 2000",
+                "több mint 10000",
+                "több mint 50000"
+            ],
+            "correct_answer": "több mint 2000"
+        },
+        {
+            "question": "Milyen színű Shrek?",
+            "answers": [
+                "zöld",
+                "sárga",
+                "piros"
+            ],
+            "correct_answer": "zöld"
+        },
+        {
+            "question": "Mi James Bond másik neve?",
+            "answers": [
+                "007-es ügynök",
+                "beépített ügynök",
+                "123-as ügynök"
+            ],
+            "correct_answer": "007-es ügynök"
+        },
+        {
+            "question": "Mi volt a neve az elefántkölyöknek \"A dzsungel könyvében\"?",
+            "answers": [
+                "Picur",
+                "Pici",
+                "Fáncsi"
+            ],
+            "correct_answer": "Picur"
+        },
+        {
+            "question": "Mikor nyerte meg Gábor Zsazsa a Miss Hungary címet?",
+            "answers": [
+                "1936-ban",
+                "1945-ben",
+                "1976-ban"
+            ],
+            "correct_answer": "1936-ban"
+        },
+        {
+            "question": "Mikor játszódik A diótörő c. balett?",
+            "answers": [
+                "Karácsonykor",
+                "Húsvétkor",
+                "Szilveszterkor"
+            ],
+            "correct_answer": "Karácsonykor"
+        },
+        {
+            "question": "Mi Jean-Paul Belmondo beceneve?",
+            "answers": [
+                "Bébel",
+                "Belko",
+                "Bobo"
+            ],
+            "correct_answer": "Bébel"
+        },
+        {
+            "question": "Melyik Tv-filmben játszott Johnny Cash?",
+            "answers": [
+                "Columbo",
+                "Derrick",
+                "Sherlock és Watson"
+            ],
+            "correct_answer": "Columbo"
+        },
+        {
+            "question": "Kit neveztek \"a Színészkirálynak\"?",
+            "answers": [
+                "Latinovits Zoltánt",
+                "Bessenyei Ferencet",
+                "Sinkovits Imrét"
+            ],
+            "correct_answer": "Latinovits Zoltánt"
+        },
+        {
+            "question": "Ki rendezte a Jurassik Park c. filmet?",
+            "answers": [
+                "Steven Spielberg",
+                "Francis Ford Coppola",
+                "George Lucas"
+            ],
+            "correct_answer": "Steven Spielberg"
+        },
+        {
+            "question": "Melyik amerikai filmet forgatták 2000-ben Budapesten?",
+            "answers": [
+                "Kémjátszma",
+                "Blöff",
+                "Trója"
+            ],
+            "correct_answer": "Kémjátszma"
+        },
+        {
+            "question": "Hány éves korában szerepelt először Ariana Grande a Broadway-en?",
+            "answers": [
+                "15",
+                "17",
+                "12"
+            ],
+            "correct_answer": "15"
+        },
+        {
+            "question": "Ki rendezte a Csinibaba c. filmet?",
+            "answers": [
+                "Tímár Péter",
+                "Jancsó Miklós",
+                "Antal Nimród"
+            ],
+            "correct_answer": "Tímár Péter"
+        },
+        {
+            "question": "Mi a hóember neve a Jégvarázs c. filmben?",
+            "answers": [
+                "Olaf",
+                "Olga",
+                "Ottó"
+            ],
+            "correct_answer": "Olaf"
+        },
+        {
+            "question": "Melyik filmben nem játszott Brad Pitt?",
+            "answers": [
+                "Apokalipszis most",
+                "Hetedik",
+                "12 év rabszolgaság"
+            ],
+            "correct_answer": "Apokalipszis most"
+        },
+        {
+            "question": "Hány éves korában hunyt el Gábor Zsazsa?",
+            "answers": [
+                "99",
+                "88",
+                "77"
+            ],
+            "correct_answer": "99"
+        },
+        {
+            "question": "Melyik évben készült a Szerelem első vérig c. film?",
+            "answers": [
+                "1985-ben",
+                "1987-ben",
+                "1981-ben"
+            ],
+            "correct_answer": "1985-ben"
+        },
+        {
+            "question": "Ki játszotta Feri, az apa szerepét a Szamárköhögés c. filmben?",
+            "answers": [
+                "Garas Dezső",
+                "Eperjes Károly",
+                "Rudolf Péter"
+            ],
+            "correct_answer": "Garas Dezső"
+        },
+        {
+            "question": "Mi a Jégvarázs c. film eredeti címe?",
+            "answers": [
+                "Frozen",
+                "Magic",
+                "Ice-ice"
+            ],
+            "correct_answer": "Frozen"
+        },
+        {
+            "question": "Mikor kezdődik az Igazából szerelem c. film története?",
+            "answers": [
+                "5 héttel karácsony előtt",
+                "8 héttel karácsony előtt",
+                "2 héttel szilveszter előtt"
+            ],
+            "correct_answer": "5 héttel karácsony előtt"
+        },
+        {
+            "question": "Mi a \"Reszkessetek betörők\" c. film eredeti címe?",
+            "answers": [
+                "Home alone",
+                "Home sweet home",
+                "Holiday home"
+            ],
+            "correct_answer": "Home alone"
+        },
+        {
+            "question": "Hány éves Kevin a \"Reszkessetek betörők\" c. filmben?",
+            "answers": [
+                "8",
+                "10",
+                "12"
+            ],
+            "correct_answer": "8"
+        },
+        {
+            "question": "Ki a Grincs c. film főszereplője?",
+            "answers": [
+                "Jim Carrey",
+                "Brad Pitt",
+                "Keanu Reeves"
+            ],
+            "correct_answer": "Jim Carrey"
+        },
+        {
+            "question": "Mi a Grincs kutyájának a neve?",
+            "answers": [
+                "Max",
+                "Bobby",
+                "Rex"
+            ],
+            "correct_answer": "Max"
+        },
+        {
+            "question": "Mi a Polar Express végállomása az animációs filmben?",
+            "answers": [
+                "Északi-sark",
+                "Déli-sark",
+                "Ausztrália"
+            ],
+            "correct_answer": "Északi-sark"
+        },
+        {
+            "question": "Mi terveztek karácsonykor a Krank szülők a Kelekótya karácsony c. filmben?",
+            "answers": [
+                "trópusi utazást",
+                "TV nézést",
+                "házibulit"
+            ],
+            "correct_answer": "trópusi utazást"
+        },
+        {
+            "question": "Mi a rénszarvas neve a Jégvarázs c. filmben?",
+            "answers": [
+                "Sven",
+                "Csillag",
+                "Villám"
+            ],
+            "correct_answer": "Sven"
+        },
+        {
+            "question": "Mikor mutatták be a Szaffi c. rajzfilmet?",
+            "answers": [
+                "1984-ben",
+                "1986-ban",
+                "1998-ban"
+            ],
+            "correct_answer": "1984-ben"
+        },
+        {
+            "question": "Ki a kleptomániás a \"Káosz karácsonyra\" c. filmben?",
+            "answers": [
+                "Emma",
+                "Charlotte",
+                "Eleanor"
+            ],
+            "correct_answer": "Emma"
+        },
+        {
+            "question": "Melyik pap életét dolgozza fel a \"Legyetek jók, ha tudtok\" c. olasz film?",
+            "answers": [
+                "Néri Szent Fülöp",
+                "Lellisi Szent Kamill",
+                "Bosco Szent János"
+            ],
+            "correct_answer": "Néri Szent Fülöp"
+        },
+        {
+            "question": "Melyik években játszódik a \"Legyetek jók ha tudtok\" c. film?",
+            "answers": [
+                "1500-as",
+                "1600-as",
+                "1700-as"
+            ],
+            "correct_answer": "1500-as"
+        },
+        {
+            "question": "Milyen állat Manfréd a Jégkorszak c. filmben?",
+            "answers": [
+                "gyapjas mamut",
+                "lajhár",
+                "földimalac"
+            ],
+            "correct_answer": "gyapjas mamut"
+        },
+        {
+            "question": "Melyik filmben vált ismertté Carrie Fisher?",
+            "answers": [
+                "Csillagok háborúja",
+                "Harry és Sally",
+                "Hannah és nővérei"
+            ],
+            "correct_answer": "Csillagok háborúja"
+        },
+        {
+            "question": "Kinek az életét mutatja be \"A Hídember\" c. film?",
+            "answers": [
+                "Széchenyi István",
+                "Kossuth Lajos",
+                "Ferenc József"
+            ],
+            "correct_answer": "Széchenyi István"
+        },
+        {
+            "question": "Ki a Tini Nindzsa Teknőcök vezetője?",
+            "answers": [
+                "Leonardo",
+                "Raffaello",
+                "Donatello"
+            ],
+            "correct_answer": "Leonardo"
+        },
+        {
+            "question": "Kinek a neve nem szerepel a Hollywoodi hírességek sétányán?",
+            "answers": [
+                "Tolnay Klári",
+                "Lugosi Béla",
+                "Gábor Zsazsa"
+            ],
+            "correct_answer": "Tolnay Klári"
+        },
+        {
+            "question": "Ki játssza Simon bá-t a Csinibaba c. filmben?",
+            "answers": [
+                "Gálvölgyi János",
+                "Reviczky Gábor",
+                "Galla Miklós"
+            ],
+            "correct_answer": "Gálvölgyi János"
+        },
+        {
+            "question": "Mikor mutatták be a Csinibaba c. filmet?",
+            "answers": [
+                "1997-ben",
+                "1998-ban",
+                "2010-ben"
+            ],
+            "correct_answer": "1997-ben"
+        },
+        {
+            "question": "Hány éves korában hunyt el Körmendi János?",
+            "answers": [
+                "80",
+                "70",
+                "60"
+            ],
+            "correct_answer": "80"
+        },
+        {
+            "question": "Mi a Mr. Beant alakító színész neve?",
+            "answers": [
+                "Rowan Atkinson",
+                "Ben Miller",
+                "Alan Rickman"
+            ],
+            "correct_answer": "Rowan Atkinson"
+        },
+        {
+            "question": "Mikor mutatták be először a Magyar Állami Operaházban \"A diótörőt\"?",
+            "answers": [
+                "1927-ben",
+                "1938-ban",
+                "1953-ban"
+            ],
+            "correct_answer": "1927-ben"
+        },
+        {
+            "question": "Ki kapta a Story különdíját a 2017-es Story Gálán?",
+            "answers": [
+                "Demjén Ferenc",
+                "Balázs Fecó",
+                "Presser Gábor"
+            ],
+            "correct_answer": "Demjén Ferenc"
+        },
+        {
+            "question": "Ki nyerte a 2017-es Grammy-díj átadón a legjobb albumért járó díjat?",
+            "answers": [
+                "Adele",
+                "Beyoncé",
+                "Justin Bieber"
+            ],
+            "correct_answer": "Adele"
+        },
+        {
+            "question": "Mi volt a 2012-ben bemutatott James Bond film címe?",
+            "answers": [
+                "Skyfall",
+                "Casino Royale",
+                "Aranyszem"
+            ],
+            "correct_answer": "Skyfall"
+        },
+        {
+            "question": "Melyik filmben játszott Megan Fox?",
+            "answers": [
+                "Transformers",
+                "Pókember 3.",
+                "Ébredő sötétség"
+            ],
+            "correct_answer": "Transformers"
+        },
+        {
+            "question": "Mi volt Alfonzó eredeti neve?",
+            "answers": [
+                "Markos József",
+                "Nádas József",
+                "Markos Sándor"
+            ],
+            "correct_answer": "Markos József"
+        },
+        {
+            "question": "Mi volt Miki egér eredeti neve?",
+            "answers": [
+                "Mortimer",
+                "Minnie",
+                "Mikrobi"
+            ],
+            "correct_answer": "Mortimer"
+        },
+        {
+            "question": "Melyik filmfesztivál fődíja az Arany Medve?",
+            "answers": [
+                "Berlini Nemzetközi Filmfesztivál",
+                "Cannes-i fesztivál",
+                "Locarnói Nemzetközi Filmfesztivál"
+            ],
+            "correct_answer": "Berlini Nemzetközi Filmfesztivál"
+        },
+        {
+            "question": "Kinek az alkotása nyerte az Arany Medve díjat a 67. Berlini Nemzetközi Filmfesztiválon?",
+            "answers": [
+                "Enyedi Ildikó",
+                "Mészáros Márta",
+                "Milos Forman"
+            ],
+            "correct_answer": "Enyedi Ildikó"
+        },
+        {
+            "question": "Kiről nevezte el Ian Fleming, a brit szuperkémet James Bondot?",
+            "answers": [
+                "egy ornitológusról",
+                "egy rendezőről",
+                "egy sportolóról"
+            ],
+            "correct_answer": "egy ornitológusról"
+        },
+        {
+            "question": "Mióta játssza Daniel Craig James Bond szerepét?",
+            "answers": [
+                "2006 óta",
+                "2008 óta",
+                "2002 óta"
+            ],
+            "correct_answer": "2006 óta"
+        },
+        {
+            "question": "Hanyadik Oscar-díjátó lesz 2017. február 26-án?",
+            "answers": [
+                "89.",
+                "90.",
+                "93."
+            ],
+            "correct_answer": "89."
+        },
+        {
+            "question": "Melyik filmben játszott Cameron Diaz?",
+            "answers": [
+                "Míg a jackpot el nem választ",
+                "Gladiátor",
+                "Wyatt Earp"
+            ],
+            "correct_answer": "Míg a jackpot el nem választ"
+        },
+        {
+            "question": "Mi volt Honthy Hanna eredeti keresztneve?",
+            "answers": [
+                "Hajnalka",
+                "Helén",
+                "Hermina"
+            ],
+            "correct_answer": "Hajnalka"
+        },
+        {
+            "question": "Hány Osca-díjra jelölték a Kaliforniai álom c. filmet?",
+            "answers": [
+                "14",
+                "8",
+                "12"
+            ],
+            "correct_answer": "14"
+        },
+        {
+            "question": "Bodrogi Gyula melyik évben lett a Nemzet Színésze?",
+            "answers": [
+                "2007-ben",
+                "2006-ban",
+                "2011-ben"
+            ],
+            "correct_answer": "2007-ben"
+        },
+        {
+            "question": "Ki a Budapesti Nemzeti Színház jelenlegi igazgatója?",
+            "answers": [
+                "Vidnyánszky Attila",
+                "Alföldi Róbert",
+                "Jordán Tamás"
+            ],
+            "correct_answer": "Vidnyánszky Attila"
+        },
+        {
+            "question": "Melyik film nyerte a legjobb filmért járó Oscar díjat a 89. Oscar-díjátadón?",
+            "answers": [
+                "Holdfény",
+                "Kaliforniai álom",
+                "Oroszlán"
+            ],
+            "correct_answer": "Holdfény"
+        },
+        {
+            "question": "Mi a magyar film címe, mely megnyerte a legjobb rövidfilmért járó Oscar-díjat?",
+            "answers": [
+                "Mindenki",
+                "Senki",
+                "Utazás"
+            ],
+            "correct_answer": "Mindenki"
+        },
+        {
+            "question": "Melyik animációs film nyert a 89. Oscar-díjátadón?",
+            "answers": [
+                "Zootropolis-Állati nagy balhé",
+                "A vörös teknős",
+                "Vaiana"
+            ],
+            "correct_answer": "Zootropolis-Állati nagy balhé"
+        },
+        {
+            "question": "Mi a Karlovy Vary-i Nemzetközi Filmfesztivál fődíja?",
+            "answers": [
+                "Kristály Glóbusz",
+                "Arany Pálma",
+                "Kristály Medve"
+            ],
+            "correct_answer": "Kristály Glóbusz"
+        },
+        {
+            "question": "Hány évesen hunyt el James Dean?",
+            "answers": [
+                "24",
+                "20",
+                "32"
+            ],
+            "correct_answer": "24"
+        },
+        {
+            "question": "Mi a neve Micimackó gazdájának?",
+            "answers": [
+                "Róbert Gida",
+                "Norbert Suta",
+                "Róbert Gúnár"
+            ],
+            "correct_answer": "Róbert Gida"
+        },
+        {
+            "question": "Ki kapott életműdíjat a 42. César-gálán?",
+            "answers": [
+                "Jean-Paul Belmondo",
+                "Gerard Depardieu",
+                "Alain Delon"
+            ],
+            "correct_answer": "Jean-Paul Belmondo"
+        },
+        {
+            "question": "Hány évesen szerepelt az E.T. című filmben Drew Barrymore?",
+            "answers": [
+                "7",
+                "9",
+                "5"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Melyik filmben nem szerepelt Kern András?",
+            "answers": [
+                "Valami Amerika",
+                "A miniszter félrelép",
+                "Meseautó"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Ki kapta 2017-ben a Páger-gyűrűt?",
+            "answers": [
+                "Eszenyi Enikő",
+                "Udvaros Dorottya",
+                "Kulka János"
+            ],
+            "correct_answer": "Eszenyi Enikő"
+        },
+        {
+            "question": "Kinek az Oscar-díjas kisfilmje a \"Mindenki\"?",
+            "answers": [
+                "Deák Kristóf",
+                "Reisz Gábor",
+                "Kőszegi Tamás"
+            ],
+            "correct_answer": "Deák Kristóf"
+        },
+        {
+            "question": "Melyik filmben nem játszott Bruce Willis?",
+            "answers": [
+                "Sárkányszív",
+                "Szükségállapot",
+                "Armageddon"
+            ],
+            "correct_answer": "Sárkányszív"
+        },
+        {
+            "question": "Milyen virágról énekelt a gyerekkórus az Oscar-díjas \"Mindenki\" c. kisfilmben?",
+            "answers": [
+                "bodzavirágról",
+                "csillagvirágról",
+                "orgonavirágról"
+            ],
+            "correct_answer": "bodzavirágról"
+        },
+        {
+            "question": "Melyik játékfilm nyert a 2017-es Magyar Filmhéten?",
+            "answers": [
+                "A martfűi rém",
+                "Gondolj rám",
+                "Tiszta szívvel"
+            ],
+            "correct_answer": "A martfűi rém"
+        },
+        {
+            "question": "Melyik filmben szerepelt Jakupcsek Gabriella?",
+            "answers": [
+                "Zsiguli",
+                "Sztracsatella",
+                "Kútfejek"
+            ],
+            "correct_answer": "Zsiguli"
+        },
+        {
+            "question": "Ki alakította Kardos doktort a Hamis a baba c. filmben?",
+            "answers": [
+                "Kern András",
+                "Raksányi Gellért",
+                "Kerekes József"
+            ],
+            "correct_answer": "Kern András"
+        },
+        {
+            "question": "Milyen szakmát tanult eredetileg Gálvölgyi János?",
+            "answers": [
+                "fényképész",
+                "orvos",
+                "optikus"
+            ],
+            "correct_answer": "fényképész"
+        },
+        {
+            "question": "Ki a Jack Reacher c. film főszereplője?",
+            "answers": [
+                "Tom Cruise",
+                "Kevin Bacon",
+                "Cuba Gooding Jr."
+            ],
+            "correct_answer": "Tom Cruise"
+        },
+        {
+            "question": "Hol játszódik \"A mi kis falunk\" c. vígjátéksorozat?",
+            "answers": [
+                "Pajkaszegen",
+                "Leányfalun",
+                "Ököritófülpösön"
+            ],
+            "correct_answer": "Pajkaszegen"
+        },
+        {
+            "question": "Honnan származik a zumba tánc?",
+            "answers": [
+                "Kolumbiából",
+                "Argentínából",
+                "Mexikóból"
+            ],
+            "correct_answer": "Kolumbiából"
+        },
+        {
+            "question": "Mi a teljes neve Gabennak az Üvegtigris c. filmben?",
+            "answers": [
+                "Kecskeméti Ottó",
+                "Zsíros Ferenc",
+                "Kántor Géza"
+            ],
+            "correct_answer": "Kecskeméti Ottó"
+        },
+        {
+            "question": "Honnan ered az oroszlántánc?",
+            "answers": [
+                "Kínából",
+                "Spanyolországból",
+                "Kubából"
+            ],
+            "correct_answer": "Kínából"
+        },
+        {
+            "question": "Melyik filmben nem játszott Hujber Ferenc?",
+            "answers": [
+                "Kontroll",
+                "Valami Amerika",
+                "Hacktion"
+            ],
+            "correct_answer": "Kontroll"
+        },
+        {
+            "question": "Melyik filmfesztivál díja az Arany Oroszlán?",
+            "answers": [
+                "velencei",
+                "locarnói",
+                "cannes-i"
+            ],
+            "correct_answer": "velencei"
+        },
+        {
+            "question": "Minek a rövidítése a MÜPA?",
+            "answers": [
+                "Művészetek Palotája",
+                "Műemlékek Háza",
+                "Műcsarnokok Alagútja"
+            ],
+            "correct_answer": "Művészetek Palotája"
+        },
+        {
+            "question": "Ki után kapta Leonardo DiCaprio a keresztnevét?",
+            "answers": [
+                "Leonardo da Vinci",
+                "Leonardo Jardim",
+                "Leonard Cohen"
+            ],
+            "correct_answer": "Leonardo da Vinci"
+        },
+        {
+            "question": "Melyik városban nincs Nemzeti Színház?",
+            "answers": [
+                "Székesfehérvár",
+                "Pécs",
+                "Szeged"
+            ],
+            "correct_answer": "Székesfehérvár"
+        },
+        {
+            "question": "Ki nem az idén március 15-én kapott Kossuth-díjat?",
+            "answers": [
+                "Mácsai Pál",
+                "Frenreisz Károly",
+                "Tahi Tóth László"
+            ],
+            "correct_answer": "Mácsai Pál"
+        },
+        {
+            "question": "Ki a Madách Színház jelenlegi igazgatója?",
+            "answers": [
+                "Szirtes Tamás",
+                "Kerényi Imre",
+                "Székhelyi József"
+            ],
+            "correct_answer": "Szirtes Tamás"
+        },
+        {
+            "question": "Hány napot töltött el Pi Patel egy mentőcsónakban a \"Pi élete\" c. filmben?",
+            "answers": [
+                "227",
+                "123",
+                "234"
+            ],
+            "correct_answer": "227"
+        },
+        {
+            "question": "Mi a neve a Pókembernek?",
+            "answers": [
+                "Peter Parker",
+                "Norman Osborn",
+                "Robbie Robertson"
+            ],
+            "correct_answer": "Peter Parker"
+        },
+        {
+            "question": "Mi a foglalkozása Ray Ferrier-nek a \"Világok harca\" c. filmben?",
+            "answers": [
+                "kikötői munkás",
+                "autószerelő",
+                "állatgondozó"
+            ],
+            "correct_answer": "kikötői munkás"
+        },
+        {
+            "question": "Ki nem volt Bond-lány?",
+            "answers": [
+                "Jodie Foster",
+                "Sophie Marceau",
+                "Ursula Andress"
+            ],
+            "correct_answer": "Jodie Foster"
+        },
+        {
+            "question": "1988-ben melyik film kapott Oscar-díjat?",
+            "answers": [
+                "Esőember",
+                "Veszedelmes viszonyok",
+                "Farkasokkal táncoló"
+            ],
+            "correct_answer": "Esőember"
+        },
+        {
+            "question": "Ki volt \"A rettenthetetlen\" c. film rendezője és főszereplője?",
+            "answers": [
+                "Mel Gibson",
+                "Tom Cruise",
+                "Ryan Gosling"
+            ],
+            "correct_answer": "Mel Gibson"
+        },
+        {
+            "question": "Mi Farkas Gábor \"foglalkozása\" a Kaméleon c. filmben?",
+            "answers": [
+                "házasságszédelgő",
+                "bankrabló",
+                "orvvadász"
+            ],
+            "correct_answer": "házasságszédelgő"
+        },
+        {
+            "question": "Melyik James Bond filmben játszott Madonna?",
+            "answers": [
+                "Halj meg máskor",
+                "Aranyszem",
+                "Skyfall"
+            ],
+            "correct_answer": "Halj meg máskor"
+        },
+        {
+            "question": "Melyik állat hangján szólalt meg Ben Stiller a Madagaszkár c. filmben?",
+            "answers": [
+                "oroszlán",
+                "zebra",
+                "zsiráf"
+            ],
+            "correct_answer": "oroszlán"
+        },
+        {
+            "question": "Melyik amerikai színész az ENSZ békenagykövete?",
+            "answers": [
+                "George Clooney",
+                "Mel Gibson",
+                "Brad Pitt"
+            ],
+            "correct_answer": "George Clooney"
+        },
+        {
+            "question": "Melyik filmben nem játszott Kaszás Attila?",
+            "answers": [
+                "Valami Amerika",
+                "Üvegtigris",
+                "Kisváros"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Ki nem játszik a Chicago c. musicalfilmben?",
+            "answers": [
+                "Jennifer Aniston",
+                "Renée Zellweger",
+                "Lucy Liu"
+            ],
+            "correct_answer": "Jennifer Aniston"
+        },
+        {
+            "question": "Mi a kedvenc étele Gombóc Artúrnak, Pom Pom meséiben?",
+            "answers": [
+                "csokoládé",
+                "hamburger",
+                "pizza"
+            ],
+            "correct_answer": "csokoládé"
+        },
+        {
+            "question": "Ki a \"Drágán add az életed!\" c. film főszereplője?",
+            "answers": [
+                "Bruce Willis",
+                "Tom Hanks",
+                "Alan Baldwin"
+            ],
+            "correct_answer": "Bruce Willis"
+        },
+        {
+            "question": "Mi az eredeti neve Bud Spencernek?",
+            "answers": [
+                "Carlo Pedersoli",
+                "Carlo Amato",
+                "Mario Girotti"
+            ],
+            "correct_answer": "Carlo Pedersoli"
+        },
+        {
+            "question": "Melyik színésznő kapta az első Psota Irén-díjat 2017.03.24-én?",
+            "answers": [
+                "Hegyi Barbara",
+                "Eszenyi Enikő",
+                "Hűvösvölgyi Ildikó"
+            ],
+            "correct_answer": "Hegyi Barbara"
+        },
+        {
+            "question": "Hol játszódik a \"Thomas a gőzmozdony\" c. rajzfilmsorozat?",
+            "answers": [
+                "Sodor szigetén",
+                "Futrinka utcában",
+                "Kakukkiában"
+            ],
+            "correct_answer": "Sodor szigetén"
+        },
+        {
+            "question": "Hány törp él Aprajafalván a \"Hupikék törpikék\" c. rajzfilmsorozatban?",
+            "answers": [
+                "111",
+                "89",
+                "75"
+            ],
+            "correct_answer": "111"
+        },
+        {
+            "question": "Kit választottak a Nemzet Színészének 03.27-én?",
+            "answers": [
+                "Csomós Marit",
+                "Pogány Juditot",
+                "Venczel Verát"
+            ],
+            "correct_answer": "Csomós Marit"
+        },
+        {
+            "question": "Ki a rendezője az \"Avatar\" c. filmnek?",
+            "answers": [
+                "James Cameron",
+                "Steven Spielberg",
+                "David Lynch"
+            ],
+            "correct_answer": "James Cameron"
+        },
+        {
+            "question": "Melyik fekete-fehér magyar filmvígjáték szereplője Schneider Mátyás?",
+            "answers": [
+                "Hyppolit, a lakáj",
+                "Lila ákác",
+                "Márciusi mese"
+            ],
+            "correct_answer": "Hyppolit, a lakáj"
+        },
+        {
+            "question": "Milyen fajtájú kutya Jerry Lee, a\"Kutyám, Jerry Lee\"c. filmben?",
+            "answers": [
+                "német juhász",
+                "bernáthegyi",
+                "beagle"
+            ],
+            "correct_answer": "német juhász"
+        },
+        {
+            "question": "Mikor volt a bemutatója \"A Pál utcai fiúk\" c. musicalnek a Vígszinházban?",
+            "answers": [
+                "2016. november 5-én",
+                "2017. január 1-én",
+                "2016. december 12-én"
+            ],
+            "correct_answer": "2016. november 5-én"
+        },
+        {
+            "question": "Kinek a mondása volt? \"Mindenütt jó, de a legjobb sehol!\"",
+            "answers": [
+                "Fülig Jimmy",
+                "Piszkos Fred",
+                "Regős Bendegúz"
+            ],
+            "correct_answer": "Fülig Jimmy"
+        },
+        {
+            "question": "Ki nem Star Wars szereplő?",
+            "answers": [
+                "Gandalf",
+                "Han Solo",
+                "Csubakka"
+            ],
+            "correct_answer": "Gandalf"
+        },
+        {
+            "question": "Milyen állat Sid a Jégkorszak c. filmben?",
+            "answers": [
+                "lajhár",
+                "tigris",
+                "viziló"
+            ],
+            "correct_answer": "lajhár"
+        },
+        {
+            "question": "Ki alakítja a filmvásznon Rocky Balboát?",
+            "answers": [
+                "Sylvester Stallone",
+                "Arnold Swarzenegger",
+                "Jean-Claude Van Damme"
+            ],
+            "correct_answer": "Sylvester Stallone"
+        },
+        {
+            "question": "Milyen származású Lucy Liu színésznő?",
+            "answers": [
+                "kínai",
+                "japán",
+                "vietnámi"
+            ],
+            "correct_answer": "kínai"
+        },
+        {
+            "question": "Milyen állat Kowalski a Madagaszkár c. filmben?",
+            "answers": [
+                "pingvin",
+                "csimpánz",
+                "viziló"
+            ],
+            "correct_answer": "pingvin"
+        },
+        {
+            "question": "Melyik amerikai énekesnő a főszereplője a \"Több mint testőr \"c. filmnek?",
+            "answers": [
+                "Whitney Houston",
+                "Aretha Franklin",
+                "Mariah Carey"
+            ],
+            "correct_answer": "Whitney Houston"
+        },
+        {
+            "question": "Ki a női főszereplője \"A szépség és a szörnyeteg\" c. film 2017-es adaptációjának?",
+            "answers": [
+                "Emma Watson",
+                "Emma Stone",
+                "Emma Roberts"
+            ],
+            "correct_answer": "Emma Watson"
+        },
+        {
+            "question": "Melyik amerikai színész felesége volt Cindy Crawford szupermodell?",
+            "answers": [
+                "Richard Gere",
+                "Colin Firth",
+                "Bruce Willis"
+            ],
+            "correct_answer": "Richard Gere"
+        },
+        {
+            "question": "Milyen gyárban játszódik az \"Egészséges erotika\" c. fekete-fehér film?",
+            "answers": [
+                "láda",
+                "papír",
+                "kábel"
+            ],
+            "correct_answer": "láda"
+        },
+        {
+            "question": "Melyik országban született Arnold Schwarzenegger?",
+            "answers": [
+                "Ausztriában",
+                "Kanadában",
+                "Franciaországban"
+            ],
+            "correct_answer": "Ausztriában"
+        },
+        {
+            "question": "Melyik színésznővel játszik Hugh Grant a \"Két hét múlva örökké\" c. filmben?",
+            "answers": [
+                "Sandra Bullock",
+                "Jennifer Aniston",
+                "Julia Roberts"
+            ],
+            "correct_answer": "Sandra Bullock"
+        },
+        {
+            "question": "Ki alakítja a \"Trónok harca\" c. sorozatban Havas Jont?",
+            "answers": [
+                "Kit Harington",
+                "Alfie Allen",
+                "Ian Galen"
+            ],
+            "correct_answer": "Kit Harington"
+        },
+        {
+            "question": "Mit jelent magyarul Mr. Bean neve?",
+            "answers": [
+                "Bab úr",
+                "Medve úr",
+                "Bébi úr"
+            ],
+            "correct_answer": "Bab úr"
+        },
+        {
+            "question": "Mikor készült az \"Amerikai pite\" c. vígjáték első része?",
+            "answers": [
+                "1999-ben",
+                "1997-ben",
+                "1996-ban"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "A színészeten kívűl még mivel foglalkozik Steven Seagal?",
+            "answers": [
+                "harcművészettel",
+                "labdarúgással",
+                "sakkozik"
+            ],
+            "correct_answer": "harcművészettel"
+        },
+        {
+            "question": "Mi Winnetou nevének jelentése?",
+            "answers": [
+                "Égő Víz",
+                "Fehér Atya",
+                "Lángoló Erdő"
+            ],
+            "correct_answer": "Égő Víz"
+        },
+        {
+            "question": "A Pi élete c. filmben milyen állat társaságában tölti el Pi, a 227 napot a Csendes-óceánon?",
+            "answers": [
+                "bengáli tigrissel",
+                "mosómedvével",
+                "ázsiai oroszlánnal"
+            ],
+            "correct_answer": "bengáli tigrissel"
+        },
+        {
+            "question": "Mikor mutatták be az 50 első randi c. filmet?",
+            "answers": [
+                "2004-ben",
+                "2006-ban",
+                "2007-ben"
+            ],
+            "correct_answer": "2004-ben"
+        },
+        {
+            "question": "Melyik amerikai városban él Rocky Balboa a Rocky c. filmben?",
+            "answers": [
+                "Philadelphiában",
+                "Los Angelesben",
+                "New Orleansban"
+            ],
+            "correct_answer": "Philadelphiában"
+        },
+        {
+            "question": "Ki alakítja Halmos Aladárt a Meseautó c. film 2000-ben bemutatott adaptációjában?",
+            "answers": [
+                "Bajor Imre",
+                "Kern András",
+                "Stohl András"
+            ],
+            "correct_answer": "Bajor Imre"
+        },
+        {
+            "question": "Milyen állat Marty a Madagaszkár c. filmben?",
+            "answers": [
+                "zebra",
+                "oroszlán",
+                "zsiráf"
+            ],
+            "correct_answer": "zebra"
+        },
+        {
+            "question": "Milyen gyümölcs tűnik fel \"A Keresztapa\" c. film mindhárom részében?",
+            "answers": [
+                "narancs",
+                "banán",
+                "mangó"
+            ],
+            "correct_answer": "narancs"
+        },
+        {
+            "question": "Ki a főszereplője a Kellemes Húsvéti Ünnepeket! c. filmnek?",
+            "answers": [
+                "Jean-Paul Belmondo",
+                "Alain Delon",
+                "Jean Reno"
+            ],
+            "correct_answer": "Jean-Paul Belmondo"
+        },
+        {
+            "question": "Mi a címe a Jégkorszak húsvéti részének?",
+            "answers": [
+                "Húsvéti küldetés",
+                "Húsvéti tojások",
+                "Húsvéti kihívás"
+            ],
+            "correct_answer": "Húsvéti küldetés"
+        },
+        {
+            "question": "Ki Kate Hudson színésznő édesanyja?",
+            "answers": [
+                "Goldie Hawn",
+                "Meryl Streep",
+                "Diane Keaton"
+            ],
+            "correct_answer": "Goldie Hawn"
+        },
+        {
+            "question": "Ki volt Indiana Jones megformálója?",
+            "answers": [
+                "Harrison Ford",
+                "Richard Gere",
+                "Tom Hanks"
+            ],
+            "correct_answer": "Harrison Ford"
+        },
+        {
+            "question": "Ki volt a magyar szinkronhangja Benny Hillnek?",
+            "answers": [
+                "Gálvölgyi János",
+                "Bodrogi Gyula",
+                "Bajor Imre"
+            ],
+            "correct_answer": "Gálvölgyi János"
+        },
+        {
+            "question": "Ki alakította Supermant a filmvásznon?",
+            "answers": [
+                "Christopher Reeve",
+                "Gene Hackman",
+                "Michael Keaton"
+            ],
+            "correct_answer": "Christopher Reeve"
+        },
+        {
+            "question": "Mi a szolnoki színház neve?",
+            "answers": [
+                "Szigligeti Színház",
+                "Vörösmarty Színház",
+                "Katona József Színház"
+            ],
+            "correct_answer": "Szigligeti Színház"
+        },
+        {
+            "question": "Melyik filmstúdió logója az ordító oroszlán?",
+            "answers": [
+                "Metro-Goldwyn-Mayer",
+                "Columbia Pictures",
+                "DreamWorks"
+            ],
+            "correct_answer": "Metro-Goldwyn-Mayer"
+        },
+        {
+            "question": "Mi Batman polgári neve?",
+            "answers": [
+                "Bruce Wayne",
+                "Jack Napier",
+                "Carl Grissom"
+            ],
+            "correct_answer": "Bruce Wayne"
+        },
+        {
+            "question": "Hol forgatták a Herkules c. amerikai kalandfilmet?",
+            "answers": [
+                "Magyarországon",
+                "Franciaországban",
+                "Kanadában"
+            ],
+            "correct_answer": "Magyarországon"
+        },
+        {
+            "question": "Ki a rendezője és főszereplője az Annie Hall c. filmnek?",
+            "answers": [
+                "Woody Allen",
+                "Mel Gibson",
+                "Jack Nicholson"
+            ],
+            "correct_answer": "Woody Allen"
+        },
+        {
+            "question": "Ki nem Hamupipőke mostohatestvére?",
+            "answers": [
+                "Alice",
+                "Drizella",
+                "Anasztázia"
+            ],
+            "correct_answer": "Alice"
+        },
+        {
+            "question": "Melyik filmben nem játszott Nagy Ervin?",
+            "answers": [
+                "Valami Amerika",
+                "Kaméleon",
+                "Ámbár tanár úr"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Kit alakít Jennifer Lopez az Anakonda c. filmben?",
+            "answers": [
+                "rendezőt",
+                "ügynököt",
+                "tanárt"
+            ],
+            "correct_answer": "rendezőt"
+        },
+        {
+            "question": "Melyik budapesti színház nyitotta meg kapuit 1896. május 1-én?",
+            "answers": [
+                "Vígszínház",
+                "Nemzeti színház",
+                "Madách Színház"
+            ],
+            "correct_answer": "Vígszínház"
+        },
+        {
+            "question": "Ki a főszereplője a \"Csocsó, avagy éljen május elseje!\" c. filmnek?",
+            "answers": [
+                "Koltay Róbert",
+                "Kulka János",
+                "Rudolf Péter"
+            ],
+            "correct_answer": "Koltay Róbert"
+        },
+        {
+            "question": "Melyik rockoperában szerepelt Usztics Mátyás?",
+            "answers": [
+                "Sztárcsinálók",
+                "Honfoglalás",
+                "István, a király"
+            ],
+            "correct_answer": "Sztárcsinálók"
+        },
+        {
+            "question": "Ki a férfi főszereplője a \"Mi kell a nőnek\" c. filmnek?",
+            "answers": [
+                "Mel Gibson",
+                "Tom Hanks",
+                "Bruce Willis"
+            ],
+            "correct_answer": "Mel Gibson"
+        },
+        {
+            "question": "Ki alakította Lara Croftot a filmvásznon?",
+            "answers": [
+                "Angelina Jolie",
+                "Jennifer Lawrence",
+                "Halle Berry"
+            ],
+            "correct_answer": "Angelina Jolie"
+        },
+        {
+            "question": "Melyik filmsorozat szereplője R2-D2?",
+            "answers": [
+                "Star Wars",
+                "A Gyűrűk Ura",
+                "Star Trek"
+            ],
+            "correct_answer": "Star Wars"
+        },
+        {
+            "question": "Melyik faluban forgatták a Brazilok c. filmet?",
+            "answers": [
+                "Acsán",
+                "Kocsordon",
+                "Csécsén"
+            ],
+            "correct_answer": "Acsán"
+        },
+        {
+            "question": "Mi a foglalkozása a \"Drágán add az életed!\" c. film főszereplőjének?",
+            "answers": [
+                "rendőrnyomozó",
+                "sebész",
+                "ügynök"
+            ],
+            "correct_answer": "rendőrnyomozó"
+        },
+        {
+            "question": "Kit alakít George Clooney a Pénzes cápa c. filmben?",
+            "answers": [
+                "műsorvezetőt",
+                "ügynököt",
+                "állatidomárt"
+            ],
+            "correct_answer": "műsorvezetőt"
+        },
+        {
+            "question": "Kit alakít Vin Diesel a Halálos iramban 8. c. akciófilmben?",
+            "answers": [
+                "Dominic Torettot",
+                "Luke Hobbst",
+                "Tej Parkert"
+            ],
+            "correct_answer": "Dominic Torettot"
+        },
+        {
+            "question": "Melyik király a főszereplője a Gyalog galopp c. filmnek?",
+            "answers": [
+                "Artúr király",
+                "Edward király",
+                "Vilmos király"
+            ],
+            "correct_answer": "Artúr király"
+        },
+        {
+            "question": "Melyik rajzfilmhős mondta? \"Mi a hézag hapsikám?\"",
+            "answers": [
+                "Tapsi Hapsi",
+                "Dodó Kacsa",
+                "Dagobert bácsi"
+            ],
+            "correct_answer": "Tapsi Hapsi"
+        },
+        {
+            "question": "Ki volt Donald kacsa nagybátyja?",
+            "answers": [
+                "Dagobert bácsi",
+                "Doofy",
+                "Dodo kacsa"
+            ],
+            "correct_answer": "Dagobert bácsi"
+        },
+        {
+            "question": "Milyen állat a főszereplője a Lecsó c. animációs filmnek?",
+            "answers": [
+                "patkány",
+                "nyúl",
+                "hörcsög"
+            ],
+            "correct_answer": "patkány"
+        },
+        {
+            "question": "Mi volt az első magyar musical?",
+            "answers": [
+                "Egy szerelem három éjszakája",
+                "Képzelt riport egy amerikai popfesztiválról",
+                "Sztárcsinálók"
+            ],
+            "correct_answer": "Egy szerelem három éjszakája"
+        },
+        {
+            "question": "Melyik filmben nem játszott Brad Pitt?",
+            "answers": [
+                "Kellékfeleség",
+                "12 év rabszolgaság",
+                "A nagy dobás"
+            ],
+            "correct_answer": "Kellékfeleség"
+        },
+        {
+            "question": "Mi volt az első világhírű Disney film?",
+            "answers": [
+                "Hófehérke és a hét törpe",
+                "Pinokkió",
+                "Hamupipőke"
+            ],
+            "correct_answer": "Hófehérke és a hét törpe"
+        },
+        {
+            "question": "Melyik filmben nem játszott Növényi Norbert?",
+            "answers": [
+                "Kontroll",
+                "Magyar vándor",
+                "Üvegtigris"
+            ],
+            "correct_answer": "Kontroll"
+        },
+        {
+            "question": "Ki a főszereplője a Ponyvaregény c. filmnek?",
+            "answers": [
+                "John Travolta",
+                "Arnold Schwarzenegger",
+                "Denzel Washington"
+            ],
+            "correct_answer": "John Travolta"
+        },
+        {
+            "question": "Melyik mese szereplői Radírpók és Festéktüsszentő Hapci Benő?",
+            "answers": [
+                "Pom-pom meséi",
+                "Futrinka utca",
+                "Frakk, a macskák réme"
+            ],
+            "correct_answer": "Pom-pom meséi"
+        },
+        {
+            "question": "Mikor választották a Nemzet Színészévé Haumann Pétert?",
+            "answers": [
+                "2010-ben",
+                "2015-ben",
+                "2014-ben"
+            ],
+            "correct_answer": "2010-ben"
+        },
+        {
+            "question": "Mi volt az X-akták szállóigéje?",
+            "answers": [
+                "Az igazság odaát van.",
+                "A segítség odaát van.",
+                "A szabadság odaát van."
+            ],
+            "correct_answer": "Az igazság odaát van."
+        },
+        {
+            "question": "Hanyadik cannes-i filmfesztivál kezdődött május 17-én?",
+            "answers": [
+                "70.",
+                "72.",
+                "68."
+            ],
+            "correct_answer": "70."
+        },
+        {
+            "question": "Melyik animációs film folytatása a Szenilla nyomában?",
+            "answers": [
+                "Némó nyomában",
+                "Agymanók",
+                "Jégvarázs"
+            ],
+            "correct_answer": "Némó nyomában"
+        },
+        {
+            "question": "Mi a neve a hableánynak \"A kis hableány\" c. rajzfilmben?",
+            "answers": [
+                "Ariel",
+                "Bella",
+                "Adella"
+            ],
+            "correct_answer": "Ariel"
+        },
+        {
+            "question": "Mi a végzettsége Adam Sandlernek?",
+            "answers": [
+                "bölcsész",
+                "vegyész",
+                "jogász"
+            ],
+            "correct_answer": "bölcsész"
+        },
+        {
+            "question": "Kinek a műveiben szerepel Fülig Jimmy?",
+            "answers": [
+                "Rejtő Jenő",
+                "Karinthy Frigyes",
+                "Csáth Géza"
+            ],
+            "correct_answer": "Rejtő Jenő"
+        },
+        {
+            "question": "Milyen állat Ted az amerikai vígjátékban?",
+            "answers": [
+                "medve",
+                "elefánt",
+                "oroszlán"
+            ],
+            "correct_answer": "medve"
+        },
+        {
+            "question": "Ki énekelte a Titanic betétdalát?",
+            "answers": [
+                "Celine Dion",
+                "Shania Twain",
+                "Shakira"
+            ],
+            "correct_answer": "Celine Dion"
+        },
+        {
+            "question": "Melyik öt számmal lett telitalálata Andrásnak a \"Valami Amerika\" c. filmben?",
+            "answers": [
+                "1,2,3,4,5",
+                "10,20,30,40,50",
+                "12,22,32,42,52"
+            ],
+            "correct_answer": "1,2,3,4,5"
+        },
+        {
+            "question": "Mi a Mr. Beant alakító színész neve?",
+            "answers": [
+                "Rowan Atkinson",
+                "Ben Miller",
+                "Alan Rickman"
+            ],
+            "correct_answer": "Rowan Atkinson"
+        },
+        {
+            "question": "Ki volt Roger Moore partnere a \"Minden lében két kanál\" c. sorozatban?",
+            "answers": [
+                "Tony Curtis",
+                "Jean-Claude Van Damme",
+                "Christopher Walken"
+            ],
+            "correct_answer": "Tony Curtis"
+        },
+        {
+            "question": "Melyik együttes dalai hangzanak el a Mamma Mia! c. filmben?",
+            "answers": [
+                "Abba",
+                "Beatles",
+                "Bee Gees"
+            ],
+            "correct_answer": "Abba"
+        },
+        {
+            "question": "Melyik film szól a Watergate-botrányról?",
+            "answers": [
+                "Az elnök emberei",
+                "Az elnök végveszélyben",
+                "Az elnök különgépe"
+            ],
+            "correct_answer": "Az elnök emberei"
+        },
+        {
+            "question": "Melyik magyar énekesnő dala hangzik el \"Az angol beteg\" c. filmben?",
+            "answers": [
+                "Sebestyén Márta",
+                "Péter-Szabó Szilvia",
+                "Szalóki Ági"
+            ],
+            "correct_answer": "Sebestyén Márta"
+        },
+        {
+            "question": "Melyik filmfesztivál fődíja az Arany Medve?",
+            "answers": [
+                "Berlini Nemzetközi Filmfesztivál",
+                "Cannes-i fesztivál",
+                "Locarnói Nemzetközi Filmfesztivál"
+            ],
+            "correct_answer": "Berlini Nemzetközi Filmfesztivál"
+        },
+        {
+            "question": "Melyik színésznő kapta a 70. cannes-i filmfesztivál különdíját?",
+            "answers": [
+                "Nicole Kidman",
+                "Jennifer Aniston",
+                "Angelina Jolie"
+            ],
+            "correct_answer": "Nicole Kidman"
+        },
+        {
+            "question": "Mióta játssza Daniel Craig, James Bond szerepét?",
+            "answers": [
+                "2006 óta",
+                "2008 óta",
+                "2002 óta"
+            ],
+            "correct_answer": "2006 óta"
+        },
+        {
+            "question": "Melyik filmhez komponált zenét Vangelis?",
+            "answers": [
+                "Szárnyas fejvadász",
+                "Avatar",
+                "Hegylakó"
+            ],
+            "correct_answer": "Szárnyas fejvadász"
+        },
+        {
+            "question": "Hogy folytatódik a gyerekdal? \"Hull a szilva a fáról...\"",
+            "answers": [
+                "most jövök a tanyáról",
+                "most jövök a babámtól",
+                "most jövök a padlásról"
+            ],
+            "correct_answer": "most jövök a tanyáról"
+        },
+        {
+            "question": "Milyen rokoni kapcsolatban áll Csepregi Éva, zenekarának dobosával?",
+            "answers": [
+                "fia",
+                "unokaöccse",
+                "testvére"
+            ],
+            "correct_answer": "fia"
+        },
+        {
+            "question": "Ki jelenleg a Sugarloaf együttes énekese?",
+            "answers": [
+                "Nkuya Sonia",
+                "Dér Heni",
+                "Gubik Petra"
+            ],
+            "correct_answer": "Nkuya Sonia"
+        },
+        {
+            "question": "Melyik együttes tagjai Bauxit és Tokyo?",
+            "answers": [
+                "Belga",
+                "Children of Distance",
+                "New Level Empire"
+            ],
+            "correct_answer": "Belga"
+        },
+        {
+            "question": "Hányszor lépett fel Magyarországon Jean-Michel Jarre?",
+            "answers": [
+                "hatszor",
+                "háromszor",
+                "nyolcszor"
+            ],
+            "correct_answer": "hatszor"
+        },
+        {
+            "question": "Melyik zeneszerző műve a Nászinduló?",
+            "answers": [
+                "Mendelssohn",
+                "Mozart",
+                "Monteverdi"
+            ],
+            "correct_answer": "Mendelssohn"
+        },
+        {
+            "question": "Melyik hangszer művésze Havasi Balázs?",
+            "answers": [
+                "zongora",
+                "hegedű",
+                "nagybőgő"
+            ],
+            "correct_answer": "zongora"
+        },
+        {
+            "question": "Mi volt az egyetlen operája Beethovennek?",
+            "answers": [
+                "Fidelio",
+                "Tosca",
+                "Don Carlos"
+            ],
+            "correct_answer": "Fidelio"
+        },
+        {
+            "question": "Ki énekli a Kincsem c. film betétdalát?",
+            "answers": [
+                "Rúzsa Magdi",
+                "Tóth Gabi",
+                "Wolf Kati"
+            ],
+            "correct_answer": "Rúzsa Magdi"
+        },
+        {
+            "question": "Mi a basszuskulcs?",
+            "answers": [
+                "zenei kulcs",
+                "káromkodószó",
+                "a menyország kulcsa"
+            ],
+            "correct_answer": "zenei kulcs"
+        },
+        {
+            "question": "Kinek az operája a Rigoletto?",
+            "answers": [
+                "Verdi",
+                "Puccini",
+                "Mozart"
+            ],
+            "correct_answer": "Verdi"
+        },
+        {
+            "question": "Melyik énekes dala az \"Ölelj meg újra\"?",
+            "answers": [
+                "Ákos",
+                "Caramel",
+                "ByeAlex"
+            ],
+            "correct_answer": "Ákos"
+        },
+        {
+            "question": "Milyen nemzetiségű Jean-Michel Jarre zenész?",
+            "answers": [
+                "francia",
+                "olasz",
+                "svájci"
+            ],
+            "correct_answer": "francia"
+        },
+        {
+            "question": "Milyen térről énekel Kern András?",
+            "answers": [
+                "Lövölde",
+                "Bosnyák",
+                "Örs vezér"
+            ],
+            "correct_answer": "Lövölde"
+        },
+        {
+            "question": "Melyik együttes énekel Don Quijote-ról?",
+            "answers": [
+                "Neoton Família",
+                "Első Emelet",
+                "Hungária"
+            ],
+            "correct_answer": "Neoton Família"
+        },
+        {
+            "question": "Hogy folyatódik a Magna Cum Laude dala? \"Színezd újra, színezd újra..\"",
+            "answers": [
+                "Az életet ha megfakulna.",
+                "A felhőket ha beborulna.",
+                "Az álmokat ha kifakulna."
+            ],
+            "correct_answer": "Az életet ha megfakulna."
+        },
+        {
+            "question": "Melyik együttes tagja volt Péter Szabó Szilvia?",
+            "answers": [
+                "NOX",
+                "FOX",
+                "BOX"
+            ],
+            "correct_answer": "NOX"
+        },
+        {
+            "question": "Melyik nem egy fiúegyüttes volt?",
+            "answers": [
+                "Fresh",
+                "Shygys",
+                "Picasso Branch"
+            ],
+            "correct_answer": "Fresh"
+        },
+        {
+            "question": "Melyik hangszer virtuóza a kínai Yo-Yo Ma?",
+            "answers": [
+                "cselló",
+                "hárfa",
+                "zongora"
+            ],
+            "correct_answer": "cselló"
+        },
+        {
+            "question": "Milyen zenét játszik a Csík zenekar?",
+            "answers": [
+                "magyar népzenét",
+                "blues zenét",
+                "country zenét"
+            ],
+            "correct_answer": "magyar népzenét"
+        },
+        {
+            "question": "Melyik énekesnek nincs Hello c. száma?",
+            "answers": [
+                "Cyndi Lauper",
+                "Lionel Richie",
+                "Adele"
+            ],
+            "correct_answer": "Cyndi Lauper"
+        },
+        {
+            "question": "Mi a beceneve a Hooligans együttes frontemberének?",
+            "answers": [
+                "Csipa",
+                "Maci",
+                "Cipő"
+            ],
+            "correct_answer": "Csipa"
+        },
+        {
+            "question": "Hány évada volt eddig a magyar X faktornak?",
+            "answers": [
+                "6",
+                "7",
+                "3"
+            ],
+            "correct_answer": "6"
+        },
+        {
+            "question": "Hogy folytatódik az Omega sláger?\" a régi csibészek...\"",
+            "answers": [
+                "nem ismernek engem meg.",
+                "mindig tovább engednek.",
+                "otthagytak és elmentek."
+            ],
+            "correct_answer": "nem ismernek engem meg."
+        },
+        {
+            "question": "Kinek a vígoperája a Don Pasquale?",
+            "answers": [
+                "Donizetti",
+                "Verdi",
+                "Puccini"
+            ],
+            "correct_answer": "Donizetti"
+        },
+        {
+            "question": "Mikor alakult meg a Rapülők együttes?",
+            "answers": [
+                "1992-ben",
+                "1999-ben",
+                "1996-ban"
+            ],
+            "correct_answer": "1992-ben"
+        },
+        {
+            "question": "Melyik énekesnő dala a Rohan az idő?",
+            "answers": [
+                "Koncz Zsuzsa",
+                "Cserháti Zsuzsa",
+                "Kovács Kati"
+            ],
+            "correct_answer": "Koncz Zsuzsa"
+        },
+        {
+            "question": "Mi Freedie Mercury születéskori neve?",
+            "answers": [
+                "Farrokh Bulsara",
+                "John Deacon",
+                "Eddie Van Halen"
+            ],
+            "correct_answer": "Farrokh Bulsara"
+        },
+        {
+            "question": "Ki Falusi Marianna társa a Pa-Dö-Dő együttesben?",
+            "answers": [
+                "Lang Györgyi",
+                "Szulák Andi",
+                "Dér Heni"
+            ],
+            "correct_answer": "Lang Györgyi"
+        },
+        {
+            "question": "Ki jelenleg a P-mobil együttes vezetője?",
+            "answers": [
+                "Schuster Lóránt",
+                "Vikidál Gyula",
+                "Sárvári Vilmos"
+            ],
+            "correct_answer": "Schuster Lóránt"
+        },
+        {
+            "question": "Hogy folytatódik az EDDA sláger? \"A kör közepén állok...\"",
+            "answers": [
+                "körbevesznek jó barátok",
+                "éles késsel rám vadásztok",
+                "egyszer majd odébbállok"
+            ],
+            "correct_answer": "körbevesznek jó barátok"
+        },
+        {
+            "question": "Ki a Tankcsapda együttes énekese?",
+            "answers": [
+                "Lukács László",
+                "Sidlovits Gábor",
+                "Fejes Tamás"
+            ],
+            "correct_answer": "Lukács László"
+        },
+        {
+            "question": "Ki nem énekelt a We Are the World c. dalban?",
+            "answers": [
+                "Prince",
+                "Tina Turner",
+                "Lionel Richie"
+            ],
+            "correct_answer": "Prince"
+        },
+        {
+            "question": "Hány éves korában hunyt el Elvis Presley?",
+            "answers": [
+                "42",
+                "56",
+                "68"
+            ],
+            "correct_answer": "42"
+        },
+        {
+            "question": "Kik a V-Tech együttes tagjai?",
+            "answers": [
+                "Kefír és Szamóca",
+                "Joghurt és Málna",
+                "Túró és Mazsola"
+            ],
+            "correct_answer": "Kefír és Szamóca"
+        },
+        {
+            "question": "Mi Dopeman valódi neve?",
+            "answers": [
+                "Pityinger László",
+                "Kozák László",
+                "Széki Attila"
+            ],
+            "correct_answer": "Pityinger László"
+        },
+        {
+            "question": "Melyik együttes dala a \"Gyere őrült\"?",
+            "answers": [
+                "Edda",
+                "P-Mobil",
+                "Piramis"
+            ],
+            "correct_answer": "Edda"
+        },
+        {
+            "question": "Melyik együttes dalai a Kicsi gesztenye és a Tiltott perc?",
+            "answers": [
+                "TNT",
+                "Kozmix",
+                "Kerozin"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Melyik együttes dalai a Kicsi gesztenye és a Tiltott perc?",
+            "answers": [
+                "TNT",
+                "Kozmix",
+                "Kerozin"
+            ],
+            "correct_answer": "TNT"
+        },
+        {
+            "question": "Ki énekelte az \"Egy szál harangvirág\" c. dalt?",
+            "answers": [
+                "Szécsi Pál",
+                "Máté Péter",
+                "Poór Péter"
+            ],
+            "correct_answer": "Szécsi Pál"
+        },
+        {
+            "question": "Melyik együttes frontembere volt Mark Knopfler?",
+            "answers": [
+                "Dire Straits",
+                "Aerosmith",
+                "The Doors"
+            ],
+            "correct_answer": "Dire Straits"
+        },
+        {
+            "question": "Hogy folytatódik a Májusköszöntő dal? \" Itt van május elseje,....\"",
+            "answers": [
+                "Énekszó és tánc köszöntse!",
+                "Szállj csak, zeneszó, ének!",
+                "Ébresszed a magyar népet!"
+            ],
+            "correct_answer": "Énekszó és tánc köszöntse!"
+        },
+        {
+            "question": "Hol alakult meg a Hooligans együttes?",
+            "answers": [
+                "Szerencsen",
+                "Kaposváron",
+                "Kőszegen"
+            ],
+            "correct_answer": "Szerencsen"
+        },
+        {
+            "question": "Melyik együttes tagja Rendben Man?",
+            "answers": [
+                "Punnany Massif",
+                "Halott Pénz",
+                "Quimby"
+            ],
+            "correct_answer": "Punnany Massif"
+        },
+        {
+            "question": "Melyik együttes énekel sárga zsiguliról?",
+            "answers": [
+                "Vad Fruttik",
+                "Punnany Massif",
+                "Halott Pénz"
+            ],
+            "correct_answer": "Vad Fruttik"
+        },
+        {
+            "question": "Ki nem volt a Jackson 5 tagja?",
+            "answers": [
+                "Janet Jackson",
+                "Jermaine Jackson",
+                "Michael Jackson"
+            ],
+            "correct_answer": "Janet Jackson"
+        },
+        {
+            "question": "Hogy folytatódik a Hungária dal? \" Gyere, gyere Juli,... \"",
+            "answers": [
+                "Lesz egy remek buli",
+                "Lecsúszott a bugyi",
+                "Ez lesz ám a tuti"
+            ],
+            "correct_answer": "Lesz egy remek buli"
+        },
+        {
+            "question": "Honnan származik Rúzsa Magdi?",
+            "answers": [
+                "Vajdaságból",
+                "Erdélyből",
+                "Kárpátaljáról"
+            ],
+            "correct_answer": "Vajdaságból"
+        },
+        {
+            "question": "Mi a borbély neve Rossini: A sevillai borbély c. operájában?",
+            "answers": [
+                "Figaro",
+                "Fiorello",
+                "Fidelio"
+            ],
+            "correct_answer": "Figaro"
+        },
+        {
+            "question": "Melyik együttes dala a \"Lámpát ha gyújtok\"?",
+            "answers": [
+                "Quimby",
+                "Honeybeast",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Quimby"
+        },
+        {
+            "question": "Melyik egy rockegyüttes neve?",
+            "answers": [
+                "30Y",
+                "60X",
+                "40Z"
+            ],
+            "correct_answer": "30Y"
+        },
+        {
+            "question": "Ki alapította a Hiperkarma együttest?",
+            "answers": [
+                "Bérczesi Róbert",
+                "Hámori Benedek",
+                "Varga László"
+            ],
+            "correct_answer": "Bérczesi Róbert"
+        },
+        {
+            "question": "Melyik zeneszerző nem tartozik a bécsi klasszikusok közé?",
+            "answers": [
+                "Vivaldi",
+                "Beethoven",
+                "Haydn"
+            ],
+            "correct_answer": "Vivaldi"
+        },
+        {
+            "question": "Melyik ruhadarab egy együttes neve is?",
+            "answers": [
+                "Bikini",
+                "Szoknya",
+                "Sapka"
+            ],
+            "correct_answer": "Bikini"
+        },
+        {
+            "question": "Ki a Margaret Island énekesnője?",
+            "answers": [
+                "Lábas Viki",
+                "Tarján Zsófia",
+                "Pásztor Anna"
+            ],
+            "correct_answer": "Lábas Viki"
+        },
+        {
+            "question": "Kinek a dala volt a Children?",
+            "answers": [
+                "Robert Miles",
+                "Jean-Michel Jarre",
+                "David Guetta"
+            ],
+            "correct_answer": "Robert Miles"
+        },
+        {
+            "question": "Melyik együttes dala \"Ha volna két életem\"?",
+            "answers": [
+                "Piramis",
+                "LGT",
+                "Illés"
+            ],
+            "correct_answer": "Piramis"
+        },
+        {
+            "question": "Kinek az operája a Szerelmi bájital?",
+            "answers": [
+                "Donizetti",
+                "Puccini",
+                "Verdi"
+            ],
+            "correct_answer": "Donizetti"
+        },
+        {
+            "question": "Melyik együttes dala az Emese?",
+            "answers": [
+                "Kispál és a borz",
+                "Pál utcai fiúk",
+                "Kiscsillag"
+            ],
+            "correct_answer": "Kispál és a borz"
+        },
+        {
+            "question": "1974-ben melyik együttes nyerte meg az Eurovízios Dalfesztivált?",
+            "answers": [
+                "ABBA",
+                "Ottawan",
+                "Boney-M"
+            ],
+            "correct_answer": "ABBA"
+        },
+        {
+            "question": "Hogy folytatódik a Punnany M. sláger? \"Nem kérlek légy enyém örökké\"",
+            "answers": [
+                "mégis hozzád szól dalom",
+                "úgysem élhetünk örökké",
+                "egy percig lennék oltalom"
+            ],
+            "correct_answer": "mégis hozzád szól dalom"
+        },
+        {
+            "question": "Pápai Joci hanyadik helyen végzett a 62. Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "8.",
+                "12.",
+                "18."
+            ],
+            "correct_answer": "8."
+        },
+        {
+            "question": "Kinek az első nagylemeze a Tubular Bells?",
+            "answers": [
+                "Mike Oldfield",
+                "Jean-Michel Jarre",
+                "Ed Sheeran"
+            ],
+            "correct_answer": "Mike Oldfield"
+        },
+        {
+            "question": "Hány tagból áll a Halott Pénz nevű zenekar?",
+            "answers": [
+                "7",
+                "5",
+                "3"
+            ],
+            "correct_answer": "7"
+        },
+        {
+            "question": "Melyik ország énekese nyerte a 62. Eurovíziós Dalfesztivált?",
+            "answers": [
+                "Portugália",
+                "Bulgária",
+                "Franciaország"
+            ],
+            "correct_answer": "Portugália"
+        },
+        {
+            "question": "Ki a Magashegyi Underground énekese?",
+            "answers": [
+                "Bocskor Bíborka",
+                "Kozma Orsi",
+                "Dér Heni"
+            ],
+            "correct_answer": "Bocskor Bíborka"
+        },
+        {
+            "question": "Mi Kóbor János énekes beceneve?",
+            "answers": [
+                "Mecky",
+                "Próféta",
+                "Elefánt"
+            ],
+            "correct_answer": "Mecky"
+        },
+        {
+            "question": "Milyen nemzetiségű Enya?",
+            "answers": [
+                "ír",
+                "norvég",
+                "dán"
+            ],
+            "correct_answer": "ír"
+        },
+        {
+            "question": "2017-ben melyik napon adják át a Petőfi Zenei Díjakat?",
+            "answers": [
+                "június 26-án",
+                "június 27-én",
+                "június 30-án"
+            ],
+            "correct_answer": "június 26-án"
+        },
+        {
+            "question": "2017-ben mikor kezdődik a Sziget Fesztivál?",
+            "answers": [
+                "aug. 9-én",
+                "aug. 13-án",
+                "aug. 16-án"
+            ],
+            "correct_answer": "aug. 9-én"
+        },
+        {
+            "question": "Melyik városban alakult a Punnany Massif zenekar?",
+            "answers": [
+                "Pécsen",
+                "Sopronban",
+                "Dunaújvárosban"
+            ],
+            "correct_answer": "Pécsen"
+        },
+        {
+            "question": "Hol született Freddie Mercury?",
+            "answers": [
+                "Zanzibárban",
+                "Kenyában",
+                "Mongóliában"
+            ],
+            "correct_answer": "Zanzibárban"
+        },
+        {
+            "question": "Mi Horus polgári neve a Children of Distance együttesből?",
+            "answers": [
+                "Somogyi Péter",
+                "Nyári Roland",
+                "Ács Róbert"
+            ],
+            "correct_answer": "Somogyi Péter"
+        },
+        {
+            "question": "Mikor alakult meg a Magna Cum Laude zenekar?",
+            "answers": [
+                "1999-ben",
+                "2002-ben",
+                "1987-ben"
+            ],
+            "correct_answer": "1999-ben"
+        },
+        {
+            "question": "Milyen hangszeren játszik Edvin Marton?",
+            "answers": [
+                "hegedűn",
+                "zongorán",
+                "nagybőgőn"
+            ],
+            "correct_answer": "hegedűn"
+        },
+        {
+            "question": "Hogy folytatódik a Wellhello slágere? \"Apu, vedd meg nekem a...\"",
+            "answers": [
+                "várost",
+                "lángost",
+                "táltost"
+            ],
+            "correct_answer": "várost"
+        },
+        {
+            "question": "Melyik külföldi együttes lép fel május 22-én a Groupama Arénában?",
+            "answers": [
+                "Depeche Mode",
+                "Metallica",
+                "The Doors"
+            ],
+            "correct_answer": "Depeche Mode"
+        },
+        {
+            "question": "Hol alakult meg a Depeche Mode együttes?",
+            "answers": [
+                "Angliában",
+                "Kanadában",
+                "New Yorkban"
+            ],
+            "correct_answer": "Angliában"
+        },
+        {
+            "question": "Mikor lesz a Nagyszínpad tehetségkutató döntője?",
+            "answers": [
+                "május 27-én",
+                "május 28-án",
+                "június 3-án"
+            ],
+            "correct_answer": "május 27-én"
+        },
+        {
+            "question": "Hol alakult meg az Első Emelet?",
+            "answers": [
+                "egy strandon",
+                "egy étteremben",
+                "egy fodrászüzletben"
+            ],
+            "correct_answer": "egy strandon"
+        },
+        {
+            "question": "Mikor hunyt el Cserháti Zsuzsa?",
+            "answers": [
+                "2003-ban",
+                "2005-ben",
+                "2000-ben"
+            ],
+            "correct_answer": "2003-ban"
+        },
+        {
+            "question": "Melyik együttest hívták a magyar Scooternek is?",
+            "answers": [
+                "Kozmix",
+                "Happy Gang",
+                "TNT"
+            ],
+            "correct_answer": "Kozmix"
+        },
+        {
+            "question": "2016-ban ki képviselte hazánkat az Eurovíziós Dalfesztiválon?",
+            "answers": [
+                "Freddie",
+                "Kállay-Saunders András",
+                "Wolf Kati"
+            ],
+            "correct_answer": "Freddie"
+        },
+        {
+            "question": "Melyik zenekar nyerte a Nagyszínpad tehetségkutatót?",
+            "answers": [
+                "Lóci játszik",
+                "Konyha",
+                "Dope Calypso"
+            ],
+            "correct_answer": "Lóci játszik"
+        },
+        {
+            "question": "Melyik bolygón született Superman?",
+            "answers": [
+                "Krypton bolygón",
+                "Xenon bolygón",
+                "Terbium bolygón"
+            ],
+            "correct_answer": "Krypton bolygón"
+        },
+        {
+            "question": "Melyik filmben nem játszott Kern András?",
+            "answers": [
+                "Valami Amerika",
+                "A miniszter félrelép",
+                "Meseautó"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Melyik nem \"A Gyűrűk Ura\" trilógia része?",
+            "answers": [
+                "A herceg kamrája",
+                "A király visszatér",
+                "A két torony"
+            ],
+            "correct_answer": "A herceg kamrája"
+        },
+        {
+            "question": "Mi volt a neve Harry baglyának a Harry Potterben?",
+            "answers": [
+                "Hedvig",
+                "Ludvig",
+                "Uhu"
+            ],
+            "correct_answer": "Hedvig"
+        },
+        {
+            "question": "Mikor mutatták be a mozikban a Trollok c. animációs filmet?",
+            "answers": [
+                "2016-ban",
+                "2010-ben",
+                "2014-ben"
+            ],
+            "correct_answer": "2016-ban"
+        },
+        {
+            "question": "Ki játssza a Télapót a \"Télapu\" c. filmben?",
+            "answers": [
+                "Tim Allen",
+                "Tom Hanks",
+                "Alan Rickman"
+            ],
+            "correct_answer": "Tim Allen"
+        },
+        {
+            "question": "Mi a hóember neve a Jégvarázs c. filmben?",
+            "answers": [
+                "Olaf",
+                "Olga",
+                "Ottó"
+            ],
+            "correct_answer": "Olaf"
+        },
+        {
+            "question": "Hol forgatták a Herkules c. amerikai kalandfilmet?",
+            "answers": [
+                "Magyarországon",
+                "Franciaországban",
+                "Kanadában"
+            ],
+            "correct_answer": "Magyarországon"
+        },
+        {
+            "question": "Melyik évben hunyt el Garas Dezső?",
+            "answers": [
+                "2011-ben",
+                "2012-ben",
+                "2009-ben"
+            ],
+            "correct_answer": "2011-ben"
+        },
+        {
+            "question": "Ki a főszereplője az 57-es utas c. filmnek?",
+            "answers": [
+                "Wesley Snipes",
+                "Tommy Lee Jones",
+                "Ryan Reynolds"
+            ],
+            "correct_answer": "Wesley Snipes"
+        },
+        {
+            "question": "Ki volt Batu kán a\"Magyar vándor\"c. filmben?",
+            "answers": [
+                "Csuja Imre",
+                "Gesztesi Károly",
+                "Józsa Imre"
+            ],
+            "correct_answer": "Csuja Imre"
+        },
+        {
+            "question": "Melyik énekesnő játszik az alábbiak közül az \"Álomutazó\" c. mesemusicalbe?",
+            "answers": [
+                "Zséda",
+                "Wolf Kati",
+                "Király Linda"
+            ],
+            "correct_answer": "Zséda"
+        },
+        {
+            "question": "Ki rendezte \"A bolygó neve: Halál\" c. akció horror filmet?",
+            "answers": [
+                "James Cameron",
+                "George Lucas",
+                "Steven Spielberg"
+            ],
+            "correct_answer": "James Cameron"
+        },
+        {
+            "question": "Melyik nem Walt Disney alkotás?",
+            "answers": [
+                "Spongyabob kockanadrág",
+                "Hófehérke és a hét törpe",
+                "A dzsungel könyve"
+            ],
+            "correct_answer": "Spongyabob kockanadrág"
+        },
+        {
+            "question": "Milyen színű Shrek?",
+            "answers": [
+                "zöld",
+                "piros",
+                "barna"
+            ],
+            "correct_answer": "zöld"
+        },
+        {
+            "question": "Ki nem alakította soha James Bondot a filmvásznon?",
+            "answers": [
+                "Robin Williams",
+                "Daniel Craig",
+                "Sean Connery"
+            ],
+            "correct_answer": "Robin Williams"
+        },
+        {
+            "question": "Kiről kapta nevét a budapesti színészmúzeum?",
+            "answers": [
+                "Bajor Giziről",
+                "Ruttkai Éváról",
+                "Jászai Mariról"
+            ],
+            "correct_answer": "Bajor Giziről"
+        },
+        {
+            "question": "Kinek a balettje a \"A diótörő\"?",
+            "answers": [
+                "Csajkovszkij",
+                "Verdi",
+                "Mozart"
+            ],
+            "correct_answer": "Csajkovszkij"
+        },
+        {
+            "question": "Milyen kutyafajtákról szól a \"101 kiskutya\" c. rajzfilm?",
+            "answers": [
+                "dalmatákról",
+                "komondorokról",
+                "vizslákról"
+            ],
+            "correct_answer": "dalmatákról"
+        },
+        {
+            "question": "Melyik nem Andrew Lloyd Webber musicalje?",
+            "answers": [
+                "Valahol Európában",
+                "Jézus Krisztus szupersztár",
+                "Az operaház fantomja"
+            ],
+            "correct_answer": "Valahol Európában"
+        },
+        {
+            "question": "Ki volt 2000-ben \"A Nemzet Színésze\"?",
+            "answers": [
+                "Törőcsik Mari",
+                "Máthé Erzsi",
+                "Molnár Piroska"
+            ],
+            "correct_answer": "Törőcsik Mari"
+        },
+        {
+            "question": "Ki a főszereplője a \"Reszkessetek betörők\" c. filmnek?",
+            "answers": [
+                "Macaulay Culkin",
+                "Freddie Highmore",
+                "Harry Melling"
+            ],
+            "correct_answer": "Macaulay Culkin"
+        },
+        {
+            "question": "Ki a főszereplője a \"Reszkessetek betörők\" c. filmnek?",
+            "answers": [
+                "Macaulay Culkin",
+                "Freddie Highmore",
+                "Harry Melling"
+            ],
+            "correct_answer": "Macaulay Culkin"
+        },
+        {
+            "question": "Ki alakítja a miniszterelnököt az \"Igazából szerelem\" c. filmben?",
+            "answers": [
+                "Hugh Grant",
+                "Alan Rickman",
+                "Colin Firth"
+            ],
+            "correct_answer": "Hugh Grant"
+        },
+        {
+            "question": "Ki a főszereplője az \"Aglaja\" c. filmnek?",
+            "answers": [
+                "Ónodi Eszter",
+                "Dobó Kata",
+                "Gryllus Dorka"
+            ],
+            "correct_answer": "Ónodi Eszter"
+        },
+        {
+            "question": "Melyik mű szereplője Gandalf?",
+            "answers": [
+                "Gyűrűk Ura",
+                "Harry Potter",
+                "Trónok harca"
+            ],
+            "correct_answer": "Gyűrűk Ura"
+        },
+        {
+            "question": "Hol játszódik a \"My Fair Lady\" filmmusical?",
+            "answers": [
+                "Londonban",
+                "Párizsban",
+                "Los Angelesben"
+            ],
+            "correct_answer": "Londonban"
+        },
+        {
+            "question": "Mi a Golden Globe-díj magyar elnevezése?",
+            "answers": [
+                "Arany Glóbusz-díj",
+                "Arany Pálma-díj",
+                "Arany Medve-díj"
+            ],
+            "correct_answer": "Arany Glóbusz-díj"
+        },
+        {
+            "question": "Ki a főszereplője a 2016-ban bemutatott \" A hét mesterlövész\" c. filmnek?",
+            "answers": [
+                "Denzel Washington",
+                "Bruce Willis",
+                "Robert De Niro"
+            ],
+            "correct_answer": "Denzel Washington"
+        },
+        {
+            "question": "Ki a rendezője és főszereplője a Zoolander 2 c. filmnek?",
+            "answers": [
+                "Ben Stiller",
+                "Vince Vaughn",
+                "Tom Hanks"
+            ],
+            "correct_answer": "Ben Stiller"
+        },
+        {
+            "question": "Ki a főszereplője a \"Bridget Jones naplója\" c. filmnek?",
+            "answers": [
+                "Renée Zellweger",
+                "Catherine Zeta-Jones",
+                "Reese Witherspoon"
+            ],
+            "correct_answer": "Renée Zellweger"
+        },
+        {
+            "question": "Ki a főszereplője \"A miniszter félrelép\" c. filmnek?",
+            "answers": [
+                "Kern András",
+                "Kulka János",
+                "Stohl András"
+            ],
+            "correct_answer": "Kern András"
+        },
+        {
+            "question": "Mi a zebra neve a \"Madagaszkár\" c. animációs filmben?",
+            "answers": [
+                "Marty",
+                "Alex",
+                "Kowalski"
+            ],
+            "correct_answer": "Marty"
+        },
+        {
+            "question": "Melyik film folytatása a Hannibál c. thriller?",
+            "answers": [
+                "A bárányok hallgatnak",
+                "A rettenthetetlen",
+                "A keresztapa"
+            ],
+            "correct_answer": "A bárányok hallgatnak"
+        },
+        {
+            "question": "Melyik musicalt írta Szikora Róbert?",
+            "answers": [
+                "Macskafogó",
+                "A Játékkészítő",
+                "Diótörő és Egérkirály"
+            ],
+            "correct_answer": "Macskafogó"
+        },
+        {
+            "question": "Mikor mutatták be a \"Casablanca\" c. fekete-fehér filmet?",
+            "answers": [
+                "1942-ben",
+                "1957-ben",
+                "1986-ban"
+            ],
+            "correct_answer": "1942-ben"
+        },
+        {
+            "question": "Hol játszódik a \"Testről és lélekről\" c. film?",
+            "answers": [
+                "vágóhídon",
+                "börtönben",
+                "kollégiumban"
+            ],
+            "correct_answer": "vágóhídon"
+        },
+        {
+            "question": "Ki játssza Lali szerepét az \"Üvegtigris\" c. filmben?",
+            "answers": [
+                "Rudolf Péter",
+                "Scherer Péter",
+                "Kálloy Molnár Péter"
+            ],
+            "correct_answer": "Rudolf Péter"
+        },
+        {
+            "question": "Mi volt a foglalkozása Rocky Balboának a \"Rocky\" c. filmben?",
+            "answers": [
+                "pénzbehajtó",
+                "asztalos",
+                "étteremvezető"
+            ],
+            "correct_answer": "pénzbehajtó"
+        },
+        {
+            "question": "Hány év telt el a \"Szex és New York: A film\" két része között?",
+            "answers": [
+                "kettő",
+                "tíz",
+                "öt"
+            ],
+            "correct_answer": "kettő"
+        },
+        {
+            "question": "Ki nem szerepel az \"Óz a csodák csodája\" c. meseregényben?",
+            "answers": [
+                "sárkány",
+                "bádogember",
+                "madárijesztő"
+            ],
+            "correct_answer": "sárkány"
+        },
+        {
+            "question": "Ki a \"Mátrix\" c. film főszereplője?",
+            "answers": [
+                "Keanu Reeves",
+                "George Clooney",
+                "Bradley Cooper"
+            ],
+            "correct_answer": "Keanu Reeves"
+        },
+        {
+            "question": "Ki nem szerepelt \"A piszkos tizenkettő\" c. filmben?",
+            "answers": [
+                "Ed Harris",
+                "Lee Marvin",
+                "Donald Sutherland"
+            ],
+            "correct_answer": "Ed Harris"
+        },
+        {
+            "question": "Ki alakítja Dr. Ryan Stone-t a \"Gravitáció\" c. filmben?",
+            "answers": [
+                "Sandra Bullock",
+                "Angelina Jolie",
+                "Jennifer Aniston"
+            ],
+            "correct_answer": "Sandra Bullock"
+        },
+        {
+            "question": "Ki volt Garfield megalkotója?",
+            "answers": [
+                "Jim Davis",
+                "Guy Davis",
+                "Jim Lee"
+            ],
+            "correct_answer": "Jim Davis"
+        },
+        {
+            "question": "Melyik énekesnő az egyik főszereplője a \"Díva\" c. amerikai zenés filmnek?",
+            "answers": [
+                "Cher",
+                "Madonna",
+                "Beyonce"
+            ],
+            "correct_answer": "Cher"
+        },
+        {
+            "question": "Melyik filmben játszott még Robert Pattinson az Alkonyaton kívűl?",
+            "answers": [
+                "Harry Potter és a Tűz Serlege",
+                "A Gyűrűk Ura",
+                "Narnia Krónikái"
+            ],
+            "correct_answer": "Harry Potter és a Tűz Serlege"
+        },
+        {
+            "question": "Melyik film kapta 2013-ban a legjobb filmnek járó Oscar-díjat?",
+            "answers": [
+                "12 év rabszolgaság",
+                "Gravitáció",
+                "A Wall Street farkasa"
+            ],
+            "correct_answer": "12 év rabszolgaság"
+        },
+        {
+            "question": "Melyik animációs film szereplője Bing Bong?",
+            "answers": [
+                "Agymanók",
+                "Gru",
+                "Toy Story"
+            ],
+            "correct_answer": "Agymanók"
+        },
+        {
+            "question": "Melyik filmben nem szerepelt Audrey Hepburn?",
+            "answers": [
+                "Casablanca",
+                "My Fair Lady",
+                "Római vakáció"
+            ],
+            "correct_answer": "Casablanca"
+        },
+        {
+            "question": "Mit jelent magyarul a \"Cirque du Solei\" ?",
+            "answers": [
+                "A Nap Cirkusza",
+                "A Föld Cirkusza",
+                "A Hold Cirkusza"
+            ],
+            "correct_answer": "A Nap Cirkusza"
+        },
+        {
+            "question": "Mi az óriáspanda neve a Kung Fu Panda c. animációs filmben?",
+            "answers": [
+                "Po",
+                "Go",
+                "Do"
+            ],
+            "correct_answer": "Po"
+        },
+        {
+            "question": "2018-ban mikor rendezik meg az Oscar-gálát?",
+            "answers": [
+                "március 4-én",
+                "február 22-én",
+                "március 15-én"
+            ],
+            "correct_answer": "március 4-én"
+        },
+        {
+            "question": "Melyik filmben nem játszott Jennifer Aniston?",
+            "answers": [
+                "Gravitáció",
+                "Családi üzelmek",
+                "Kellékfeleség"
+            ],
+            "correct_answer": "Gravitáció"
+        },
+        {
+            "question": "Kiről mintázta Koltai Róbert, Gyuszi bácsi szerepét a \"Sose halunk meg\" c. filmben?",
+            "answers": [
+                "nagybátyjáról",
+                "édesapjáról",
+                "nagyapjáról"
+            ],
+            "correct_answer": "nagybátyjáról"
+        },
+        {
+            "question": "Mi az orangután neve \"A dzsungel könyvében\" ?",
+            "answers": [
+                "Lajcsi király",
+                "Winifred",
+                "Akela"
+            ],
+            "correct_answer": "Lajcsi király"
+        },
+        {
+            "question": "Ki a főszereplője a Kontroll c. filmnek?",
+            "answers": [
+                "Csányi Sándor",
+                "Kamarás Iván",
+                "Nagy Ervin"
+            ],
+            "correct_answer": "Csányi Sándor"
+        },
+        {
+            "question": "Melyik filmben nem játszott Nagy Ervin?",
+            "answers": [
+                "Valami Amerika",
+                "Kincsem",
+                "Testről és lélekről"
+            ],
+            "correct_answer": "Valami Amerika"
+        },
+        {
+            "question": "Hány része van \"A Karib-tenger kalózai\" c. filmnek?",
+            "answers": [
+                "öt",
+                "három",
+                "hét"
+            ],
+            "correct_answer": "öt"
+        },
+        {
+            "question": "Melyik filmet nem Mel Gibson rendezte?",
+            "answers": [
+                "Világok harca",
+                "A rettenthetetlen",
+                "A fegyvertelen katona"
+            ],
+            "correct_answer": "Világok harca"
+        },
+        {
+            "question": "Mi Amerika Kapitány valódi neve?",
+            "answers": [
+                "Steve Rogers",
+                "Jack Kirby",
+                "Joe Simon"
+            ],
+            "correct_answer": "Steve Rogers"
+        },
+        {
+            "question": "Mikor készült a \"Valami Amerika 2.\" c. film?",
+            "answers": [
+                "2008-ban",
+                "2010-ben",
+                "2012-ben"
+            ],
+            "correct_answer": "2008-ban"
+        },
+        {
+            "question": "Milyen állat Diego, a \"Jégkorszak\" c. filmben?",
+            "answers": [
+                "kardfogú tigris",
+                "oposszum",
+                "lajhár"
+            ],
+            "correct_answer": "kardfogú tigris"
+        },
+        {
+            "question": "Hol kerül megrendezésre a 90. Oscar-gála?",
+            "answers": [
+                "Los Angelesben",
+                "New Yorkban",
+                "San Franciscoban"
+            ],
+            "correct_answer": "Los Angelesben"
+        }
+    ]
+}

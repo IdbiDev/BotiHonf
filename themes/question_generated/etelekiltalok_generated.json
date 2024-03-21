@@ -1,0 +1,743 @@
+{
+    "theme": "Ételek, italok",
+    "questions": [
+        {
+            "question": "Milyen alakú a farfalle tészta?",
+            "answers": [
+                "szarvacska",
+                "kagyló",
+                "masni"
+            ],
+            "correct_answer": "masni"
+        },
+        {
+            "question": "Milyen tésztából készül a lángos?",
+            "answers": [
+                "kelt",
+                "leveles",
+                "hajtogatott"
+            ],
+            "correct_answer": "kelt"
+        },
+        {
+            "question": "Milyen szeszes ital az abszint?",
+            "answers": [
+                "whisky",
+                "pálinka",
+                "likőr"
+            ],
+            "correct_answer": "pálinka"
+        },
+        {
+            "question": "Mi nem kell a madártej készítéséhez?",
+            "answers": [
+                "vaj",
+                "tojás",
+                "tej"
+            ],
+            "correct_answer": "vaj"
+        },
+        {
+            "question": "Milyen édesség a Pastiera?",
+            "answers": [
+                "töltött képviselőfánk",
+                "kávés habcsók",
+                "linzertorta"
+            ],
+            "correct_answer": "linzertorta"
+        },
+        {
+            "question": "Mi a tiramisu jelentése?",
+            "answers": [
+                "Pörgess fel!",
+                "Falj fel!",
+                "Egyél meg!"
+            ],
+            "correct_answer": "Pörgess fel!"
+        },
+        {
+            "question": "Hol látható a Kovács Margit múzeum?",
+            "answers": [
+                "Esztergomban",
+                "Visegrádon",
+                "Szentendrén"
+            ],
+            "correct_answer": "Szentendrén"
+        },
+        {
+            "question": "Mi a szekszárdi borvidék legismertebb borfajtája?",
+            "answers": [
+                "szekszárdi bikavér",
+                "kadarka",
+                "merlot"
+            ],
+            "correct_answer": "szekszárdi bikavér"
+        },
+        {
+            "question": "Mi Pennsylvania állam itala?",
+            "answers": [
+                "tej",
+                "bor",
+                "sör"
+            ],
+            "correct_answer": "tej"
+        },
+        {
+            "question": "Mi Csehország étele?",
+            "answers": [
+                "knédli",
+                "pilmenyi",
+                "pirog"
+            ],
+            "correct_answer": "knédli"
+        },
+        {
+            "question": "Milyen gyümölcsből készül a bor?",
+            "answers": [
+                "szőlőből",
+                "narancsból",
+                "banánból"
+            ],
+            "correct_answer": "szőlőből"
+        },
+        {
+            "question": "Mi az abszint?",
+            "answers": [
+                "égetett szesz",
+                "édesség",
+                "gyümölcsfajta"
+            ],
+            "correct_answer": "égetett szesz"
+        },
+        {
+            "question": "Melyik nem fehérborszőlő fajta?",
+            "answers": [
+                "zweigelt",
+                "cserszegi fűszeres",
+                "királyleányka"
+            ],
+            "correct_answer": "zweigelt"
+        },
+        {
+            "question": "Melyik anyag okozza a paprika csípősségét?",
+            "answers": [
+                "kapszaicin",
+                "kinin",
+                "kodein"
+            ],
+            "correct_answer": "kapszaicin"
+        },
+        {
+            "question": "Mi a Zala gyöngye szőlőfajta másik neve?",
+            "answers": [
+                "Egri csillagok 24.",
+                "Egri remete 25.",
+                "Egri szőlő 48."
+            ],
+            "correct_answer": "Egri csillagok 24."
+        },
+        {
+            "question": "Mi a Kövidinka?",
+            "answers": [
+                "fehérborszőlő fajta",
+                "madár fajta",
+                "gomba fajta"
+            ],
+            "correct_answer": "fehérborszőlő fajta"
+        },
+        {
+            "question": "Milyen lisztből készül a puliszka?",
+            "answers": [
+                "kukoricalisztből",
+                "rizslisztből",
+                "szójalisztből"
+            ],
+            "correct_answer": "kukoricalisztből"
+        },
+        {
+            "question": "Melyik kontinensen van Csád?",
+            "answers": [
+                "Afrika",
+                "Amerika",
+                "Ausztrália"
+            ],
+            "correct_answer": "Afrika"
+        },
+        {
+            "question": "Mi a kaviár?",
+            "answers": [
+                "halikra",
+                "haltej",
+                "kagyló"
+            ],
+            "correct_answer": "halikra"
+        },
+        {
+            "question": "Mi nem kell a habkarika elkészítéséhez?",
+            "answers": [
+                "liszt",
+                "tojás",
+                "cukor"
+            ],
+            "correct_answer": "liszt"
+        },
+        {
+            "question": "Mi kell a mákos guba elkészítéséhez a mákon kívűl?",
+            "answers": [
+                "tej",
+                "tejföl",
+                "alma"
+            ],
+            "correct_answer": "tej"
+        },
+        {
+            "question": "Milyen húsból készül a Cordon bleu?",
+            "answers": [
+                "borjú",
+                "sertés",
+                "csirke"
+            ],
+            "correct_answer": "borjú"
+        },
+        {
+            "question": "Milyen ételt nem lehet enni január 1-én?",
+            "answers": [
+                "baromfihúst",
+                "lencsét",
+                "paradicsomot"
+            ],
+            "correct_answer": "baromfihúst"
+        },
+        {
+            "question": "Mi az uborka népies neve?",
+            "answers": [
+                "ugorka",
+                "ugrika",
+                "ubroka"
+            ],
+            "correct_answer": "ugorka"
+        },
+        {
+            "question": "Kinek nincs Michelin csillaga?",
+            "answers": [
+                "Jamie Oliver",
+                "Gordon Ramsay",
+                "Alain Ducasse"
+            ],
+            "correct_answer": "Jamie Oliver"
+        },
+        {
+            "question": "Miből készül a Sacher-torta?",
+            "answers": [
+                "csokoládéból",
+                "dióból",
+                "gesztenyéből"
+            ],
+            "correct_answer": "csokoládéból"
+        },
+        {
+            "question": "Miből készül a szaké?",
+            "answers": [
+                "rizsből",
+                "búzából",
+                "arpából"
+            ],
+            "correct_answer": "rizsből"
+        },
+        {
+            "question": "Mi a krampampuli?",
+            "answers": [
+                "alkoholos ital",
+                "kutyafajta",
+                "gombafajta"
+            ],
+            "correct_answer": "alkoholos ital"
+        },
+        {
+            "question": "Mit főzött egy magyar férfi az Északi-sarkon, a világon elsőként?",
+            "answers": [
+                "paprikás csirkét",
+                "paprikás krumplit",
+                "lecsót"
+            ],
+            "correct_answer": "paprikás csirkét"
+        },
+        {
+            "question": "Milyen gyümölcsből készül a calvados?",
+            "answers": [
+                "almából",
+                "szilvából",
+                "szőlőből"
+            ],
+            "correct_answer": "almából"
+        },
+        {
+            "question": "Melyik ország desszertje a panna cotta?",
+            "answers": [
+                "Olaszország",
+                "Franciaország",
+                "Spanyolország"
+            ],
+            "correct_answer": "Olaszország"
+        },
+        {
+            "question": "Miből készül a csokoládé?",
+            "answers": [
+                "kakaóbabból",
+                "cukornádból",
+                "mézből"
+            ],
+            "correct_answer": "kakaóbabból"
+        },
+        {
+            "question": "Milyen ital az Amaretto?",
+            "answers": [
+                "olasz mandulalikőr",
+                "francia ánizslikőr",
+                "ír krémlikőr"
+            ],
+            "correct_answer": "olasz mandulalikőr"
+        },
+        {
+            "question": "Mi nem kell a palacsinta készítéséhez?",
+            "answers": [
+                "tejföl",
+                "liszt",
+                "tojás"
+            ],
+            "correct_answer": "tejföl"
+        },
+        {
+            "question": "Kiről kapta a nevét a Rákóczi túrós nevű sütemény?",
+            "answers": [
+                "Rákóczi János(cukrász)",
+                "II. Rákóczi Ferenc",
+                "Rákóczi Zsigmond"
+            ],
+            "correct_answer": "Rákóczi János(cukrász)"
+        },
+        {
+            "question": "Honnan származik a zakuszka nevű étel?",
+            "answers": [
+                "Örményországból",
+                "Csehországból",
+                "Oroszországból"
+            ],
+            "correct_answer": "Örményországból"
+        },
+        {
+            "question": "Milyen ital a Becherovka?",
+            "answers": [
+                "cseh keserűlikör",
+                "dán köménylikőr",
+                "olasz vermut"
+            ],
+            "correct_answer": "cseh keserűlikör"
+        },
+        {
+            "question": "Miből készül a tofu?",
+            "answers": [
+                "szójatejből",
+                "rizstejből",
+                "mandulatejből"
+            ],
+            "correct_answer": "szójatejből"
+        },
+        {
+            "question": "Hány Michelin-csillag tulajdonosa Gordon Ramsay?",
+            "answers": [
+                "16",
+                "8",
+                "11"
+            ],
+            "correct_answer": "16"
+        },
+        {
+            "question": "Miből készül a guacamole nevű étel?",
+            "answers": [
+                "avokádóból",
+                "padlizsánból",
+                "kelbimbóból"
+            ],
+            "correct_answer": "avokádóból"
+        },
+        {
+            "question": "Miből készül a rum?",
+            "answers": [
+                "cukornádból",
+                "árpamalátából",
+                "szőlőből"
+            ],
+            "correct_answer": "cukornádból"
+        },
+        {
+            "question": "Miről kapta a nevét a somlói galuska?",
+            "answers": [
+                "egy dombról",
+                "egy folyóról",
+                "egy faluról"
+            ],
+            "correct_answer": "egy dombról"
+        },
+        {
+            "question": "Ki volt Rigó János, akiről elnevezték a Rigó Jancsi nevű süteményt?",
+            "answers": [
+                "prímás",
+                "cukrász",
+                "étteremtulajdonos"
+            ],
+            "correct_answer": "prímás"
+        },
+        {
+            "question": "Kiknek a szent fája a mangófa?",
+            "answers": [
+                "indiaiak",
+                "mexikóiak",
+                "argentínek"
+            ],
+            "correct_answer": "indiaiak"
+        },
+        {
+            "question": "Milyen zöldség kell a Dubbary szelet elkészítéséhez?",
+            "answers": [
+                "karfiol",
+                "karalábé",
+                "padlizsán"
+            ],
+            "correct_answer": "karfiol"
+        },
+        {
+            "question": "Miből készül a mazsola?",
+            "answers": [
+                "szőlőből",
+                "almából",
+                "szilvából"
+            ],
+            "correct_answer": "szőlőből"
+        },
+        {
+            "question": "Mi nem kell a flódni elkészítéséhez?",
+            "answers": [
+                "túró",
+                "alma",
+                "mák"
+            ],
+            "correct_answer": "túró"
+        },
+        {
+            "question": "Miből készül a kumisz?",
+            "answers": [
+                "kancatejből",
+                "kecsketejből",
+                "juhtejből"
+            ],
+            "correct_answer": "kancatejből"
+        },
+        {
+            "question": "Melyik olasz város a pizza őshazája?",
+            "answers": [
+                "Nápoly",
+                "Milánó",
+                "Verona"
+            ],
+            "correct_answer": "Nápoly"
+        },
+        {
+            "question": "Minek a népies neve a zabszilva?",
+            "answers": [
+                "kökény",
+                "galagonya",
+                "berkenye"
+            ],
+            "correct_answer": "kökény"
+        },
+        {
+            "question": "Milyen étel a gumbo?",
+            "answers": [
+                "amerikai egytálétel",
+                "olasz tésztaféle",
+                "kínai leves"
+            ],
+            "correct_answer": "amerikai egytálétel"
+        },
+        {
+            "question": "Mi a neve a japánok italának?",
+            "answers": [
+                "szaké",
+                "zsoké",
+                "szaki"
+            ],
+            "correct_answer": "szaké"
+        },
+        {
+            "question": "Miknek a keveréke a fröccs?",
+            "answers": [
+                "bor és szódavíz",
+                "sör és bor",
+                "pálinka és szódavíz"
+            ],
+            "correct_answer": "bor és szódavíz"
+        },
+        {
+            "question": "Hány dl bor kell a nagyföccshöz?",
+            "answers": [
+                "2",
+                "1",
+                "5"
+            ],
+            "correct_answer": "2"
+        },
+        {
+            "question": "Milyen édességet eszünk a Majálisban?",
+            "answers": [
+                "vattacukrot",
+                "somlói galuskát",
+                "muffint"
+            ],
+            "correct_answer": "vattacukrot"
+        },
+        {
+            "question": "Mibe mártjuk az Orly módra készült ételt?",
+            "answers": [
+                "sörtésztába",
+                "csokikrémbe",
+                "sajtszószba"
+            ],
+            "correct_answer": "sörtésztába"
+        },
+        {
+            "question": "Milyen édességet lehet féláron enni május 8-án?",
+            "answers": [
+                "fagyit",
+                "rétest",
+                "kürtöskalácsot"
+            ],
+            "correct_answer": "fagyit"
+        },
+        {
+            "question": "Melyik kontinensen őshonos a bab?",
+            "answers": [
+                "Amerikában",
+                "Ázsiában",
+                "Afrikában"
+            ],
+            "correct_answer": "Amerikában"
+        },
+        {
+            "question": "Milyen torta a Sacher-torta?",
+            "answers": [
+                "csokoládé",
+                "dió",
+                "gesztenye"
+            ],
+            "correct_answer": "csokoládé"
+        },
+        {
+            "question": "Miből készül a szaké?",
+            "answers": [
+                "rizsből",
+                "búzából",
+                "árpából"
+            ],
+            "correct_answer": "rizsből"
+        },
+        {
+            "question": "Milyen ital az Amaretto?",
+            "answers": [
+                "olasz mandulalikőr",
+                "francia ánizslikőr",
+                "ír krémlikőr"
+            ],
+            "correct_answer": "olasz mandulalikőr"
+        },
+        {
+            "question": "Mit főzött egy magyar férfi az Északi-sarkon, a világon elsőként?",
+            "answers": [
+                "paprikás csirkét",
+                "paprikás krumplit",
+                "lecsót"
+            ],
+            "correct_answer": "paprikás csirkét"
+        },
+        {
+            "question": "Mi a slambuc?",
+            "answers": [
+                "krumplis tészta",
+                "mákos tészta",
+                "sajtos tészta"
+            ],
+            "correct_answer": "krumplis tészta"
+        },
+        {
+            "question": "Melyik nem egy hagymaféle?",
+            "answers": [
+                "krokodilhagyma",
+                "medvehagyma",
+                "kígyóhagyma"
+            ],
+            "correct_answer": "krokodilhagyma"
+        },
+        {
+            "question": "Mi nem kell a macaron elkészítéséhez?",
+            "answers": [
+                "tejföl",
+                "tojásfehérje",
+                "porcukor"
+            ],
+            "correct_answer": "tejföl"
+        },
+        {
+            "question": "Melyik egy almafajta?",
+            "answers": [
+                "rubinola",
+                "stanley",
+                "president"
+            ],
+            "correct_answer": "rubinola"
+        },
+        {
+            "question": "Mi a tortilla?",
+            "answers": [
+                "étel",
+                "tánc",
+                "ruhadarab"
+            ],
+            "correct_answer": "étel"
+        },
+        {
+            "question": "Milyen étel a macskanadrág?",
+            "answers": [
+                "rántott tejbegríz",
+                "kelt tésztás sütemény",
+                "tojásos lecsó"
+            ],
+            "correct_answer": "rántott tejbegríz"
+        },
+        {
+            "question": "Mi a guacamole?",
+            "answers": [
+                "mexikói étel",
+                "argentin tánc",
+                "perui ital"
+            ],
+            "correct_answer": "mexikói étel"
+        },
+        {
+            "question": "Melyik gyümölcs másik elnevezése a szamóca?",
+            "answers": [
+                "eper",
+                "málna",
+                "mangó"
+            ],
+            "correct_answer": "eper"
+        },
+        {
+            "question": "Milyen étel a brownie?",
+            "answers": [
+                "édes sütemény",
+                "leves",
+                "húsétel"
+            ],
+            "correct_answer": "édes sütemény"
+        },
+        {
+            "question": "Mi nem kell a paprikáskrumpli elkészítéséhez?",
+            "answers": [
+                "zöldborsó",
+                "fűszerpaprika",
+                "vöröshagyma"
+            ],
+            "correct_answer": "zöldborsó"
+        },
+        {
+            "question": "Milyen eredetű étel a sztrapacska?",
+            "answers": [
+                "szlovák",
+                "szerb",
+                "orosz"
+            ],
+            "correct_answer": "szlovák"
+        },
+        {
+            "question": "Mennyi bor van a sport fröccsben?",
+            "answers": [
+                "1 dl",
+                "2 dl",
+                "3 dl"
+            ],
+            "correct_answer": "1 dl"
+        },
+        {
+            "question": "Miből készül a puliszka?",
+            "answers": [
+                "kukoricadarából",
+                "krumpliból",
+                "rizsből"
+            ],
+            "correct_answer": "kukoricadarából"
+        },
+        {
+            "question": "Mi szeretett volna lenni Delhusa Gjon?",
+            "answers": [
+                "autófényező",
+                "asztalos",
+                "ács"
+            ],
+            "correct_answer": "autófényező"
+        },
+        {
+            "question": "Mi kell rántás készítéséhez?",
+            "answers": [
+                "olaj és liszt",
+                "tej és liszt",
+                "tojás és tej"
+            ],
+            "correct_answer": "olaj és liszt"
+        },
+        {
+            "question": "Mi nem kell a kókuszgolyó készítéséhez?",
+            "answers": [
+                "oregánó",
+                "keksz",
+                "kakaópor"
+            ],
+            "correct_answer": "oregánó"
+        },
+        {
+            "question": "Mibe mártjuk az Orly módra készült ételt?",
+            "answers": [
+                "sörtésztába",
+                "csokikrémbe",
+                "sajtszószba"
+            ],
+            "correct_answer": "sörtésztába"
+        },
+        {
+            "question": "Miből készült a hecsedli lekvár?",
+            "answers": [
+                "csipkebogyóból",
+                "szilvából",
+                "sárgabarackból"
+            ],
+            "correct_answer": "csipkebogyóból"
+        },
+        {
+            "question": "Miből készül a sajt?",
+            "answers": [
+                "tejből",
+                "tojásból",
+                "rumból"
+            ],
+            "correct_answer": "tejből"
+        },
+        {
+            "question": "Mi kell a frittata elkészítéséhez?",
+            "answers": [
+                "tojás",
+                "kakaópor",
+                "fahéj"
+            ],
+            "correct_answer": "tojás"
+        }
+    ]
+}
